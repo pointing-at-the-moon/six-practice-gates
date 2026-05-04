@@ -1,5 +1,5 @@
 ---
-title: NIAN Canonical Format · v1.0
+title: NIAN Canonical Format · v1.1
 author: 釋慧鏡 (Shi Huijing) · drafted with Chat Opus
 date: 2026-05-04
 type: canonical_format_specification
@@ -9,7 +9,7 @@ supersedes_drift: NIAN_FORMAT_AUDIT_2026Q2 (2026-05-04, Code Sonnet 4.6)
 parser_contract: aligns with waken/lib/papers.ts header expectations (see §5)
 ---
 
-# NIAN Canonical Format · v1.0
+# NIAN Canonical Format · v1.1
 
 **Purpose**: Single normative specification for the format of NIAN papers (`Mindful of the Buddha`, Volume 1 of *The Four Practice Gates*). This document locks the conventions revealed by the 2026-05-04 audit and provides the contract for: (a) the upcoming format-remediation pass against all 62 files, (b) the SĪLA / DĀNA / DHYĀNA volumes' format from first paper, (c) the future Waken site parser's ingestion of these files, (d) `PAPER_STYLE.md v2.2` of the four-practice-gates repo (which inherits from this).
 
@@ -111,6 +111,20 @@ Single canonical value per language. The audit found 11+ ZH variants and 5+ EN v
 This is the canonical book title (per `FOUR_GATES_MASTER_PLAN.md` §1.1 EN/ZH naming + §2.1 卷一 ZH naming). Both must be quoted to handle the colon + em-dashes safely.
 
 For SĪLA / DĀNA / DHYĀNA, the `series:` value increments by volume number and replaces the colon-after-dash subtitle clause with that volume's settled subtitle.
+
+### 1.7 ZH-only optional YAML fields
+
+ZH files may include the following optional YAML fields (recognized as legitimate metadata, not drift):
+
+```yaml
+part: 7              # 1–8, matches the volume part number
+sequence: 28         # 1–31, matches paper number within volume (== paper_id minus prefix)
+language: zh-Hant    # ISO 639-1 + ISO 15924 subtag for Traditional Chinese
+```
+
+These fields are present in some ZH files (P27, P28, P29, P31 ZH per the 2026-05-04 audit) and absent in others. Both states are canonical. The Waken parser ignores unknown YAML fields gracefully, so these fields do not affect parsing. Phase C remediation must preserve these fields where they exist; do not add them where they don't.
+
+EN files do not carry these fields; the volume-and-sequence relationship for EN files is derived from `paper_id` directly.
 
 ---
 
@@ -351,6 +365,26 @@ The audit found 6+ name variants for the same concept. Lock to the listed names.
 
 Lives **inside** the References section as a sub-heading (per 5-part layout), **not** as a separate top-level `## Cross-Reference Index` section. P08 EN's separate-section pattern is the outlier; collapse into the References block.
 
+#### 2.5.5 ZH structure mirrors EN structure (sub-section count rule)
+
+The ZH `## 參考文獻` sub-section count and labeling MUST mirror the EN `## References` sub-section count and labeling exactly. **Do not add or remove sub-sections during format remediation**, even if the EN counterpart is currently below the canonical 3-part default.
+
+Rationale: where an EN paper's References section has fewer sub-sections than the canonical default (e.g., P28 EN has only `### I` and `### II`, missing the default `### III. Sūtra & Śāstra Index`), this is a **content-coverage gap, not a format drift**. Format remediation does not author missing index tables or reorganize sub-sections; that is content work, registered separately as audit-known-gap and scheduled for a content-authoring session post-remediation.
+
+**Restoration protocol for missing ZH `## 參考文獻`** (the P24–P28 ZH cohort identified by the 2026-05-04 audit):
+
+Where a ZH file is missing `## 參考文獻` entirely, Phase C imports the EN counterpart's References content verbatim — same sub-section count, same heading structure, same entries. EN-language scholarship entries remain in EN (canonical ZH academic practice); T-numbers + Pinyin + 漢譯經名 are language-neutral; full ZH-form rewrite (per the P15 ZH model — full CJK sūtra titles, ZH translator labels, ZH dating) is content work and out of Phase C's format-only scope.
+
+The first line inside the restored `## 參考文獻` section MUST carry the canonical HTML comment marker:
+
+```html
+<!-- CONTENT-PASS REQUIRED: EN-format entries imported from EN counterpart on YYYY-MM-DD; ZH-form rewrite (per P15 ZH model) scheduled as audit-known-gap. -->
+```
+
+The marker is visible-in-source, invisible-in-render — it survives file moves and external mirroring (e.g., when papers propagate to the Waken site, where `tasks/NIAN_NEXT.md` does not follow). Register the gap in `tasks/NIAN_NEXT.md` for the separate content-authoring session.
+
+This rule supersedes any ambiguity in §2.5.1's "default" 3-part layout for papers legitimately at 2 sub-sections.
+
 ### 2.6 Footer block (Decision #9)
 
 The canonical footer block sits at the very end of the file, separated from body content by a final `---`:
@@ -430,6 +464,15 @@ When a parenthetical is a **pure-CJK insertion as a CJK insertion** (rare in EN 
 But:
 ✗ `（公元 67 年）` embedded in EN prose — convert to `(67 CE)` or `(year 67)` per English convention
 ✗ `（迦葉摩騰）` parenthetical name — convert to `(Kāśyapa Mātaṅga)` or romanize-and-half-width
+
+**Inner-content normalization applies regardless of paren state.** If parens have already been half-width-converted (e.g., `(公元 67 年)` rather than `（公元 67 年）`), the inner-content normalization rule still applies. Sonnet's Phase B dry-run heuristic ran paren-conversion first and missed the post-conversion form; remediation must apply Chinese-era date stamps and proper-name romanization on a second pass after paren conversion. Specifically:
+
+- `(公元 N 年)` and `（公元 N 年）` → `(N CE)` (e.g., `(公元 67 年)` → `(67 CE)`)
+- `(公元 N–N 年)` and `（公元 N–N 年）` → `(N–N CE)` (e.g., `(公元 148–170 年)` → `(148–170 CE)`)
+- `(西元 N 年)` and `（西元 N 年）` → `(N CE)`
+- `(迦葉摩騰)` and `（迦葉摩騰）` → `(Kāśyapa Mātaṅga)` (Pinyin + IAST per established transliteration in body text)
+
+ZH papers retain `公元 N 年` as the natural ZH form; this rule applies only to EN papers.
 
 The audit found ~640 raw FW-punct hits across 28 EN files; the majority are Type A and resolve to half-width.
 
@@ -579,6 +622,7 @@ Every paper edited under remediation (or written de novo for SĪLA / DĀNA / DHY
 - [ ] Footer block has 3 italic paragraphs in the order: CBETA (optional) → repo line → attribution
 - [ ] Attribution line matches Form B exactly
 - [ ] No orphan tokens after the footer
+- [ ] If `## 參考文獻` was restored from EN counterpart in this remediation pass, the first line inside the section is the canonical HTML comment marker (per §2.5.5)
 
 For Coda papers (P30, P31): additionally verify the `§ 8.X` marker block is present and properly delimited by `---` rules, and the orphan `8.1` token at end of P30 EN and P30 ZH is removed from both.
 
@@ -602,10 +646,19 @@ These conventions live in `PAPER_STYLE.md` (the four-practice-gates project's st
 
 ## 7. Authority and supersession
 
-This canonical is **v1.0**, dated 2026-05-04. It locks the 10 decisions plus their derived rules.
+This canonical is **v1.1**, dated 2026-05-04. v1.0 was published earlier the same day at commit `0755953`; v1.1 followed Phase B dry-run review which surfaced four clarification items requiring canonical patching before Phase C dispatch.
+
+**Revision history**
+
+- **v1.0** (2026-05-04, commit `0755953`): initial release; 10 decisions locked.
+- **v1.1** (2026-05-04): clarifications surfaced by Phase B dry-run review of P05 EN, P15 EN/ZH, P28 EN/ZH:
+  - §1.7 (new): ZH-only optional YAML fields (`part`, `sequence`, `language: zh-Hant`) recognized as legitimate optional metadata
+  - §2.5.5 (new): ZH `## 參考文獻` sub-section count and structure mirrors EN `## References` exactly; do not add sub-sections during format remediation, even if EN is below the canonical 3-part default. Restoration protocol with HTML comment marker.
+  - §3.1 (clarified): Chinese-era date stamps (`公元 N 年`, `公元 N–N 年`, `西元 N 年`) normalize to `(N CE)` regardless of paren state — applies to post-paren-conversion form as well
+  - §5 (added): HTML comment marker required when ZH `## 參考文獻` is restored from EN counterpart
 
 Future revisions:
-- `v1.1`: clarifications, typo fixes, additional examples — same conventions
+- `v1.x`: clarifications, typo fixes, additional examples — same conventions
 - `v2.0`: substantive convention change (e.g., switching from Roman to Arabic top-level, or restructuring References into 4-part) — requires explicit author approval and produces a remediation pass for all volumes already shipped
 
 The remediation pass dispatched against this v1.0 spec produces the **NIAN format-stable corpus** that propagates to:
@@ -615,4 +668,4 @@ The remediation pass dispatched against this v1.0 spec produces the **NIAN forma
 
 ---
 
-*釋慧鏡 · 指月 · 四行門 · NIAN canonical format · v1.0 · 2026-05-04*
+*釋慧鏡 · 指月 · 四行門 · NIAN canonical format · v1.1 · 2026-05-04*
