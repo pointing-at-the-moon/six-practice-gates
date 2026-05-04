@@ -9,7 +9,7 @@ A 31-paper volume tracing Buddhānussati from its Pāli origins through Chinese 
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: Paper phase — 25/31 published (Parts I–VI complete, Part VII opened)
+- **Status**: ✅ **Paper phase complete — 31/31 published (all 8 Parts sealed 2026-05-03)**
 - **Primary audience**: English-language Buddhist readers
 
 ### Structure
@@ -72,8 +72,13 @@ See [`NIAN_PLAN.md`](./NIAN_PLAN.md) for full skeleton and methodology.
 - **P28** [請轉法輪・請佛住世](./papers/part7_flower_ornament/P28_請轉法輪請佛住世.md) / [Requesting the Turning of the Dharma-Wheel, Requesting the Buddhas to Abide](./papers/part7_flower_ornament/P28_requesting-the-turning-of-the-dharma-wheel-requesting-the-buddhas-to-abide.md)
 - **P29** [常隨佛學・恆順眾生・普皆迴向](./papers/part7_flower_ornament/P29_常隨佛學恆順眾生普皆迴向.md) / [Constantly Following the Buddha, Accommodating Sentient Beings, Universal Dedication](./papers/part7_flower_ornament/P29_constantly-following-the-buddha-accommodating-sentient-beings-universal-dedication.md)
 
-**Part VIII — Coda** · 1/2
+**Part VIII — Coda** · 2/2 ✅
 - **P30** [AI 時代之念佛](./papers/part8_coda/P30_AI時代之念佛.md) / [Recollection in the Age of AI](./papers/part8_coda/P30_recollection-in-the-age-of-ai.md)
+- **P31** [你剛走過了什麼](./papers/part8_coda/P31_你剛走過了什麼.md) / [What You Just Walked Through](./papers/part8_coda/P31_what-you-just-walked-through.md)
+
+### 🎉 NIAN 全卷封筆 — 31/31 ✅ COMPLETE (2026-05-03)
+
+Volume One of *The Four Practice Gates* — the gate of continuous awareness — is now sealed at the paper level. The book-conversion phase (downgrade to chapter form) follows in due course, alongside the opening of Volumes Two (*Dāna*), Three (*Śīla*), and Four (*Dhyāna*).
 
 ### Citation
 
