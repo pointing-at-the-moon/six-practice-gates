@@ -2,10 +2,10 @@
 title: "Seeing the Sign, Obtaining the Precept: The *Brahma Net* Bodhisattva Precepts and the Precept-Dependent Verbal Grammar of Sustained Buddha-Recollection — From the Five-Layer Structure of the Ten Major and Forty-Eight Minor Precepts to Fazang's Ontology of the Precept-Body"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
-paper_id: NIAN-P15
-date: 2026-04-19
+paper_id: "NIAN-P15"
+date: "2026-04-19"
 version: "1.0"
-license: CC BY-NC-SA 4.0
+license: "CC BY-NC-SA 4.0"
 ---
 
 # Seeing the Sign, Obtaining the Precept
@@ -20,6 +20,7 @@ license: CC BY-NC-SA 4.0
 **Date:** April 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** NIAN — Mindful of the Buddha
 
 ---
 
@@ -422,9 +423,9 @@ P15's argument here concludes. The sixth layer, grounding-in-precepts, has estab
 
 ---
 
-## Bibliography
+## References
 
-### I. Buddhist Canonical Sources
+### I. Primary Buddhist Sources
 
 - *Fànwǎng jīng* 梵網經 (*Brahma Net Sūtra*), Kumārajīva (attributed), Later Qin (now broadly regarded as a mid-fifth-century Chinese composition, ca. 431–481 CE); Taishō Volume 24, No. T1484, 2 fascicles.
 - *Púsà jièběn* 菩薩戒本 (*Bodhisattva-prātimokṣa*), Maitreya (attributed), Xuanzang trans., Tang Zhenguan 23 (649 CE); Taishō Volume 24, No. T1501, 1 fascicle. Extracted from the *Bodhisattva-bhūmi Śīla-paṭala* of the *Yogācārabhūmi*.
@@ -456,7 +457,7 @@ P15's argument here concludes. The sixth layer, grounding-in-precepts, has estab
 - Williams, Paul. *Mahāyāna Buddhism: The Doctrinal Foundations*. 2nd ed. London: Routledge, 2009.
 - Gethin, Rupert. *The Foundations of Buddhism*. Oxford: Oxford University Press, 1998. (On the canonical status of the Pāli three-recollections and *saddhānussati*.)
 
-### IV. Cross-References Within the Series
+### IV. Cross-Reference to Series Papers
 
 - **P08** *From Recollection to Name-Invocation*: the *niàn-chēng* four-step coupling — the verbal-ontology starting point of recollection / invocation / remembrance / holding. P15's grounding-in-precepts layer assumes that four-step coupling has been established and unfolds the sixth dimension on the precept-architecture.
 - **P11** *Holding the Name*: severing and preserving as the parallel name-act — the intra-seated internal structure of holding. P15 §V discusses how holding is temporalized through grounding-in-precepts, extending from the seated block to the whole life-span.
@@ -465,7 +466,7 @@ P15's argument here concludes. The sixth layer, grounding-in-precepts, has estab
 - **P14** *Binding the Three Periods*: time-dependent verbal grammar of final-age recollection — time-rhythm (the morning-midday-evening tri-temporal structure); Zongmi's dual-layer recollection (phenomenal/noumenal) and the four-disease metronome; the Zongmi-versus-Fazang pairing as the first counterpoint of the Huayan commentarial mind-dialectical / ontological-structural dual lineage. P15 §IV directly answers P14; §V discusses how the two papers together compose the time-and-space twin axes of final-age practice.
 - **P16** *Golden Light Sūtra* (forthcoming): repentance-based recollection — the four structures of the dream-golden-drum, Ruciraketu's dream-manifestation, Jalavāhana's son rescuing the fish, and giving one's body to the starving tigress; with P15 composing Part V's middle-run precept-and-repentance twin axis.
 
-### V. Canonical Index
+### V. Sūtra & Śāstra Index
 
 | T# / X# | Title | Translator / Author | Date |
 |---------|-------|---------------------|------|
@@ -492,10 +493,8 @@ P15's argument here concludes. The sixth layer, grounding-in-precepts, has estab
 
 ---
 
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-**Repo:** github.com/pointing-at-the-moon/four-practice-gates
-
 *CBETA verification: all T-number and X-number citations are entity-verified against the CBETA Electronic Tripiṭaka Collection, 2024 edition. T1484 citations follow the original text of fascicle two; T1501 citations follow Xuanzang's translated *Bodhisattva-prātimokṣa*; T1813 citations follow Fazang's six-fascicle commentary.*
+
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+
+*NIAN-P15 · 釋慧鏡 (Shi Huijing) · 2026-04-19*
