@@ -2,17 +2,17 @@
 title: "The Synthesis: From Yongming through Yunqi to Ouyi"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
-paper_id: NIAN-P24
-date: "2026-05"
+paper_id: "NIAN-P24"
+date: "2026-05-04"
 version: "1.0"
-license: CC BY-NC-SA 4.0
+license: "CC BY-NC-SA 4.0"
 ---
 
 # The Synthesis: From Yongming through Yunqi to Ouyi
 
 **Six Hundred Years of Chan-Pure-Land Integration in Vocabulary, Doctrine, and Liturgy — Part VI's Fifth Paper on the Two Streams**
 
-*中文主題:永明—雲棲—蕅益之合流*
+*中文主題：永明—雲棲—蕅益之合流*
 
 ---
 
@@ -27,7 +27,6 @@ license: CC BY-NC-SA 4.0
 > — Yǒngmíng Yánshòu (永明延壽, 904–975), *Wànshàn tóngguī jí* (萬善同歸集), fascicle 1 (T48.0958a26–28)
 
 ## Abstract
-
 For the Anglophone reader of Pure Land introductions, *Chan-Pure Land dual cultivation* (*chán-jìng shuāng-xiū* 禪淨雙修) names what looks like a settled, unified school stretching back through the late Ming. This paper argues that the formula is, on close reading, neither sudden in arrival nor settled in content. The synthesis (*héliú* 合流) of Chan and Pure Land is a six-hundred-year doctrinal-lexical-liturgical genealogy: anchored in Yǒngmíng Yánshòu's (永明延壽, 904–975) tenth-century axiom that *the myriad practices arise together where principle and phenomena are unobstructed*; mediated by the Yuan-dynasty *Sānshí xìniàn fóshì* (三時繫念佛事, X74n1464) of Zhōngfēng Míngběn (中峰明本, 1263–1323) as a Chan-hall daily liturgy; codified in Yúnqī Zhūhóng's (雲棲祩宏, 1535–1615) *Āmítuó-jīng shūchāo* (阿彌陀經疏鈔, X22n0424) into the architecture of *shì-chí / lǐ-chí* (事持／理持, phenomenal name-holding and principle name-holding) and *shì yī-xīn / lǐ yī-xīn* (事一心／理一心); ratified from inside Chan by Hānshān Déqīng (憨山德清, 1546–1623); and closed by Ǒuyì Zhìxù (蕅益智旭, 1599–1655) into the threefold resource *xìn / yuàn / xíng* (信願行, faith, vow, practice) and the *perfectly-subsume-and-perfectly-transcend* (*yuán-shōu yuán-chāo* 圓收圓超) capstone of Qing-dynasty Pure Land canon. The paper engages Yü Chün-fang (1981), Jennifer Eichman (2016), and Albert Welter (2011) in a mixed mode — two *concede-and-push-back*, one *concede-and-extend* — and corrects three philological errors: the *four pithy categories quatrain* (*chán-jìng sì-liào-jiǎn* 禪淨四料簡) attributed to Yongming is textually absent from his own works; the *Sānshí xìniàn* is Yuan-dynasty Zhongfeng's, not Song-dynasty Yongming's; and the Pure Land patriarchate is, in part, a Song-Tiantai retrospective construction. The synthesis is a practice of holding tension, not its resolution.
 
 **Keywords:** synthesis (*héliú* 合流); *lǐ-shì wú-ài* (理事無閡, principle-phenomena unobstructed); *shì-chí / lǐ-chí* (事持／理持); *shì yī-xīn / lǐ yī-xīn* (事一心／理一心); *yī-xīn bù-luàn* (一心不亂, single-minded undividedness); *xìn-yuàn-xíng* (信願行); *yuán-shōu yuán-chāo* (圓收圓超); *jí shì-chí dá lǐ-chí* (即事持達理持); *niànfó shěn-shí gōng'àn* (念佛審實公案, buddha-recollection inquiry-into-truth case); *niànfó jíshì cān-chán* (念佛即是參禪); *jìng-tǔ zhī chán / chán zhī jìng-tǔ* (淨土之禪／禪之淨土); *jìng zhōng zhī jìng* (徑中之徑, shortcut within the shortcut); bidirectionality (*hù-nì dú* 互逆讀); subsumption (*shōushè* 收攝); subordination (*lìshǔhuà* 隸屬化); patriarchate construction (*zǔtǒng jiàngòu* 祖統建構); *Wànshàn tóngguī jí* (萬善同歸集, T2017); *Zōngjìng lù* (宗鏡錄, T2016); *Āmítuó-jīng shūchāo* (阿彌陀經疏鈔, X22n0424); *Āmítuó-jīng yàojiě* (阿彌陀經要解, X22n0430); *Sānshí xìniàn fóshì* (三時繫念佛事, X74n1464); *Hānshān lǎorén mèng yóu jí* (憨山老人夢遊集, X73n1456); Yǒngmíng Yánshòu (永明延壽, 904–975); Yúnqī Zhūhóng (雲棲祩宏, 1535–1615); Zhōngfēng Míngběn (中峰明本, 1263–1323); Hānshān Déqīng (憨山德清, 1546–1623); Ǒuyì Zhìxù (蕅益智旭, 1599–1655); six-hundred-year synthesis line; holding-pattern (synthesis as practice of holding tension); *chán-jìng sì-liào-jiǎn* (禪淨四料簡, attributed to Yongming, textually absent); reception-history correction; mixed-mode interlocution (concede-and-push-back + concede-and-extend).
@@ -242,7 +241,7 @@ The open question of the present paper, in single-line form: *Yongming gave the 
 
 ## References
 
-### Primary Sources (CBETA Taishō and *Wàn xùzàng*)
+### I. Primary Buddhist Sources
 
 - T2017 *Wànshàn tóngguī jí* (萬善同歸集). Yongming Yanshou (永明延壽, 904–975). 3 fascicles. CBETA Taishō vol. 48, no. 2017.
 - T2016 *Zōngjìng lù* (宗鏡錄). Yongming Yanshou. 100 fascicles. CBETA Taishō vol. 48, no. 2016.
@@ -254,7 +253,7 @@ The open question of the present paper, in single-line form: *Yongming gave the 
 - T1911 *Móhē zhǐguān* (摩訶止觀). Zhiyi (智顗, 538–597), recorded by Guanding (灌頂, 561–632). Cross-reference to P23.
 - T1962 *Wǔ-fāngbiàn niànfó-mén* (五方便念佛門). Attributed Zhiyi. Cross-reference to P23.
 
-### Secondary Scholarship
+### II. Modern Scholarship
 
 - Eichman, Jennifer. 2016. *A Late Sixteenth-Century Chinese Buddhist Fellowship: Spiritual Ambitions, Intellectual Debates, and Epistolary Connections*. Leiden: Brill.
 - Getz, Daniel A. 1999. "T'ien-t'ai Pure Land Societies and the Creation of the Pure Land Patriarchate." In *Buddhism in the Sung*, edited by Peter N. Gregory and Daniel A. Getz, 477–523. Honolulu: University of Hawai'i Press.
@@ -290,3 +289,9 @@ The open question of the present paper, in single-line form: *Yongming gave the 
 © 2026 釋慧鏡 (Shi Huijing). Licensed under CC BY-NC-SA 4.0.
 Primary source citations verified against CBETA Taishō (T) and *Wàn xùzàng* (X).
 Series GitHub repository: https://github.com/pointing-at-the-moon/four-practice-gates
+
+---
+
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+
+*NIAN-P24 · 釋慧鏡 (Shi Huijing) · 2026-05-04*

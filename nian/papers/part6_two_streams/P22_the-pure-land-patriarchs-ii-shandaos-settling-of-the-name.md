@@ -2,17 +2,17 @@
 title: "The Pure Land Patriarchs II: Shandao's Settling of the Name — From the Doctrinal Anchor of *Fánfū rù bàotǔ* to the Institutionalization of *Yīxiàng zhuānchēng* in the *Guānjīng Sìtiē Shū*"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
-paper_id: NIAN-P22
-date: 2026-04-29
+paper_id: "NIAN-P22"
+date: "2026-04-29"
 version: "1.0"
-license: CC BY-NC-SA 4.0
+license: "CC BY-NC-SA 4.0"
 ---
 
 # The Pure Land Patriarchs II: Shandao's Settling of the Name
 
 **From the Doctrinal Anchor of "Ordinary Beings Entering the Recompense Land" to the Institutionalization of "Single-Hearted Recitation" in the *Guanjing Sitie Shu* — Part VI's Third Paper on the Two Streams**
 
-*中文主題:淨土祖師之二:善導對名號的安立*
+*中文主題：淨土祖師之二:善導對名號的安立*
 
 ---
 
@@ -24,7 +24,6 @@ license: CC BY-NC-SA 4.0
 ---
 
 ## Abstract
-
 Anglophone introductions to Pure Land Buddhism routinely attribute the doctrinal proposition that *ordinary unliberated beings enter the recompense land* (*fánfū rù bàotǔ* 凡夫入報土) to the Japanese Kamakura tradition — above all to Hōnen's (法然, 1133–1212) *Senchakushū* (1198) and Shinran's (親鸞, 1173–1263) absolute-other-power philosophy in the *Kyōgyōshinshō*. This reception-history retrojection has, for over a century of Anglophone scholarship, displaced the seventh-century Tang anchoring at its scriptural source. The present paper takes Shandao's (善導, 613–681) *Guanjing Sitie Shu* (觀無量壽佛經疏, T1753) — specifically its first-fascicle *Xuányì fēn* (玄義分, profound-meaning section) — as the documentary skeleton for arguing that Shandao's doctrinal moves on *fánfū rù bàotǔ* and *yīxiàng zhuānchēng* (一向專稱, single-hearted recitation) rest upon the *doctrinal warrant* established by Tanluan (曇鸞, 476–542) and Daochuo (562–645), but complete a *discontinuity-not-development* by means of two further moves: *exclusivization* of name-recitation as the singular axis, and the lifting of the *samādhi ceiling* that had still bounded Daochuo's seven-fold *niàn-fó* menu. Shandao's discontinuity is institutional, not doctrinal rupture; it is also not the radicalization that Kamakura Pure Land would later inherit. The paper's three conclusions: Shandao's act is institutionalization, not bare commentary; his relation to Tanluan–Daochuo is *inheritance of warrant + completion of exclusivization*, not linear progression; his relation to the later Japanese tradition is that of the scriptural anchor, not the indirect ancestor of a Kamakura invention. Three Anglophone scholars are staged as structurally integrated interlocutors: Julian Pas (1995, anti-rupture-claim), Charles Jones (2019, integrated-matrix), and Kenneth Tanaka (1990, pre-Shandao baseline). The productive tension among them sustains the paper's third position: doctrinal grammar is continuous, the practice matrix is integrated, but the institutional center has shifted.
 
 **Keywords:** Shandao, 善導, *Guanjing Sitie Shu*, *Guan wuliangshou fojing shu*, 觀無量壽佛經疏, T1753, *Xuányì fēn*, 玄義分, *Sànshàn yì*, 散善義, *fánfū rù bàotǔ*, 凡夫入報土, ordinary beings entering the recompense land, recompense-land vs transformation-land, *bàotǔ* / *huàtǔ*, 報土／化土, *saṃbhogakāya-kṣetra*, Amitābha's land as recompense, *yīxiàng zhuānchēng*, 一向專稱, single-hearted recitation, name-holding, 持名, *wǔ zhèngxíng*, 五正行, five right practices, *zhèngdìng yè*, 正定業, primary act of right concentration, *zhùyè*, 助業, assisting acts, *záxíng*, 雜行, miscellaneous practices, *sānxīn*, 三心, three minds, *zhì-chéng xīn*, 至誠心, *shēn-xīn*, 深心, *huíxiàng fāyuàn xīn*, 迴向發願心, *jīfǎ èrzhǒng shēnxìn*, 機法二種深信, twofold deep faith in capacity and dharma, *èrhé báidào*, 二河白道, the two rivers and the white path, jiǔ-pǐn quán fán, 九品全凡, all nine grades are ordinary beings, doctrinal warrant, *exclusivization*, samādhi ceiling, discontinuity-not-development, institutional discontinuity, *Wǎngshēng lǐzàn jié*, 往生禮讚偈, T1980, *Wénshū-prajñāpāramitā-sūtra*, 文殊師利所說摩訶般若波羅蜜經, T0232, *yī-xíng sānmèi*, 一行三昧, *eka-vyūha-samādhi*, observation-to-recitation pivot, 觀→稱, *Wǎngshēng lùn zhù*, 往生論註, T1819, Tanluan, 曇鸞, easy-practice path, 易行道, ten recollections as memory-and-contemplation, 十念為憶念觀緣, *Ānlè jí*, 安樂集, T1958, Daochuo, 道綽, time-near-and-time-far inversion, 去聖近遠, *mòfǎ*, 末法, seven-fold *niàn-fó* menu, 七種念佛, P20 Tanluan–Daochuo other-power foundation, P21 Chan inward turn, P23 Tiantai four samādhis, P24 late-Ming confluence, *bombu nyū hōdo*, Hōnen, 法然, Shinran, 親鸞, *Senchakushū*, 選擇本願念佛集, *Kyōgyōshinshō*, 教行信証, Suzuki Daisetsu, Kamakura retrojection, reception-history misreading, Pure Land institutionalization, Tang Chang'an liturgical infrastructure, Julian Pas, *Visions of Sukhāvatī*, Charles B. Jones, *Chinese Pure Land Buddhism*, Kenneth K. Tanaka, *The Dawn of Chinese Pure Land Buddhist Doctrine*, Jingying Huiyuan, 淨影慧遠, Zhiyi, 智顗, Jizang, 吉藏, structural interlocutor, productive tension, anti-mono-perspective, Part VI Two Streams.
@@ -267,14 +266,14 @@ The open question left for the reader: if Shandao's act is the *Tang-completed d
 
 ## References
 
-### I. Primary Buddhist Sources (Taishō Tripiṭaka)
+### I. Primary Buddhist Sources
 
 - *Fó shuō Guān Wúliàngshòu fó jīng* 佛說觀無量壽佛經, trans. Kālayāśas (畺良耶舍), Liu Song dynasty. *Taishō* vol. 12, no. 365.
 - *Fó shuō Wúliàngshòu jīng* 佛說無量壽經, trans. Saṅghavarman (康僧鎧), Cao Wei dynasty. *Taishō* vol. 12, no. 360.
-- *Fó shuō Ēmítuó jīng* 佛說阿彌陀經, trans. Kumārajīva (鳩摩羅什), Yao Qin dynasty. *Taishō* vol. 12, no. 366.
+- *Fó shuō Ēmítuó jīng* 佛說阿彌陀經, trans. Kumārajīva (Kumārajīva), Yao Qin dynasty. *Taishō* vol. 12, no. 366.
 - *Wénshū shīlì suǒshuō móhē bōrě bōluómì jīng* 文殊師利所說摩訶般若波羅蜜經, trans. Mandrasena (曼陀羅仙), Liang dynasty. *Taishō* vol. 8, no. 232.
 
-### II. Ancient Chinese Commentaries
+### II. Patriarchal Commentaries
 
 - *Guan Wuliangshou fojing shu* 觀無量壽佛經疏, Shandao 善導 (613–681), ca. 660–681 CE. *Taishō* vol. 37, no. 1753.
 - *Wǎngshēng lǐzàn jié* 往生禮讚偈, comp. Shandao 善導. *Taishō* vol. 47, no. 1980.
@@ -291,7 +290,7 @@ The open question left for the reader: if Shandao's act is the *Tang-completed d
 - Pas, Julian F. *Visions of Sukhāvatī: Shan-tao's Commentary on the Kuan Wu-Liang-Shou-Fo Ching*. Albany: State University of New York Press, 1995.
 - Tanaka, Kenneth K. *The Dawn of Chinese Pure Land Buddhist Doctrine: Ching-ying Hui-yuan's Commentary on the Visualization Sutra*. Albany: State University of New York Press, 1990.
 
-### IV. Sūtra and Śāstra Index
+### IV. Sūtra & Śāstra Index
 
 | Short title | Full Chinese / Sanskrit title | Author / Translator | Taishō no. |
 |---|---|---|---|
@@ -332,3 +331,9 @@ The open question left for the reader: if Shandao's act is the *Tang-completed d
 © 2026 釋慧鏡 (Shi Huijing). Licensed under CC BY-NC-SA 4.0.
 Primary source citations verified against CBETA Taishō (T).
 Series GitHub repository: https://github.com/pointing-at-the-moon/four-practice-gates
+
+---
+
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+
+*NIAN-P22 · 釋慧鏡 (Shi Huijing) · 2026-04-29*

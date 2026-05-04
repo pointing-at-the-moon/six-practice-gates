@@ -2,10 +2,10 @@
 title: "The Tiantai Bridge — Zhiyi's Four Samādhis and the Wu-fangbian-nianfo-men"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
-paper_id: NIAN-P23
-date: "2026-05"
+paper_id: "NIAN-P23"
+date: "2026-05-04"
 version: "1.0"
-license: CC BY-NC-SA 4.0
+license: "CC BY-NC-SA 4.0"
 ---
 
 # The Tiantai Bridge — Zhiyi's Four Samādhis and the *Wu-fangbian-nianfo-men*
@@ -27,7 +27,6 @@ license: CC BY-NC-SA 4.0
 > — Zhiyi (智顗, 538–597), *Móhē zhǐguān* (摩訶止觀), fascicle 1B (T46.18c11)
 
 ## Abstract
-
 For the Anglophone reader of Pure Land introductions, the formula is by now familiar: *Tiantai master Zhiyi established four kinds of buddha-recollection (niànfó 念佛) — name-recitation (chēng-míng 稱名), image-contemplation (guān-xiàng 觀像), visualization (guān-xiǎng 觀想), and reality-contemplation (shí-xiàng 實相)*. This paper argues that this formula is, on close philological reading, not Zhiyi's authored typology at all. Zhiyi, lecturing in 594 and recorded by his disciple Guanding (灌頂, 561–632), set out in the *Móhē zhǐguān* (T1911) a *fourfold-by-posture* typology — *constantly seated*, *constantly walking*, *half-walking-half-seated*, *neither-walking-nor-seated* — and the attributed-to-Zhiyi *Wǔ-fāngbiàn niànfó-mén* (T1962) preserves a *fivefold* typology of *niànfó-sānmèi*, not a fourfold one. The popular fourfold scheme of *chēng-míng / guān-xiàng / guān-xiǎng / shí-xiàng* is, this paper contends, a **late-Ming retrospective compression** by Yúnqī Zhūhóng (雲棲祩宏, 1535–1615) in his *Āmítuó-jīng shūchāo* (阿彌陀經疏鈔, 1584+), a doxographic reorganization that collapsed Zhiyi-school's fivefold *niànfó-sānmèi* into a more memorable fourfold for the use of late-Ming and Qing-dynasty Pure Land instruction. The compound expression "four kinds of buddha-recollection" (*sì-zhǒng niànfó* 四種念佛) registers zero hits in the entire Taishō canon and only five hits in the *Wàn xùzàng* — all from Qing-era texts. What Zhiyi actually built in the late sixth century was a *classificatory bridge*: a vocabulary and architecture in which the inward turn later associated with Chan and the name-holding later associated with Pure Land could each find a non-hierarchical seat within a single contemplative matrix. The paper develops this argument in §III through four sub-sections, engages in §IV with three foundational Western readings (Stevenson 1986, Donner & Stevenson 1993, Swanson 1989/2017) in a *concede-and-extend* mode, and reconstructs in §V a three-strata historical correction: Sui Zhiyi (594) → Song Zhili (1021) → Ming Yunqi (1584+). The bridge is not a synthesis; the synthesis comes a millennium later, the subject of the next paper.
 
 **Keywords:** four *samādhis* (*sì-zhǒng sānmèi* 四種三昧); *cháng-zuò sānmèi* (常坐三昧, constantly seated samādhi); *cháng-xíng sānmèi* (常行三昧, constantly walking samādhi / *bānzhōu sānmèi* 般舟三昧); *bàn-xíng-bàn-zuò* (半行半坐, half-walking-half-seated); *fēi-xíng-fēi-zuò* (非行非坐, neither-walking-nor-seated / *jué-yì sānmèi* 覺意三昧 / *suí-zì-yì sānmèi* 隨自意三昧); *wǔ-fāngbiàn niànfó-mén* (五方便念佛門, five gates of expedient buddha-recollection); *chēng-míng wǎng-shēng* (稱名往生, name-recitation rebirth); *guān-xiàng miè-zuì* (觀相滅罪, image-contemplation sin-eradication); *zhū-jìng wéi-xīn* (諸境唯心, all objects are mind-only); *xīn-jìng jù-lí* (心境俱離, mind and object both transcended); *xìng-qǐ yuán-tōng* (性起圓通, nature-arising perfect penetration); classificatory bridge (non-synthesis); posture-anchored typology; three-action concert (*sān-yè qíyùn* 三業齊運); three-strata historical correction (Sui Zhiyi 594 → Song Zhili 1021 → Ming Yunqi 1584+); retrospective compression; doxography; doxographic crystallization; reception-history; perfect-teaching ceiling (圓教); three-truths concurrent contemplation (*sān-dì yuán-róng* 三諦圓融, *kōng-jiǎ-zhōng* 空假中); *yī-xíng sānmèi* (一行三昧, one-practice samādhi); *cháng-háng sānmèi sān-yè qíyùn* (常行三昧三業齊運); pseudo-Zhiyi attribution; attribution caveat; common-ancestor thesis (Chan / Pure Land non-conflation); *sì-zhǒng niànfó* (四種念佛, four kinds of buddha-recollection — late-Ming compression, not Zhiyi); Zhiyi (智顗, 538–597); Guanding (灌頂, 561–632); Zhili (知禮, 960–1028); Yúnqī Zhūhóng (雲棲祩宏, 1535–1615); Yongming Yanshou (永明延壽, 904–975); Zongmi (宗密, 780–841); Bǎoyún Yìtōng (寶雲義通, 927–988); Lúshān Huìyuǎn (廬山慧遠, 334–416); Huìsī (慧思, 515–577); Zhanran (湛然, 711–782); Zhongfeng Mingben (中峰明本, 1263–1323); Hanshan Deqing (憨山德清, 1546–1623); Ouyi Zhixu (蕅益智旭, 1599–1655); Lokakṣema (支婁迦讖, *fl.* 179); T1911 *Móhē zhǐguān* 摩訶止觀; T1962 *Wǔ-fāngbiàn niànfó-mén* 五方便念佛門; T1750 *Guān-wúliángshòu-fó-jīng shū* 觀無量壽佛經疏 (attributed Zhiyi ⚠ disputed); T1751 *Miàozōng-chāo* 妙宗鈔; T0418 *Bānzhōu-sānmèi-jīng* 般舟三昧經; T0232 *Wénshū-prajñāpāramitā-sūtra* 文殊師利所說摩訶般若波羅蜜經; T2017 *Wàn-shàn tóng-guī jí* 萬善同歸集; T2016 *Zōng-jìng-lù* 宗鏡錄; T1753 *Guānjīng sì-tiē shū* 觀經四帖疏 (Shandao authentic, P22 reference); X05n0229 *Huá-yán-jīng xíng-yuàn-pǐn shū-chāo*; *concede-and-extend* mode (vs *concede-and-push-back* of P20–P22 §IV); Stevenson 1986 (*Four Kinds of Samādhi in Early T'ien-t'ai Buddhism*); Donner & Stevenson 1993 (*Great Calming and Contemplation*); Swanson 1989 (*Foundations of T'ien-t'ai Philosophy*); Swanson 2017 (*Clear Serenity, Quiet Insight*); Northern Song Tiantai *shānjiā* 山家 lineage; late-Ming Pure Land; *Wàn xùzàng* 卍續藏 (Qing-era five-hits provenance); P06 cross-reference (T0418 *pratyutpanna* threefold register, seven-day vision threshold); P19 cross-reference (T0232 *yī-xíng sānmèi*); P21 backward reference (Chan inward reading + Zongmi 9c); P22 backward reference (Shandao exclusive name-holding); P24 forward reference (Yongming–Yunqi–Ouyi synthesis); six-century / nine-century / sixteen-seventeen-century historical strata; Tiantai *yuán-jiào* 圓教 ceiling thesis (vs sixfold subordination); Part VI Two Streams.
@@ -66,7 +65,7 @@ Five primary texts and one cross-reference. Three pillars and two ancillaries.
 
 **The first ancillary: T1751, *Miàozōng-chāo***. Six fascicles, by Siming Zhili (四明知禮, 960–1028), composed in 1021 (Tianxi 5). CBETA T1751, Taishō vol. 37. This is the doxographic crystallization of the early Northern Song Tiantai *Shanjia* (山家) lineage. Two passages: the *Baoyun first-recension* statement at T37.0195a07; and the *"the four samādhis are commonly named buddha-recollection"* crystallization at T37.0195b01–b08. The latter passage is, this paper argues, the moment at which the Northern Song Tiantai lineage made *explicit* what was implicit in T1911 — the typological inclusion of all four *samādhis* under the umbrella term *niànfó*. The author of this crystallization is *Zhili (1021), not Zhiyi (594)* — a temporal gap of 427 years that becomes load-bearing in §V. [^4]
 
-**The second ancillary: T0418, *Bānzhōu-sānmèi-jīng***. Three fascicles, translated by the Han-dynasty Yuezhi monk Lokakṣema (支婁迦讖) in 179 CE. CBETA T0418, Taishō vol. 13. The direct canonical source-text for Zhiyi's *constantly walking samādhi* (T46.12a19–a24, *"this method comes from the Bānzhōu-sānmèi-jīng, translated as 'standing buddha'"*). The doctrinal substance of T0418 itself — its threefold semantic register of *pratyutpanna*, its seven-day vision threshold, its red-hot iron-ball simile, its closing *"mind is buddha"* turn — has been treated in the earlier paper P06 (*Face-to-Face with the Buddhas*); the present paper invokes T0418 only as cross-reference and does not re-argue. [^5]
+**The second ancillary: T0418, *Bānzhōu-sānmèi-jīng***. Three fascicles, translated by the Han-dynasty Yuezhi monk Lokakṣema (Lokakṣema) in 179 CE. CBETA T0418, Taishō vol. 13. The direct canonical source-text for Zhiyi's *constantly walking samādhi* (T46.12a19–a24, *"this method comes from the Bānzhōu-sānmèi-jīng, translated as 'standing buddha'"*). The doctrinal substance of T0418 itself — its threefold semantic register of *pratyutpanna*, its seven-day vision threshold, its red-hot iron-ball simile, its closing *"mind is buddha"* turn — has been treated in the earlier paper P06 (*Face-to-Face with the Buddhas*); the present paper invokes T0418 only as cross-reference and does not re-argue. [^5]
 
 T0232, *Wénshū-shīlì suǒshuō Móhē-bōrě-bōluómì-jīng* (the Mañjuśrī-spoken *Mahāprajñāpāramitā-sūtra*), translated by Mandrasena (曼陀羅仙) of the Liang dynasty, is the canonical source for the *yī-xíng-sānmèi* (一行三昧) which Zhiyi places under *constantly seated samādhi*; it has been treated in the earlier paper P19 and is referenced in §III only in passing.
 
@@ -258,7 +257,7 @@ This perfect-teaching positioning of *niànfó*, in the late sixth century, is t
 
 [^4]: T1751 *Miàozōng-chāo* (*Guān-wúliángshòu-fó-jīng shū miàozōng-chāo*) in six fascicles, by Siming Zhili (960–1028) in 1021 (Tianxi 5). CBETA Taishō vol. 37, no. 1751. The paper draws on two passages: T37.0195a07 (the Baoyun first-recension statement) and T37.0195b01–b08 (the doxographic crystallization *"the four samādhis are commonly named niànfó"*).
 
-[^5]: T0418 *Bānzhōu-sānmèi-jīng* in three fascicles, translated by the Han Yuezhi monk Lokakṣema (支婁迦讖) in 179 CE (Guanghe 2). CBETA Taishō vol. 13, no. 418. The paper invokes the text only as cross-reference; the substantive doctrinal treatment of T0418 (the threefold semantic register of *pratyutpanna*, the seven-day vision threshold, the red-hot iron-ball simile, the *"mind is buddha"* turn) is established in the earlier paper P06 (*Face-to-Face with the Buddhas*).
+[^5]: T0418 *Bānzhōu-sānmèi-jīng* in three fascicles, translated by the Han Yuezhi monk Lokakṣema (Lokakṣema) in 179 CE (Guanghe 2). CBETA Taishō vol. 13, no. 418. The paper invokes the text only as cross-reference; the substantive doctrinal treatment of T0418 (the threefold semantic register of *pratyutpanna*, the seven-day vision threshold, the red-hot iron-ball simile, the *"mind is buddha"* turn) is established in the earlier paper P06 (*Face-to-Face with the Buddhas*).
 
 [^6]: *Móhē zhǐguān*, fascicle 1B, T46.11a23–a26: *"Modes of practice are many; in brief, four: first, constantly seated; second, constantly walking; third, half-walking-half-seated; fourth, neither-walking-nor-seated. The general name 'samādhi' means 'to regulate, to make upright, to settle.'"*
 
@@ -282,7 +281,7 @@ This perfect-teaching positioning of *niànfó*, in the late sixth century, is t
 
 ## References
 
-### Primary sources
+### I. Primary Buddhist Sources
 
 - *Móhē zhǐguān* 摩訶止觀. Lectured by Zhiyi 智顗 (538–597), recorded by Guanding 灌頂 (594). CBETA T1911 (Taishō vol. 46).
 - *Wǔ-fāngbiàn niànfó-mén* 五方便念佛門. Attributed Zhiyi 智顗 (Tiantai-school post-Zhiyi compilation). CBETA T1962 (Taishō vol. 47).
@@ -292,7 +291,7 @@ This perfect-teaching positioning of *niànfó*, in the late sixth century, is t
 - *Wénshū-shīlì suǒshuō Móhē-bōrě-bōluómì-jīng* 文殊師利所說摩訶般若波羅蜜經. Translated by Mandrasena 曼陀羅仙 of the Liang dynasty. CBETA T0232 (Taishō vol. 8).
 - *Huá-yán-jīng xíng-yuàn-pǐn shū-chāo* 華嚴經行願品疏鈔. Commentary by Tang Chengguan 澄觀, sub-commentary by Zongmi 宗密. CBETA X05n0229 (*Wàn xùzàng* vol. 5).
 
-### Secondary sources
+### II. Modern Scholarship
 
 - Donner, Neal, and Daniel B. Stevenson. *The Great Calming and Contemplation: A Study and Annotated Translation of the First Chapter of Chih-i's Mo-ho chih-kuan*. Honolulu: University of Hawai'i Press, 1993.
 - Stevenson, Daniel B. "The Four Kinds of Samādhi in Early T'ien-t'ai Buddhism." In Peter N. Gregory, ed., *Traditions of Meditation in Chinese Buddhism*, 45–97. Honolulu: University of Hawai'i Press, 1986.
@@ -326,3 +325,9 @@ This perfect-teaching positioning of *niànfó*, in the late sixth century, is t
 © 2026 釋慧鏡 (Shi Huijing). Licensed under CC BY-NC-SA 4.0.
 Primary source citations verified against CBETA Taishō (T).
 Series GitHub repository: https://github.com/pointing-at-the-moon/four-practice-gates
+
+---
+
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+
+*NIAN-P23 · 釋慧鏡 (Shi Huijing) · 2026-05-04*

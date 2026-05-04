@@ -2,10 +2,10 @@
 title: "The Pure Land Patriarchs I: Tanluan and Daochuo — Other-Power as Lexical Invention and the Ordinary Being as Soteriological Subject"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
-paper_id: NIAN-P20
-date: 2026-04-21
+paper_id: "NIAN-P20"
+date: "2026-04-21"
 version: "1.0"
-license: CC BY-NC-SA 4.0
+license: "CC BY-NC-SA 4.0"
 ---
 
 # The Pure Land Patriarchs I: Tanluan and Daochuo
@@ -24,7 +24,6 @@ license: CC BY-NC-SA 4.0
 ---
 
 ## Abstract
-
 When Anglophone readers encounter 'other-power' (*tariki* 他力) in Pure Land scholarship, they typically meet it through the Jōdo Shinshū reception mediated by Shinran (1173–1263) and made available to Western audiences by Suzuki Daisetsu. Yet the Chinese term 「他力」 predates Shinran by some seven centuries, and its first systematic use is a Tang-era philological invention attributable to one master. This paper advances two interlocking theses about Tanluan (曇鸞, 476–542) and Daochuo (562–645). First, as an opening philological move: Tanluan did not inherit the 自力／他力 binary from Nāgārjuna's *Daśabhūmika-vibhāṣā* (T1521). Nāgārjuna's chapter nine, the *Easy Practice* chapter (易行品), contains no such binary, classifies easy-practice as a cowardly concession (*níng-ruò qiè-liè* 儜弱怯劣), and lists no 「他力」 vocabulary. Tanluan at T40.826b05 adds a fifth obstacle to difficult-practice — '唯是自力、無他力持' — absent from his source, and silently drops Nāgārjuna's pejorative valence; the binary is Tanluan's creation, attributed retroactively. Second, and more foundationally: the deeper innovation is not the vocabulary but the anthropological redefinition of *who is saved*. The three Pure Land sūtras (T0360 Larger Sukhāvatīvyūha, T0365 Contemplation, T0366 Smaller) and Vasubandhu's Treatise (T1524) together anchor a new soteriological subject — the *fánfū* 凡夫, the ordinary unliberated being unable to undertake conventional cultivation. Tanluan's 劣夫跨驢 (cripple-rider-on-donkey) metaphor and Daochuo's 置草引牛 — the latter preserved as Tanluan's own self-description in *Anle Ji* 卷下 第四大門 — crystallize this subject. Daochuo then re-anchors the 凡夫 to an empirical 末法 time frame grounded not in eschatological speculation but in the fifty-year-proximate communal trauma of the 574 北周武帝 persecution. §IV stages Robert Sharf (primary, anti-Shin-projection) and Charles Jones (secondary, anti-school-essentialism) as structurally integrated interlocutors rather than dismissed foils. P20 opens Part VI's Two Streams arc; P21 will take up Chan's counter-move to the vocabulary invented here.
 
 **Keywords:** other-power, *tariki*, 他力, self-power, *zi-li*, 自力, Tanluan, 曇鸞, Daochuo, 道綽, Nāgārjuna, *Daśabhūmika-vibhāṣā*, T1521, *Easy Practice* chapter, 易行品, *níng-ruò qiè-liè*, 儜弱怯劣, philological invention, lexical invention, fifth obstacle, 唯是自力無他力持, *Wangsheng lun zhu*, 往生論註, T1819, *Anle Ji*, 安樂集, T1958, Vasubandhu, 世親, *Wangsheng lun*, 往生論, T1524, Sukhāvatīvyūha, *Wuliangshou jing*, 無量壽經, T0360, *Guan Wuliangshou jing*, 觀無量壽經, T0365, *Amituo jing*, 阿彌陀經, T0366, eighteenth vow, 第十八願, lowest-of-low-grade, 下品下生, five gravities ten evils, 五逆十惡, ten recollections, 十念, *fánfū*, 凡夫, ordinary being, soteriological subject, anthropological pivot, *lyè-fū kuà-lǚ*, 劣夫跨驢, cripple-rider-on-donkey, *zhì-cǎo yǐn-niú*, 置草引牛, tethering-ox-to-grass, *mòfǎ*, 末法, mofa, end-of-dharma, 574 北周武帝 persecution, *Da ji Yue zang jing*, 大集月藏經, five five-hundred-years, 五個五百年, five turbidities, 五濁, Sacred Path gate, 聖道門, Pure Land gate, 淨土門, time-and-teaching correspondence, 時教相應, five recollection gates, 五念門, original-vow power, *pūrva-praṇidhāna-bala*, 本願力, *adhipati-pratyaya*, 增上緣, contributory condition, returning-aspect dedication, 還相迴向, two-aspect dedication, Robert Sharf, anti-Shin-projection, anti-anachronism, Charles Jones, anti-school-essentialism, textual inheritance, institutional critique, Jan Nattier, *Once Upon a Future Time*, *mofa* layered periodization, Luis Gómez, *Land of Bliss*, Galen Amstutz, *Interpreting Amida*, James Dobbins, *Jōdo Shinshū*, Part VI Two Streams, P21 Chan counter-move, P22 Shandao institutionalization, P23 Tiantai four samādhis, P24 late-Ming synthesis
@@ -49,7 +48,7 @@ This section lays the textual ground of the argument. Four primary sources are t
 
 ### 2.1 T1524: Vasubandhu's Treatise on Rebirth in Sukhāvatī
 
-Vasubandhu's *Wuliangshou jing upadeśa* (無量壽經優婆提舍願生偁), known in shorter form as the *Wangsheng lun* (往生論, T1524), survives in a single short fascicle comprising twenty-four verses and their prose commentary, translated into Chinese by Bodhiruci (菩提流支) in 529 CE. The treatise is Vasubandhu's *upadeśa* — an exegetical elaboration — on the *Larger Sukhāvatīvyūha-sūtra* (T0360). Its doctrinal skeleton unfolds in three layers.
+Vasubandhu's *Wuliangshou jing upadeśa* (無量壽經優婆提舍願生偁), known in shorter form as the *Wangsheng lun* (往生論, T1524), survives in a single short fascicle comprising twenty-four verses and their prose commentary, translated into Chinese by Bodhiruci (Bodhiruci) in 529 CE. The treatise is Vasubandhu's *upadeśa* — an exegetical elaboration — on the *Larger Sukhāvatīvyūha-sūtra* (T0360). Its doctrinal skeleton unfolds in three layers.
 
 At the methodological layer stand the *five recollection gates* (五念門, *pañca-smṛti-dvāra*): bodily prostration (禮拜門), verbal praise (讃叹門), aspiration as one-pointed recollection (作願門), discerning contemplation (觀察門), and dedication (迴向門). Vasubandhu defines the fifth as 「不捨一切苦惱眾生、心常作願迴向為首、成就大悲心故」 — the dedication is not a private post-merit transaction but a mahayāna orientation built into every act of recollection from the outset.[^5] §III.1 of the treatise asserts that 「修五念門成就者、畢竟得生安樂國土」 — a practitioner who completes the five gates *without fail* attains rebirth. At the ontological layer, the treatise organizes its contemplation of Sukhāvatī under the schema *seventeen adornments of the buddha-land* (不可思議力、自在力...), *eight adornments of the Buddha*, and *four adornments of the bodhisattvas* (17-8-4) — not a devotional inventory but an ontological taxonomy meant to display what kind of reality the practitioner's recollection rests on. At the soteriological layer, embedded within the eight buddha-adornments, appears the single phrase that Tanluan will lift out and make architectural to his own exegesis: 「觀佛本願力、遇無空過者、能令速滿足、功德大寶海」 ("contemplating the Buddha's fundamental vow-power, those who encounter it do not pass in vain; it causes them swiftly to fulfill the great treasure-ocean of merit"). This is the lexical seed of 本願力 in Chinese Pure Land thought, already textually present in Vasubandhu.[^4]
 
@@ -209,21 +208,21 @@ The open question that follows from P20 is the question P21 will take up. If the
 
 ## References
 
-### I. Primary Buddhist Sources (Taishō Tripiṭaka)
+### I. Primary Buddhist Sources
 
 *Wuliangshou jing* 無量壽經 (*Larger Sukhāvatīvyūha-sūtra*), trans. Saṅghavarman (康僧鏧) ca. 252 CE. *Taishō* vol. 12, no. 360.
 
 *Guan wuliangshou jing* 觀無量壽經 (*Sutra on the Contemplation of Amitāyus*), trans. Kālayāśas (畕良耶舍) ca. 424–442 CE. *Taishō* vol. 12, no. 365.
 
-*Amituo jing* 阿彌陀經 (*Smaller Sukhāvatīvyūha-sūtra*), trans. Kumārajīva (鳩摩羅什) ca. 402 CE. *Taishō* vol. 12, no. 366.
+*Amituo jing* 阿彌陀經 (*Smaller Sukhāvatīvyūha-sūtra*), trans. Kumārajīva (Kumārajīva) ca. 402 CE. *Taishō* vol. 12, no. 366.
 
 *Dafangdeng daji jing* 大方等大集經 (*Mahāsaṃnipāta-sūtra*, *Yue-zang fen* / 月藏分), trans. Narendrayaśas (那連提耶舍) 566 CE. *Taishō* vol. 13, no. 397.
 
 *Shizhu piposha lun* 十住毗婆沙論 (*Daśabhūmika-vibhāṣā*), Nāgārjuna (龍樹), trans. Kumārajīva early fifth century. *Taishō* vol. 26, no. 1521. Chapter nine (*Easy Practice*) at T26.040c–041c.
 
-*Wuliangshou jing upadeśa yuansheng ji* 無量壽經優婆提舍願生偁 (also *Wangsheng lun* 往生論), Vasubandhu (世親), trans. Bodhiruci (菩提流支) 529 CE. *Taishō* vol. 26, no. 1524.
+*Wuliangshou jing upadeśa yuansheng ji* 無量壽經優婆提舍願生偁 (also *Wangsheng lun* 往生論), Vasubandhu (世親), trans. Bodhiruci (Bodhiruci) 529 CE. *Taishō* vol. 26, no. 1524.
 
-### II. Ancient Chinese Commentaries
+### II. Patriarchal Commentaries
 
 *Wuliangshou jing upadeśa yuansheng ji zhu* 無量壽經優婆提舍願生偁註 (also *Wangsheng lun zhu* 往生論註), Tanluan 曇鸞 (476–542), ca. 530–542 CE. *Taishō* vol. 40, no. 1819.
 
@@ -253,7 +252,7 @@ Sharf, Robert H. "On Pure Land Buddhism and Ch'an/Pure Land Syncretism in Mediev
 
 Weinstein, Stanley. *Buddhism under the T'ang*. Cambridge: Cambridge University Press, 1987.
 
-### IV. Sūtra and Śāstra Index
+### IV. Sūtra & Śāstra Index
 
 | Short title | Full Chinese / Sanskrit title | Translator / Author | Taishō no. |
 |---|---|---|---|
@@ -287,3 +286,9 @@ Weinstein, Stanley. *Buddhism under the T'ang*. Cambridge: Cambridge University 
 © 2026 釋慧鏡 (Shi Huijing). Licensed under CC BY-NC-SA 4.0.
 Primary source citations verified against CBETA Taishō (T).
 Series GitHub repository: https://github.com/pointing-at-the-moon/four-practice-gates
+
+---
+
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+
+*NIAN-P20 · 釋慧鏡 (Shi Huijing) · 2026-04-21*
