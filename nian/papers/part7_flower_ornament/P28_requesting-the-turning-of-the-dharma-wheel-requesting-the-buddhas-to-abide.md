@@ -2,9 +2,10 @@
 title: "Requesting the Turning of the Dharma-Wheel, Requesting the Buddhas to Abide: Samantabhadra's Vows Six and Seven as the Two Modes of Dharma Persistence"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
-paper_id: NIAN_P28
-date: "2026-05"
-license: CC BY-NC-SA 4.0
+paper_id: "NIAN-P28"
+date: "2026-05-03"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
 ---
 
 # Requesting the Turning of the Dharma-Wheel, Requesting the Buddhas to Abide
@@ -19,6 +20,7 @@ license: CC BY-NC-SA 4.0
 **Date:** May 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** NIAN — Mindful of the Buddha
 
 ---
 
@@ -357,7 +359,7 @@ A further open question is offered to the reader: does the *twin-mirror narrativ
 
 ## References
 
-### Primary Canonical Texts
+### I. Primary Buddhist Sources
 
 T0001. *Dīrgha-āgama* (*Cháng āhán jīng*). Translated by Buddhayaśas and Zhu Fonian. *Taishō Tripiṭaka* vol. 1.
 
@@ -409,7 +411,7 @@ DN 16. *Mahāparinibbāna-sutta*. Pali Text Society edition. Pending second-pass
 
 MN 26. *Ariyapariyesanā-sutta*. Pali Text Society edition. Pending second-pass verification.
 
-### Secondary Scholarship
+### II. Modern Scholarship
 
 Anālayo. *A Comparative Study of the Majjhima-nikāya*. Taipei: Dharma Drum Publishing Corporation, 2011.
 
@@ -423,13 +425,8 @@ Schopen, Gregory. *Bones, Stones, and Buddhist Monks: Collected Papers on the Ar
 
 ---
 
-> **Pointing at the Moon Research · Four Practice Gates, Volume One: *Mindful of the Buddha* · Part VII The Flower Ornament Vision · 7.4**
-> Shi Huijing （釋慧鏡）
-> First draft, May 2026
-> This work is licensed under CC BY-NC-SA 4.0
+*CBETA collation: all T-number and X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
----
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
 
-© 2026 釋慧鏡 (Shi Huijing). Licensed under CC BY-NC-SA 4.0.
-Primary source citations verified against CBETA *Taishō* (T) and *Wàn xùzàng* (X).
-Series GitHub repository: https://github.com/pointing-at-the-moon/four-practice-gates
+*NIAN-P28 · 釋慧鏡 (Shi Huijing) · 2026-05-03*
