@@ -2,17 +2,17 @@
 title: "Samantabhadra's Ten Great Vows: An Introduction"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
-paper_id: NIAN-P25
-date: "2026-05"
+paper_id: "NIAN-P25"
+date: "2026-05-02"
 version: "1.0"
-license: CC BY-NC-SA 4.0
+license: "CC BY-NC-SA 4.0"
 ---
 
 # Samantabhadra's Ten Great Vows: An Introduction
 
 **From within the Avataṃsaka's Fortieth Fascicle to Part VI's Confluence as Textual Seam — Part VII's Opening Paper on the Flower Ornament Vision**
 
-*中文主題:普賢十大願·導論*
+*中文主題：普賢十大願·導論*
 
 ---
 
@@ -27,7 +27,6 @@ license: CC BY-NC-SA 4.0
 > — *Samantabhadra-bodhisattva's Practice-and-Vow Chapter*, T0293, translated by Prajña, fascicle 40 (T10.0844b23–28)
 
 ## Abstract
-
 Samantabhadra's ten great vows — reverencing buddhas, praising tathāgatas, offering, repenting, rejoicing, requesting the turning of the wheel, requesting the buddhas to abide, following in the buddhas' learning, according with sentient beings, universally dedicating — are most often read in the contemporary Anglophone setting as ten distinct items of meritorious conduct. This paper argues that this reading misses the structural wholeness the text itself supplies. The vows are bound into one integral practice by two mechanisms internal to the *Avataṃsaka* (T0293, fascicle forty): the *vow-king* (*praṇidhāna-rāja* 願王) operator that gathers the ten as one, and the *moment-by-moment continuous* fourfold-exhaustion-fourfold-inexhaustion closure-formula that lifts each vow into an exhaustionless temporal current. The same fascicle forty, together with the twenty-one gates of buddha-recollection in fascicle four and the eleven *moment-by-moment* prajñā-pāramitās in fascicle thirty-nine, supplies the *locus classicus* of dharma-realm buddha-recollection within the sūtra's own corpus — that framework is not a later Huayan-school imposition; it is what the *Avataṃsaka* already is. The late-imperial confluence traced in the previous paper (P24) from Yongming Yanshou through Yunqi Zhuhong to Ouyi Zhixu reaches its textual ground precisely here — in fascicle forty's closing prose on the *vow-king alone unsundered at the moment of death* and its verse *may I, when about to die, behold Amitābha face-to-face*. *Part VI has already authenticated Part VII.* The paper engages Francis Cook (1977), Peter Gregory (1991), and Robert Gimello (1983) in a mixed *concede-and-push-back* / *concede-and-extend* mode, recovers three philological cautions, and reserves the vow-by-vow exegesis for P26–P29.
 
 **Keywords:** Samantabhadra's ten great vows; vow-king (*praṇidhāna-rāja* 願王); fourfold-exhaustion-fourfold-inexhaustion (四盡四不盡); moment-by-moment continuous (*niàn-niàn xiāng-xù* 念念相續); twenty-one gates of buddha-recollection (二十一門念佛); dharma-realm buddha-recollection (*dharmadhātu-buddhānusmṛti* 法界念佛); *Entering the Dharmadhātu* (入法界品, *Gaṇḍavyūha*); *Avataṃsaka* T0293 (the forty-fascicle recension); eighty-fascicle *Avataṃsaka* (T0279); Prajña (般若, the 798 CE translator); Chengguan's *Great Commentary* (T1735); Yunqi Zhuhong's *Āmítuó-jīng shūchāo* (X22n0424); Yongming Yanshou's *Zōngjìng lù* (T2016); textual seam; Pure Land confluence; *Bhadracarī-praṇidhāna*; Part VI authenticates Part VII.
@@ -363,7 +362,7 @@ The closing verses of fascicle forty supply the introduction's final word. Mañj
 
 ## References
 
-### Primary Sources
+### I. Primary Buddhist Sources
 
 T0278. *Mahāvaipulya-buddhāvataṃsaka-sūtra* (the sixty-fascicle *Avataṃsaka*). Translated by Buddhabhadra. *Taishō Tripiṭaka* vol. 9.
 
@@ -377,7 +376,7 @@ T2016. *Zōngjìng lù* (the *Mirror of the Source*). Compiled by Yongming Yansh
 
 X22n0424. *Āmítuó-jīng shūchāo* (the *Detailed Commentary on the Smaller Sukhāvatī Sūtra*). Composed by Yunqi Zhuhong. *Wàn xùzàng* vol. 22.
 
-### Secondary Scholarship
+### II. Modern Scholarship
 
 Cook, Francis H. *Hua-yen Buddhism: The Jewel Net of Indra*. University Park: Pennsylvania State University Press, 1977.
 
@@ -397,3 +396,9 @@ Gregory, Peter N. *Tsung-mi and the Sinification of Buddhism*. Princeton: Prince
 © 2026 釋慧鏡 (Shi Huijing). Licensed under CC BY-NC-SA 4.0.
 Primary source citations verified against CBETA Taishō (T) and *Wàn xùzàng* (X).
 Series GitHub repository: https://github.com/pointing-at-the-moon/four-practice-gates
+
+---
+
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+
+*NIAN-P25 · 釋慧鏡 (Shi Huijing) · 2026-05-02*

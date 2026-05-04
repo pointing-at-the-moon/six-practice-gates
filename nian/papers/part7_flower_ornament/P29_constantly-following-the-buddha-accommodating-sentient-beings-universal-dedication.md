@@ -2,9 +2,10 @@
 title: "Constantly Following the Buddha in Study, Accommodating Sentient Beings, Universal Dedication: Samantabhadra's Vows Eight, Nine, and Ten as the Above-Bearing-and-Below-Transforming Dedication Closure-Triad"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
-paper_id: NIAN_P29
-date: "2026-05"
-license: CC BY-NC-SA 4.0
+paper_id: "NIAN-P29"
+date: "2026-05-03"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
 ---
 
 # Constantly Following the Buddha in Study, Accommodating Sentient Beings, Universal Dedication
@@ -39,7 +40,6 @@ license: CC BY-NC-SA 4.0
 ---
 
 ## Abstract
-
 This paper, the closer of Part VII (the Flower Ornament volume) within the NIAN series of *Pointing at the Moon Research*, completes the structural walkthrough of Samantabhadra's ten great vows by treating vows eight (*constantly following the Buddha in study*), nine (*accommodating sentient beings*), and ten (*universal dedication*). It argues that these three vows together compose the **above-bearing-and-below-transforming dedication closure-triad**: vow eight is the *upward-bearing* dimension (seeking enlightenment above, depending on *attribute*, *prajñā*); vow nine is the *downward-transforming* dimension (transforming sentient beings below, depending on *function*, *vimukti*); vow ten is the total dedication (toward the absolute, embracing both, depending on *substance*, *dharmakāya*). The closure-formula isomorphism that NIAN P26, P27, and P28 confirmed across vows one through seven is here extended through vows eight, nine, and ten — a fourth-time confirmation, vows one through ten now 100% isomorphic at the closure-formula level, with only the operator verb position varying. The paper further proposes — as its principal originality — that vows one through ten admit a **retrospective totalisation** along the *substance-attribute-function* (*tǐ-xiāng-yòng* 體相用) schema: vows one through three (the three-karma set, P26) constitute *substance*; vows four through nine (the six vows of transformation — repentance, rejoicing-along, request-to-turn, request-to-abide, study-following, and accommodation, P27 + P28 + the present paper) constitute *attribute*; vow ten (universal dedication) constitutes *function*. This reading is not a modern imposition but is articulated by the seventh- to ninth-century Huayan sub-commentators themselves: Zongmi's *Detailed Sub-Commentary on the Practice-and-Vow Chapter* states that *"vow eight is dedication to bodhi, vow nine is dedication to sentient beings, vow ten is the proper dedication — together comprising the three locations,"* and Chengguan's *Practice-and-Vow Chapter Commentary* identifies *"dedication toward the absolute as relying on substance, toward bodhi as relying on attribute, toward sentient beings as relying on function."* The paper foregrounds Francis H. Cook's *Hua-yen Buddhism: The Jewel Net of Indra* (1977) for final disposal: the ten great vows are not exemplifications of a *dharmadhātu* metaphysics-of-totality but the operative articulation of a **cosmological-ritual operative system** instantiated by the *substance-attribute-function* schema. Concede-and-extend engagements with Paul Williams (2009) and Imre Hamar (2007) supply complementary framing. The paper closes by answering the question posed at the opener of Part VII (NIAN P25) — *what is the meaning of the vow-king as a totality?* — with the fully-articulated reply: the totality of the vow-king is **the ritual-cosmological articulation of the three greats (substance-attribute-function)**, whose entire architecture finds its retrospective unification at the closure of vow ten.
 
 **Keywords:** Samantabhadra's vow-practice; *Bhadracarī-praṇidhāna*; constantly following the Buddha in study; accommodating sentient beings; universal dedication; the above-bearing-and-below-transforming dedication closure-triad; retrospective substance-attribute-function closure of vows one through ten; three-direction dedication; the three greats (*substance-attribute-function*); retrospective totalisation; closure-formula isomorphism (fourth confirmation); great-tree-king simile; Vairocana as original master; substituting-for-suffering; *pariṇāmana*; emptiness of the three marks (*三相空*, per T1509); Chengguan's *"transforming-below-with-great-compassion, seeking-above-with-great-wisdom"* maxim; Zongmi's *three-direction dedication* schema; Yunqi Zhuhong's *"Samantabhadra's vow-king is not apart from the present moment of mind"*; Zhiyi's *Lotus Samādhi Repentance Liturgy* seventh section; Shandao's fifth dedication-gate; cosmological-ritual operative system; metaphysics-of-totality; jewel-net of Indra; the absence in the sixty- and eighty-fascicle *Avataṃsaka*; late eighth-century consolidation of the ten-vow ladder.
@@ -304,9 +304,9 @@ The paper rests here. **Vows one through ten compose the cosmological-ritual art
 
 ---
 
-## Bibliography
+## References
 
-### Primary Sources
+### I. Primary Buddhist Sources
 
 T0262. *Saddharmapuṇḍarīka-sūtra* (the *Lotus Sūtra*). Translated by Kumārajīva. *Taishō Tripiṭaka* vol. 9. *Encouragement of Samantabhadra* chapter and *Conjured-City* chapter.
 
@@ -348,7 +348,7 @@ X22n0424. *Sub-Commentary on the Amitābha Sūtra*. Composed by Yunqi Zhuhong. *
 
 X74n1464. *Three-Time Mindfulness Service*. Traditionally attributed to the Zhongfeng line. *Wàn xùzàng* vol. 74.
 
-### Secondary Scholarship
+### II. Modern Scholarship
 
 Cleary, Thomas, trans. *The Flower Ornament Scripture: A Translation of the Avatamsaka Sutra*. 3 vols. Boston: Shambhala, 1984–1987.
 
@@ -377,7 +377,7 @@ Williams, Paul. *Mahāyāna Buddhism: The Doctrinal Foundations*. 2nd ed. London
 
 > **Pointing at the Moon Research · Four Practice Gates, Volume One: *Mindful of the Buddha* · Part VII The Flower Ornament Vision · 7.5**
 > **Part VII complete: P25 + P26 + P27 + P28 + P29 (5/5).**
-> Shi Huijing （釋慧鏡）
+> Shi Huijing (釋慧鏡)
 > First draft, May 2026
 > This work is licensed under CC BY-NC-SA 4.0
 
@@ -386,3 +386,9 @@ Williams, Paul. *Mahāyāna Buddhism: The Doctrinal Foundations*. 2nd ed. London
 © 2026 釋慧鏡 (Shi Huijing). Licensed under CC BY-NC-SA 4.0.
 Primary source citations verified against CBETA *Taishō* (T) and *Wàn xùzàng* (X).
 Series GitHub repository: https://github.com/pointing-at-the-moon/four-practice-gates
+
+---
+
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+
+*NIAN-P29 · 釋慧鏡 (Shi Huijing) · 2026-05-03*

@@ -2,9 +2,10 @@
 title: "Reverencing All Buddhas, Praising the Tathāgatas, and Extensively Making Offerings: Samantabhadra's Vows One, Two, and Three as the Body, Speech, and Mind Halves of a Three-Karma Set"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
-paper_id: NIAN_P26
-date: "2026-05"
-license: CC BY-NC-SA 4.0
+paper_id: "NIAN-P26"
+date: "2026-05-02"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
 ---
 
 # Reverencing All Buddhas, Praising the Tathāgatas, and Extensively Making Offerings
@@ -18,7 +19,7 @@ license: CC BY-NC-SA 4.0
 **Author:** 釋慧鏡 (Shi Huijing)
 **Date:** May 2026
 **License:** CC BY-NC-SA 4.0
-**Version:** 2.0
+**Version:** 1.0
 
 ---
 
@@ -29,7 +30,6 @@ license: CC BY-NC-SA 4.0
 > — *Samantabhadra-bodhisattva's Practice-and-Vow Chapter*, T0293, translated by Prajña, fascicle forty (verses)
 
 ## Abstract
-
 This paper treats the first three of Samantabhadra's ten great vows (*Bhadracarī-praṇidhāna*): reverencing all buddhas (*lǐjìng zhū fó* 禮敬諸佛, vow one), praising the tathāgatas (*chēngzàn rúlái* 稱讚如來, vow two), and extensively making offerings (*guǎngxiū gòngyǎng* 廣修供養, vow three). The thesis: these are not the first three items in a list of ten meritorious deeds but the body, speech, and mind halves of a three-karma set — vow one led principally by body-karma, vow two principally by speech-karma, vow three principally by mind-karma. Vow one's *"reverencing"* must be read as the highest three rungs of Chengguan's ten-form ladder of reverence — the great-compassion, total-encompassing, and inexhaustible forms — and not as mechanical prostration; vow two's *"praising"* must be read as the four unobstructed understandings (*catasraḥ pratisaṃvidaḥ*) together with the seven branches of eloquence at the ninth bodhisattva ground, not as lyrical encomium; vow three's *"extensively making offerings"* must be read as the seven kinds of dharma-offering — practising-as-taught, benefitting sentient beings, gathering-in sentient beings, taking on sentient beings' suffering, diligent cultivation of wholesome roots, not abandoning the bodhisattva's work, not departing from the awakening-mind — as the bodhisattva's outward-facing work, not as material almsgiving or charitable donation. The three vows form an isomorphic triplet at the textual level of T0293 itself — sharing the same cosmological field, the same practice-vow-power engine, the same four-exhaustion-four-inexhaustion closure formula, and the same *"body, speech, and mind never wearying"* coda. In Chinese ritual practice the set is directly codified by Shandao's *Verses for the Six Times of Reverence-Praise* (the gateways of body-karma prostration, speech-karma praise, and mind-karma recollection-and-contemplation) and by the parallel placement of *"three-karma offering / praising the Three Jewels / prostrating to the buddhas"* in Zhiyi's *Lotus Samādhi Repentance Liturgy*. The paper pushes back against Cook 1977's metaphysics-only reading of Huayan — strengthened by appeal to the *sūtra*'s own *"true offering"* textual hook and the textual isomorphism of the three vows — and extends Schopen 1997's archaeological grounding of early Buddhist devotion and Sharf 2002/2005's anti-psychologizing of Buddhist ritual.
 
 **Keywords:** Samantabhadra's vow-practice; *Bhadracarī-praṇidhāna*; reverencing buddhas; praising tathāgatas; extensively making offerings; three-karma set; seven kinds of dharma-offering; ten-form ladder of reverence; total-encompassing reverence (*zǒngshè lǐ* 總攝禮); inexhaustible reverence (*wújìn lǐ* 無盡禮); four unobstructed understandings; *catasraḥ pratisaṃvidaḥ*; subtle tongue-faculty (*wéimiào shégēn* 微妙舌根); true offering (*zhēn gòngyǎng* 真供養); not departing from the awakening-mind (*bù lí pútíxīn* 不離菩提心); Sadāparibhūta (Never Disparaging Bodhisattva); Shandao's three-karma codification; *Verses for the Six Times of Reverence-Praise* (T1980); *Lotus Samādhi Repentance Liturgy* (T1941); moment-by-moment continuous (*niànniàn xiāngxù* 念念相續); *buddhānusmṛti*.
@@ -408,7 +408,7 @@ To close, the central couplets of the verse-section across vows one, two, and th
 
 ## References
 
-### Primary Sources
+### I. Primary Buddhist Sources
 
 T0001. *Dīrgha-āgama*. Translated by Buddhayaśas and Zhu Fonian. *Taishō Tripiṭaka* vol. 1.
 
@@ -434,7 +434,7 @@ X05n0229. *Detailed Sub-Commentary on the Practice-and-Vow Chapter* (also known 
 
 *Vinaya, Mahāvagga* I.22. Pali Text Society edition, *Vin* i 35.
 
-### Secondary Scholarship
+### II. Modern Scholarship
 
 Bell, Catherine. *Ritual Theory, Ritual Practice*. New York: Oxford University Press, 1992.
 
@@ -459,3 +459,8 @@ Sharf, Robert H. "Ritual." In *Critical Terms for the Study of Buddhism*, edited
 Primary source citations verified against CBETA Taishō (T) and *Wàn xùzàng* (X).
 Series GitHub repository: https://github.com/pointing-at-the-moon/four-practice-gates
 
+---
+
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+
+*NIAN-P26 · 釋慧鏡 (Shi Huijing) · 2026-05-02*

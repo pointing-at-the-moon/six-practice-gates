@@ -2,9 +2,10 @@
 title: "Repenting Karmic Obstructions, Rejoicing in Merit: Samantabhadra's Vows Four and Five as the Karma Dyad"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
-paper_id: NIAN_P27
-date: "2026-05"
-license: CC BY-NC-SA 4.0
+paper_id: "NIAN-P27"
+date: "2026-05-02"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
 ---
 
 # Repenting Karmic Obstructions, Rejoicing in Merit
@@ -29,7 +30,6 @@ license: CC BY-NC-SA 4.0
 > — *Samantabhadra-bodhisattva's Practice-and-Vow Chapter*, T0293, translated by Prajña, fascicle forty (vow four verse)[^1]
 
 ## Abstract
-
 This paper continues the previous paper's (NIAN P26) argument that Samantabhadra's first three vows compose a three-karma set, and now treats vows four and five — *repenting karmic obstructions* (*chànhuǐ yèzhàng* 懺悔業障, vow four) and *rejoicing in merit* (*suíxǐ gōngdé* 隨喜功德, vow five). The thesis: these two vows are not the fourth and fifth items in a list of ten meritorious deeds but the **twin wings of karma practice** — a *karma dyad* — vow four operating as the **decrement** wing that addresses one's own past unwholesome action, vow five operating as the **increment** wing that draws into one's own practice the wholesome action of all others. Three pieces of textual evidence support this dyadic reading. First, the four-exhaustion-four-inexhaustion closure formula at the end of vows four and five is fully isomorphic with the closure formula of vows one through three at the textual level of T0293 itself — extending the previous paper's *vows one to three closure-formula isomorphism* finding into a *vows one to five 100% isomorphism* confirmation. Second, the verse-section's thirty-second stanza pairs the two vows internally in a single line — *"rejoicing-along, repenting, and all wholesome roots"* — making the dyadic pairing explicit at the verse-text level of the *sūtra*. Third, in the seven-branch worship lineage (*saptāṅga-pūjā*) — whose earliest Chinese-canonical configuration is fixed by Nāgārjuna's *Mahāprajñāpāramitā-śāstra* (T1509) fascicle sixty-one — vows four and five occupy the third and fourth branches. The argument is developed across three frames: the seven-branch worship genealogy; the Madhyamaka two-truths exposition of karma; and the Yogācāra *two transformations of the basis*. The Chinese ritual-practice closure draws on Zhiyi's ten-section *Lotus Samādhi Repentance Liturgy* (T1941) and the rejoicing segment of the fifth recollection-gateway in Shandao's *Verses for the Six Times of Reverence-Praise* (T1980). The paper engages three Anglophone interlocutors in a one-pushback-plus-two-extensions configuration: vis-à-vis Stevenson 1986/1999 it concedes-and-pushes-back on the modernist internalising reading by retrieving Stevenson's own *tri-register ritual technology* frame; vis-à-vis Heim 2004's *theories of the gift in South Asia* and Sharf 2002/2005's anti-psychologising of Buddhist ritual it concedes-and-extends. Six philological warnings are addressed: the sūtra-layer-versus-treatise-layer drift in *karmic obstruction*; the Tang-Song retrospective character of the *three-modes-of-repentance* labels; the register shift between early-Buddhist *future-oriented future-restraint* and Mahāyāna *retroactive purification* — the cardinal *mitigation, not erasure* slogan — which must be stated in two registers and never collapsed into a single line of development; the four-way distinction *anumodanā / muditā / kataññū / pattidāna*; the terminology drift in *pure precepts*; and the function-rather-than-vocabulary nature of the cross-comparison with the Indo-Tibetan four powers of confession.
 
 **Keywords:** Samantabhadra's vow-practice; *Bhadracarī-praṇidhāna*; repenting karmic obstructions; rejoicing in merit; karma dyad; karma-transformation operator; the twin wings of karma practice; closure-formula isomorphism; seven-branch worship (*saptāṅga-pūjā*); register shift; mitigation, not erasure; *anumodanā*; the three modes of repentance; Zhiyi's *Lotus Samādhi Repentance Liturgy*; Shandao's five recollection-gateways; the two transformations of the basis; Madhyamaka exposition of karma; phenomenal repentance; principial repentance; four powers of confession.
@@ -416,7 +416,7 @@ Repentance and rejoicing-along are the *karma dyad* — one wing toward one's ow
 
 ## References
 
-### Primary Canonical Texts
+### I. Primary Buddhist Sources
 
 T0001. *Dīrgha-āgama* (*Cháng āhán jīng*). Translated by Buddhayaśas and Zhu Fonian. *Taishō Tripiṭaka* vol. 1.
 
@@ -458,7 +458,7 @@ AN 5.36. *Kāladānasutta*. Pali Text Society edition, *AN* III 41-42.
 
 AN 8.36. *Puññakiriyavatthusutta*. Pali Text Society edition, *AN* IV 241-243.
 
-### Secondary Scholarship
+### II. Modern Scholarship
 
 Heim, Maria. *Theories of the Gift in South Asia: Hindu, Buddhist, and Jain Reflections on Dāna*. New York: Routledge, 2004.
 
@@ -477,7 +477,7 @@ Tsongkhapa. *The Great Treatise on the Stages of the Path to Enlightenment* (*La
 ---
 
 > **Pointing at the Moon Research · Four Practice Gates, Volume One: *Mindful of the Buddha* · Part VII The Flower Ornament Vision · 7.3**
-> Shi Huijing （釋慧鏡）
+> Shi Huijing (釋慧鏡)
 > First draft, May 2026
 > This work is licensed under CC BY-NC-SA 4.0
 
@@ -486,3 +486,9 @@ Tsongkhapa. *The Great Treatise on the Stages of the Path to Enlightenment* (*La
 © 2026 釋慧鏡 (Shi Huijing). Licensed under CC BY-NC-SA 4.0.
 Primary source citations verified against CBETA *Taishō* (T) and *Wàn xùzàng* (X).
 Series GitHub repository: https://github.com/pointing-at-the-moon/four-practice-gates
+
+---
+
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+
+*NIAN-P27 · 釋慧鏡 (Shi Huijing) · 2026-05-02*
