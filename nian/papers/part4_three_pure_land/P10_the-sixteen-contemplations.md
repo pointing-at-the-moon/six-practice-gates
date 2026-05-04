@@ -2,10 +2,10 @@
 title: "The Sixteen Contemplations: A Designed Cognitive-Visual Architecture — From Buddha-Contemplation Methodology to Linear Ladder and Nine-Grade Differentiation"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
-paper_id: NIAN-P10
-date: 2026-04-17
+paper_id: "NIAN-P10"
+date: "2026-04-17"
 version: "1.0"
-license: CC BY-NC-SA 4.0
+license: "CC BY-NC-SA 4.0"
 ---
 
 # The Sixteen Contemplations
@@ -30,12 +30,6 @@ Continuing from P09's analysis of the forty-eight vows of the *Sūtra of Immeasu
 **Keywords:** sixteen contemplations, T0365 *Sūtra on the Contemplation of Amitāyus*, T0643 *Sūtra on the Ocean-Samādhi of Buddha-Contemplation*, Buddhabhadra, Kālayaśas, T0277 *Sūtra on the Practice Method of Contemplating Samantabhadra Bodhisattva*, Dharmamitra, contemplation-sūtra cluster, Liu-Song Yuanjia translation-period, Vaidehī, image-contemplation, true-body contemplation, propaedeutic ladder, nine grades of rebirth, lower-grade lower-birth, ten-recollection name-invocation, T1753 Shandao's *Four-Fascicle Commentary*, meditative-dispersed differentiation, seven-gate profound meaning, T1750 Zhiyi's *Commentary*, five-fold profound meaning, three-fold segmentation, three kinds of buddha-recollection, four kinds of Pure Land, T1911 *Mahāyāna Calming-and-Contemplation*, constant-walking *samādhi*, designed cognitive architecture, systematization.
 
 ---
-
-## 摘要
-
-本章承接 P09 對《無量壽經》（T0360）四十八願作為設計架構的分析，處理淨土三經的第二部文本《觀無量壽佛經》（T0365）的十六觀法。主張三事：其一，十六觀不是一份冗長的觀想技術清單，而是一次 systematization——visualization methodology 繼承自 T0643《佛說觀佛三昧海經》（佛陀跋陀羅譯，約 418–422 CE；比 T0365 早十至二十年），但線性十六步 ordinal sequence 是 T0365 的原創架構動作；T0643 是主題菜單，T0365 是路線圖。其二，十六觀的 ordering logic 以「外→內→品位」為三軸幾何——1–6 觀依報外境、7–13 觀正報佛身、14–16 觀往生九品；內部以「借相似境」「假以入真」「境大心小」三種 transition 理據運作；智顗《觀無量壽佛經疏》（T1750）0193a17–19 已明言「法身妙極不可一往而觀，故先作像想流利，後觀法身則易」，為此認知階梯在 7 世紀即有註疏層的明確陳述。其三，九品往生作為架構的分化收束，以四變量（行資糧 × 接引規格 × 華開時程 × 果位階梯）排列；下品下生「具足十念稱南無阿彌陀佛」為架構 floor，與 P09 論證的第十八願 floor-not-pinnacle 在結構上同構，共同揭示淨土三經「願層 + 觀法層」雙架構的「最低門檻 + 最大接引」設計簽名。本章以智顗 T1750 及《摩訶止觀》（T1911）的教內註疏視角作為 §四 橋接，並於 §五 釐清「智顗四種念佛」為後世簡化術語、非 T1750 原文（T1750 實為「三種念佛」）。
-
-**關鍵詞：** 十六觀、T0365《觀無量壽佛經》、T0643《佛說觀佛三昧海經》、佛陀跋陀羅、畺良耶舍、T0277《觀普賢菩薩行法經》、觀—sūtra cluster、劉宋元嘉譯場、韋提希、像觀、真身觀、propaedeutic、九品往生、下品下生、十念稱名、T1753 善導四帖疏、定善散善分判、七門玄義、T1750 智顗觀經疏、五重玄義、三段分判、三種念佛、四種淨土、T1911 摩訶止觀、常行三昧、designed cognitive architecture、systematization。
 
 ---
 
@@ -488,7 +482,7 @@ The question is not answered within P10's scope. The convergence-differentiation
 - *Pratyutpanna-samādhi Sūtra* (*Bān-zhōu sān-mèi jīng* 般舟三昧經), translated by Lokakṣema of the Later Han. Taishō vol. 13, no. 418. Primary source of P06; background citation in §2.5 and §IV.
 - *Upadeśa on the Sūtra of Immeasurable Life* (*Wúliàngshòu jīng yōu-pó-tí-shè* 無量壽經優波提舍), composed by Vasubandhu, translated by Bodhiruci. Taishō vol. 26, no. 1524. Primary source of P09; background citation in §IV.
 
-### II. Cross-Reference Index
+### II. Cross-Reference to Series Papers
 
 | Referenced Paper | Invocation Point in Present Paper | Function |
 |---|---|---|
@@ -519,9 +513,6 @@ The question is not answered within P10's scope. The convergence-differentiation
 
 ---
 
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-**CBETA verification:** All T-numbers verified against CBETA Electronic Tripiṭaka, 2024 edition.
-**GitHub:** github.com/pointing-at-the-moon/four-practice-gates
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+
+*NIAN-P10 · 釋慧鏡 (Shi Huijing) · 2026-04-17*

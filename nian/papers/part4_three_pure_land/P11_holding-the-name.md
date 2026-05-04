@@ -2,10 +2,10 @@
 title: "Holding the Name: The Name-Layer as Parallel Access — From Kumārajīva's Literary Distillation to the Phenomenal-and-Principial Dual Commentary"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
-paper_id: NIAN-P11
-date: 2026-04-17
+paper_id: "NIAN-P11"
+date: "2026-04-17"
 version: "1.0"
-license: CC BY-NC-SA 4.0
+license: "CC BY-NC-SA 4.0"
 ---
 
 # Holding the Name
@@ -30,12 +30,6 @@ This paper closes Part IV, the Three Pure Land Sūtras cluster, by taking up the
 **Keywords:** holding the name, T0366 *Amitābha Sūtra*, T0367 *Sūtra on the Praise of the Pure Land and the Protection of the Buddha*, Kumārajīva, Xuanzang, one mind undistracted, seven days, six-direction buddhas' witness, name-layer, three-sūtra parallel, Yunqi Zhuhong, X0424 *Commentary and Notes on the Amitābha Sūtra*, phenomenal holding, principial holding, phenomenal one-mindedness, principial one-mindedness, "contemplation *is* recollection, recollection *is* contemplation," Ouyi Zhixu, T1762 *Essential Explanation of the Amitābha Sūtra*, six faiths, faith-vow-practice, "not sequenced and not rigidly three," name-holding as the sudden-and-perfect teaching, "hard among the hard," designed minimalist architecture, provision-density saturation, literary distillation, parallel name-layer, floor-not-pinnacle.
 
 ---
-
-## 摘要
-
-本章收束第四部淨土三經系列，處理三經中漢譯最早、篇幅最短的《佛說阿彌陀經》（T0366，鳩摩羅什 402 CE 譯）。主張三事：其一，T0366「執持名號、一日至七日、一心不亂」的極簡不是 T0360 願層與 T0365 觀法層完成之後的後設壓縮，而是羅什對早期六方本《小無量壽經》（*Sukhāvatīvyūha*）梵本的文學性凝練；T0366 漢譯早於 T0365（424–442 CE）二十至四十年、早於 T0360 實際成書（4–5 世紀）一代以上，此時序硬證據封殺壓縮假說，確立 T0366 為淨土三經並列的第三條進入通道，即「名號層」。其二，極簡表層下封藏資糧密度飽和——雲棲蓮池《阿彌陀經疏鈔》（X0424）以「執（勇猛果決不搖奪）+ 持（常永貞固不遺忘）」文獻學訓詁封殺「無意識稱名」誤讀，並以事持／理持、事一心／理一心雙軌開出從信力伏妄到慧力破妄的進路；蕅益智旭《阿彌陀經要解》（T1762）以「信自／他／因／果／事／理」六信 + 信願行三資糧「非有先後亦非定三」證一聲名號內三資糧同時圓具。其三，蓮池與智旭不師承、獨立成家，三點不可化約差異（持名同位 vs 持名＞觀想／事理二層 vs 六信三重／技法論 vs 資糧論）構成並列的晚明註疏家視角；三經並列（文本層）＋ 雙註疏家並列（註疏層）形成雙層同構的並列結構，收束 Part IV 淨土三經系列，引向 P12 T0945《楞嚴經》大勢至念佛圓通章「都攝六根、淨念相繼」的動詞深化。
-
-**關鍵詞：** 執持名號、T0366《阿彌陀經》、T0367《稱讚淨土佛攝受經》、鳩摩羅什、玄奘、一心不亂、七日、六方佛證誠、名號層、三經並列、雲棲蓮池、X0424《阿彌陀經疏鈔》、事持、理持、事一心、理一心、觀即念也念即觀也、蕅益智旭、T1762《阿彌陀經要解》、六信、信願行、非有先後亦非定三、持名即頓教、難中之難、設計過的極簡架構、資糧密度飽和、文學性凝練、並列的名號層、底限非頂峰。
 
 ---
 
@@ -439,9 +433,6 @@ From T0366's "holding the name, one mind, undistracted" to T0945's "gathering in
 
 ---
 
-**Author 作者:** 釋慧鏡 (Shi Huijing)
-**Date 日期:** April 2026
-**License 授權:** CC BY-NC-SA 4.0
-**Version 版本:** 1.0
-**Primary source 底本:** CBETA electronic Tripiṭaka (2024 edition)
-**Repo:** github.com/pointing-at-the-moon/four-practice-gates
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+
+*NIAN-P11 · 釋慧鏡 (Shi Huijing) · 2026-04-17*

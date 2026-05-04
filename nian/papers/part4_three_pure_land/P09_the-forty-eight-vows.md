@@ -2,10 +2,10 @@
 title: "The Forty-Eight Vows: Dharmākara's Vow-System as a Designed Architecture — From Twenty-Four Vows to Twenty-Nine Adornments and the Dual Purity"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
-paper_id: NIAN-P09
-date: 2026-04-17
+paper_id: "NIAN-P09"
+date: "2026-04-17"
 version: "1.0"
-license: CC BY-NC-SA 4.0
+license: "CC BY-NC-SA 4.0"
 ---
 
 # The Forty-Eight Vows
@@ -30,12 +30,6 @@ Continuing from P07's treatment of the T0361 buddha-field ontology and P08's fou
 **Keywords:** forty-eight vows, T0360 *Larger Sukhāvatīvyūha*, T0362 Zhi Qian recension, T0361 twenty-four vows, Dharmākara, Lokeśvararāja, 210 billion buddha-fields, Vasubandhu, T1524 *Upadeśa on the Sūtra of Immeasurable Life*, twenty-nine adornments, five contemplation-gates, container-world, sentient-world, Tanluan, T1957 *Abridged Treatise*, two purities, Daochuo, T1958 *Anle ji*, twelve great gates, five great benefits, eighteenth vow, stage of definite assurance, even-ten-recollections, Christopher Alexander, pattern language, Herbert Simon, *Sciences of the Artificial*, designed architecture, Three Pure Land Sūtras.
 
 ---
-
-## 摘要
-
-本章接續 P07 對 T0361 佛國存有論的處理與 P08 對 *niàn*-*chēng* 動詞耦合的四步分析，回到淨土三經的文本地基，處理《無量壽經》（T0360）的四十八願本身作為一個**系統性架構**——不是四十八條獨立承諾的並列清單，而是一個以救度為終極目的、以分類為骨架、以擴展邏輯為歷時軌跡的**設計架構**。主張三事：其一，四十八願的深層結構是**器世間／眾生世間**的雙軸分配，世親《無量壽經優波提舍》（T1524）以二十九種莊嚴（十七器世間、八佛身、四菩薩）給出此雙軸的系統表述，曇鸞《略論安樂淨土義》（T1957）以「二種清淨」十七加十二延續此雙軸，並把願系與莊嚴系讀為同一結構實相的兩個表面。其二，T0362 的二十四願到 T0360 的四十八願之間有四種可辨識的擴展動作——**拆細**、**新增類別**、**明確入門機制**、**名流通基礎設施**——合起來不是數量倍增，而是架構性的精緻化。其三，第十八願在系統中的位置是入門的**底限**（最低條件、最大受眾），不是頂峰也不是捷徑；它的存在讓其他四十七願得以有眾生可救度。本章以 Christopher Alexander 的《模式語言》與 Herbert Simon 的《人造物科學》為跨學科啟發式對話夥伴，並以三個不可化約的差異（終極目的／本體論／升級路徑）劃清邊界。
-
-**關鍵詞：** 四十八願、T0360《無量壽經》、T0362 支謙譯本、T0361 二十四願、法藏、世自在王佛、二百一十億佛國、世親、T1524《無量壽經優波提舍》、二十九種莊嚴、五念門、器世間、眾生世間、曇鸞、T1957《略論安樂淨土義》、二種清淨、道綽、T1958《安樂集》、第十八願、正定聚、乃至十念、Christopher Alexander、Herbert Simon、設計架構、淨土三經。
 
 ---
 
@@ -537,7 +531,8 @@ This caution follows the same methodological pattern as P06's Thompson-dialogue,
 
 ---
 
-*Shi Huijing · 2026-04-17*
-*License: CC BY-NC-SA 4.0*
-*CBETA verification: all T-numbers verified against CBETA Electronic Tripiṭaka, 2024 edition*
-*GitHub: https://github.com/pointing-at-the-moon/four-practice-gates*
+*CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
+
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+
+*NIAN-P09 · 釋慧鏡 (Shi Huijing) · 2026-04-17*
