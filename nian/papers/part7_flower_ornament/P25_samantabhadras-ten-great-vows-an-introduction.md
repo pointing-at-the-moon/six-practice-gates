@@ -8,9 +8,11 @@ version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
 
-# Samantabhadra's Ten Great Vows: An Introduction
+# Samantabhadra's Ten Great Vows
 
-**From within the Avataṃsaka's Fortieth Fascicle to Part VI's Confluence as Textual Seam — Part VII's Opening Paper on the Flower Ornament Vision**
+**An Introduction**
+
+**From within the *Avataṃsaka*'s Fortieth Fascicle to Part VI's Confluence as Textual Seam — Part VII's Opening Paper on the Flower Ornament Vision**
 
 *中文主題：普賢十大願·導論*
 
@@ -393,11 +395,7 @@ Gregory, Peter N. *Tsung-mi and the Sinification of Buddhism*. Princeton: Prince
 
 ---
 
-© 2026 釋慧鏡 (Shi Huijing). Licensed under CC BY-NC-SA 4.0.
-Primary source citations verified against CBETA Taishō (T) and *Wàn xùzàng* (X).
-Series GitHub repository: https://github.com/pointing-at-the-moon/four-practice-gates
-
----
+*CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
 *Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
 
