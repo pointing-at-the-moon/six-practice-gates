@@ -12,6 +12,8 @@ license: "CC BY-NC-SA 4.0"
 
 ***The Pratyutpanna-Samādhi Sūtra* and the Arrival of the Visionary Register in China**
 
+*中文主題：面見諸佛——《般舟三昧經》與漢地見佛三昧的登場*
+
 ---
 
 **Author:** 釋慧鏡 (Shi Huijing)
@@ -402,6 +404,8 @@ The three-sense framework of *niànfó sānmèi* in P04 §3.5 receives here its 
 | NIAN-P21, P23 (forthcoming) | Chan; Tiantai as Bridge | §III.3, §VI | Long-term treatment of the three-stream differentiation; institutionalization of *chángxíng sānmèi* |
 
 ---
+
+*CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
 *Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
 
