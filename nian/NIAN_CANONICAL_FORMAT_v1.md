@@ -1,5 +1,5 @@
 ---
-title: NIAN Canonical Format · v1.1
+title: NIAN Canonical Format · v1.2
 author: 釋慧鏡 (Shi Huijing) · drafted with Chat Opus
 date: 2026-05-04
 type: canonical_format_specification
@@ -9,7 +9,7 @@ supersedes_drift: NIAN_FORMAT_AUDIT_2026Q2 (2026-05-04, Code Sonnet 4.6)
 parser_contract: aligns with waken/lib/papers.ts header expectations (see §5)
 ---
 
-# NIAN Canonical Format · v1.1
+# NIAN Canonical Format · v1.2
 
 **Purpose**: Single normative specification for the format of NIAN papers (`Mindful of the Buddha`, Volume 1 of *The Four Practice Gates*). This document locks the conventions revealed by the 2026-05-04 audit and provides the contract for: (a) the upcoming format-remediation pass against all 62 files, (b) the SĪLA / DĀNA / DHYĀNA volumes' format from first paper, (c) the future Waken site parser's ingestion of these files, (d) `PAPER_STYLE.md v2.2` of the four-practice-gates repo (which inherits from this).
 
@@ -33,6 +33,7 @@ parser_contract: aligns with waken/lib/papers.ts header expectations (see §5)
 | 8 | EN punctuation Type B — Chinese-source quotes | Keep `「...」` intact when the content is an intentional citation of a Chinese-language term or phrase |
 | 9 | Footer block | Three italic paragraphs, in this order: (i) optional CBETA collation notice, (ii) repo + license line, (iii) Form B attribution: `*NIAN-P## · 釋慧鏡 (Shi Huijing) · YYYY-MM-DD*` (EN) or `*NIAN-P## · 釋慧鏡 · YYYY-MM-DD*` (ZH) |
 | 10 | References section | EN heading `## References` (kill `Bibliography`) · ZH heading `## 參考文獻` (restore where missing) · 3-part Roman sub-headings as default; 5-part expansion only when content warrants |
+| 11 | Coda title-block second bold line | Permitted ONLY for P30/P31; first bold line under H1 is the subtitle (parser-extracted), second bold line is the Coda-position marker |
 
 ---
 
@@ -443,6 +444,22 @@ Notes:
 - The orphan `8.1` token at the very end of P30 EN and P30 ZH (after the canonical footer in each) is a build artifact — remove from both files
 - The Coda papers are the only papers with this structural pattern; do not propagate to other parts
 
+**Coda papers may also carry a second bold line in the title block**, immediately below the primary bold subtitle, marking the paper's structural position in Part VIII:
+
+```
+# Recollection in the Age of AI
+
+**The *Manas*-Turning Operator Still Operative**
+
+**Part VIII Coda · *Buddhānusmṛti* in the Age of AI · Paper 30 of *Mindful of the Buddha*'s thirty-one**
+
+*中文主題：AI 時代之念佛——末那-轉依機制仍然有效*
+
+---
+```
+
+This second bold line is permitted ONLY for Coda papers (P30, P31) and ONLY in the title block. It is the structural counterpart of the `§ 8.X` body marker: the §8.X marker names the position before the body-end, the title-block second bold line names the position before the body begins. Both are body-content markers in italic-bold form, not parser-anchor lines. The Waken parser extracts `subtitle_en` from the **first** bold line under H1; the second bold line is treated as supplementary metadata and rendered below the subtitle.
+
 ---
 
 ## 3. Punctuation conventions
@@ -657,6 +674,8 @@ This canonical is **v1.1**, dated 2026-05-04. v1.0 was published earlier the sam
   - §3.1 (clarified): Chinese-era date stamps (`公元 N 年`, `公元 N–N 年`, `西元 N 年`) normalize to `(N CE)` regardless of paren state — applies to post-paren-conversion form as well
   - §5 (added): HTML comment marker required when ZH `## 參考文獻` is restored from EN counterpart
 
+- **v1.2** (2026-05-04, post-Phase-D): Coda-paper title-block second bold line codified as permissible structural exception for P30/P31 only (§2.7 amendment + §0 quick-ref row 11). Phase E discovery and fix sub-phase prevents reintroduction of drift in this slot.
+
 Future revisions:
 - `v1.x`: clarifications, typo fixes, additional examples — same conventions
 - `v2.0`: substantive convention change (e.g., switching from Roman to Arabic top-level, or restructuring References into 4-part) — requires explicit author approval and produces a remediation pass for all volumes already shipped
@@ -668,4 +687,4 @@ The remediation pass dispatched against this v1.0 spec produces the **NIAN forma
 
 ---
 
-*釋慧鏡 · 指月 · 四行門 · NIAN canonical format · v1.1 · 2026-05-04*
+*釋慧鏡 · 指月 · 四行門 · NIAN canonical format · v1.2 · 2026-05-04*
