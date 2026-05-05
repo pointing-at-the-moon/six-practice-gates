@@ -1,7 +1,7 @@
 ---
 title: "What Anussati Actually Means — The Semantic, Attentional, and Structural Separation from Sati"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision · Part I · Foundations (Pāli)"
 paper_id: "NIAN-P01"
 date: "2026-04-14"
 version: "1.0"
