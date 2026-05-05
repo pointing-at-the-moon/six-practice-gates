@@ -8,7 +8,9 @@ version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
 
-# The Synthesis: From Yongming through Yunqi to Ouyi
+# The Synthesis
+
+**From Yongming through Yunqi to Ouyi**
 
 **Six Hundred Years of Chan-Pure-Land Integration in Vocabulary, Doctrine, and Liturgy — Part VI's Fifth Paper on the Two Streams**
 
@@ -286,11 +288,7 @@ The open question of the present paper, in single-line form: *Yongming gave the 
 
 ---
 
-© 2026 釋慧鏡 (Shi Huijing). Licensed under CC BY-NC-SA 4.0.
-Primary source citations verified against CBETA Taishō (T) and *Wàn xùzàng* (X).
-Series GitHub repository: https://github.com/pointing-at-the-moon/four-practice-gates
-
----
+*CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
 *Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
 
