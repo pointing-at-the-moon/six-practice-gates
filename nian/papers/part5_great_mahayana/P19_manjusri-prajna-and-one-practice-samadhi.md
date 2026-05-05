@@ -524,13 +524,7 @@ Part V, across its eight papers — P12 (the *Śūraṃgama* on "gathering the s
 
 ---
 
-This paper is published under CC BY-NC-SA 4.0.
-
-CBETA citations collated against the 2024 electronic edition.
-
-GitHub: https://github.com/pointing-at-the-moon/four-practice-gates
-
----
+*CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
 *Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
 
