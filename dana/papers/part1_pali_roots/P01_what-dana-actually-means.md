@@ -1,7 +1,7 @@
 ---
 title: What Dāna Actually Means — Dāna, Cāga, Yāga, and the Loosening of "Mine"
 author: Shi Huijing
-series: DĀNA · Part I · Pāli Roots
+series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu · Part I · Pāli Roots"
 paper_id: DANA-P01
 license: CC BY-NC-SA 4.0
 ---
