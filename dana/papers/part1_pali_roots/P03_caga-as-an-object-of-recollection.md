@@ -1,7 +1,7 @@
 ---
 title: "Cāga as an Object of Recollection — The Fifth Position of Cāga in the Six-Anussati Sequence"
 author: "Shi Huijing"
-series: "DĀNA · Part I · Pāli Roots"
+series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu · Part I · Pāli Roots"
 paper_id: "DANA-P03"
 date: "2026-04-19"
 license: "CC BY-NC-SA 4.0"
