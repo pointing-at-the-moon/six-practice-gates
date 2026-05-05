@@ -1,7 +1,7 @@
 ---
 title: "The Six Recollections: One Engine, Six Objects"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision · Part I · Foundations (Pāli)"
 paper_id: "NIAN-P03"
 date: "2026-04-15"
 version: "1.0"
