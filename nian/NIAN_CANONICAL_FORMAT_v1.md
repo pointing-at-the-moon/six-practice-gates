@@ -1,5 +1,5 @@
 ---
-title: NIAN Canonical Format · v1.2.1
+title: NIAN Canonical Format · v1.2.2
 author: 釋慧鏡 (Shi Huijing) · drafted with Chat Opus
 date: 2026-05-04
 type: canonical_format_specification
@@ -9,7 +9,7 @@ supersedes_drift: NIAN_FORMAT_AUDIT_2026Q2 (2026-05-04, Code Sonnet 4.6)
 parser_contract: aligns with waken/lib/papers.ts header expectations (see §5)
 ---
 
-# NIAN Canonical Format · v1.2.1
+# NIAN Canonical Format · v1.2.2
 
 **Purpose**: Single normative specification for the format of NIAN papers (`Mindful of the Buddha`, Volume 1 of *The Four Practice Gates*). This document locks the conventions revealed by the 2026-05-04 audit and provides the contract for: (a) the upcoming format-remediation pass against all 62 files, (b) the SĪLA / DĀNA / DHYĀNA volumes' format from first paper, (c) the future Waken site parser's ingestion of these files, (d) `PAPER_STYLE.md v2.2` of the four-practice-gates repo (which inherits from this).
 
@@ -35,6 +35,7 @@ parser_contract: aligns with waken/lib/papers.ts header expectations (see §5)
 | 10 | References section | EN heading `## References` (kill `Bibliography`) · ZH heading `## 參考文獻` (restore where missing) · 3-part Roman sub-headings as default; 5-part expansion only when content warrants |
 | 11 | Title-block second bold line | Permitted for **Coda papers (P30/P31)** AND **Part-opener papers (P01, P05, P06, P09, P12, P20, P25)**; first bold line under H1 is the subtitle (parser-extracted), second bold line is the structural-position marker |
 | 12 | CBETA collation notice | **Required** when paper cites ≥1 T/X/A number; canonical italic template per §2.6 |
+| 13 | Pāli-root Part-suffix in `series:` | Permitted for **Parts whose corpus is Pāli-root foundation work**: NIAN Part I (P01–P04 Foundations) and DĀNA Part I (P01–P03 Pāli Roots). Format and full canonical strings per §1.6.1. All other Parts use volume-only `series:` per Decision #5. |
 
 ---
 
@@ -113,6 +114,51 @@ Single canonical value per language. The audit found 11+ ZH variants and 5+ EN v
 This is the canonical book title (per `FOUR_GATES_MASTER_PLAN.md` §1.1 EN/ZH naming + §2.1 卷一 ZH naming). Both must be quoted to handle the colon + em-dashes safely.
 
 For SĪLA / DĀNA / DHYĀNA, the `series:` value increments by volume number and replaces the colon-after-dash subtitle clause with that volume's settled subtitle.
+
+#### 1.6.1 Pāli-root Part-suffix (v1.2.2)
+
+**Status.** Clarifying amendment to v1.2.1, not a new policy. No new YAML field, no new architectural surface. Formalizes a permitted suffix pattern within the existing `series:` string for volumes whose Part I traces Pāli-canonical foundations of the volume's argument.
+
+**Versioning rationale.** v1.2.x reserves clarifying amendments to existing fields and rendered surfaces; v1.3 reserves new fields or new surfaces. This amendment adds neither — it specifies a suffix pattern the canonical already permitted but did not formalize. If Pāli scholarship later warrants its own architectural surface within Four Practice Gates, that is a v1.3 conversation — and likely belongs in the sister `theravada-translation` project instead.
+
+**Scope at a glance.** 14 files: NIAN P01–P04 × 2 langs (8) + DĀNA P01–P03 × 2 langs (6). All other Parts in both volumes retain volume-level-only `series:` per v1.2.1.
+
+For Parts whose corpus is **Pāli-root foundation work** — i.e., the Part traces the volume's argument back to its Pāli canonical sources as the foundational layer of the volume — the `series:` value MUST carry a Part-suffix marker. This signals to the reader (and to the parser, which renders this in the breadcrumb per §4.3) that the Part occupies a structurally distinct doctrinal position.
+
+**Pāli-root Parts (registered)**:
+
+| Volume | Part | EN suffix | ZH suffix |
+|---|---|---|---|
+| NIAN | Part I (P01–P04 Foundations) | ` · Part I · Foundations (Pāli)` | `· 第一部 · 巴利根基` |
+| DĀNA | Part I (P01–P03 Pāli Roots) | ` · Part I · Pāli Roots` | `· 第一部 · 巴利根基` |
+
+**Separator convention (canonical rule, applies to all `series:` strings)**:
+
+- **ZH**: `》·` flush after closing book-title bracket (no space). ` · ` with single space on both sides between bare segments.
+- **EN**: ` · ` with single space on both sides throughout.
+
+Rationale: `》` already creates visual separation in ZH, so a space before `·` would over-space; bare segments need spaces on both sides for rhythm and parser-split safety. The EN/ZH asymmetry preserves natural punctuation rhythm in each language; both are canonical.
+
+**Full canonical strings for Pāli-root Parts**:
+
+- **NIAN P01–P04 EN**: `"Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision · Part I · Foundations (Pāli)"`
+- **NIAN P01–P04 ZH**: `"四行門卷一《念——從阿含隨念到華嚴念佛》· 第一部 · 巴利根基"`
+- **DĀNA P01–P03 EN**: `"Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu · Part I · Pāli Roots"`
+- **DĀNA P01–P03 ZH**: `"四行門卷二《施——從巴利之根到法界供養》· 第一部 · 巴利根基"`
+
+**Non-Pāli-root Parts** (NIAN Parts II–VIII, DĀNA Parts II–III, all SĪLA / DHYĀNA Parts pending registration): use volume-only `series:` per §1.6. Do not add Part-suffix.
+
+**Rationale**: Pāli-root work in NIAN/DĀNA is structurally distinct — these Parts trace the foundational Pāli sources from which the volume's later Mahāyāna arguments build. Surfacing this in `series:` and breadcrumb signals provenance to readers without conflating the indicator with the separate `theravada-translation` project (which owns dedicated Pāli scholarship). The marker is a signpost, not a destination.
+
+**Parser behavior** (for Waken `lib/papers.ts` per §4.3): when `series:` contains ` · ` separator, parser splits and renders trailing components in the breadcrumb (`Practice · Papers · Nian · Part I (Pāli) · P01`). For papers without the suffix, breadcrumb collapses to volume-level (`Practice · Papers · Nian · Part V · P15`). The parser treats trailing components after ` · ` as supplementary metadata; primary `series_id` is derived from the volume-prefix (matched to the canonical volume strings registered above).
+
+**Future Parts**: when SĪLA / DHYĀNA volumes designate Pāli-root Parts, register here. Adding/removing Parts from the Pāli-root list is a v1.2.x amendment (clarification), not a v2.0 substantive change.
+
+**Boundary discipline.** The `(Pāli)` / `巴利根基` / `Pāli Roots` qualifier signals provenance of *the volume's argument*, not standalone Pāli scholarship. Pāli philology, Theravāda commentarial work (Visuddhimagga, Atthakathā), and Pāli-to-modern translation belong to the separate `theravada-translation` project (`github.com/pointing-at-the-moon/theravada-translation`).
+
+The qualifier MUST NOT be expanded into a cross-volume Pāli aggregation surface — no `/practice/papers/pali/` sub-route, no Pāli-only TOC, no cross-volume Pāli index. Architectural restraint here preserves the sister project's territory.
+
+If standalone Pāli scholarship later warrants its own architectural surface within Four Practice Gates, that is a v1.3 conversation — and likely belongs in `theravada-translation` rather than here.
 
 ### 1.7 ZH-only optional YAML fields
 
@@ -711,6 +757,13 @@ This canonical is **v1.1**, dated 2026-05-04. v1.0 was published earlier the sam
   - §3.1 ZH separator list explicit: `：` (U+FF1A) added as recognized H1 subtitle-separator; compound-vs-separator disambiguation via YAML title comparison
   - §2.6 CBETA notice tightened from "optional" to "required when ≥1 T/X/A citation"; canonical templates fixed; existing non-canonical variants normalize during remediation
 
+- **v1.2.2** (2026-05-04, pre-DĀNA-cleanup): Pāli-root Part-suffix in `series:` field codified for cross-volume Pāli-foundation surfacing:
+  - §0 quick-ref: row 13 added (Pāli-root Part-suffix permitted for designated Parts)
+  - §1.6.1 (new): Pāli-root Part-suffix protocol with full canonical strings for NIAN Part I (P01–P04) and DĀNA Part I (P01–P03)
+  - Rendered surface: parser splits `series:` on ` · ` and renders trailing components in breadcrumb (`Practice · Papers · Nian · Part I (Pāli) · P01`)
+  - Rationale: Pāli-root foundations carry structurally distinct doctrinal weight in NIAN/DĀNA volumes; surfacing as Part-suffix is a signpost, not destination (destination is the separate `theravada-translation` project)
+  - Retroactive remediation: NIAN P01–P04 (8 files) get supplemental update before DĀNA cleanup executes
+
 Future revisions:
 - `v1.x`: clarifications, typo fixes, additional examples — same conventions
 - `v2.0`: substantive convention change (e.g., switching from Roman to Arabic top-level, or restructuring References into 4-part) — requires explicit author approval and produces a remediation pass for all volumes already shipped
@@ -722,4 +775,4 @@ The remediation pass dispatched against this v1.0 spec produces the **NIAN forma
 
 ---
 
-*釋慧鏡 · 指月 · 四行門 · NIAN canonical format · v1.2.1 · 2026-05-04*
+*釋慧鏡 · 指月 · 四行門 · NIAN canonical format · v1.2.2 · 2026-05-04*
