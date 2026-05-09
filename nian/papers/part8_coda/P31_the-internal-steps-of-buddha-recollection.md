@@ -116,7 +116,7 @@ P12's[^12] argument is clear: T0945[^10] is the first *structural* deepening of 
 
 **The Pure-Land–Chan dual current**— P20[^17]–P22[^16]–P24 — is *buddhānusmṛti*'s most mature articulation in the Sinitic tradition. The Pure-Land lineage from Tanluan, through Daochuo, to Shandao[^16][^17] grounds *buddhānusmṛti* fully in the Buddha's vow-power — its efficacy lies not in the practitioner's effort but in the prepared mechanism of the Buddha's vow. The Chan lineage from Huineng, through Daoxin, to Zongmi internalises *buddhānusmṛti* fully — to recollect the Buddha is to recollect the mind; to recollect the mind is to recollect the Buddha. The two currents look opposed, but their operative core is the same: both alter the structure of the mind, only directionally — one outward, in reliance; one inward, in gathering. The convergence in Yongming, in Yunqi Zhuhong, in Ouyi Zhixu, is not "two streams merging into one"; it is the confirmation that both streams are simultaneously valid.
 
-**Samantabhadra's Ten Great Vows and *dharmadhātu*-recollection**— P25[^15]–P29[^15] — is the ultimate expansion. Samantabhadra's ten vows (in T0278, the *Avataṃsaka*) extend the object of *buddhānusmṛti* from one Buddha, to the Buddhas of the ten directions, to all Buddhas of the *dharmadhātu*, to all sentient beings of the *dharmadhātu*, to all events, to all times. *Buddhānusmṛti* is no longer "recollection *of the Buddha*"; it is "recollection *of the dharmadhātu*." This expansion abolishes none of the prior stages — the Nine Epithets remain valid; direct sighting remains valid; name-invocation remains valid. *Dharmadhātu*-recollection is *buddhānusmṛti*'s broadest version, not its replacement.
+**Samantabhadra's Ten Great Vows and *dharmadhātu*-recollection**— P25[^15]–P29[^15] — is the ultimate expansion. Samantabhadra's ten vows (in T0293, the standalone *Bhadracarīpraṇidhānarāja* / 普賢行願品 — fascicle 40 of the 40-fascicle recension of the *Avataṃsaka*, trans. Prajñā) extend the object of *buddhānusmṛti* from one Buddha, to the Buddhas of the ten directions, to all Buddhas of the *dharmadhātu*, to all sentient beings of the *dharmadhātu*, to all events, to all times. *Buddhānusmṛti* is no longer "recollection *of the Buddha*"; it is "recollection *of the dharmadhātu*." This expansion abolishes none of the prior stages — the Nine Epithets remain valid; direct sighting remains valid; name-invocation remains valid. *Dharmadhātu*-recollection is *buddhānusmṛti*'s broadest version, not its replacement.
 
 The trajectory ends here. From Pāli to Mahāyāna, from one Buddha to all Buddhas of the *dharmadhātu*, from recollection-of-qualities to direct-sighting to name-invocation to *dharmadhātu*-recollection — every step is *additive*, not *substitutive*. The core operation, at every stage, is unchanged: fourfold rhythm, nine entrances, one system.
 
@@ -256,7 +256,7 @@ The rest is just time, and repetition.
 
 [^4]: *Ajjhāyatana* (sustained object-base) is a key Pāli technical term naming the operative state of *anussati*; see DN 22, MN 10, etc. The Sinitic translation is *niàn* (念), defined as "with respect to a previously experienced object, causing the mind to clearly remember without forgetting." The "maintaining the link" of §I and §IV inherits this term directly.
 
-[^5]: The *Sūtra in Forty-Two Sections* (T0784, traditionally attributed to Liu Yiqing's compilation period) constitutes the earliest Sinitic reception of *buddhānusmṛti*. P05 examines in detail how this sūtra unifies the Buddha's qualities, the essentials of the precepts, and the methods of recollection in a short instructional text — *buddhānusmṛti*'s primordial Sinitic form is neither the Pure-Land "other-power reliance" nor the Chan "self-power inquiry," but a *moral-instructional buddhānusmṛti*.
+[^5]: The *Sūtra in Forty-Two Sections* (T0784, traditionally attributed to Kāśyapa-mātaṅga and Dharmaratna at the White Horse Monastery in Luoyang, tenth year of the Yongping era of the Later Han, 67 CE) constitutes the earliest Sinitic reception of *buddhānusmṛti*. P05 examines in detail how this sūtra unifies the Buddha's qualities, the essentials of the precepts, and the methods of recollection in a short instructional text — *buddhānusmṛti*'s primordial Sinitic form is neither the Pure-Land "other-power reliance" nor the Chan "self-power inquiry," but a *moral-instructional buddhānusmṛti*.
 
 [^6]: The *Pratyutpanna-buddha-saṃmukhāvasthita-samādhi-sūtra* (T0418, trans. Lokakṣema) introduces the *pratyutpanna-samādhi* of standing face-to-face with the Buddha. P06 argues that this sūtra marks *buddhānusmṛti*'s first turn toward experiential expansion — *buddhānusmṛti* is no longer only the recollection of the Buddha's qualities; it is the experience of the Buddha's face within *samādhi*. §II's narrative draws on P06's argument.
 
@@ -276,7 +276,7 @@ The rest is just time, and repetition.
 
 [^14]: *Cheng weishi lun* (Dharmapāla et al., trans. Xuanzang), fascicle 4: "In the pre-turning state, [*manas*] continuously and discerningly cognises the appropriated self-mark; in the post-turning state, it likewise discerningly cognises the no-self mark." P30 takes this line as its central thesis, arguing that *buddhānusmṛti* is the doctrinally-licensed *manas*-turning mechanism. §III here cites P30's argument.
 
-[^15]: Samantabhadra's Ten Great Vows are in the *Avataṃsaka-sūtra* (T0278, T10.0104a–1045). P25–P29 detail the complete structure of the ten vows: vows 1–3 as the integrated three-karma operation, vows 4–5 as karmic transformation, vows 6–7 as the long-abiding of the Dharma, vows 8–9–10 as the final upward-receiving and downward-transforming dedication. §IV here cites P25–P29.
+[^15]: Samantabhadra's Ten Great Vows are canonically located in the *Bhadracarīpraṇidhānarāja* / *Pǔxián xíngyuàn pǐn* 普賢行願品 (T0293, trans. Prajñā, Tang Zhenyuan era; fascicle 40 of the 40-fascicle recension of the *Avataṃsaka-sūtra*; T10.844a ff.). The same vow-text also appears, in modulated form, at the close of the *Gaṇḍavyūha* / *Rù fǎjiè pǐn* of the 80-fascicle recension (T0279, trans. Śikṣānanda); the standalone canonical witness is T0293. The 60-fascicle recension (T0278, trans. Buddhabhadra) does not contain this Ten-Vows structure. P25–P29 detail the complete structure of the ten vows: vows 1–3 as the integrated three-karma operation, vows 4–5 as karmic transformation, vows 6–7 as the long-abiding of the Dharma, vows 8–9–10 as the final upward-receiving and downward-transforming dedication. §IV here cites P25–P29.
 
 [^16]: Shandao's *Sifen shu* on *Guan wuliangshou jing* (T1753): "from a single lifetime to ten recollections at minimum." P22 details how Shandao institutionalised name-invocation into a patriarchal-grade canonical thesis. §V here cites P22's argument.
 
@@ -298,7 +298,7 @@ The rest is just time, and repetition.
 
 #### Chinese Tripiṭaka (by T-/X-number)
 - *Saṃyukta Āgama* (trans. Guṇabhadra), T0099.
-- *Avataṃsaka-sūtra* (trans. Śikṣānanda), T0278.
+- *Bhadracarīpraṇidhānarāja* / *Pǔxián xíngyuàn pǐn* 普賢行願品 (trans. Prajñā), T0293 [the canonical standalone witness for the Ten Great Vows]; 80-fascicle *Avataṃsaka* (trans. Śikṣānanda), T0279; 60-fascicle *Avataṃsaka* (trans. Buddhabhadra), T0278.
 - *Sukhāvatī-vyūha* (trans. Saṃghavarman), T0360.
 - *Amitāyur-dhyāna-sūtra* (trans. Kālayaśas), T0365.
 - *Smaller Sukhāvatī-vyūha* (trans. Kumārajīva), T0366.
@@ -345,14 +345,16 @@ The rest is just time, and repetition.
 | Abbrev. | Full Name | Author / Translator | Taishō / Manji-zokuzō |
 |---------|-----------|---------------------|------------------------|
 | *Saṃyukta Āgama* | *Zá āhán jīng* 雜阿含經 | trans. Guṇabhadra (Liu-Song) | T0099 |
-| *Avataṃsaka* | *Dàfāngguǎng fó huāyán jīng* 大方廣佛華嚴經 | trans. Śikṣānanda (Tang) | T0278 |
+| *Bhadracarīpraṇidhānarāja* | *Pǔxián xíngyuàn pǐn* 普賢行願品 (40-fasc. *Avataṃsaka*, fasc. 40) | trans. Prajñā (Tang Zhenyuan) | T0293 |
+| *Avataṃsaka* (80-fasc.) | *Dàfāngguǎng fó huāyán jīng* 大方廣佛華嚴經（八十卷本） | trans. Śikṣānanda (Tang) | T0279 |
+| *Avataṃsaka* (60-fasc.) | *Dàfāngguǎng fó huāyán jīng* 大方廣佛華嚴經（六十卷本） | trans. Buddhabhadra (E. Jin) | T0278 |
+| *Sūtra in Forty-Two Sections* | *Sìshí'èr zhāng jīng* 四十二章經 | trad. attrib. Kāśyapa-mātaṅga & Dharmaratna (E. Han, 67 CE) | T0784 |
 | *Sukhāvatī-vyūha* | *Wúliángshòu jīng* 無量壽經 | trans. Saṃghavarman (Cao-Wei) | T0360 |
 | *Amitāyur-dhyāna* | *Guān wúliángshòu fó jīng* 觀無量壽佛經 | trans. Kālayaśas (Liu-Song) | T0365 |
 | *Smaller Sukhāvatī-vyūha* | *Āmítuó jīng* 阿彌陀經 | trans. Kumārajīva (Later Qin) | T0366 |
 | *Pratyutpanna-samādhi* | *Bānzhōu sānmèi jīng* 般舟三昧經 | trans. Lokakṣema (E. Han) | T0418 |
 | *Ghanavyūha* (Divākara) | *Dàshèng mìyán jīng* 大乘密嚴經 | trans. Divākara (Tang Wuzhou) | T0681 |
 | *Ghanavyūha* (Amoghavajra) | *Dàshèng mìyán jīng* 大乘密嚴經 | trans. Amoghavajra (Tang Daizong) | T0682 |
-| *Sūtra in Forty-Two Sections* | *Sìshí'èr zhāng jīng* 四十二章經 | trad. attrib. Kāśyapa-mātaṅga & Dharmaratna (E. Han) | T0784 |
 | *Śūraṅgama* | *Dà fódǐng shǒulèngyán jīng* 大佛頂首楞嚴經 | trans. Pāramiti et al. (Tang) | T0945 |
 | *Cheng weishi lun* | *Chéng wéishí lùn* 成唯識論 | Dharmapāla et al., trans. Xuanzang (Tang) | T1585 |
 | *Sifen shu* | *Guān wúliángshòu fó jīng shū* 觀無量壽佛經疏 | by Shandao (Tang) | T1753 |
