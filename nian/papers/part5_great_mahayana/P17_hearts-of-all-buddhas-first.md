@@ -499,9 +499,9 @@ P17's argument is here concluded. The seventh layer of the verb-axis, seeing-the
 - **P14 "Binding the Three Periods — The Time-Dependent Verb-Structure of Final-Age Buddha-Recollection in the *Perfect Enlightenment***": temporal-segment rhythm; fourth layer of P17's §I vertical; the Zongmi "thinking-of-the-Buddha is also a samsaric mind" warning in §3.1 and §5.1 corresponds to P14.
 - **P15 "Seeing the Sign, Obtaining the Precept — The *Brahma Net* Bodhisattva Precepts and the Precept-Dependent Verb-Structure of Sustained Buddha-Recollection"**: the precept-boundary; fifth layer of P17's §I vertical.
 - **P16 "Confession as Buddha-Recollection — The Dream-Drum of the *Golden Light Sūtra* and the Distributed-Agency Event-Chain"**: the event-chain of the distributed subject; sixth layer of P17's §I vertical; P16 §VI made explicit the division of labor "the *Golden Light* solves *how to confess*; the *Laṅkā* solves *who is being recollected*," and P17 §I continues that forward handoff.
-- **P18 "The *Ghanavyūha-sūtra* — Buddha-Recollection as *Ālaya*-Transmutation"** (forthcoming): *ālaya*-transmutation; P17 §VI makes explicit the forward handoff to the field of P18; eighth layer of the verb-axis: "transmutation."
-- **P19 "The Single-Practice Samādhi of the *Mañjuśrī-Prajñā-Sūtra*"** (forthcoming): the independent unfolding of the "single-practice samādhi" methodology in Daoxin's formula; P17 §3.3 and §4.2 have provided the structural preparation, which P19 will deepen.
-- **P21 (Southern School *Platform Sūtra*; Zongmi's four-fold division)** (forthcoming): the Southern School Chan's subsequent use of the *Laṅkā*; P17 §4.4 closes at Zongmi's late-Tang retrospective, and P21 will continue the account.
+- **P18 "The *Ghanavyūha-sūtra* — Buddha-Recollection as *Ālaya*-Transmutation"**: *ālaya*-transmutation; P17 §VI makes explicit the forward handoff to the field of P18; eighth layer of the verb-axis: "transmutation."
+- **P19 "The Single-Practice Samādhi of the *Mañjuśrī-Prajñā-Sūtra*"**: the independent unfolding of the "single-practice samādhi" methodology in Daoxin's formula; P17 §3.3 and §4.2 have provided the structural preparation, which P19 will deepen.
+- **P21 (Southern School *Platform Sūtra*; Zongmi's four-fold division)**: the Southern School Chan's subsequent use of the *Laṅkā*; P17 §4.4 closes at Zongmi's late-Tang retrospective, and P21 will continue the account.
 
 ---
 

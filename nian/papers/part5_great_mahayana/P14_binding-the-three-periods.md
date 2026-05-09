@@ -474,7 +474,7 @@ P14's answer: the action-rhythm of final-age buddha-recollection is jointly defi
 - P11: Holding the Name — The Name-Layer as Parallel Access.
 - P12: Gathering in the Six Sense-Roots — The Dual-Axis Deepening of the Verbal Grammar of Buddha-Recollection.
 - P13: Universal-Gate Name-Invocation — The Three-Karmic Architecture of Lotus Buddha-Recollection.
-- P15 (forthcoming): *Brahma Net Sūtra* — The Bodhisattva Precepts and the Precept-Dependent Verbal Grammar of Sustained Buddha-Recollection.
+- P15: *Brahma Net Sūtra* — The Bodhisattva Precepts and the Precept-Dependent Verbal Grammar of Sustained Buddha-Recollection.
 
 ### V. Sūtra & Śāstra Index
 
