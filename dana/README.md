@@ -9,7 +9,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1). Where NIAN establ
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: Paper phase — Part 2 opened (7 papers published)
+- **Status**: Paper phase — Part 4 opened (11 papers published)
 
 ### Planned Structure
 
@@ -42,3 +42,6 @@ Nine parts, ~30 papers:
 **Part 3 — Vinaya and early schools**
 - **P09** [僧伽作為施田](./papers/part3_vinaya_schools/P09_僧伽作為施田.md) / [The Saṅgha as a Field of Merit](./papers/part3_vinaya_schools/P09_the-sangha-as-a-field-of-merit.md)
 - **P10** [無畏施的出現](./papers/part3_vinaya_schools/P10_無畏施的出現.md) / [The Emergence of Abhayadāna](./papers/part3_vinaya_schools/P10_the-emergence-of-abhayadana.md)
+
+**Part 4 — The early Mahāyāna turn to dāna-pāramitā**
+- **P11** [從施到波羅蜜](./papers/part4_early_mahayana/P11_從施到波羅蜜.md) / [From Dāna to Dāna-Pāramitā](./papers/part4_early_mahayana/P11_from-dana-to-dana-paramita.md)
