@@ -400,12 +400,12 @@ _N/A_ — This paper's canonical basis (T0418 / Nikāya / *Visuddhimagga*) does 
 | NIAN-P03 | *The Six Recollections* | §II.3, §III.1 | The "one engine, six objects" frame |
 | NIAN-P04 | *Recollection and the Jhānas* | §I, §II.3, §III.2, §VI | *upacāra*/*appanā* boundary; the three-sense framework of *niànfó sānmèi* |
 | NIAN-P05 | *The Early Niànfó Sūtra Before the Word* | §I, §II.1, §II.4, §VI | Chinese register-jump thesis; dual-track origins; T0784 / T0602 background |
-| NIAN-P07 (forthcoming) | The Emergence of Pure Lands | §VI | Unfolding the "ten-direction presently-living buddhas" buddha-field ontology |
-| NIAN-P08 (forthcoming) | From Recollection to Calling | §VI | The verbal shift: from seeing-the-buddha to invoking-the-Name |
-| NIAN-P09–P11 (forthcoming) | The Three Pure Land Sūtras | §VI | Systematization of Amitābha ontology and Sukhāvatī cosmology |
-| NIAN-P12 (forthcoming) | The Śūraṅgama | §I excludes | The *dūshè liù gēn* passage reserved for P12; not treated here |
-| NIAN-P17 (forthcoming) | The Laṅkāvatāra | §III.3 | The *tathāgatagarbha* face of "mind is Buddha" reserved for P17; only the visionary hermeneutic face is established here |
-| NIAN-P21, P23 (forthcoming) | Chan; Tiantai as Bridge | §III.3, §VI | Long-term treatment of the three-stream differentiation; institutionalization of *chángxíng sānmèi* |
+| NIAN-P07 | The Emergence of Pure Lands | §VI | Unfolding the "ten-direction presently-living buddhas" buddha-field ontology |
+| NIAN-P08 | From Recollection to Calling | §VI | The verbal shift: from seeing-the-buddha to invoking-the-Name |
+| NIAN-P09–P11 | The Three Pure Land Sūtras | §VI | Systematization of Amitābha ontology and Sukhāvatī cosmology |
+| NIAN-P12 | The Śūraṅgama | §I excludes | The *dūshè liù gēn* passage reserved for P12; not treated here |
+| NIAN-P17 | The Laṅkāvatāra | §III.3 | The *tathāgatagarbha* face of "mind is Buddha" reserved for P17; only the visionary hermeneutic face is established here |
+| NIAN-P21, P23 | Chan; Tiantai as Bridge | §III.3, §VI | Long-term treatment of the three-stream differentiation; institutionalization of *chángxíng sānmèi* |
 
 
 ---
