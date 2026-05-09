@@ -9,7 +9,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1). Where NIAN establ
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: Paper phase — Part 4 opened (11 papers published)
+- **Status**: Paper phase — Part 4 opened (12 papers published)
 
 ### Planned Structure
 
@@ -45,3 +45,4 @@ Nine parts, ~30 papers:
 
 **Part 4 — The early Mahāyāna turn to dāna-pāramitā**
 - **P11** [從施到波羅蜜](./papers/part4_early_mahayana/P11_從施到波羅蜜.md) / [From Dāna to Dāna-Pāramitā](./papers/part4_early_mahayana/P11_from-dana-to-dana-paramita.md)
+- **P12** [檀波羅蜜的四章結構](./papers/part4_early_mahayana/P12_檀波羅蜜的四章結構.md) / [The Dà zhìdù lùn's Treatise on the Perfection of Giving I](./papers/part4_early_mahayana/P12_dana-paramita-four-structures.md)
