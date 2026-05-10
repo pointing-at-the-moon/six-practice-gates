@@ -22,7 +22,12 @@ license: "CC BY-NC-SA 4.0"
 **Version:** 1.0
 
 ---
+## Abstract
 
+This paper examines the Heart Sūtra's (T0251) silence on dāna-pāramitā, arguing that giving's absence is not oversight but theological statement. Using CBETA primary sources, systematic comparison across seven Chinese Heart Sūtra translations, Kuiji's *Xinjing Youzan* (T33n1710), and the *Mahāprajñāpāramitā-śāstra* (T1509), alongside the Āgama's giving-wisdom pairing tradition and the *Chiliastikon*'s six pāramitās sequence, I argue that the Heart Sūtra's silence on dāna is not passive omission but active theological choice. Seven doctrinal Heart Sūtra translations all contain zero mentions of dāna--silence is a structural, cross-version feature. Kuiji's "總合說故" explicitly states that the Heart Sūtra's "no cognition and no attainment" comprehensively expresses all six pāramitās, so dāna's absence is subsumption not omission. The *Mahāprajñāpāramitā-śāstra* formalizes the six pāramitās into two poles--"the merit group" (功德分: dāna first) and "the wisdom group" (慧明分: prajñā last)--and the Heart Sūtra presents only the wisdom pole. The metaphor "when the king arrives, his retinue follows"--prajñāpāramitā as the guiding principle of all six pāramitās means naming prajñā implicitly includes dāna. "Wealth autonomy is gained through giving"--dāna's achieved presence in the sūtra's framework of Avalokiteśva's ten autonomies. The core finding: the Heart Sūtra's silence on dāna is not passive omission but active theological choice--it provides the condition under which giving becomes pāramitā (perfection), rather than discussing dāna itself.
+
+**Keywords:** absence of giving, comprehensive expression, merit group, wisdom group, adaptation to context, Heart Sūtra, Kuiji's commentary, Mahāprajñāpāramitā-śāstra, king-and-retinue metaphor, wealth autonomy, Avalokiteśva, six pāramitās, giving-wisdom pairing, Chinese-composition hypothesis, liturgical text
+---
 > "Avalokiteśvara bodhisattva, while practicing deeply prajñāpāramitā, saw that the five skandhas are empty and thereby liberated from all suffering and anguish."
 > "No eye, ear, nose, tongue, body, or mind; no form, sound, smell, taste, touch, or object of mind; no realm of eyes and so on down to no realm of mind-consciousness; no ignorance and no end of ignorance and so on down to no aging-and-death and no end of aging-and-death; no suffering, origination, cessation, or path; no cognition and no attainment."
 > -- *Prajñāpāramitā Hṛdaya Sūtra* (T0251, Xuanzang trans.), CBETA T08n0251 0848c06-18
@@ -329,13 +334,7 @@ P17's question is: the Great Prajñāpāramitā (T0220), in six hundred volumes,
 
 ---
 
-## Abstract
-
-This paper examines the Heart Sūtra's (T0251) silence on dāna-pāramitā, arguing that giving's absence is not oversight but theological statement. Using CBETA primary sources, systematic comparison across seven Chinese Heart Sūtra translations, Kuiji's *Xinjing Youzan* (T33n1710), and the *Mahāprajñāpāramitā-śāstra* (T1509), alongside the Āgama's giving-wisdom pairing tradition and the *Chiliastikon*'s six pāramitās sequence, I argue that the Heart Sūtra's silence on dāna is not passive omission but active theological choice. Seven doctrinal Heart Sūtra translations all contain zero mentions of dāna--silence is a structural, cross-version feature. Kuiji's "總合說故" explicitly states that the Heart Sūtra's "no cognition and no attainment" comprehensively expresses all six pāramitās, so dāna's absence is subsumption not omission. The *Mahāprajñāpāramitā-śāstra* formalizes the six pāramitās into two poles--"the merit group" (功德分: dāna first) and "the wisdom group" (慧明分: prajñā last)--and the Heart Sūtra presents only the wisdom pole. The metaphor "when the king arrives, his retinue follows"--prajñāpāramitā as the guiding principle of all six pāramitās means naming prajñā implicitly includes dāna. "Wealth autonomy is gained through giving"--dāna's achieved presence in the sūtra's framework of Avalokiteśva's ten autonomies. The core finding: the Heart Sūtra's silence on dāna is not passive omission but active theological choice--it provides the condition under which giving becomes pāramitā (perfection), rather than discussing dāna itself.
-
-**Keywords:** absence of giving, comprehensive expression, merit group, wisdom group, adaptation to context, Heart Sūtra, Kuiji's commentary, Mahāprajñāpāramitā-śāstra, king-and-retinue metaphor, wealth autonomy, Avalokiteśva, six pāramitās, giving-wisdom pairing, Chinese-composition hypothesis, liturgical text
-
-## Notes
+## footnotes
 
 [^1]: *Prajñāpāramitā Hṛdaya Sūtra Profound Commentary*, Kuiji, CBETA T33n1710, vol. 2. T33, 0540b24. "為求菩薩者說應六波羅蜜多法，唯言無智、得，總合說故." Verified 2026-05-10.
 
