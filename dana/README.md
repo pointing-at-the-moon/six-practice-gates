@@ -9,7 +9,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1). Where NIAN establ
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: Paper phase — Part 5 opened (17 papers published)
+- **Status**: Paper phase — Part 6 opened (18 papers published)
 
 ### Planned Structure
 
@@ -50,6 +50,9 @@ Nine parts, ~30 papers:
 - **P14** [瑜伽師地論的九種相施](./papers/part4_early_mahayana/P14_瑜伽師地論的九種相施.md) / [The Nine Characteristics of Giving](./papers/part4_early_mahayana/P14_the-nine-characteristics-of-giving.md)
 
 **Part 5 — Prajñā literature: giving without abiding**
-- **P15** [金剛般若波羅蜜經施論](./papers/part5_prajnaparamita/P15_金剛般若波羅蜜經施論.md) / [The Diamond Sūtra's Treatise on Giving](./papers/part5_prajnaparamita/P15_Diamond_Sutra_Giving_Treatise.md)
+- **P15** [金剛般若波羅蜜經施論](./papers/part5_prajnaparamita/P15_金剛般若波羅蜜經施論.md) / [The Diamond Sūtra's Treatise on Giving](./papers/part5_prajnaparamita/P15_diamond-sutra-giving-treatise.md)
 - **P16** [心經靜默施論](./papers/part5_prajnaparamita/P16_心經靜默施論.md) / [The Silence of the Heart Sūtra](./papers/part5_prajnaparamita/P16_the-silence-of-the-heart-sutra.md)
 - **P17** [大般若六百卷施論的廣本全景](./papers/part5_prajnaparamita/P17_大般若六百卷施論的廣本全景.md) / [The Broad Canon Panorama of Dāna](./papers/part5_prajnaparamita/P17_the-broad-canon-panorama-dana.md)
+
+**Part 6 — The Śūraṅgama's reverse dāna thesis**
+- **P18** [楞嚴四種清淨明誨之不盜誨背面](./papers/part6_surangama_reverse/P18_楞嚴四種清淨明誨之不盜誨背面.md) / [The Reverse-Giving Hidden in Not-Taking](./papers/part6_surangama_reverse/P18_the-reverse-giving-hidden-in-not-taking.md)
