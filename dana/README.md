@@ -9,7 +9,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1). Where NIAN establ
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: Paper phase — Part 6 opened (18 papers published)
+- **Status**: Paper phase — Part 6 in progress (19 papers published)
 
 ### Planned Structure
 
@@ -56,3 +56,4 @@ Nine parts, ~30 papers:
 
 **Part 6 — The Śūraṅgama's reverse dāna thesis**
 - **P18** [楞嚴四種清淨明誨之不盜誨背面](./papers/part6_surangama_reverse/P18_楞嚴四種清淨明誨之不盜誨背面.md) / [The Reverse-Giving Hidden in Not-Taking](./papers/part6_surangama_reverse/P18_the-reverse-giving-hidden-in-not-taking.md)
+- **P19** [二十五圓通中的布施相](./papers/part6_surangama_reverse/P19_二十五圓通中的布施相.md) / [Dāna in the Twenty-Five Gateways of Perfect Penetration](./papers/part6_surangama_reverse/P19_dana-in-the-twenty-five-gateways-of-perfect-penetration.md)
