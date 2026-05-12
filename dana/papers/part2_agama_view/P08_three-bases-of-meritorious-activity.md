@@ -218,9 +218,9 @@ Giving being the entrance to the three bases, how does the institutionalized fie
 
 [^1]: AN 8.36 *Puññakiriyavatthusutta*, PTS AN iv 241 (the sixth sūtra of the fourth *Dānavagga* of Book Eight of the *Aṅguttara Nikāya*). Bhikkhu Sujato's English translation (CC0) at SuttaCentral; the full Chinese correspondence is at T0125 *juan* 12 Three-Jewels Chapter sūtra 2 (Group 2 of this paper).
 
-[^2]: *Ekottarikāgama juan* 12 "Three-Jewels Chapter" sūtra 2, T02.125.607c–608a. Translated by Gautama Saṅghadeva of the Eastern Jin (ca. 384–385 CE). The three items 施業 / 平等業 / 思惟業 correspond in full to the Pāli *dānamaya / sīlamaya / bhāvanāmaya* and constitute the only Chinese sūtra whose three items fully match AN 8.36.
+[^2]: *Ekottarikāgama juan* 12 "Three-Jewels Chapter" sūtra 2, T02n0125, p0602b12–c10 (juan 12 "Three-Jewels Chapter" sūtra 2). Translated by Gautama Saṅghadeva of the Eastern Jin (ca. 384–385 CE). The three items 施業 / 平等業 / 思惟業 correspond in full to the Pāli *dānamaya / sīlamaya / bhāvanāmaya* and constitute the only Chinese sūtra whose three items fully match AN 8.36.
 
-[^3]: *Dīrghāgama juan* 8 *Saṅgīti Sūtra*, T01.1.49c–53a. Translated jointly by Buddhayaśas and Zhu Fonian of the Latter Qin (ca. 412–413 CE), Dharmaguptaka transmission. The three bases of meritorious activity appear in Śāriputra's "again three items" catalogue-section; cognate with DN 33 *Saṅgītisutta*.
+[^3]: *Dīrghāgama juan* 8 *Saṅgīti Sūtra*, T01n0001, p0050a19+ (juan 8 *Saṅgīti Sūtra*, the "again three items, the three bases of meritorious activity" line within the Three-Items collection of the sūtra). Translated jointly by Buddhayaśas and Zhu Fonian of the Latter Qin (ca. 412–413 CE), Dharmaguptaka transmission. The three bases of meritorious activity appear in Śāriputra's "again three items" catalogue-section; cognate with DN 33 *Saṅgītisutta*.
 
 [^4]: *Dīrghāgama juan* 9 *Daśottara Sūtra*, T01.1.52c–57b (DĀ 10). The three-*dharma* section of this sūtra takes the three *samādhis* (emptiness / signlessness / wishlessness) as the "three items to be cultivated," in place of the three bases of meritorious activity; this is a structural substitution at the level of catalogue-form, not a doctrinal discontinuity. Equivalent to DN 34 *Dasuttarasutta*.
 
@@ -240,8 +240,8 @@ Giving being the entrance to the three bases, how does the institutionalized fie
 
 - **AN 8.36** *Puññakiriyavatthusutta*. PTS AN iv 241. Bhikkhu Sujato, English translation (CC0), SuttaCentral: <https://suttacentral.net/an8.36>.
 - **DN 33** *Saṅgītisutta*. PTS DN iii 207–271. Bhikkhu Sujato, English translation (CC0), SuttaCentral.
-- **T0125** *Ekottarikāgama juan* 12 "Three-Jewels Chapter" sūtra 2, T02.125.607c–608a. Translated by Gautama Saṅghadeva of the Eastern Jin. CBETA: <https://cbetaonline.dila.edu.tw/>.
-- **T0001** *Dīrghāgama juan* 8 *Saṅgīti Sūtra*, T01.1.49c–53a. Translated by Buddhayaśas and Zhu Fonian of the Latter Qin. CBETA.
+- **T0125** *Ekottarikāgama juan* 12 "Three-Jewels Chapter" sūtra 2, T02n0125, p0602b12–c10 (juan 12 "Three-Jewels Chapter" sūtra 2). Translated by Gautama Saṅghadeva of the Eastern Jin. CBETA: <https://cbetaonline.dila.edu.tw/>.
+- **T0001** *Dīrghāgama juan* 8 *Saṅgīti Sūtra*, T01n0001, p0050a19+ (juan 8 *Saṅgīti Sūtra*, the "again three items, the three bases of meritorious activity" line within the Three-Items collection of the sūtra). Translated by Buddhayaśas and Zhu Fonian of the Latter Qin. CBETA.
 - **T0099** *Saṃyuktāgama juan* 30 sūtra 841, T02.99.215a. Translated by Guṇabhadra of the Liu-Song. CBETA.
 - **T0026** *Madhyamāgama*. Translated by Gautama Saṅghadeva of the Eastern Jin. CBETA. (As structural-lacuna reference; not directly cited in this paper.)
 - **Itivuttaka 3.19 (It 60)** *Puññakiriyavatthu Sutta*. PTS It 51. (Listed as unincorporated version.)
