@@ -17,7 +17,7 @@ license: CC BY-NC-SA 4.0
 
 ## Abstract
 
-This paper examines the *Vajracchedikā-prajñāpāramitā* (T0235, Kumārajīva's *Diamond Sūtra*) on the reconfiguration of dāna-pāramitā through the paradox of "non-abiding giving" (無住施) and "empty merit" (福德性空). Using CBETA XML as ground truth and systematic vault searches across prajñāpāramitā, Yogācāra, and madhyamaka corpora -- with parallel comparison against Xuanzang's *Mahāprajñāpāramitā-sūtra* (T0220a), Vasubandhu's *Vajracchedikā-śāstra* (T1511), and six Chinese translations -- I argue that T0235's "non-abiding giving" is not a negative negation of giving but the epistemic condition of giving itself. The merit paradox ("because merit is empty, the Tathāgata says great merit is gained") employs a truncated *X is-not X* triad (missing the third step "is named") to prevent grasping at emptiness itself. A philological finding: T0235 contains zero instances of the term "three wheels empty" (三輪體空) -- a later scholastic summary -- so the text's own vocabulary is "non-grasping at marks" (不住相). The core finding: non-abiding giving is not a utilitarian merit-accumulation strategy but the genuine expression of dharma-empty; when the giver grasps at no marks, merit shifts from limited saṃvṛti-causality to unlimited nirvāṇa-oriented causality.
+This paper examines the *Vajracchedikā-prajñāpāramitā* (T0235, Kumārajīva's *Diamond Sūtra*) on the reconfiguration of dāna-pāramitā through the paradox of "non-abiding giving" (無住施) and "empty merit" (福德性空). Using CBETA XML as ground truth and systematic vault searches across prajñāpāramitā, Yogācāra, and madhyamaka corpora -- with parallel comparison against Xuanzang's *Mahāprajñāpāramitā-sūtra* (T0220c), Vasubandhu's *Vajracchedikā-śāstra* (T1511), and six Chinese translations -- I argue that T0235's "non-abiding giving" is not a negative negation of giving but the epistemic condition of giving itself. The merit paradox ("because merit is empty, the Tathāgata says great merit is gained") employs a truncated *X is-not X* triad (missing the third step "is named") to prevent grasping at emptiness itself. A philological finding: T0235 contains zero instances of the term "three wheels empty" (三輪體空) -- a later scholastic summary -- so the text's own vocabulary is "non-grasping at marks" (不住相). The core finding: non-abiding giving is not a utilitarian merit-accumulation strategy but the genuine expression of dharma-empty; when the giver grasps at no marks, merit shifts from limited saṃvṛti-causality to unlimited nirvāṇa-oriented causality.
 
 **Keywords:** non-abiding giving, empty merit, truncated triad, three-wheel emptiness, Vajracchedikā, Mahāprajñāpāramitā-śāstra, Madhyāntavibhāga-ūṇatīkā, merit paradox, Kumārajīva, prajñāpāramitā
 
@@ -75,9 +75,9 @@ The second layer is the concrete unfolding -- "without abiding in forms, without
 This contrasts with the "four-clause version" in Xuanzang's *Mahāprajñāpāramitā-sūtra*, chapter 075:
 
 > "When a bodhisattva mahāsattva practices giving, the three spheres are pure: first, not grasping 'I' as the giver; second, not grasping 'that one' as the recipient; third, not clinging to giving and its fruits. This is the purity of the three spheres when a bodhisattva mahāsattva practices giving."
-> -- T0220a, chapter 075[^2]
+> -- T0220c, T07p0087a11+[^2]
 
-T0220a's definition of "purity of the three spheres" is presented in positive vocabulary: not grasping 'I', not grasping 'that one', not clinging to giving and its fruits. This is fully equivalent to T0235's "not abiding in marks," but the tone shifts from negation (not abiding) to affirmation (purity). This is precisely the lexical shift from "apophatic" to "cataphatic" within the Prajñāpāramitā tradition itself.
+T0220c's definition of "purity of the three spheres" is presented in positive vocabulary: not grasping 'I', not grasping 'that one', not clinging to giving and its fruits. This is fully equivalent to T0235's "not abiding in marks," but the tone shifts from negation (not abiding) to affirmation (purity). This is precisely the lexical shift from "apophatic" to "cataphatic" within the Prajñāpāramitā tradition itself.
 
 The third layer is the immeasurability of merit -- illustrated with the metaphor of *xūkōng* (虛空, empty space) across the ten directions. *Xūkōng* is not a metaphor for "very large," but for "immeasurable." Merit is immeasurable not because its quantity transcends human measurement capacity, but because "immeasurable" itself is a philosophical proposition: when the giver does not abide in marks, the standards of measuring merit collapse.
 
@@ -363,7 +363,7 @@ T0235 closes with "not grasping marks, thus and so immovable" -- this is the con
 
 [^1]: *Vajracchedikā-prajñāpāramitā-sūtra*, translated in the Later Qin period by Kumārajīva, *Taishō Tripiṭaka* Vol. 8, No. 0235. CBETA T08n0235 0749a12–a20. This passage is the core declaration of non-abiding giving, containing the two propositions of "non-abiding in the six sense fields" and "merit is immeasurable."
 
-[^2]: *Mahāprajñāpāramitā-sūtra* (First Division) chapter 75, translated in the Tang period by Xuanzang, *Taishō Tripiṭaka* Vol. 7, No. 0220. CBETA T07n0220a chapter 075. This passage is the most complete comparative definition of "purity of the three spheres" in T0220a (worldly giving vs. supramundane giving).
+[^2]: *Mahāprajñāpāramitā-sūtra* (Second Division), translated in the Tang period by Xuanzang, *Taishō Tripiṭaka* Vol. 7, No. 0220. CBETA T07n0220c, T07p0087a11+ (the "How should a bodhisattva fulfill the purity of the three spheres" passage). Note: T0220a/T0220c are CBETA designations for separate divisions of Xuanzang's 600-fascicle 大般若經; this passage belongs to the Second Division (T0220c), not the First Division (T0220a) as originally cited.
 
 [^3]: *Vajracchedikā-prajñāpāramitā-sūtra*, T0235, CBETA T08n0235 0750c01–c02. The metaphor of abiding-giving as entering darkness vs. non-abiding-giving as illuminated by the sun.
 
@@ -432,7 +432,7 @@ T0235 closes with "not grasping marks, thus and so immovable" -- this is the con
 | T0237 | *Vajracchedikā-prajñāpāramitā-sūtra* | T08, No. 0237 | Chen Paramārtha trans. | Footnote: same system as T0236b |
 | T0238 | *Vajracchedikā-prajñāpāramitā-sūtra* | T08, No. 0238 | Sui Kumārajīva trans. | Footnote: Sanskrit literal translation |
 | T0239 | *Vajracchedikā-prajñāpāramitā-sūtra* | T08, No. 0239 | Tang Yìjìng trans. | Footnote: three-clause version |
-| T0220a | *Mahāprajñāpāramitā-sūtra* (First Division) | T07, No. 0220a | Tang Xuanzang trans. | §II analysis of purity of three spheres |
+| T0220c | *Mahāprajñāpāramitā-sūtra* (Second Division) | T07, No. 0220c | Tang Xuanzang trans. | §II analysis of purity of three spheres |
 | T0220h | *Mahāprajñāpāramitā-sūtra* (Sixth Division) | T07, No. 0220h | Tang Xuanzang trans. | §II Prajñāpāramitā series confirmation |
 | T1509 | *Mahāprajñāpāramitā-śāstra* | T25, No. 1509 | Nāgārjuna / Kumārajīva trans. | P13→P15 bridge |
 | T1511 | *Vajracchedikā-prajñāpāramitā-śāstra* | T25, No. 1511 | Vasubandhu / Bodhiruci trans. | §III three meanings of non-abiding |

@@ -58,7 +58,7 @@ The *Dà zhìdù lùn* 《大智度論》 (T1509, translated by Kumārajīva, ca
 >
 > "If a bodhisattva-mahāsattva gives because of having something to apprehend (*有所得*, *upalambha*), and at the moment of giving thinks, 'I give, that one receives, this is the thing given' — this is called *attaining giving* (*得檀*), not *attaining the pāramitā*." (translation mine)
 
-> 「若菩薩摩訶薩用無所得故布施……是人得具足檀波羅蜜。」[^7]
+> 「佛告釋提桓因：『菩薩摩訶薩布施時，不得與者、不得受者、不得所施物，是人得具足檀波羅蜜』」[^7]
 >
 > "If a bodhisattva-mahāsattva gives because of having nothing to apprehend (*無所得*, *anupalambha*) … this person attains the fulfilled *dāna-pāramitā*." (translation mine)
 
@@ -206,7 +206,7 @@ T1509 is not the product of a single author. P11 should not attribute the "with-
 
 ## Footnotes
 
-[^1]: *Mahāprajñāpāramitā-sūtra* 《大般若經》 T0220e, *juan* 571. This is the core citation of P11.
+[^1]: *Mahāprajñāpāramitā-sūtra* 《大般若經》 (5th Division, Xuanzang trans.), T07n0220e, T07p0951c22-24: "Indeed, the giver without prajñāpāramitā attains only the name of giving, not its other-shore; only by prajñāpāramitā does giving truly reach the other shore — likewise for moral discipline, patience, effort, meditation, and prajñā." This is the core citation of P11.
 
 [^2]: See the forward-pointer in the conclusion of P10 *The Emergence of Abhayadāna*.
 
@@ -218,7 +218,7 @@ T1509 is not the product of a single author. P11 should not attribute the "with-
 
 [^6]: *Dà zhìdù lùn* 《大智度論》 T1509, *juan* 60.
 
-[^7]: Same source.
+[^7]: T1509 vol 60, T25p0482c14-16. The inverse to the "with-apprehension giving" passage at T25p0482c10-11 (^6) — Śakra (Indra) asks the Buddha how a bodhisattva fulfills dāna-pāramitā, and the Buddha's answer is this passage.
 
 [^8]: *Mahāyāna-sūtrālaṃkāra* 《大乘莊嚴經論》 T1604, *juan* 8.
 
@@ -232,7 +232,7 @@ T1509 is not the product of a single author. P11 should not attribute the "with-
 
 [^13]: This passage is a bodhisattva-context occurrence within T0125, indicating a gradual transition rather than abrupt innovation in the term "*dāna-pāramitā*."
 
-[^14]: *Mahāprajñāpāramitā-sūtra* 《大般若經》 T0220e, *juan* 571.
+[^14]: *Mahāprajñāpāramitā-sūtra* (5th Division), T07n0220e, T07p0951c22-24 (same as ^1).
 
 [^15]: Giving is reclassified from "moral virtue" to "wisdom virtue."
 

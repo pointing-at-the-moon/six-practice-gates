@@ -14,7 +14,7 @@ license: "CC BY-NC-SA 4.0"
 
 ---
 
-## Abstract (中文版)
+## Abstract （中文版）
 
 「渡河者未達而返，名為不到彼岸。」[^1] 《大智度論》卷十二以舍利弗六十劫行菩薩道、因乞者索眼而退轉小乘的故事，為「不到彼岸」繪製了一幅精準的肖像。當施者執著「我與、彼受、所施者財」，即便六十劫的極端身施，依然墮入魔境界。反之，「三種清淨，無此三礙」，即便一縷布、一碗飯的布施，也是檀波羅蜜。此區分不是功德多寡的量的差異，而是**施的本體論條件的質的轉換**——此即 P11 所確立的「般若條件」的具體展開。
 
@@ -26,7 +26,7 @@ license: "CC BY-NC-SA 4.0"
 
 "The river-crosser who turns back before reaching the other shore is called 'one who has not reached pāramitā.'" (T1509 vol 12) The *Mahāprajñāpāramitā-śāstra* (T1509) fascicles 11–12 constitute the first systematic treatise on dāna-pāramitā in Chinese Mahāyāna. This paper argues that T1509's four-chapter structure (檀波羅蜜義 → 讚檀波羅蜜義 → 檀相義 → 法施義) establishes a complete framework of definition, merit, taxonomy, and positioning, while fascicle 12's reductio ad absurdum argumentation of 三事不可得 (giver, receiver, and gift all empty of inherent existence) provides the philosophical foundation for 三輪體空. T1509's core contribution is threefold: (1) transforming P11's abstract "prajñā as condition" into a step-by-step argument (name → three kinds of existence → decomposition → contemplative emptiness); (2) universalizing the with-apprehension/without-apprehension distinction from dāna alone to all six perfections; (3) rigorously distinguishing "arhat reaching the other shore (nirvāṇa)" from "bodhisattva reaching pāramitā (the infinite condition of giving everything, at all times, in all ways)"—this semantic correction defeats the Western reduction of *pāramitā* to moral perfection. dāna-pāramitā is not "more giving" but "giving with the three wheels emptied."
 
-**Keywords:** dāna-pāramitā, 檀波羅蜜, trilakṣaṇa-śūnya 三輪體空, 三事不可得, 有所得, 無所得, pratham-pratyaya-nirvāṇasya 涅槃之初緣, ṣaṭ-pāramitā 六度, prajñapti-sat 假名有, deśana-śūnyatā 分破空, upalambha-śūnyatā 觀空, T1509 檀波羅蜜章, T1509 vol 60 校量法施品, T1604 大乘莊嚴經論, trilakṣaṇa-sahita 三輪有, dual meaning of pāra 彼岸, arhat pāra vs bodhisattva pāramitā, P11 prajñā condition, six-perfection universalization
+**Keywords:** dāna-pāramitā, 檀波羅蜜， trilakṣaṇa-śūnya 三輪體空， 三事不可得， 有所得， 無所得， pratham-pratyaya-nirvāṇasya 涅槃之初緣， ṣaṭ-pāramitā 六度， prajñapti-sat 假名有， deśana-śūnyatā 分破空， upalambha-śūnyatā 觀空， T1509 檀波羅蜜章， T1509 vol 60 校量法施品， T1604 大乘莊嚴經論， trilakṣaṇa-sahita 三輪有， dual meaning of pāra 彼岸， arhat pāra vs bodhisattva pāramitā, P11 prajñā condition, six-perfection universalization
 
 ---
 
@@ -62,7 +62,7 @@ The definitional structure is causal: because the three matters are unobtainable
 
 ### 2.2 Praising Dāna-Pāramitā — T1509 Fascicle 11, Chapter 18
 
-Fascicle 11, chapter 18 (讚檀波羅蜜義) lists a function-catalog of giving:
+Fascicle 11, chapter 18 （讚檀波羅蜜義） lists a function-catalog of giving:
 
 > 「檀為寶藏，常隨逐人；檀為破苦，能與人樂；檀為善御，開示天道；檀為善府，攝諸善人；檀為安隱，臨命終時心不怖畏；檀為慈相，能濟一切；檀為集樂，能破苦賊；檀為大將，能伏慳敵；檀為妙果，天人所愛；檀為淨道，賢聖所遊；檀為積善福德之門；檀為立事聚眾之緣；檀為善行愛果之種；檀為福業善人之相；檀破貧窮、斷三惡道；檀能全護福樂之果；**檀為涅槃之初緣**；入善人聚中之要法；稱譽讚歎之淵府；入眾無難之功德；心不悔恨之窟宅；善法道行之根本；種種歡樂之林藪；富貴安隱之福田；得道涅槃之津梁；聖人大士智者之所行；餘人儉德寡識之所效。」[^9]
 
@@ -74,7 +74,7 @@ The most critical item here is "檀為涅槃之初緣" (giving is the initial co
 
 ### 2.3 The Characteristics of Dāna — T1509 Fascicle 11, Chapter 19
 
-Fascicle 11, chapter 19 (檀相義) establishes a taxonomy of giving:
+Fascicle 11, chapter 19 （檀相義） establishes a taxonomy of giving:
 
 > 「問曰：云何名檀？答曰：檀名布施。心相應善思故。」[^11]
 
@@ -88,13 +88,13 @@ T1509's response is the core argument of fascicle 12 — first acknowledging the
 
 ### 2.4 Dharma-Giving Surpasses Thing-Giving — T1509 Fascicle 11, Chapter 20
 
-Fascicle 11, chapter 20 (檀波羅蜜法施義) argues that dharma-giving surpasses thing-giving:
+Fascicle 11, chapter 20 （檀波羅蜜法施義） argues that dharma-giving surpasses thing-giving:
 
-> 「施之法，有佛無佛，世間常有；如法施者，唯有菩薩。」[^13]
+> 「施之法，有佛無佛，世間常有；如法施者，唯有佛世乃當有耳。」[^13]
 
-> "The dharma of giving — whether buddhas appear or not — exists in the world. But the one who gives dharma — only a bodhisattva." (translation mine)
+> "The dharma of giving — whether buddhas appear or not — exists in the world. But true dharma-giving — only during a Buddha's lifetime can it truly obtain." (translation mine)
 
-The primacy of dharma-giving does not lie in it being "higher" than thing-giving but in it being **the bodhisattva's unique giving** — thing-giving is shared by the three vehicles (śrāvaka, pratyekabuddha, and bodhisattva can all practice it), while dharma-giving belongs exclusively to the bodhisattva. This establishes the bodhisattva-character of giving: not the giving of things but the giving of dharma.
+The primacy of dharma-giving does not lie in it being "higher" than thing-giving but in it being **the giving that can be fully transmitted only when a Buddha is present in the world** — thing-giving naturally arises whether or not a Buddha appears (ordinary generosity suffices), while dharma-giving depends on direct access to the Buddha's own teaching for its complete expression. This establishes the historical condition of dharma-giving: it carries the continuity of the Buddha's true dharma — central to the bodhisattva path *during a Buddha's lifetime*. After a Buddha has departed, "giving" continues, but "dharma-giving" in its full sense no longer obtains.
 
 ### 2.5 Filling Dāna-Pāramitā — T1509 Fascicle 12: The Complete Argumentation of Three Matters Unobtainable
 
@@ -128,7 +128,7 @@ This is the most crucial of the extensions: trilakṣaṇa-śūnya is not a cond
 
 ### 2.7 The Six-Aspect System — T1604 as Symmetric Counterpart
 
-T1604 *juan* 8 (二度攝品) offers a six-aspect analysis of dāna-pāramitā:
+T1604 *juan* 8 （二度攝品） offers a six-aspect analysis of dāna-pāramitā:
 
 > 「施彼及共思，二成亦二攝，具住不慳故，法財無畏三。」[^22]
 
@@ -286,11 +286,11 @@ T1509 consistently uses "檀" rather than "施" throughout. This is Kumārajīva
 
 [^10]: T1509 vol 11, ch 18: "念施故歡喜，歡喜故一心，一心觀生滅無常，觀生滅無常故得道。"
 
-[^11]: T1509 vol 11, ch 19.
+[^11]: T1509 vol 11, T25p0140c16-17：「問曰：云何名檀？答曰：檀名布施。心相應善思，是名為檀。」
 
-[^12]: T1509 vol 11, ch 19.
+[^12]: T1509 vol 11, T25p0140c18-19：「有人言：有信、有福田、有財物，三事和合時，心生捨法，能破慳貪，是名為檀。」
 
-[^13]: T1509 vol 11, ch 20.
+[^13]: T1509 vol 11, T25p0144c17-19：「復次，財施之法，有佛無佛，世間常有；如法施者，唯有佛世乃當有耳。」
 
 [^14]: T1509 vol 12.
 
@@ -304,11 +304,11 @@ T1509 consistently uses "檀" rather than "施" throughout. This is Kumārajīva
 
 [^19]: T1509 vol 12.
 
-[^20]: T1509 vol 60.
+[^20]: T1509 vol 60, T25p0482c14-16：「佛告釋提桓因：『菩薩摩訶薩布施時，不得與者、不得受者、不得所施物，是人得具足檀波羅蜜』」 — the inverse statement to the "有所得" passage at T25p0482c10-11, establishing the dāna→dāna-pāramitā mechanism of mental transformation.
 
 [^21]: The three-wheel apprehension for each perfection differs — for dāna it is "I give, that one receives, the thing given"; for śīla it is "I observe, the precept observed, what is observed"; for kṣānti it is "I endure, the insult endured, what is endured" — but the structure is identical.
 
-[^22]: T1604 vol 8.
+[^22]: T1604 vol 7, T31p0629b11-13 (verse)：「施彼及共思，二成亦二攝，具住不慳故，法財無畏三。」This verse elucidates the six meanings of dāna-pāramitā.
 
 [^23]: svabhāva (giving to others = offering one's own wealth to recipients), hetu (the thought-with = non-greed wholesome root and citta-saṃskāra arising together), phala (two-fold attainment = wealth-attainment and body-attainment), karma (two-fold grasping = self-grasping and other-grasping both satisfied), samprayukta (abiding constantly without stinginess = continuously dwelling in the heart of one who does not sting), prakāra (the three of dharma-giving, wealth-giving, fearlessness-giving).
 
@@ -376,13 +376,13 @@ T1509 consistently uses "檀" rather than "施" throughout. This is Kumārajīva
 
 ### I. Primary Sources
 
-*Dà zhìdù lùn* 《大智度論》, composed by Nāgārjuna, translated by Kumārajīva, Later Qin, ca. 404–406 CE, Taishō vol. 25, no. 1509.
-*Mahāyāna-sūtrālaṃkāra* 《大乘莊嚴經論》, by Asaṅga, translated by Prabhākaramitra, Tang, Taishō vol. 31, no. 1604.
-*Liù dù jí jīng* 《六度集經》, translated by Kāng Sēnghuì, Wu, ca. 251 CE, Taishō vol. 3, no. 152.
-*Mahāprajñāpāramitā-sūtra* 《大般若經》, translated by Xuanzang, Tang, ca. 660–663 CE, Taishō vols. 5–7, no. 220 (T0220, *juan* 571 = "T0220e").
-*Madhyamaka-śāstra* 《中觀論》, attributed to Nāgārjuna, Taishō vol. 30, no. 1577 (T1577).
-*Mahāyāna-saṃgraha* 《攝大乘論》, by Asaṅga, translated by Xuanzang, Taishō vol. 31, no. 1592 (T1592).
-*Púsà dìchí jīng* 《菩薩地持經》, translated by Kumārajīva, Later Qin, Taishō vol. 30, no. 1579.
+*Dà zhìdù lùn* 《大智度論》， composed by Nāgārjuna, translated by Kumārajīva, Later Qin, ca. 404–406 CE, Taishō vol. 25, no. 1509.
+*Mahāyāna-sūtrālaṃkāra* 《大乘莊嚴經論》， by Asaṅga, translated by Prabhākaramitra, Tang, Taishō vol. 31, no. 1604.
+*Liù dù jí jīng* 《六度集經》， translated by Kāng Sēnghuì, Wu, ca. 251 CE, Taishō vol. 3, no. 152.
+*Mahāprajñāpāramitā-sūtra* 《大般若經》， translated by Xuanzang, Tang, ca. 660–663 CE, Taishō vols. 5–7, no. 220 (T0220, *juan* 571 = "T0220e").
+*Madhyamaka-śāstra* 《中觀論》， attributed to Nāgārjuna, Taishō vol. 30, no. 1577 (T1577).
+*Mahāyāna-saṃgraha* 《攝大乘論》， by Asaṅga, translated by Xuanzang, Taishō vol. 31, no. 1592 (T1592).
+*Púsà dìchí jīng* 《菩薩地持經》， translated by Kumārajīva, Later Qin, Taishō vol. 30, no. 1579.
 
 ### II. Modern Scholarship
 
@@ -423,7 +423,7 @@ Lamotte, Étienne. *Le Traité de la Grande Vertu de Sagesse de Nāgārjuna (Mah
 ---
 
 *Paper:* DANA-P12 · *From Dāna to Dāna-Pāramitā — The Dà zhìdù lùn's Treatise on the Perfection of Giving I* · **DĀNA · Part IV · The Early Mahāyāna Turn to Dāna-Pāramitā**
-*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates (四行門)
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates （四行門）
 *License:* CC BY-NC-SA 4.0
 *CBETA collation:* All T-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.
 *Repository:* https://github.com/pointing-at-the-moon/four-practice-gates
