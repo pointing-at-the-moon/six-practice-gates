@@ -9,7 +9,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1). Where NIAN establ
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: Paper phase — Part 7 opened (21 papers published; Parts I–VI complete, Part VI sealed 2026-05-12)
+- **Status**: Paper phase — Part 7 #2 published (22 papers published; Parts I–VI complete, Part VI sealed 2026-05-12)
 
 ### Planned Structure
 
@@ -61,3 +61,4 @@ Nine parts, ~30 papers:
 
 **Part 7 — The Lotus Sūtra: the gift of body and life**
 - **P21** [法師品法供養](./papers/part7_lotus_body/P21_法師品法供養.md) / [Dharma-Offering in the Lotus](./papers/part7_lotus_body/P21_dharma-offering-in-the-lotus.md)
+- **P22** [常不輕菩薩身禮拜](./papers/part7_lotus_body/P22_常不輕菩薩身禮拜.md) / [Sadāparibhūta — The Offering of Reverence](./papers/part7_lotus_body/P22_sadaparibhuta-the-offering-of-reverence.md)
