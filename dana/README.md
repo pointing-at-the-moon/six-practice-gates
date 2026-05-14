@@ -62,3 +62,4 @@ Nine parts, ~30 papers:
 **Part 7 — The Lotus Sūtra: the gift of body and life**
 - **P21** [法師品法供養](./papers/part7_lotus_body/P21_法師品法供養.md) / [Dharma-Offering in the Lotus](./papers/part7_lotus_body/P21_dharma-offering-in-the-lotus.md)
 - **P22** [常不輕菩薩身禮拜](./papers/part7_lotus_body/P22_常不輕菩薩身禮拜.md) / [Sadāparibhūta — The Offering of Reverence](./papers/part7_lotus_body/P22_sadaparibhuta-the-offering-of-reverence.md)
+- **P23** [藥王菩薩本事品之身命施詮釋危機](./papers/part7_lotus_body/P23_藥王菩薩本事品之身命施詮釋危機.md) / [Bhaiṣajyarāja's Self-Offering: A Hermeneutic Crisis](./papers/part7_lotus_body/P23_bhaisajyaraja-self-offering-hermeneutic-crisis.md)
