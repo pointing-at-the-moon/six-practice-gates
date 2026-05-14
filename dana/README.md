@@ -67,3 +67,4 @@ Nine parts, ~30 papers:
 **Part 8 — The Avataṃsaka: dharmadhātu offering** (普賢主場 · 卷重心)
 - **P24** [歡喜地之施](./papers/part8_huayan_dharmadhatu/P24_歡喜地之施.md) / [The Joy of the First Ground](./papers/part8_huayan_dharmadhatu/P24_joy-of-the-first-ground.md) — Part VIII opener · 普賢主場 #1
 - **P25** [普賢廣修供養](./papers/part8_huayan_dharmadhatu/P25_普賢廣修供養.md) / [Samantabhadra's Vow of Vast Offerings](./papers/part8_huayan_dharmadhatu/P25_samantabhadra-vow-vast-offerings.md) — Part VIII #2 · 普賢主場 unfold · 五百年累積結晶
+- **P26** [諸供養中法供養為最](./papers/part8_huayan_dharmadhatu/P26_諸供養中法供養為最.md) / [The Highest of All Offerings](./papers/part8_huayan_dharmadhatu/P26_highest-of-all-offerings.md) — Part VIII #3 · 法供養 deep-dive · 教禪一致 explicit anchor
