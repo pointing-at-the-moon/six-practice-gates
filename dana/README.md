@@ -9,7 +9,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1). Where NIAN establ
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: Paper phase — Part 7 #2 published (22 papers published; Parts I–VI complete, Part VI sealed 2026-05-12)
+- **Status**: Paper phase — Part VIII opener published (24 papers published; Parts I–VII complete + Part VIII Huayan opened 2026-05-14 · 普賢主場 開啟)
 
 ### Planned Structure
 
@@ -63,3 +63,6 @@ Nine parts, ~30 papers:
 - **P21** [法師品法供養](./papers/part7_lotus_body/P21_法師品法供養.md) / [Dharma-Offering in the Lotus](./papers/part7_lotus_body/P21_dharma-offering-in-the-lotus.md)
 - **P22** [常不輕菩薩身禮拜](./papers/part7_lotus_body/P22_常不輕菩薩身禮拜.md) / [Sadāparibhūta — The Offering of Reverence](./papers/part7_lotus_body/P22_sadaparibhuta-the-offering-of-reverence.md)
 - **P23** [藥王菩薩本事品之身命施詮釋危機](./papers/part7_lotus_body/P23_藥王菩薩本事品之身命施詮釋危機.md) / [Bhaiṣajyarāja's Self-Offering: A Hermeneutic Crisis](./papers/part7_lotus_body/P23_bhaisajyaraja-self-offering-hermeneutic-crisis.md)
+
+**Part 8 — The Avataṃsaka: dharmadhātu offering** (普賢主場 · 卷重心)
+- **P24** [歡喜地之施](./papers/part8_huayan_dharmadhatu/P24_歡喜地之施.md) / [The Joy of the First Ground](./papers/part8_huayan_dharmadhatu/P24_joy-of-the-first-ground.md) — Part VIII opener · 普賢主場 #1
