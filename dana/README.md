@@ -9,7 +9,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1). Where NIAN establ
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: Paper phase — Part VIII Huayan #1+#2 published (25 papers published; Parts I–VII complete + Part VIII Huayan opened 2026-05-14 · 普賢主場 unfold)
+- **Status**: Paper phase — Part IX 開卷 (29 papers published; Parts I–VIII complete · Part VIII Huayan 五部曲圓收 2026-05-14 · Part IX modern-diagnosis register opened 2026-05-15)
 
 ### Planned Structure
 
@@ -70,3 +70,6 @@ Nine parts, ~30 papers:
 - **P26** [諸供養中法供養為最](./papers/part8_huayan_dharmadhatu/P26_諸供養中法供養為最.md) / [The Highest of All Offerings](./papers/part8_huayan_dharmadhatu/P26_highest-of-all-offerings.md) — Part VIII #3 · 法供養 deep-dive · 教禪一致 explicit anchor
 - **P27** [善財五十三參](./papers/part8_huayan_dharmadhatu/P27_善財五十三參.md) / [Sudhana's Fifty-Three Teachers and the Giving Thread](./papers/part8_huayan_dharmadhatu/P27_sudhana-fifty-three-teachers-giving-thread.md) — Part VIII #4 · dāna-as-walk-through · polyphony chiasmus 結構
 - **P28** [入法界品作為施的最終形態](./papers/part8_huayan_dharmadhatu/P28_入法界品作為施的最終形態.md) / [Entering the Dharmadhātu through Giving](./papers/part8_huayan_dharmadhatu/P28_entering-the-dharmadhatu-through-giving.md) — Part VIII #5 · destination-move · 普賢主場 closer · 五部曲圓收
+
+**Part 9 — Contemporary diagnosis and AI coda**
+- **P29** [現代診斷：七覺支喜輕安雙因子作為診斷工具](./papers/part9_modern_diagnosis/P29_現代診斷.md) / [Modern Diagnosis: Pīti + Passaddhi as Cross-Traditional Diagnostic Instrument](./papers/part9_modern_diagnosis/P29_modern-diagnosis.md) — Part IX opener · register pivot · 七覺支 喜+輕安 雙因子 cross-traditional diagnostic · 內生 critique 1300 年 recovery · 漢傳念佛 求-交易化 + 西方 mindfulness 工具化 雙案例
