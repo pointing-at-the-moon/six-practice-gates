@@ -10,7 +10,7 @@ Four volumes, four gates of practice:
 | Vol. | Gate | Title | Status |
 |------|------|-------|--------|
 | 1 | **念** NIAN | [Mindful of the Buddha](./nian/) | ✅ **Sealed 2026-05-03 — 31/31 (all 8 Parts complete)** |
-| 2 | **施** DANA | [The Practice of Giving](./dana/) | In progress — 26/~31 (Parts I–VII complete + **Part VIII Huayan #1+#2+#3 sealed 2026-05-14** with P24 opener + P25 普賢廣修供養 + P26 諸供養中法供養為最 · 普賢主場 unfold · 法供養 deep-dive · 教禪一致 explicit anchor) |
+| 2 | **施** DANA | [The Practice of Giving](./dana/) | In progress — 27/~31 (Parts I–VII complete + **Part VIII Huayan #1+#2+#3+#4 sealed 2026-05-14** with P24 opener + P25 普賢廣修供養 + P26 諸供養中法供養為最 + P27 善財五十三參 · 普賢主場 unfold · 法供 deep-dive · 教禪一致 · dāna-as-walk-through polyphony chiasmus) |
 | 3 | **戒** SILA | *forthcoming* | -- |
 | 4 | **定** DHYANA | *forthcoming* | -- |
 
