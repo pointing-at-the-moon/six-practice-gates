@@ -2,7 +2,12 @@
 title: "From Recollection to Calling — The Four-Step Coupling of Niàn and Chēng in Chinese Buddha-Recollection"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series_short: "NIAN"
+volume: 1
 paper_id: "NIAN-P08"
+paper_number: 8
+part: "Part III · Early Mahāyāna Vision"
+part_number: 3
 date: "2026-04-17"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"

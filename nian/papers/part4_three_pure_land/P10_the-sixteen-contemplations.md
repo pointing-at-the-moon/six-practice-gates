@@ -2,7 +2,12 @@
 title: "The Sixteen Contemplations: A Designed Cognitive-Visual Architecture — From Buddha-Contemplation Methodology to Linear Ladder and Nine-Grade Differentiation"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series_short: "NIAN"
+volume: 1
 paper_id: "NIAN-P10"
+paper_number: 10
+part: "Part IV · The Three Pure Land Sūtras"
+part_number: 4
 date: "2026-04-17"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"

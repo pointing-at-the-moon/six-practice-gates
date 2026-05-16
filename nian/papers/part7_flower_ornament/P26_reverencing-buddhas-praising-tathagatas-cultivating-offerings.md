@@ -2,7 +2,12 @@
 title: "Reverencing All Buddhas, Praising the Tathāgatas, and Extensively Making Offerings: Samantabhadra's Vows One, Two, and Three as the Body, Speech, and Mind Halves of a Three-Karma Set"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series_short: "NIAN"
+volume: 1
 paper_id: "NIAN-P26"
+paper_number: 26
+part: "Part VII · The Flower Ornament Vision"
+part_number: 7
 date: "2026-05-02"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"

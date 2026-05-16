@@ -2,7 +2,12 @@
 title: "Requesting the Turning of the Dharma-Wheel, Requesting the Buddhas to Abide: Samantabhadra's Vows Six and Seven as the Two Modes of Dharma Persistence"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series_short: "NIAN"
+volume: 1
 paper_id: "NIAN-P28"
+paper_number: 28
+part: "Part VII · The Flower Ornament Vision"
+part_number: 7
 date: "2026-05-03"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"

@@ -2,7 +2,12 @@
 title: "The Nine Epithets: The Itipi so Formula and What the Buddha Left for Mindfulness of Himself"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision · Part I · Foundations (Pāli)"
+series_short: "NIAN"
+volume: 1
 paper_id: "NIAN-P02"
+paper_number: 2
+part: "Part I · Foundations (Pāli)"
+part_number: 1
 date: "2026-04-14"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"

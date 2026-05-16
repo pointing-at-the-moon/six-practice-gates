@@ -2,7 +2,12 @@
 title: "Seeing the Buddhas Face to Face — *The Pratyutpanna-Samādhi Sūtra* and the Arrival of the Visionary Register in China"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series_short: "NIAN"
+volume: 1
 paper_id: "NIAN-P06"
+paper_number: 6
+part: "Part III · Early Mahāyāna Vision"
+part_number: 3
 date: "2026-04-16"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"

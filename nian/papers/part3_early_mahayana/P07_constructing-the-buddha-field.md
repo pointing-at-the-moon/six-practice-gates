@@ -2,7 +2,12 @@
 title: "Constructing the Buddha-Field — The Akṣobhya and Amitābha Lines as Parallel Answers to T0418's Opening"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series_short: "NIAN"
+volume: 1
 paper_id: "NIAN-P07"
+paper_number: 7
+part: "Part III · Early Mahāyāna Vision"
+part_number: 3
 date: "2026-04-17"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"

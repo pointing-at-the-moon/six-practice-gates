@@ -2,7 +2,12 @@
 title: "Binding the Three Periods: The Time-Dependent Verbal Grammar of Final-Age Buddha-Recollection in the *Sūtra of Perfect Enlightenment* — From the 'Severing → Leaving → Binding' Progression of the Three Final-Age Chapters to the Apex of 'Excepting Those of Sudden Awakening"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series_short: "NIAN"
+volume: 1
 paper_id: "NIAN-P14"
+paper_number: 14
+part: "Part V · Recollection in the Great Mahāyāna Sūtras"
+part_number: 5
 date: "2026-04-18"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"

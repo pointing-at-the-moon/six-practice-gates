@@ -2,7 +2,12 @@
 title: "The Early *Niànfó* Sūtra Before the Word — The *Sūtra in Forty-Two Sections* and the Origins of Chinese Recollection Vocabulary"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series_short: "NIAN"
+volume: 1
 paper_id: "NIAN-P05"
+paper_number: 5
+part: "Part II · The Earliest Chinese Reception"
+part_number: 2
 date: "2026-04-15"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"

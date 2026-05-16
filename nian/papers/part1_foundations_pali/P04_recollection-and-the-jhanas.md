@@ -2,7 +2,12 @@
 title: "Recollection and the Jhānas — Access, Absorption, and the Limits of Multi-Faceted Objects"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision · Part I · Foundations (Pāli)"
+series_short: "NIAN"
+volume: 1
 paper_id: "NIAN-P04"
+paper_number: 4
+part: "Part I · Foundations (Pāli)"
+part_number: 1
 date: "2026-04-15"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"

@@ -2,7 +2,12 @@
 title: "Buddha-Recollection as Ālaya-Parāvṛtti: The Two Ontological Anchors of the Ghanavyūha-sūtra and the Constructive-Bridge Thesis — The Eighth Layer of the Verb-Axis: Transformation-of-the-Base"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series_short: "NIAN"
+volume: 1
 paper_id: "NIAN-P18"
+paper_number: 18
+part: "Part V · Recollection in the Great Mahāyāna Sūtras"
+part_number: 5
 date: "2026-04-20"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"

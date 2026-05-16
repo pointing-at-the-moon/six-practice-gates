@@ -2,7 +2,12 @@
 title: "Recollection in the Age of AI: The Manas-Turning Operator Still Operative"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series_short: "NIAN"
+volume: 1
 paper_id: "NIAN-P30"
+paper_number: 30
+part: "Part VIII · Coda"
+part_number: 8
 date: "2026-05-04"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"

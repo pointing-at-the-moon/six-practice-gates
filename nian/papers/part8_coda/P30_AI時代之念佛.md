@@ -2,7 +2,12 @@
 title: "AI 時代之念佛：末那-轉依機制仍然有效"
 author: "釋慧鏡 (Shi Huijing)"
 series: "四行門卷一《念——從阿含隨念到華嚴念佛》"
+series_short: "NIAN"
+volume: 1
 paper_id: "NIAN-P30"
+paper_number: 30
+part: "第八部 · 終章"
+part_number: 8
 date: "2026-05-04"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"
@@ -27,11 +32,11 @@ license: "CC BY-NC-SA 4.0"
 
 ---
 
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** May 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-**Series:** NIAN — Mindful of the Buddha
+**作者：** 釋慧鏡 (Shi Huijing)
+**日期：** 2026-05-04
+**授權：** CC BY-NC-SA 4.0
+**版本：** 1.0
+**書系：** NIAN — Mindful of the Buddha
 
 ---
 

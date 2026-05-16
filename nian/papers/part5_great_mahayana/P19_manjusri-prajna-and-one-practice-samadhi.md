@@ -2,7 +2,12 @@
 title: "The Mañjuśrī Prajñā Sūtra and One-Practice Samādhi: The Lodestone of Six Chinese Masters and the Genealogical Close of Part V"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series_short: "NIAN"
+volume: 1
 paper_id: "NIAN-P19"
+paper_number: 19
+part: "Part V · Recollection in the Great Mahāyāna Sūtras"
+part_number: 5
 date: "2026-04-21"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"

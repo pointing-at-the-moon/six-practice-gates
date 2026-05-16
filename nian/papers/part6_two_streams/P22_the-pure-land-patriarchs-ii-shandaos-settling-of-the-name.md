@@ -2,7 +2,12 @@
 title: "The Pure Land Patriarchs II: Shandao's Settling of the Name — From the Doctrinal Anchor of *Fánfū rù bàotǔ* to the Institutionalization of *Yīxiàng zhuānchēng* in the *Guānjīng Sìtiē Shū*"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series_short: "NIAN"
+volume: 1
 paper_id: "NIAN-P22"
+paper_number: 22
+part: "Part VI · Two Streams"
+part_number: 6
 date: "2026-04-29"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"

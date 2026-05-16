@@ -2,7 +2,12 @@
 title: "The Pure Land Patriarchs I: Tanluan and Daochuo — Other-Power as Lexical Invention and the Ordinary Being as Soteriological Subject"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series_short: "NIAN"
+volume: 1
 paper_id: "NIAN-P20"
+paper_number: 20
+part: "Part VI · Two Streams"
+part_number: 6
 date: "2026-04-21"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"

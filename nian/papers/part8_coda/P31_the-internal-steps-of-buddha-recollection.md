@@ -2,13 +2,15 @@
 title: "The Internal Steps of Buddha-Recollection: From the Nine Epithets to Dharmadhātu-Recollection — A Clarification After Thirty-One Papers"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series_short: "NIAN"
+volume: 1
 paper_id: "NIAN-P31"
+paper_number: 31
+part: "Part VIII · Coda"
+part_number: 8
 date: "2026-05-07"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"
-part: "VIII (Coda)"
-sequence: "P31"
-language: "en"
 ---
 
 # The Internal Steps of Buddha-Recollection

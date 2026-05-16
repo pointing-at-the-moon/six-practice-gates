@@ -2,7 +2,12 @@
 title: "Universal-Gate Name-Invocation: The Three-Karmic Architecture of Lotus Buddha-Recollection — From Universal-Gate Invocation to the Reverence of Never Disparaging"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series_short: "NIAN"
+volume: 1
 paper_id: "NIAN-P13"
+paper_number: 13
+part: "Part V · Recollection in the Great Mahāyāna Sūtras"
+part_number: 5
 date: "2026-04-18"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"

@@ -2,7 +2,12 @@
 title: "Seeing the Sign, Obtaining the Precept: The *Brahma Net* Bodhisattva Precepts and the Precept-Dependent Verbal Grammar of Sustained Buddha-Recollection — From the Five-Layer Structure of the Ten Major and Forty-Eight Minor Precepts to Fazang's Ontology of the Precept-Body"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series_short: "NIAN"
+volume: 1
 paper_id: "NIAN-P15"
+paper_number: 15
+part: "Part V · Recollection in the Great Mahāyāna Sūtras"
+part_number: 5
 date: "2026-04-19"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"

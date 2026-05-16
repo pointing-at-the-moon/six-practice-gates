@@ -2,7 +2,12 @@
 title: "Confession as Buddha-Recollection: The Dream-Drum of the *Golden Light Sūtra* and the Distributed-Agency Event-Chain — From the Three Chinese Recensions (T0663 / T0664 / T0665) to the Tiantai Liturgization of Repentance"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series_short: "NIAN"
+volume: 1
 paper_id: "NIAN-P16"
+paper_number: 16
+part: "Part V · Recollection in the Great Mahāyāna Sūtras"
+part_number: 5
 date: "2026-04-20"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"
