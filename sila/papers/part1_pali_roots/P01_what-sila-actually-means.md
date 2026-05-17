@@ -95,7 +95,7 @@ The Chinese parallel closes the sequence with a phrase that will serve as the cl
 
 The Pāli closer, *iti kho, ānanda, kusalāni sīlāni anupubbena aggāya parentī* — "skillful ethical states progressively lead up to the highest," in Bhikkhu Sujato's SuttaCentral rendering[^5] — is rendered in the Chinese as *cǐ jiè qù zhì dì yī* (此戒趣至第一). The Chinese verb *qù zhì* (趣至, *approaches and arrives at*) corresponds to the Pāli *aggāya parenti*, both verbs of active locomotion. *Sīla* is not a static ground but the starting motion of a developmental chain. The chain itself anchors the *telos* of all three axes: whatever *saṃvara* does at the sense-doors, whatever *vinaya* does at the institutional level, both find their functional ground in this same eleven-link sequence.
 
-This chapter takes the Chinese phrase *this sīla approaches the highest* as its closing anchor in §VI; subsequent papers in the *SĪLA* volume (P02 on the five qualities, P03 on *sīlānussati*, P07 on *uposatha*, P23 on *sīla*→*samādhi*) will return to this same eleven-link chain from their own angles. The Chinese-axis foundation having been laid out, §III now turns to each of the three terms in turn.
+This chapter takes the Chinese phrase *this sīla approaches the highest* as its closing anchor in §VI; subsequent papers in the *SĪLA* volume (P02 on the five qualities, P03 on *sīlānussati*, P07 on *uposatha*, P24 on *sīla*→*samādhi*) will return to this same eleven-link chain from their own angles. The Chinese-axis foundation having been laid out, §III now turns to each of the three terms in turn.
 
 ---
 

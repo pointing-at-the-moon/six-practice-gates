@@ -9,7 +9,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1) and [*The Practice
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: 🟢 **Paper phase 3/29 — Part I closing (P01 + P02 + P03 landed 2026-05-17)** · forward through 三系律藏 / 戒體論 / 藥師主場 / 般若無相戒 / 楞嚴四清淨明誨 (DHYĀNA handoff) / 現代日用
+- **Status**: 🟢 **Paper phase 3/30 — Part I in progress (P01 + P02 + P03 landed 2026-05-17 · P04 ekagattā opening next)** · forward through 三系律藏 / 戒體論 / 藥師主場 / 般若無相戒 / 楞嚴四清淨明誨 (DHYĀNA handoff) / 現代日用
 
 ### Planned Structure
 
