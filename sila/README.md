@@ -9,7 +9,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1) and [*The Practice
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: 🟢 **Paper phase 1/29 — Part I opener landed 2026-05-16** · forward through 三系律藏 / 戒體論 / 藥師主場 / 般若無相戒 / 楞嚴四清淨明誨 (DHYĀNA handoff) / 現代日用
+- **Status**: 🟢 **Paper phase 2/29 — Part I in progress (P01 + P02 landed 2026-05-17)** · forward through 三系律藏 / 戒體論 / 藥師主場 / 般若無相戒 / 楞嚴四清淨明誨 (DHYĀNA handoff) / 現代日用
 
 ### Planned Structure
 
@@ -29,6 +29,7 @@ Nine parts, ~29 papers:
 
 **Part I — Pāli Roots**
 - **P01** [戒之三軸](./papers/part1_pali_roots/P01_戒之三軸.md) / [Three Axes of Sīla — *Sīla, Saṃvara, Vinaya, and the Word That English Cannot Quite Hold*](./papers/part1_pali_roots/P01_what-sila-actually-means.md) — Volume opener · 三詞辨義 + 漢譯 m-to-n 映射 + AN 11.1 11-link chain anchor「此戒趣至第一」 · Bodhi/Gethin/Anālayo §IV · Dharmaguptaka 250 / Theravāda 227 / MSV 263 cross-system reading
+- **P02** [聖戒成就與四預流支](./papers/part1_pali_roots/P02_聖戒成就與四預流支.md) / [*Ariyakanta-sīla as the Fourth Sotāpattiyaṅga — A Reading of SĀ Sūtra 935*](./papers/part1_pali_roots/P02_sila-as-fourth-sotapattiyanga.md) — *Saṃyukta-āgama* sūtra 935 (Guṇabhadra trans.) as canonical adjudication of the four-limb structure · cross-corpus verb-pairing argument (*samannāgato* / *paripūrakārī* vs *aveccappasāda* / *pasanna*) · Guṇabhadra's eight-virtue rendering (不壞 / 不缺 / 不污 / 不雜 / 不他取 / 善護 / 明者稱譽 / 智者不厭) aligned with Pāli *ariyakanta-sīla* with explicit 1:1 mapping caveat · *sotāpattiyaṅga* / *puññābhisanda* category disentanglement · SN 55.40 *pamāda* chain as mirror to AN 11.1 forward chain (P01 carry-forward)
 
 ---
 
