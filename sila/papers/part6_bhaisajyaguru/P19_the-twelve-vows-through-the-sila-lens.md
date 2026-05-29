@@ -1,19 +1,24 @@
 ---
-title: The Twelve Vows through the Sīla Lens
-title_en: The Twelve Vows through the Sīla Lens
+title: "The Twelve Vows through the Sīla Lens"
 subtitle: "Bhaiṣajyaguru's Vows as the Enabling-Ground of Precept-Keeping"
-subtitle_en: "Bhaiṣajyaguru's Vows as the Enabling-Ground of Precept-Keeping"
-series: 四行門
-volume: 戒
-volume_en: SILA
+title_zh: 十二大願的戒視角
+subtitle_zh: 藥師本願作為持戒的支持條件
+volume: 戒門 SĪLA
 paper_id: SILA-P19
-part: 六
-sequence: 19
+paper_number: P19
+language: en
 date: 2026-05-29
+author: 釋慧鏡 Shi Huijing
 license: CC BY-NC-SA 4.0
-author: 釋慧鏡
-author_en: Shi Huijing
-lang: en
+series: Four Practice Gates
+series_zh: 四行門 · 卷三 戒
+part: VI
+part_title: "Bhaiṣajyaguru: Support Conditions for Sīla"
+part_title_zh: 藥師願力與戒的支持條件
+order_in_part: 1
+order_in_volume: 19
+order_in_series: 79
+status: draft
 ---
 
 # The Twelve Vows through the Sīla Lens
