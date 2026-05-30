@@ -17,6 +17,12 @@ FOUR_GATES_MASTER_PLAN.md
 PROJECT_MASTER_PLAN.md
 PASSDOWN_TEMPLATE.md
 
+# Directive / working-flow files at repo root (local only — never public)
+*_directive.md
+*_DIRECTIVE.md
+MASTER_PLAN_*.md
+*_NEXT.md
+
 # Series-level style guide (local only)
 PAPER_STYLE.md
 
