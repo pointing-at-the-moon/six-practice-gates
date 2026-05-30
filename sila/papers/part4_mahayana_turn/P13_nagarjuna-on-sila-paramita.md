@@ -323,7 +323,7 @@ T1509 fascicles 13–14 are the master architectural treatment of *śīla-pāram
 
 - **NIAN-P03** *Mindfulness as Salutation* — the *anupalabdhi* axis of the present paper shares a non-objectifying register with the no-object dimension of mindfulness-as-salutation, though the textual corpora are entirely distinct.
 - **DĀNA-P15** *The Non-Abiding Gift* — the *Vajracchedikā*'s "should generate the mind without abiding on anything" shares the prajñā-apophatic axis with the present paper's *anupalabdhi*; the full cross-reading is reserved for SILA-P21.
-- **DHYĀNA volume (forthcoming)** — the *anupalabdhi* layer of *śīla* established here is foundational for the *samādhi* and *paññā* axes of the next volume; the *Śūraṅgama*'s "Four Pure Instructions" (the DHYĀNA volume's *śīla*–*samādhi* hinge) will systematically connect the present paper's *anupalabdhi*-foundation to *samādhi*-preparation.
+- **SAMĀDHI volume (forthcoming)** — the *anupalabdhi* layer of *śīla* established here is foundational for the *samādhi* and *paññā* axes of the next volume; the *Śūraṅgama*'s "Four Pure Instructions" (the SAMĀDHI volume's *śīla*–*samādhi* hinge) will systematically connect the present paper's *anupalabdhi*-foundation to *samādhi*-preparation.
 
 ---
 

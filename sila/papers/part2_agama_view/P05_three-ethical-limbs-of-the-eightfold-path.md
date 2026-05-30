@@ -273,7 +273,7 @@ The precepts are present; their architectural placement determines their canonic
 ### Cross-volume relations
 
 - **DĀNA volume** — AN 8.39 *mahā-dāna* lexical-layer bridge: the present paper surfaces at §I.4 and §V.2 the *Abhisanda-sutta*'s reframing of *pañca-sīla* abstentions as "great gifts," the canonical-internal SĪLA↔DĀNA bridge between the second and third volumes of the *Six Practice Gates* series. This is structural in-text reference, not a cross-volume polyphony anchor footnote (per the architectural-acknowledgment-only pattern from earlier P03 entries).
-- **DHYĀNA volume** (forthcoming) — P04's external categorical handoff (*sīla* → *samādhi*) hands forward to DHYĀNA; the present paper's internal path-element reading establishes that the *sīla-skandha* entering this handoff is itself a developmental structure, not a static rulebook.
+- **SAMĀDHI volume** (forthcoming) — P04's external categorical handoff (*sīla* → *samādhi*) hands forward to SAMĀDHI; the present paper's internal path-element reading establishes that the *sīla-skandha* entering this handoff is itself a developmental structure, not a static rulebook.
 
 ### Octalogy (sister series) relation
 

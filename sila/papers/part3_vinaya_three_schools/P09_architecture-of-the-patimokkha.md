@@ -278,7 +278,7 @@ The present paper inherits from P08 (*sīla-gandha*) the social-domain framing o
 
 ### Forward-volume gates
 
-- **DHYĀNA volume**: the present paper's §V.1 three-restraint architecture (desire-realm *prātimokṣa* / form-realm *dhyāna*-born / undefiled *ārya-mārga*-born) lays the doctrinal foundation on which the DHYĀNA volume's treatment of meditative-absorption restraint will rest. The *Pāṭimokkha* of the present paper is the *sīla*-side foundational rung from which the *sīla*-to-*samādhi* developmental sequence ascends.
+- **SAMĀDHI volume**: the present paper's §V.1 three-restraint architecture (desire-realm *prātimokṣa* / form-realm *dhyāna*-born / undefiled *ārya-mārga*-born) lays the doctrinal foundation on which the SAMĀDHI volume's treatment of meditative-absorption restraint will rest. The *Pāṭimokkha* of the present paper is the *sīla*-side foundational rung from which the *sīla*-to-*samādhi* developmental sequence ascends.
 
 ---
 

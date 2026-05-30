@@ -268,7 +268,7 @@ All scriptural citations above have been collated against the CBETA Electronic T
 - **Continuing from — SĪLA P19 *The Twelve Vows through the Sīla Lens*** — the synchronic seven-dimension reverse-index ("which support conditions"); this paper takes that index and turns it into the diachronic question of ordering.
 - **Method — SĪLA P18 *Precept-Substance and Manas*** — the own-it voicing discipline (distinguishing what the text says from what this paper reads); this paper continues it without re-deriving the seed-perfuming ontology.
 - **Context-pointer (not reopened) — SĪLA P10 / P11** — the Saṅgha institutions and the ordination background; the eighth vow's institutional context is given only as a descriptive pointer.
-- **Downstream handoff (a different use) — SĪLA P24** — the sīla → samādhi handoff into the DHYĀNA volume; this paper uses the same gradual principle only to mark the foot of the downstream ladder, not as the handoff function.
+- **Downstream handoff (a different use) — SĪLA P24** — the sīla → samādhi handoff into the SAMĀDHI volume; this paper uses the same gradual principle only to mark the foot of the downstream ladder, not as the handoff function.
 - **Looking ahead — SĪLA P21 (Part VII onward)** — the sign-less sīla of the Prajñā corpus (from "guarding the preconditions of precept-keeping" to "the emptiness of the precept-sign").
 
 ---

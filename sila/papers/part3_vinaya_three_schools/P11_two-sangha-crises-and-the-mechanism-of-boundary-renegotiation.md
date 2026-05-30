@@ -348,7 +348,7 @@ A final note. Yijing's seventh-century recommendation — to verify by the *Vina
 
 - **NIAN Part I** — the Pāli-root foundation reading is methodologically continuous with the present paper's discipline of reading each tradition on its own terms.
 - **DĀNA Part II** (Mahāyāna turn) — structurally parallel: where DĀNA Part II reframes the *gift* category as the bodhisattva's *dāna-pāramitā*, the present paper's §VI forward-link anticipates a parallel reframing of the *Vinaya*-boundary category as the bodhisattva's *triśīla*-boundary. The parallel is structural, not thesis-borrowing.
-- **DHYĀNA Part forward** — the *sīla*-to-*dhyāna* transition treated in SĪLA P24 prepares the entry into the DHYĀNA volume.
+- **SAMĀDHI Part forward** — the *sīla*-to-*dhyāna* transition treated in SĪLA P24 prepares the entry into the SAMĀDHI volume.
 
 ---
 

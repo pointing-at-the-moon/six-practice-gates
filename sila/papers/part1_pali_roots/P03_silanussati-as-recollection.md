@@ -272,7 +272,7 @@ The closing line of Guṇabhadra's sūtra 931 — 念戒所熏，昇進涅槃 ("
 
 - **SILA Parts IV–V** (forthcoming; precept-substance, the three pure precepts of the Mahāyāna) — the reflexive structure surfaced in the present paper functions as the Pāli-side precondition for the later Mahāyāna interiorisation of *sīla*.
 - **SILA Part VI** (forthcoming; the twelve great vows of Bhaiṣajyaguru) — the recollection-mechanism examined here is one of several historical strands feeding into later devotional architectures.
-- **DHYĀNA volume** — the constitutive-ceiling argument of §V hands forward to the access-versus-absorption boundary as a *DHYĀNA*-side concern. The full operational layer of *kammaṭṭhāna* ( *Visuddhimagga* Chapter VII §4 read as an operational manual rather than as a doctrinal closing) is reserved for that volume.
+- **SAMĀDHI volume** — the constitutive-ceiling argument of §V hands forward to the access-versus-absorption boundary as a *SAMĀDHI*-side concern. The full operational layer of *kammaṭṭhāna* ( *Visuddhimagga* Chapter VII §4 read as an operational manual rather than as a doctrinal closing) is reserved for that volume.
 
 ### Octalogy Relation (sister series)
 

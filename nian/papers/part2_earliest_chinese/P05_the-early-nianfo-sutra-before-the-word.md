@@ -105,7 +105,7 @@ T0602 belongs to the same earliest layer of Chinese translation as T0784, but th
 | Character count | 3,177 CJK | ~12,000 CJK |
 | Form of recollection-object | implicit plural recollection (no compound *niànfó*) | explicit *ānāpāna-sati* |
 
-T0602 is the earliest Chinese text to present, in nascent form, the full operational architecture of the Pāli sixteen-step *ānāpāna-sati*—its "six modes" (count, follow, fix, observe, return, purify) correspond to the early reorganization and Chinese reception of the sixteen Pāli stages. This paper does not cite T0602 directly; it only paraphrases the overall contrast in register. The technical details are deferred to NIAN P06 and to the two fascicles DĀNA / DHYĀNA.[^9]
+T0602 is the earliest Chinese text to present, in nascent form, the full operational architecture of the Pāli sixteen-step *ānāpāna-sati*—its "six modes" (count, follow, fix, observe, return, purify) correspond to the early reorganization and Chinese reception of the sixteen Pāli stages. This paper does not cite T0602 directly; it only paraphrases the overall contrast in register. The technical details are deferred to NIAN P06 and to the two fascicles DĀNA / SAMĀDHI.[^9]
 
 ### 2.3 Inheritance of Pāli Baselines
 
@@ -183,7 +183,7 @@ First- and second-century Luoyang was a translation-workshop ecosystem where sev
 
 **The register location of the third stream—reality-recollection *niànfó* (*shíxiàng niànfó* 實相念佛)**: Reality-recollection *niànfó* (a concept that developed out of the synthesis among Tiantai, Chan, and the three late-Ming masters; covered in NIAN P21, P23) is neither a simple extension of T0784's ethical track nor of T0602's technical track, but a **synthesis** of the two: it takes the long-term ethical continuity as its base, adds the metaphysical dimension of Mahāyāna emptiness-discourse, and shifts the object from a concrete Buddha-body to the reality-itself of all dharmas. The historical possibility of this synthesis was precisely that China already had, from the earliest period, both registers coexisting.
 
-Chinese *niànfó* was never a single-line development; it was the long-term coexistence and cross-fertilization of two independent registers, produced in the first- and second-century Luoyang translation workshops. The sustained dialogue treated in NIAN PLAN Part VI ("two forces in sustained dialogue"—Pure Land patriarchs ↔ Chan's counter-thesis ↔ Tiantai bridging ↔ late-Ming synthesis) has its root in this dual-track origin. The technical content of T0602 will be treated more specifically in NIAN P06 and in the two fascicles DĀNA / DHYĀNA; this paper only establishes the thesis of **dual-track origins**.
+Chinese *niànfó* was never a single-line development; it was the long-term coexistence and cross-fertilization of two independent registers, produced in the first- and second-century Luoyang translation workshops. The sustained dialogue treated in NIAN PLAN Part VI ("two forces in sustained dialogue"—Pure Land patriarchs ↔ Chan's counter-thesis ↔ Tiantai bridging ↔ late-Ming synthesis) has its root in this dual-track origin. The technical content of T0602 will be treated more specifically in NIAN P06 and in the two fascicles DĀNA / SAMĀDHI; this paper only establishes the thesis of **dual-track origins**.
 
 ### 3.4 The Distribution of Six-Recollection Vocabulary: Historical Confirmation of the P03 Frame
 
@@ -279,7 +279,7 @@ T0784's object distribution (path, body, precepts, breath, death, impermanence) 
 
 [^8]: *Fó shuō Dà Ān-bān shǒu-yì Jīng*, *Taishō* T15 No. 602. An Shigao (Ān Shìgāo; contemporary but not lineage-related to Lokakṣema) was a Parthian prince who became a monk and arrived in Luoyang in the mid-second century CE to translate scriptures. His translation corpus is centered on *chán-shù* 禪數學 (meditation combined with Abhidharma numerical analysis), a path distinct from the slightly later Mahāyāna translation workshop (e.g., the Lokakṣema lineage).
 
-[^9]: This paper does not take direct quotations from T0602; it uses paraphrase to contrast overall registers. Reasons: (i) this paper's argumentative focus is the register-contrast, which does not require line-by-line citation; (ii) T0602's technical details will be unfolded more specifically in NIAN P06 and in the meditation-focused fascicles DĀNA / DHYĀNA. Full-text search of T0602 in CBETA is available at https://cbetaonline.dila.edu.tw/zh/T0602.
+[^9]: This paper does not take direct quotations from T0602; it uses paraphrase to contrast overall registers. Reasons: (i) this paper's argumentative focus is the register-contrast, which does not require line-by-line citation; (ii) T0602's technical details will be unfolded more specifically in NIAN P06 and in the meditation-focused fascicles DĀNA / SAMĀDHI. Full-text search of T0602 in CBETA is available at https://cbetaonline.dila.edu.tw/zh/T0602.
 
 [^10]: AN 6.10 *Mahānāma Sutta*, PTS AN iii 284. The primary canonical evidence for the six-recollection framework. This paper's judgment here is inherited from NIAN P02, P03, and P04.
 

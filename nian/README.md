@@ -78,7 +78,7 @@ See [`NIAN_PLAN.md`](./NIAN_PLAN.md) for full skeleton and methodology.
 
 ### 🎉 NIAN 全卷封筆 — 31/31 ✅ COMPLETE (2026-05-03)
 
-Volume One of *The Six Practice Gates* — the gate of continuous awareness — is now sealed at the paper level. The book-conversion phase (downgrade to chapter form) follows in due course, alongside the opening of Volumes Two (*Dāna*), Three (*Śīla*), and Four (*Dhyāna*).
+Volume One of *The Six Practice Gates* — the gate of continuous awareness — is now sealed at the paper level. The book-conversion phase (downgrade to chapter form) follows in due course, alongside the opening of Volumes Two (*Dāna*), Three (*Śīla*), Four (*Samādhi*), and the two devotional gates Five (*Praṇidhāna*) and Six (*Kṣamā*).
 
 ### Citation
 

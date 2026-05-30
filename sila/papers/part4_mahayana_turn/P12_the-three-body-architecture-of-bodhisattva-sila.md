@@ -386,7 +386,7 @@ P11 closed Part III of this volume by reading the *śrāvaka*-internal historica
 
 - **NIAN Part I** — the Pāli-root foundational reading is methodologically continuous with the present paper's commitment to reading each tradition on its own terms before structural integration.
 - **DĀNA Part II** (the Mahāyāna turn within the *dāna* volume) — structurally parallel to the present paper: where DĀNA Part II reframes the gift-category as *dāna-pāramitā*, P12 reframes the precept-category as the three-cluster architecture. The parallel is structural, not thesis-borrowing.
-- **DHYĀNA volume (forward)** — the *śīla*-to-*dhyāna* transition treated in SĪLA P24 prepares the entry into the DHYĀNA volume; the present paper's *trikāya* mapping in §V anticipates the Tiantai integration that DHYĀNA will develop further.
+- **SAMĀDHI volume (forward)** — the *śīla*-to-*dhyāna* transition treated in SĪLA P24 prepares the entry into the SAMĀDHI volume; the present paper's *trikāya* mapping in §V anticipates the Tiantai integration that SAMĀDHI will develop further.
 
 ---
 

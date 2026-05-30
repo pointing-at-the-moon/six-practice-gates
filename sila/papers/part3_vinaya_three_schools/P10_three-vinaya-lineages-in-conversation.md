@@ -331,7 +331,7 @@ One open question is left for the reader and for subsequent papers: if the stabl
 
 ### Cross-volume polyphony anchors
 
-- **DHYĀNA volume forward-link**: AN 11.1's eleven-link chain from *sīla* through *paññā* is acknowledged here as cross-paper anchor; its full developmental treatment is the venue of the DHYĀNA volume (P24 in particular).
+- **SAMĀDHI volume forward-link**: AN 11.1's eleven-link chain from *sīla* through *paññā* is acknowledged here as cross-paper anchor; its full developmental treatment is the venue of the SAMĀDHI volume (P24 in particular).
 - **NIAN volume cross-reference**: the *Pāṭimokkha*'s recursive self-reference at the recitation event (P09 §V; here §2.1) bears on NIAN's treatment of *anussati* as a recursive recollective mode; the venue for that cross-mirror is the NIAN volume.
 
 ### Recurring cross-paper anchors
