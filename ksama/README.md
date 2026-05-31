@@ -11,7 +11,7 @@ Of the six gates, 懺 alone correlates not with a Heart Sūtra **verb** but with
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: 🟢 **Paper phase opened — Part I opener P01 landed 2026-05-31** · forward through the Āgama view, Samantabhadra's confession, the 施→懺→戒 bridge, the three repentances, the Chinese repentance rites, to the repentance of non-arising
+- **Status**: 🟢 **Paper phase — Part I 2/3 (P01 + P02 landed 2026-05-31)** · forward through the Āgama view, Samantabhadra's confession, the 施→懺→戒 bridge, the three repentances, the Chinese repentance rites, to the repentance of non-arising
 
 ### Planned Structure
 
@@ -31,6 +31,7 @@ Eight parts, an ascent from phenomenal disclosure to the repentance of non-arisi
 **Part I — Pāli Roots**
 
 1. **P01** · *What Repentance Actually Means* / 《三詞辨義：懺、發露、悔》 — the three terms (*kṣama* / *deśanā* / *kaukṛtya*) restored to their three slots; the Vinaya's disclosure as the Saṅgha's shared, transferable purification machinery; repentance as a gate, not a summit. [中文](./papers/part1_pali_roots/P01_三詞辨義.md) · [English](./papers/part1_pali_roots/P01_what-repentance-actually-means.md)
+2. **P02** · *Concealment and Rehabilitation* / 《覆藏與出罪：僧團復淨機制》 — concealment (not the gravity of the offence) is the sole driver of probation, reckoned day-for-day against the days hidden; the four-stage restoration ladder (*parivāsa* → reset → six-night *mānatta* → twenty-monk *abbhāna*) is rehabilitation, not retribution — the hidden obstructs, the disclosed is restored. [中文](./papers/part1_pali_roots/P02_覆藏與出罪.md) · [English](./papers/part1_pali_roots/P02_concealment-and-rehabilitation.md)
 
 ---
 
