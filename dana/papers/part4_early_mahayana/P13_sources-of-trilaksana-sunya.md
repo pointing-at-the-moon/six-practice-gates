@@ -30,7 +30,7 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-"The one who gives without prajñāpāramitā receives merely the name of giving, not pāramitā; only through prajñāpāramitā does giving become pāramitā" (T0220e ~juan 951). This passage from the *Mahāprajñāpāramitā-sūtra* (second recension) is not only the anchoring thesis of P11 but the original sūtra-level formulation of the *prajñāpāramitā* claim that giving and wisdom are inseparable. This paper argues that the trilakṣaṇa-śūnya (three-wheels-emptied) framework is not Nāgārjuna's invention but the dāna-specific application of the *prajñāpāramitā sūtra*'s universal reductio pattern — the "不可得" (anupalabdha, unobtainability) mode applied to all dharmas, including dāna-pāramitā. T1509's *Mahāprajñāpāramitā-śāstra* fascicles 11–12 does not invent trilakṣaṇa-śūnya but systematizes sūtra-level fragments — from "雖行布施而無所捨" (giving while not-grasping) to "夫布施者若無般若波羅蜜多" — into a step-by-step argumentation (名相論 → 三有論 → 分破空 → 觀空). T1604's *Mahāyānasūtrālaṃkāra* provides the Yogācāra counter-construction: not "emptiness" but "non-conceptual wisdom" (nirvikalpa-jñāna) processes the three wheels; "七著" (seven attachments) replaces "三有"; and "三輪清淨" (the three wheels purified) offers a positive formulation where T1509 offers negation. The core argument: the *prajñāpāramitā* sources of trilakṣaṇa-śūnya have three strata — (1) the "不可得" universal pattern in the prajñāpāramitā sūtra, (2) the "雖行布施而無所捨" dāna-specific instance, and (3) Nāgārjuna's systematization via madhyamaka methodology. P14 takes up the Yogācāra counter-construction.
+"The one who gives without prajñāpāramitā receives merely the name of giving, not pāramitā; only through prajñāpāramitā does giving become pāramitā" (*Mahāprajñāpāramitā-sūtra*, T0220, fasc. 571). This passage from the *Mahāprajñāpāramitā-sūtra* is not only the anchoring thesis of P11 but the original sūtra-level formulation of the *prajñāpāramitā* claim that giving and wisdom are inseparable. This paper argues that the trilakṣaṇa-śūnya (three-wheels-emptied) framework is not Nāgārjuna's invention but the dāna-specific application of the *prajñāpāramitā sūtra*'s universal reductio pattern — the "不可得" (anupalabdha, unobtainability) mode applied to all dharmas, including dāna-pāramitā. T1509's *Mahāprajñāpāramitā-śāstra* fascicles 11–12 does not invent trilakṣaṇa-śūnya but systematizes sūtra-level fragments — from "雖行布施而無所捨" (giving while not-grasping) to "夫布施者若無般若波羅蜜多" — into a step-by-step argumentation (名相論 → 三有論 → 分破空 → 觀空). T1604's *Mahāyānasūtrālaṃkāra* provides the Yogācāra counter-construction: not "emptiness" but "non-conceptual wisdom" (nirvikalpa-jñāna) processes the three wheels; "七著" (seven attachments) replaces "三有"; and "三輪清淨" (the three wheels purified) offers a positive formulation where T1509 offers negation. The core argument: the *prajñāpāramitā* sources of trilakṣaṇa-śūnya have three strata — (1) the "不可得" universal pattern in the prajñāpāramitā sūtra, (2) the "雖行布施而無所捨" dāna-specific instance, and (3) Nāgārjuna's systematization via madhyamaka methodology. P14 takes up the Yogācāra counter-construction.
 
 **Keywords:** trilakṣaṇa-śūnya 三輪體空, trilakṣaṇa-sahita 三輪有, trilakṣaṇa 三輪, anupalabdha 不可得, prajñapti-sat 假名有, deśanā-śūnyatā 分破空, upalambha-śūnyatā 觀空, nirvikalpa-jñāna 無分別智, saptā-upādāna 七著, tri-vimukti 三輪清淨, T0220e Mahāprajñāpāramitā-sūtra, T1509 Mahāprajñāpāramitā-śāstra, T1604 Mahāyānasūtrālaṃkāra, prajñāpāramitā sūtra, dāna-pāramitā, Nāgārjuna, Kumārajīva, Asaṅga, Yogācāra
 
@@ -38,11 +38,11 @@ license: "CC BY-NC-SA 4.0"
 
 ## I. Problem Statement
 
-"The one who gives without prajñāpāramitā receives merely the name of giving, not pāramitā; only through prajñāpāramitā does giving become pāramitā" (T0220e ~juan 951). This passage from the *Mahāprajñāpāramitā-sūtra* (second recension) is the starting point of P11 and the starting point of this paper. P11 established the "prajñā as condition" thesis — giving without prajñā is merely merit (puṇya), giving with prajñā is pāramitā. P12 mapped T1509 fascicles 11–12's dāna-pāramitā chapter, especially the trilakṣaṇa-śūnya formula (giver, receiver, and gift all empty of inherent existence). But a foundational question remains:
+"The one who gives without prajñāpāramitā receives merely the name of giving, not pāramitā; only through prajñāpāramitā does giving become pāramitā" (*Mahāprajñāpāramitā-sūtra*, T0220, fasc. 571). This passage from the *Mahāprajñāpāramitā-sūtra* is the starting point of P11 and the starting point of this paper. P11 established the "prajñā as condition" thesis — giving without prajñā is merely merit (puṇya), giving with prajñā is pāramitā. P12 mapped T1509 fascicles 11–12's dāna-pāramitā chapter, especially the trilakṣaṇa-śūnya formula (giver, receiver, and gift all empty of inherent existence). But a foundational question remains:
 
 **Where does trilakṣaṇa-śūnya come from?**
 
-If the "三事不可得" (three things unobtainable) of T1509 did not appear out of nowhere, what are its *prajñāpāramitā sūtra* sources? Does T0220e (the second recension of the Mahāprajñāpāramitā-sūtra) already provide the philosophical foundation for trilakṣaṇa-śūnya? How does T1604 (the *Mahāyānasūtrālaṃkāra*) address the same question through a Yogācāra framework?
+If the "三事不可得" (three things unobtainable) of T1509 did not appear out of nowhere, what are its *prajñāpāramitā sūtra* sources? Does the *Mahāprajñāpāramitā-sūtra* (T0220) already provide the philosophical foundation for trilakṣaṇa-śūnya? How does T1604 (the *Mahāyānasūtrālaṃkāra*) address the same question through a Yogācāra framework?
 
 This paper's answer: **trilakṣaṇa-śūnya has three *prajñāpāramitā* strata.** The first is the *Mahāprajñāpāramitā-sūtra*'s universal "anupalabdha" (不可得, unobtainability) pattern — the reductio applied to all dharmas, including dāna-pāramitā. The second is the sūtra's dāna-specific proposition: "雖行布施而無所捨" (giving while not-grasping). The third is Nāgārjuna's systematization of both through madhyamaka methodology. The Yogācāra tradition (T1604) offers a different approach: not "emptiness" but "non-conceptual wisdom" (無分別智) processes the three wheels.
 
@@ -278,13 +278,13 @@ This paper hands off to P14: how does T1604's "three-wheel purification" further
 
 ## Footnotes
 
-[^1]: T0220e: 「雖說布施波羅蜜多，而說布施波羅蜜多竟不可得；雖說持戒波羅蜜多，而說持戒波羅蜜多竟不可得；……雖說證涅槃，而說涅槃竟不可得。」
+[^1]: T0220e, fasc. 567 (6th Division, p0929a16-18). The sūtra's own wording reads 「雖說一切波羅蜜多，而說一切波羅蜜多竟不可得」 (it speaks of "all the perfections" collectively); the per-perfection enumeration below is the author's patterning of this formula onto the six perfections: 「雖說布施波羅蜜多，而說布施波羅蜜多竟不可得；雖說持戒波羅蜜多，而說持戒波羅蜜多竟不可得；……雖說證涅槃，而說涅槃竟不可得。」
 
-[^2]: T0220e: 「為成熟諸波羅蜜多，而諸波羅蜜多畢竟不可得；……我能分別及所分別皆不可得。」
+[^2]: T0220e, fasc. 567 (6th Division, p0930c04-11): 「為成熟諸波羅蜜多，而諸波羅蜜多畢竟不可得；……我能分別及所分別皆不可得。」
 
-[^3]: T0220e: 「諸菩薩摩訶薩行深般若波羅蜜多，觀察發起大慈、大悲、大喜、大捨，都不見我，不見有情，乃至不見知者、見者，雖行布施而無所捨……雖修般若而無所緣。」
+[^3]: T0220e, fasc. 569 (6th Division, 法性品, p0938b08-11): 「諸菩薩摩訶薩行深般若波羅蜜多，觀察發起大慈、大悲、大喜、大捨，都不見我，不見有情，乃至不見知者、見者，雖行布施而無所捨……雖修般若而無所緣。」
 
-[^4]: T0220e: King Āyus's dialogue with the Buddha — 「夫布施者若無般若波羅蜜多，但得施名非到彼岸，要由般若波羅蜜多乃得名為施到彼岸。」
+[^4]: T0220e, fasc. 571 (6th Division, p0951c20-24): King Āyus's dialogue with the Buddha — 「夫布施者若無般若波羅蜜多，但得施名非到彼岸，要由般若波羅蜜多乃得名為施到彼岸。」
 
 [^5]: T1509 vol 11: 「若施有三礙：我與、彼受、所施者財，是為墮魔境界，未離眾難。若菩薩布施，三種清淨，無此三礙，得到彼岸，為諸佛所讚，是名檀波羅蜜。」
 
@@ -318,7 +318,7 @@ This paper hands off to P14: how does T1604's "three-wheel purification" further
 
 ### Primary Sources
 
-- T0220e = *Da bōre boluomiduo jing* 《大般若波羅蜜多經》 fascicle ~951, T05–07 no. 220, trans. Xuanzang
+- T0220e = *Da bōre boluomiduo jing* 《大般若波羅蜜多經》 (6th Division, fasc. 567–571), T05–07 no. 220, trans. Xuanzang
 - T1509 = *Dà zhìdù lùn* 《大智度論》 juan 11–12, T25 no. 1509, Nāgārjuna / Kumārajīva
 - T1604 = *Dà chéng zhuāngyán jīng lùn* 《大乘莊嚴經論》 juan 7–8, T31 no. 1604, Asaṅga / Prabhākaramitra
 - T0152 = *Liù dù jí jīng* 《六度集經》, Kāng Sēnghuì

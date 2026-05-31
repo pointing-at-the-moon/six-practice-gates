@@ -220,7 +220,7 @@ T1509 is not the product of a single author. P11 should not attribute the "with-
 
 ## Footnotes
 
-[^1]: *Mahāprajñāpāramitā-sūtra* 《大般若經》 (5th Division, Xuanzang trans.), T07n0220e, T07p0951c22-24: "Indeed, the giver without prajñāpāramitā attains only the name of giving, not its other-shore; only by prajñāpāramitā does giving truly reach the other shore — likewise for moral discipline, patience, effort, meditation, and prajñā." This is the core citation of P11.
+[^1]: *Mahāprajñāpāramitā-sūtra* 《大般若經》 (6th Division, fasc. 571, Xuanzang trans.), T07n0220e, p0951c22-24: "Indeed, the giver without prajñāpāramitā attains only the name of giving, not its other-shore; only by prajñāpāramitā does giving truly reach the other shore — likewise for moral discipline, patience, effort, meditation, and prajñā." This is the core citation of P11.
 
 [^2]: See the forward-pointer in the conclusion of P10 *The Emergence of Abhayadāna*.
 
@@ -232,7 +232,7 @@ T1509 is not the product of a single author. P11 should not attribute the "with-
 
 [^6]: *Dà zhìdù lùn* 《大智度論》 T1509, *juan* 60.
 
-[^7]: T1509 vol 60, T25p0482c14-16. The inverse to the "with-apprehension giving" passage at T25p0482c10-11 (^6) — Śakra (Indra) asks the Buddha how a bodhisattva fulfills dāna-pāramitā, and the Buddha's answer is this passage.
+[^7]: T1509 juan 60, T25p0482c22-23. The inverse to the "with-apprehension giving" passage at T25p0482c09-11 (^6) — Śakra (Indra) asks the Buddha how a bodhisattva fulfills dāna-pāramitā, and the Buddha's answer is this passage.
 
 [^8]: *Mahāyāna-sūtrālaṃkāra* 《大乘莊嚴經論》 T1604, *juan* 8.
 
@@ -246,7 +246,7 @@ T1509 is not the product of a single author. P11 should not attribute the "with-
 
 [^13]: This passage is a bodhisattva-context occurrence within T0125, indicating a gradual transition rather than abrupt innovation in the term "*dāna-pāramitā*."
 
-[^14]: *Mahāprajñāpāramitā-sūtra* (5th Division), T07n0220e, T07p0951c22-24 (same as ^1).
+[^14]: *Mahāprajñāpāramitā-sūtra* (6th Division, fasc. 571), T07n0220e, p0951c22-24 (same as ^1).
 
 [^15]: Giving is reclassified from "moral virtue" to "wisdom virtue."
 
