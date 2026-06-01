@@ -394,13 +394,13 @@ T0235 closes with "not grasping marks, thus and so immovable" -- this is the con
 
 [^10]: *Vajracchedikā-prajñāpāramitā-sūtra*, T0235, CBETA T08n0235 0752a25–b01. The "non-reception of merit" passage -- non-clinging to merit after giving.
 
-[^11]: *Vajracchedikā-prajñāpāramitā-śāstra*, by the Bodhisattva Vasubandhu, translated in the Yuan Wei period by Bodhiruci, *Taishō Tripiṭaka* Vol. 25, No. 1511. T25n1511, p.0782b14–16. Vasubandhu's three-layer analysis of "without abiding" (not clinging to oneself / not clinging to repayment / not clinging to the fruit of giving), the systematic interpretive foundation for the later "emptiness of the three spheres." ✅ verified 2026-05-09
+[^11]: *Vajracchedikā-prajñāpāramitā-śāstra*, by the Bodhisattva Vasubandhu, translated in the Yuan Wei period by Bodhiruci, *Taishō Tripiṭaka* Vol. 25, No. 1511. T25n1511, p.0782b14–16. Vasubandhu's three-layer analysis of "without abiding" (not clinging to oneself / not clinging to repayment / not clinging to the fruit of giving), the systematic interpretive foundation for the later "emptiness of the three spheres."
 
-[^12]: *Vajracchedikā-prajñāpāramitā-śāstra*, by the Asaṅga school, translated by Dharma-rakṣita, *Taishō Tripiṭaka* Vol. 25, No. 1512. T25n1512, p.0808b19–21. This passage directly responds to the objection "mindless, therefore meritless," establishing the distinction "non-abiding ≠ mindless." ✅ verified 2026-05-09
+[^12]: *Vajracchedikā-prajñāpāramitā-śāstra*, by the Asaṅga school, translated by Dharma-rakṣita, *Taishō Tripiṭaka* Vol. 25, No. 1512. T25n1512, p.0808b19–21. This passage directly responds to the objection "mindless, therefore meritless," establishing the distinction "non-abiding ≠ mindless."
 
-[^13]: *Vajracchedikā-prajñāpāramitā-śāstra*, by the Asaṅga school, translated by Dharma-rakṣita, *Taishō Tripiṭaka* Vol. 25, No. 1512. T25n1512, p.0808b21–25. The contrast explanation of defiled cause vs. undefiled cause. ✅ verified 2026-05-09
+[^13]: *Vajracchedikā-prajñāpāramitā-śāstra*, by the Asaṅga school, translated by Dharma-rakṣita, *Taishō Tripiṭaka* Vol. 25, No. 1512. T25n1512, p.0808b21–25. The contrast explanation of defiled cause vs. undefiled cause.
 
-[^14]: *Vajracchedikā-prajñāpāramitā-śāstra*, by the Bodhisattva Vasubandhu, translated in the Yuan Wei period by Bodhiruci, *Taishō Tripiṭaka* Vol. 25, No. 1511. T25n1511, p.0786a15–18. Vasubandhu's Yogācāra interpretation of "adorning a land." ✅ verified 2026-05-09
+[^14]: *Vajracchedikā-prajñāpāramitā-śāstra*, by the Bodhisattva Vasubandhu, translated in the Yuan Wei period by Bodhiruci, *Taishō Tripiṭaka* Vol. 25, No. 1511. T25n1511, p.0786a15–18. Vasubandhu's Yogācāra interpretation of "adorning a land."
 
 [^15]: *Vajracchedikā-prajñāpāramitā-sūtra*, T0235, CBETA T08n0235 0750b24. "For the benefit of all beings, the bodhisattva should practice giving in this way" -- the motivational foundation of non-abiding giving.
 

@@ -312,17 +312,17 @@ This cycle's completion is not an endpoint but a new beginning. The core questio
 
 ## Footnotes
 
-[^1]: *Mahāprajñāpāramitā Sūtra* (大般若波羅蜜多經), chapter 528, 妙相品第二十八之一, Xuanzang trans., *Tripiṭaka of the Great Tang* (大正藏), vol. 7, No. T0220c. Quote verified against CBETA: T07n0220c · T07p0709b04–15 ✅ verified 2026-05-10.
+[^1]: *Mahāprajñāpāramitā Sūtra* (大般若波羅蜜多經), chapter 528, 妙相品第二十八之一, Xuanzang trans., *Tripiṭaka of the Great Tang* (大正藏), vol. 7, No. T0220c. Quote verified against CBETA: T07n0220c · T07p0709b04–15
 
 [^2]: Ibid. The gradual structure of all six pāramitā chapters using dāna as starting point is the architectural pillar of chapter 528, forming the core textual evidence of Part V.
 
 [^3]: Highest density in chapter 048 (11 passages); see raw/03_wusuode_dana_cooccurrence.md. T0220a (chapters 1–200, first division) and T0220c (chapters 401–537, third division) co-occur in ~299 passages.
 
-[^4]: *Mahāprajñāpāramitā Sūtra*, chapter 3, Xuanzang trans., *大正藏* vol. 7, No. T0220a. Verified against CBETA (vault T0220a chapter 003) ✅ verified 2026-05-10.
+[^4]: *Mahāprajñāpāramitā Sūtra*, chapter 3, Xuanzang trans., *大正藏* vol. 7, No. T0220a. Verified against CBETA (vault T0220a chapter 003)
 
 [^5]: *Mahāprajñāpāramitā Sūtra*, chapter 48, Xuanzang trans., *大正藏* vol. 7, No. T0220a; *Mahāprajñāpāramitā-śāstra* (大智度論), chapter 12, Nāgārjuna, Kumārajīva trans., *大正藏* vol. 25, No. T1509. Original terminology is "三輪清淨" (T0220a) and "三事不可得" (T1509), not the later fixed term "三輪體空."
 
-[^6]: *Mahāprajñāpāramitā Sūtra*, chapter 44, Xuanzang trans., *大正藏* vol. 7, No. T0220a. Verified against CBETA (vault T0220a chapter 044) ✅ verified 2026-05-10.
+[^6]: *Mahāprajñāpāramitā Sūtra*, chapter 44, Xuanzang trans., *大正藏* vol. 7, No. T0220a. Verified against CBETA (vault T0220a chapter 044)
 
 [^7]: Cf. Lamotte, Étienne. *Le traité de la grande vertu de sagesse parfaite* (MMB, vol. II). Paris: Éditions du CYC, 1944. The dichotomy framework of merit group vs. wisdom group.
 
@@ -334,19 +334,19 @@ This cycle's completion is not an endpoint but a new beginning. The core questio
 
 [^11]: *Mahāprajñāpāramitā Sūtra*, chapter 581, Xuanzang trans., *大正藏* vol. 7, No. T0220c. Fourteen repetitions in the ten-direction world scene.
 
-[^12]: *Mahāprajñāpāramitā-śāstra*, chapter 34, Nāgārjuna, Kumārajīva trans., *大正藏* vol. 25, No. T1509. Verified against CBETA: T25n1509 · T25p0314b13–16 ✅ verified 2026-05-10.
+[^12]: *Mahāprajñāpāramitā-śāstra*, chapter 34, Nāgārjuna, Kumārajīva trans., *大正藏* vol. 25, No. T1509. Verified against CBETA: T25n1509 · T25p0314b13–16
 
 [^13]: Cf. Conze, Edward. *The Perfection of Wisdom in Early Buddhism*. London: Routledge, 1973. Prajñā's unifying role in the theory of the six pāramitās.
 
-[^14]: *Mahāprajñāpāramitā-śāstra*, chapter 12, Nāgārjuna, Kumārajīva trans., *大正藏* vol. 25, No. T1509. Verified against CBETA (vault T1509 chapter 012) ✅ verified 2026-05-10.
+[^14]: *Mahāprajñāpāramitā-śāstra*, chapter 12, Nāgārjuna, Kumārajīva trans., *大正藏* vol. 25, No. T1509. Verified against CBETA (vault T1509 chapter 012)
 
-[^15]: *Mahāprajñāpāramitā-śāstra*, chapter 12, Nāgārjuna, Kumārajīva trans., *大正藏* vol. 25, No. T1509. Verified against CBETA (vault T1509 chapter 012) ✅ verified 2026-05-10.
+[^15]: *Mahāprajñāpāramitā-śāstra*, chapter 12, Nāgārjuna, Kumārajīva trans., *大正藏* vol. 25, No. T1509. Verified against CBETA (vault T1509 chapter 012)
 
-[^16]: *Prajñāpāramitā-hṛdaya-sūtra-nidāna-vyākhyā-bhāṣyālaṅkāra* (般若波羅蜜多心經略疏), Fazang, 702 CE, *大正藏* vol. 33, No. T1712. Verified against CBETA: T33n1712 · T33p0552a20–22 ✅ verified 2026-05-10.
+[^16]: *Prajñāpāramitā-hṛdaya-sūtra-nidāna-vyākhyā-bhāṣyālaṅkāra* (般若波羅蜜多心經略疏), Fazang, 702 CE, *大正藏* vol. 33, No. T1712. Verified against CBETA: T33n1712 · T33p0552a20–22
 
-[^17]: *Prajñāpāramitā-hṛdaya-sūtra-nidāna-sphuṭa-vyākhyā-laṅkāra-sambandha* (般若心經略疏連珠記), Shihui, Song dynasty, *大正藏* vol. 33, No. T1713. See vault-般若 ✅.
+[^17]: *Prajñāpāramitā-hṛdaya-sūtra-nidāna-sphuṭa-vyākhyā-laṅkāra-sambandha* (般若心經略疏連珠記), Shihui, Song dynasty, *大正藏* vol. 33, No. T1713.
 
-[^18]: *Prajñāpāramitā-hṛdaya-sūtra-stotra* (般若波羅蜜多心經贊), Wŏnch'ŭk, *大正藏* vol. 33, No. T1711. See vault-般若 ✅.
+[^18]: *Prajñāpāramitā-hṛdaya-sūtra-stotra* (般若波羅蜜多心經贊), Wŏnch'ŭk, *大正藏* vol. 33, No. T1711.
 
 [^19]: Cf. Wŏnch'ŭk's *Prajñāpāramitā-hṛdaya-sūtra-stotra* T1711. The Heart Sūtra's positioning as "為顯法空遣智、斷門."
 

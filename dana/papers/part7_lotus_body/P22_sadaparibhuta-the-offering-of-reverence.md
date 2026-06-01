@@ -359,51 +359,51 @@ The three-fold typological arc of Dharma-Teacher Chapter substitution-move → S
 
 ## Notes
 
-[^1]: *Lotus Sūtra* (妙法蓮華經) volume 6, Sadāparibhūta Chapter 20, Kumārajīva translation, *Taishō Tripiṭaka* vol. 9, No. T0262. T09n0262, vol. 6, **p.0050c16-c23**. ✅ verified 2026-05-13
+[^1]: *Lotus Sūtra* (妙法蓮華經) volume 6, Sadāparibhūta Chapter 20, Kumārajīva translation, *Taishō Tripiṭaka* vol. 9, No. T0262. T09n0262, vol. 6, **p.0050c16-c23**.
 
-[^2]: *Mahāprajñāpāramitāupadeśa* (大智度論) volume 12, Nāgārjuna composed, Kumārajīva translated, *Taishō* vol. 25, No. T1509. "Of generosity there are three types: one is material giving, two is the offering of reverence, three is dharma-giving." T25n1509, vol. 12, **p.0146c28-p.0147a03**. ✅ verified 2026-05-13
+[^2]: *Mahāprajñāpāramitāupadeśa* (大智度論) volume 12, Nāgārjuna composed, Kumārajīva translated, *Taishō* vol. 25, No. T1509. "Of generosity there are three types: one is material giving, two is the offering of reverence, three is dharma-giving." T25n1509, vol. 12, **p.0146c28-p.0147a03**.
 
 [^3]: Ibid.
 
-[^4]: *Mahāprajñāpāramitāupadeśa* volume 1, T25n1509, vol. 1, **p.0063b11-b13**. "Therefore in the Buddha-dharma, faith-power is foremost; it is *dāna*, morality, meditation, wisdom that cannot first enter." ✅ verified 2026-05-13
+[^4]: *Mahāprajñāpāramitāupadeśa* volume 1, T25n1509, vol. 1, **p.0063b11-b13**. "Therefore in the Buddha-dharma, faith-power is foremost; it is *dāna*, morality, meditation, wisdom that cannot first enter."
 
-[^5]: Ibid., **p.0063a01-a10**. "The ocean of Buddha-dharma is entered through faith, crossed through wisdom... Faith is like a hand. As one with a hand enters the mountain of treasures and takes freely, so too one with faith." ✅ verified 2026-05-13
+[^5]: Ibid., **p.0063a01-a10**. "The ocean of Buddha-dharma is entered through faith, crossed through wisdom... Faith is like a hand. As one with a hand enters the mountain of treasures and takes freely, so too one with faith."
 
 [^6]: Reiko Ohnuma, *Head, Eyes, Flesh, and Blood: Giving Away the Body in Indian Buddhist Literature* (New York: Columbia University Press, 2007).
 
-[^7]: *Zhengfa Hua Jing* (正法華經) volume 9, Chapter on the One Always Being Despised 19, Dharmarakṣa translation, *Taishō* vol. 9, No. T0263. T09n0263, vol. 9, **p.0122c22-c26**. ✅ verified 2026-05-13
+[^7]: *Zhengfa Hua Jing* (正法華經) volume 9, Chapter on the One Always Being Despised 19, Dharmarakṣa translation, *Taishō* vol. 9, No. T0263. T09n0263, vol. 9, **p.0122c22-c26**.
 
-[^8]: *Lotus Sūtra* (妙法蓮華經) volume 6, Sadāparibhūta Chapter 20, T09n0262, vol. 6, **p.0050c16-c23**. ✅ verified 2026-05-13
+[^8]: *Lotus Sūtra* (妙法蓮華經) volume 6, Sadāparibhūta Chapter 20, T09n0262, vol. 6, **p.0050c16-c23**.
 
-[^9]: *Tianpin Miaofa Lianhua Jing* (添品妙法蓮華經) volume 6, Sadāparibhūta Chapter 19, Jñānagupta + Dharmagupta translation, *Taishō* vol. 9, No. T0264. T09n0264, vol. 6, **p.0184c27-p.0185a02**. ✅ verified 2026-05-13
+[^9]: *Tianpin Miaofa Lianhua Jing* (添品妙法蓮華經) volume 6, Sadāparibhūta Chapter 19, Jñānagupta + Dharmagupta translation, *Taishō* vol. 9, No. T0264. T09n0264, vol. 6, **p.0184c27-p.0185a02**.
 
-[^10]: *Miaofa Lianhua Jing Wenju* (妙法蓮華經文句) volume 9 (Explication of Bestowal of Prophecy Chapter), Zhiyi, *Taishō* vol. 34, No. T1718. T34n1718, vol. 9, **p.0097a21-a24**. ✅ verified 2026-05-13
+[^10]: *Miaofa Lianhua Jing Wenju* (妙法蓮華經文句) volume 9 (Explication of Bestowal of Prophecy Chapter), Zhiyi, *Taishō* vol. 34, No. T1718. T34n1718, vol. 9, **p.0097a21-a24**.
 
-[^11]: *Miaofa Lianhua Jing Wenju* volume 10A, T34n1718, vol. 10A, **p.0141a13-a17**. ✅ verified 2026-05-13
+[^11]: *Miaofa Lianhua Jing Wenju* volume 10A, T34n1718, vol. 10A, **p.0141a13-a17**.
 
-[^12]: Ibid., **p.0141a08-a09**. "This is the station of the first-listener of the first chapter of enjoyment." ✅ verified 2026-05-13
+[^12]: Ibid., **p.0141a08-a09**. "This is the station of the first-listener of the first chapter of enjoyment."
 
-[^13]: *Miaofa Lianhua Jing Wenju* volume 10A, **p.0141a27-b01**. ✅ verified 2026-05-13
+[^13]: *Miaofa Lianhua Jing Wenju* volume 10A, **p.0141a27-b01**.
 
-[^14]: Ibid., **p.0141b07-b09**. "The one who curses receives both good and bad results: because of slander they fall into evil; because they hear the Buddha-nature name, the force of the poison-drum, they obtain good results." ✅ verified 2026-05-13
+[^14]: Ibid., **p.0141b07-b09**. "The one who curses receives both good and bad results: because of slander they fall into evil; because they hear the Buddha-nature name, the force of the poison-drum, they obtain good results."
 
-[^15]: Jizang *Fahua Yishu* (法華義疏) volume 11, T34n1721, vol. 11, **p.616a20-p.617b25**. ✅ verified 2026-05-13
+[^15]: Jizang *Fahua Yishu* (法華義疏) volume 11, T34n1721, vol. 11, **p.616a20-p.617b25**.
 
-[^16]: Ibid., **p.0616c19-c22**. ✅ verified 2026-05-13
+[^16]: Ibid., **p.0616c19-c22**.
 
-[^17]: Ibid., **p.0617a04-a07**. ✅ verified 2026-05-13
+[^17]: Ibid., **p.0617a04-a07**.
 
-[^18]: Ibid., **p.617a22-a25**. ✅ verified 2026-05-13
+[^18]: Ibid., **p.617a22-a25**.
 
-[^19]: Zhanran *Fahua Wenju Ji* (法華文句記) volume 10B, T34n1719, vol. 10B, **p.347c19-p.348a13**. "Jiaxiang's seven meanings are not without one seeing each [locally]; but they do not reach the far destination." ✅ verified 2026-05-13
+[^19]: Zhanran *Fahua Wenju Ji* (法華文句記) volume 10B, T34n1719, vol. 10B, **p.347c19-p.348a13**. "Jiaxiang's seven meanings are not without one seeing each [locally]; but they do not reach the far destination."
 
-[^20]: Ibid., **p.348a06**. "All other sūtras merely describe conventional edification and transmitting doctrine; this chapter: prostrating to the ordinary, subversive edification penetrating principle." ✅ verified 2026-05-13
+[^20]: Ibid., **p.348a06**. "All other sūtras merely describe conventional edification and transmitting doctrine; this chapter: prostrating to the ordinary, subversive edification penetrating principle."
 
-[^21]: Ibid., **p.349b08-b11**. "Forgetting [precept-]violation for the sake of saving others is precious; what matters is the others' peace. If others are at peace, why distinguish between prohibitive and static precepts?" ✅ verified 2026-05-13
+[^21]: Ibid., **p.349b08-b11**. "Forgetting [precept-]violation for the sake of saving others is precious; what matters is the others' peace. If others are at peace, why distinguish between prohibitive and static precepts?"
 
-[^22]: Ibid., **p.349a18-a22**. "Seeing that sentient beings' principle and a Buddha's principle are equal; therefore bowing to sentient beings and bowing to Buddhas share the same origin." ✅ verified 2026-05-13
+[^22]: Ibid., **p.349a18-a22**. "Seeing that sentient beings' principle and a Buddha's principle are equal; therefore bowing to sentient beings and bowing to Buddhas share the same origin."
 
-[^23]: *Mahāprajñāpāramitāupadeśa* volume 11, T25n1509, vol. 11, **p.0137a16-a19**. Śāriputra's vision of the dharma-body passage. ✅ verified 2026-05-13
+[^23]: *Mahāprajñāpāramitāupadeśa* volume 11, T25n1509, vol. 11, **p.0137a16-a19**. Śāriputra's vision of the dharma-body passage.
 
 [^24]: Ohnuma (2007), *supra* note 6.
 
@@ -411,15 +411,15 @@ The three-fold typological arc of Dharma-Teacher Chapter substitution-move → S
 
 [^26]: Daniel B. Stevenson, "The Bodhisattva of Never Disrespect: A Tiantai Contemplative Model," in *Readings of the Lotus Sūtra*, edited by Stephen F. Teiser and Jacqueline I. Stone, New York: Columbia University Press, 2009.
 
-[^27]: *Buddhāvataṃsaka-nāma-mahāvaipulya-sūtra* (大方廣佛華嚴經) volume 40, Samantabhadra Contemplation and Practice Chapter, Prajñā translation, *Taishō* vol. 10, No. T0293. T10n0293, vol. 40, **p.0844b24-c02**. ✅ verified 2026-05-13
+[^27]: *Buddhāvataṃsaka-nāma-mahāvaipulya-sūtra* (大方廣佛華嚴經) volume 40, Samantabhadra Contemplation and Practice Chapter, Prajñā translation, *Taishō* vol. 10, No. T0293. T10n0293, vol. 40, **p.0844b24-c02**.
 
-[^28]: Ibid., **p.0844c03-c12**. "With pure body, speech, and mind karma, continually practice reverence... body, speech, and mind karma without weariness." ✅ verified 2026-05-13
+[^28]: Ibid., **p.0844c03-c12**. "With pure body, speech, and mind karma, continually practice reverence... body, speech, and mind karma without weariness."
 
-[^29]: *Mahāprajñāpāramitāupadeśa* volume 1, T25n1509, vol. 1, **p.0063a01-a10 + p.0063b11-b13**. ✅ verified 2026-05-13
+[^29]: *Mahāprajñāpāramitāupadeśa* volume 1, T25n1509, vol. 1, **p.0063a01-a10 + p.0063b11-b13**.
 
-[^30]: Ibid., **p.0058b22-b24**. "If a single evil thought arises, infinite guilt is accumulated; if a single arousal of pure faith arises, human and heavenly happiness is received, inevitably attaining nirvāṇa's fruit." ✅ verified 2026-05-13
+[^30]: Ibid., **p.0058b22-b24**. "If a single evil thought arises, infinite guilt is accumulated; if a single arousal of pure faith arises, human and heavenly happiness is received, inevitably attaining nirvāṇa's fruit."
 
-[^31]: *Mahāprajñāpāramitāupadeśa* volume 11, T25n1509, vol. 11, **p.0137a16-a19**. ✅ verified 2026-05-13
+[^31]: *Mahāprajñāpāramitāupadeśa* volume 11, T25n1509, vol. 11, **p.0137a16-a19**.
 
 ---
 
