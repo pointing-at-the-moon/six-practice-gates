@@ -11,7 +11,7 @@ Of the six gates, 懺 alone correlates not with a Heart Sūtra **verb** but with
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: 🟢 **Paper phase — Part I complete 3/3 (P01 + P02 + P03 landed 2026-05-31)** · forward through the Āgama view, Samantabhadra's confession, the 施→懺→戒 bridge, the three repentances, the Chinese repentance rites, to the repentance of non-arising
+- **Status**: 🟢 **Paper phase — Parts I–III complete · 7 papers (P01–P07)** · Part I 3/3 · Part II 2/2 · Part III 2/2 · forward through the 施→懺→戒 bridge, the three repentances, the Chinese repentance rites, to the repentance of non-arising
 
 ### Planned Structure
 
@@ -32,6 +32,14 @@ Eight parts, an ascent from phenomenal disclosure to the repentance of non-arisi
 - **P01** [三詞辨義](./papers/part1_pali_roots/P01_三詞辨義.md) / [What Repentance Actually Means](./papers/part1_pali_roots/P01_what-repentance-actually-means.md)
 - **P02** [覆藏與出罪](./papers/part1_pali_roots/P02_覆藏與出罪.md) / [Concealment and Rehabilitation](./papers/part1_pali_roots/P02_concealment-and-rehabilitation.md)
 - **P03** [自恣與布薩](./papers/part1_pali_roots/P03_自恣與布薩.md) / [Invitation and Recitation](./papers/part1_pali_roots/P03_invitation-and-recitation.md)
+
+**Part II — The Āgama View** · 2/2 ✅
+- **P04** [阿含的悔之雙刃](./papers/part2_agama_view/P04_阿含的悔之雙刃.md) / [The Double-Edged Remorse](./papers/part2_agama_view/P04_the-double-edged-remorse.md)
+- **P05** [最深的悔](./papers/part2_agama_view/P05_最深的悔.md) / [The Deepest Remorse](./papers/part2_agama_view/P05_the-deepest-remorse.md) — Ajātaśatru and the limit of phenomenal repentance
+
+**Part III — The Seven-Limb Offering and Samantabhadra's Confession** · 2/2 ✅
+- **P06** [七支供之懺悔支](./papers/part3_seven_limbs_samantabhadra/P06_七支供之懺悔支.md) / [The Confession Limb of the Sevenfold Worship](./papers/part3_seven_limbs_samantabhadra/P06_the-confession-limb-of-the-sevenfold-worship.md)
+- **P07** [普賢懺悔業障](./papers/part3_seven_limbs_samantabhadra/P07_普賢懺悔業障.md) / [Samantabhadra's Confession of Karmic Obstacles](./papers/part3_seven_limbs_samantabhadra/P07_samantabhadras-confession-of-karmic-obstacles.md) — from a limb to a vow · the aspirational structure of the fourth vow
 
 ---
 
