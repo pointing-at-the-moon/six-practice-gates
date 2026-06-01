@@ -219,7 +219,7 @@ But that is later. This chapter has done its work by loosening three words that 
 
 [^3]: The water simile is a commonplace of the concentration literature; it is taken here only in the sense of "subtracting agitation, not adding effort." Specific scriptural loci and the systematic treatment of meditation similes belong to later chapters of this volume.
 
-[^4]: Pāli source: *Cūḷavedalla-sutta*, Majjhima Nikāya 44, PTS M i 301 (*yā cittassa ekaggatā ayaṃ samādhi*). The Chinese parallel is in the *Madhyama Āgama* (《中阿含經》, T0026), fascicle 58, the discourse of the nun Dhammadinnā; that passage differs slightly in formulation from the Pāli, and this paper takes the Pāli definition as authoritative. (The Pāli phrase is given here as a term, not as a vault-verified verbatim quotation; no Pāli blockquote is offered.)
+[^4]: Pāli source: *Cūḷavedalla-sutta*, Majjhima Nikāya 44, PTS M i 301 (*yā cittassa ekaggatā ayaṃ samādhi*). The Chinese parallel is in the *Madhyama Āgama* (《中阿含經》, T0026), fascicle 58, the discourse of the nun Dhammadinnā; that passage differs slightly in formulation from the Pāli, and this paper takes the Pāli definition as authoritative. (The Pāli phrase is given here as a term, not as a verbatim quotation; no Pāli blockquote is offered.)
 
 [^5]: Pāli source: Aṅguttara Nikāya 2.31, PTS A i 100. The numbering of suttas in the Twos of the Aṅguttara differs slightly across critical editions; this paper follows the PTS division. AN 2.31 (the *vijjābhāgiya* pair of calm and insight) and AN 4.170 (the *Yuganaddha-sutta*) are two distinct discourses and should not be conflated.
 
