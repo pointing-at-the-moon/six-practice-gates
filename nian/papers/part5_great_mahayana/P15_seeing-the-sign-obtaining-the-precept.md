@@ -382,7 +382,7 @@ P15's argument here concludes. The sixth layer, grounding-in-precepts, has estab
 
 [^5]: T1501, p.1110c f. Original: "Further, those bodhisattvas, having first aroused the great vow upon supreme perfect enlightenment, … in the remaining precept-items should train equally with the śrāvakas, without distinction." This sentence is the founding premise of Yogācāra bodhisattva discipline — basic bodily and verbal norms (killing, stealing, sexual misconduct, false speech) are handled by the śrāvaka *prātimokṣa*, which bodhisattva and śrāvaka observe in common; the bodhisattva precepts do not duplicate them.
 
-[^6]: The distribution of T1501's forty-three minor precepts by content is classified for this paper: defilement-pacification clauses (five hindrances, pride, anger, sloth, forgetfulness, attachment, savoring meditation) ca. 26 clauses; six-perfections study ca. 10; four-means beneficence ca. 5; other ca. 2; the defilement-pacification proportion is ca. 60%. The classification is detailed in RAG curation `T1501_vs_T1484_戒條對照.md`.
+[^6]: The distribution of T1501's forty-three minor precepts by content is classified for this paper: defilement-pacification clauses (five hindrances, pride, anger, sloth, forgetfulness, attachment, savoring meditation) ca. 26 clauses; six-perfections study ca. 10; four-means beneficence ca. 5; other ca. 2; the defilement-pacification proportion is ca. 60%. The classification is detailed in the textual comparison.
 
 [^7]: T1501, p.1111b; full text of the first minor precept as quoted in §2.2; translation mine.
 

@@ -260,7 +260,7 @@ One. In a three-fascicle text of tens of thousands of characters, "one-practice 
 
 The citation immediately closes: "Thus is known that the Buddha's power is inconceivable; mysterious penetration rarely fathomed, as stone drawing iron, as water thrown into the river."[^33] The function of the entire citation is that of an **authoritative evidence** — a closing scriptural seal that makes the defense appear scripturally complete. This is a **rhetorical closure**, not an **architectural position**.
 
-Where, then, is the actual architectural spine of Yongming's Chan–Pure Land confluence? A RAG-based re-examination finds that it runs along three other axes:
+Where, then, is the actual architectural spine of Yongming's Chan–Pure Land confluence? A re-examination finds that it runs along three other axes:
 
 **First axis: the parity doctrine of self-power and other-power.** In the opening section of his answer to "this very mind is the Buddha — why seek outside?" Yongming establishes: "The dharma-gates of all buddhas are not of one direction; all have self-power, other-power, own-mark, and shared-mark... If self-power is complete, one does not borrow conditions; if self-power is not yet adequate, one must rely on the other's momentum."[^34] This self-power / other-power parity doctrine is the foundational architecture of Yongming's Chan–Pure Land confluence — not one-practice samādhi unifying Chan and Pure Land, but the parity theory of the two powers unifying them. T0232 lies outside this architecture.
 

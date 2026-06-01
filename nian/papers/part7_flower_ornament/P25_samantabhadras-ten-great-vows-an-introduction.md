@@ -328,7 +328,7 @@ The closing verses of fascicle forty supply the introduction's final word. Mañj
 
 ## Notes
 
-[^1]: Yúnqī Zhūhóng (雲棲祩宏), *Āmítuó-jīng shūchāo* (阿彌陀經疏鈔), fascicle 4, X22n0424, *Wàn xùzàng* vol. 22 (vault-verified; CBETA approx. X22.0681c). The phrase rendered *the assembly of that buddha is wholly pure; I shall be born there upon the lotus of triumph* is itself drawn by Yunqi from T0293 fascicle 40 (T10.0848a13).
+[^1]: Yúnqī Zhūhóng (雲棲祩宏), *Āmítuó-jīng shūchāo* (阿彌陀經疏鈔), fascicle 4, X22n0424, *Wàn xùzàng* vol. 22 (CBETA approx. X22.0681c). The phrase rendered *the assembly of that buddha is wholly pure; I shall be born there upon the lotus of triumph* is itself drawn by Yunqi from T0293 fascicle 40 (T10.0848a13).
 
 [^2]: T0293 *Mahāvaipulya-buddhāvataṃsaka-sūtra: The Practice-and-Vow Chapter of Samantabhadra Entering the Inconceivable Liberation Realm*, translated by Prajña, beginning at T10.0844b. All references to "fascicle forty" in this paper denote the fortieth fascicle of T0293.
 
@@ -342,7 +342,7 @@ The closing verses of fascicle forty supply the introduction's final word. Mañj
 
 [^7]: Chéngguān (澄觀), *Mahāvaipulya-buddhāvataṃsaka-sūtra-vyākhyāna*, T35.0918a09–22 (T1735 fascicle 60).
 
-[^8]: T0279 *Entering the Dharmadhātu* chapter, the *Samantabhadra's pure buddha-field* passage (vault-verified; CBETA T10.0440 region; precise page-and-line cross-checked at commit-time by Code Opus).
+[^8]: T0279 *Entering the Dharmadhātu* chapter, the *Samantabhadra's pure buddha-field* passage (CBETA T10.0440 region; precise page-and-line).
 
 [^9]: T10.0697c–0698a (T0293 fascicle 4, the lay-elder Vimuktika's twenty-one gates of buddha-recollection in answer to Sudhana).
 
@@ -358,11 +358,11 @@ The closing verses of fascicle forty supply the introduction's final word. Mañj
 
 [^15]: T10.0848a09–14 (T0293 fascicle 40, the *may I, when about to die* verses).
 
-[^16]: Yǒngmíng Yánshòu (永明延壽), *Zōngjìng lù* (宗鏡錄), fascicle 10, T2016, *Taishō Tripiṭaka* vol. 48 (vault-verified; CBETA approx. T48.0468; precise page-and-line cross-checked at commit-time by Code Opus).
+[^16]: Yǒngmíng Yánshòu (永明延壽), *Zōngjìng lù* (宗鏡錄), fascicle 10, T2016, *Taishō Tripiṭaka* vol. 48 (CBETA approx. T48.0468; precise page-and-line).
 
-[^17]: Yúnqī Zhūhóng, *Āmítuó-jīng shūchāo*, fascicle 4, X22n0424, *Wàn xùzàng* vol. 22 (vault-verified; CBETA approx. X22.0688b).
+[^17]: Yúnqī Zhūhóng, *Āmítuó-jīng shūchāo*, fascicle 4, X22n0424, *Wàn xùzàng* vol. 22 (CBETA approx. X22.0688b).
 
-[^18]: Yúnqī Zhūhóng, *Āmítuó-jīng shūchāo*, fascicle 4, X22n0424 (vault-verified; CBETA approx. X22.0681c). The verse cited within the passage — *the assembly of that buddha is wholly pure; I shall be born there upon the lotus of triumph* — is at T10.0848a13 (T0293 fascicle 40 verses).
+[^18]: Yúnqī Zhūhóng, *Āmítuó-jīng shūchāo*, fascicle 4, X22n0424 (CBETA approx. X22.0681c). The verse cited within the passage — *the assembly of that buddha is wholly pure; I shall be born there upon the lotus of triumph* — is at T10.0848a13 (T0293 fascicle 40 verses).
 
 [^19]: T10.0848a01–02 (*To universally purify Samantabhadra's practice*) and T10.0848b08–09 (*Through this excellent practice of Samantabhadra*); both passages are from the verses of T0293 fascicle 40.
 

@@ -87,9 +87,9 @@ Each of the ten great vows in T0293 fascicle forty closes with the same four-exh
 | 5 rejoicing along in others' merits | *rejoicing* | *"my rejoicing is without end ..."* |
 | 6 requesting the dharma-wheel be turned | *exhortation-to-turn* | *"my exhortation is without end ..."* |
 | 7 requesting the buddhas to abide | *exhortation-to-abide* | *"my exhortation is without end ..."* |
-| **8 constantly following the Buddha in study** | ***following-in-study*** | ***"my following-in-study is without end, moment-by-moment continuous, without interruption, body and speech and mind never wearying"*** ✅ |
-| **9 accommodating sentient beings** | ***accommodating*** | ***"my accommodating is without end, moment-by-moment continuous, without interruption, body and speech and mind never wearying"*** ✅ |
-| **10 universal dedication** | ***dedicating*** | ***"my dedicating is without end, moment-by-moment continuous, without interruption, body and speech and mind never wearying"*** ✅ |
+| **8 constantly following the Buddha in study** | ***following-in-study*** | ***"my following-in-study is without end, moment-by-moment continuous, without interruption, body and speech and mind never wearying"*** |
+| **9 accommodating sentient beings** | ***accommodating*** | ***"my accommodating is without end, moment-by-moment continuous, without interruption, body and speech and mind never wearying"*** |
+| **10 universal dedication** | ***dedicating*** | ***"my dedicating is without end, moment-by-moment continuous, without interruption, body and speech and mind never wearying"*** |
 
 The closure-formula isomorphism holds across vows one through ten at one hundred percent — the only variation is the operator verb (*reverencing / praising / offering / repenting / rejoicing / exhortation-to-turn / exhortation-to-abide / following-in-study / accommodating / dedicating*).[^6]
 

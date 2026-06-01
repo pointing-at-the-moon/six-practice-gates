@@ -206,7 +206,7 @@ This passage is the structural summit of the paper's argument.
 
 The principal verb of the canonical definition is *niàn*. Not *chēng*.
 
-This is the second critical finding flagged in the RAG-curated preparation for this paper, and it is the most direct textual evidence against the popular narrative of Shandao as the "canonizer of name-recitation-as-replacement-for-recollection."
+This is the second critical finding flagged in the source preparation for this paper, and it is the most direct textual evidence against the popular narrative of Shandao as the "canonizer of name-recitation-as-replacement-for-recollection."
 
 **Grammatical reading.**
 

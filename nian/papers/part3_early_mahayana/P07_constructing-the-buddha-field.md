@@ -132,7 +132,7 @@ T0362's existence confirms that T0361 is not a solitary witness: the same Sukhā
 
 ### 2.5 A Terminological Note: The Late Stabilization of "Pure Land"
 
-The four sūtras cited above (T0418, T0313, T0361, T0362) use the following principal vocabulary for "buddha-field" in preliminary RAG sampling:
+The four sūtras cited above (T0418, T0313, T0361, T0362) use the following principal vocabulary for "buddha-field" in preliminary sampling:
 
 | Sūtra | Principal terms | "Pure Land" (*jìngtǔ* 淨土) as a stabilized technical term? |
 |---|---|---|
