@@ -354,9 +354,9 @@ T1509 consistently uses "檀" rather than "施" throughout. This is Kumārajīva
 
 [^37]: T1509 vol 12: "栰是八正道" — the tool for crossing the river is the noble eightfold path.
 
-[^38]: Jan Nattier, on the textual stratification of T1509. See DANA P12 BRIEF §E-1.
+[^38]: Jan Nattier, on the textual stratification of T1509.
 
-[^39]: Paul Harrison, on T1509 as a synthetic text of early Mahāyāna. See DANA P12 BRIEF §E-2.
+[^39]: Paul Harrison, on T1509 as a synthetic text of early Mahāyāna.
 
 [^40]: The Pāli cāgānussati (recollection of giving) is one of the six recollections — "I have given up what I loved."
 
@@ -376,7 +376,7 @@ T1509 consistently uses "檀" rather than "施" throughout. This is Kumārajīva
 
 [^48]: T1509 vol 12.
 
-[^49]: Nattier's stratification analysis. See DANA P12 BRIEF §E-1.
+[^49]: Nattier's stratification analysis.
 
 [^50]: Kumārajīva's translation convention — using phonetic transliteration to preserve phonetic texture.
 

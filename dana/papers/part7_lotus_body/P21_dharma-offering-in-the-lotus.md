@@ -259,7 +259,7 @@ The Dharma-Teacher Chapter, the Ever-Disparaging Chapter, and the Bhaiṣajyarā
 
 [^3]: *Lotus Sūtra* vol. 4, "At that time the World-Honored One, through Bodhisattva Bhaiṣajyarāja, addressed the eighty thousand great beings," *Taishō* vol. 9, No. T0262.
 
-[^4]: The distinction between the Dharma-Teacher Chapter's lamp-offering context and the Bhaiṣajyarāja Chapter's body-burning lies in the SA4 finding C4: the lamp-offering *motif* resides in vol. 6, Bhaiṣajyarāja Chapter 23, not in the Dharma-Teacher Chapter.
+[^4]: The distinction between the Dharma-Teacher Chapter's lamp-offering context and the Bhaiṣajyarāja Chapter's body-burning lies in: the lamp-offering *motif* resides in vol. 6, Bhaiṣajyarāja Chapter 23, not in the Dharma-Teacher Chapter.
 
 [^5]: *Avataṃsaka Sūtra* (大方廣佛華嚴經) vol. 40, "Good man! Of all offerings, dharma-offering is supreme," *Taishō* vol. 10, No. T0293.
 
@@ -293,7 +293,7 @@ The Dharma-Teacher Chapter, the Ever-Disparaging Chapter, and the Bhaiṣajyarā
 
 [^20]: Dharmarakṣa *Zhengfa Hua Jing* (正法華經) vol. 6, "Wearing the Tathāgata's robe, sitting on the World-Honored One's lion-seat…… What is 'wearing the Tathāgata's robe'? It is human forbearance, gentleness, peace, and elegance. What is 'the World-Honored One's lion-seat'? It is the understanding that all dharmas are utterly empty and still," *Taishō* vol. 9, No. T0263.
 
-[^21]: The triadic structure (room/robe/seat) appears only as dyad (robe/seat) in T0263; T0264 inherits Kumārajīva's triad. See SA2 finding 5.
+[^21]: The triadic structure (room/robe/seat) appears only as dyad (robe/seat) in T0263; T0264 inherits Kumārajīva's triad.
 
 [^22]: Zhiyi *Wenju* vol. 8下部, "Furthermore, reading, reciting, and writing are outer practice — these are the Tathāgata's robe; reception is inner practice — this is the Tathāgata's seat; explaining for others' benefit is the Tathāgata's room," *Taishō* vol. 34, No. T1718.
 
@@ -305,7 +305,7 @@ The Dharma-Teacher Chapter, the Ever-Disparaging Chapter, and the Bhaiṣajyarā
 
 [^26]: Zhiyi *Wenju* vol. 8下部, "Broadly speaking, if one models oneself on the five methods, one is a dharma-teacher of self-practice; if one teaches others the five methods, one is a dharma-teacher of transforming others," *Taishō* vol. 34, No. T1718.
 
-[^27]: Zhiyi's *Wenju* has no hierarchical comparison of "dharma-offering vs. material-offering," but instead binds the five dharma-teachers and ten offerings as two limbs of the same sentence through "the teacher's marks are precisely the five types of dharma-teachers and the ten kinds of offerings." See SA3 finding C1.
+[^27]: Zhiyi's *Wenju* has no hierarchical comparison of "dharma-offering vs. material-offering," but instead binds the five dharma-teachers and ten offerings as two limbs of the same sentence through "the teacher's marks are precisely the five types of dharma-teachers and the ten kinds of offerings."
 
 [^28]: Zhiyi *Miaofa Lianhua Jing Xuan yi* (妙法蓮華經玄義) citing Sengzhao's *Zhu Weimo Jing* (注維摩) vol. 10, "From the Buddha-land chapter to the dharma-offering chapter, all indicate the inconceivable," *Taishō* vol. 33, No. T1716.
 
@@ -325,7 +325,7 @@ The Dharma-Teacher Chapter, the Ever-Disparaging Chapter, and the Bhaiṣajyarā
 
 [^36]: Zhanran *Wenju Ji* vol. 8之三, "Jiaxiang also said…… now the opening-meaning is good, but establishing two deviates from the teaching," *Taishō* vol. 34, No. T1719.
 
-[^37]: Zhanran's by-name critique of Jiaxiang (Jizang) is a documented historical exchange, see T1719 vol. 8之三 vault lines 395–400. See SA4 finding 6.
+[^37]: Zhanran's by-name critique of Jiaxiang (Jizang) is a documented historical exchange, see T1719 vol. 8之三 vault lines 395–400.
 
 [^38]: *Mahāprajñāpāramitā-śāstra* vol. 11, "Why? The fruit of material giving lies in the desire-realm; the fruit of dharma-giving may lie in the three realms or beyond them…… Therefore, know that dharma-giving is extremely difficult!" *Taishō* vol. 25, No. T1509.
 
@@ -333,21 +333,21 @@ The Dharma-Teacher Chapter, the Ever-Disparaging Chapter, and the Bhaiṣajyarā
 
 [^40]: *Avataṃsaka Sūtra* vol. 40, "Good man! Of all offerings, dharma-offering is supreme. Namely: offering of practice according to the teaching, offering of benefiting beings, offering of receiving beings, offering of suffering for beings, offering of diligent wholesome roots, offering of not abandoning bodhisattva practice, offering of not departing from bodhicitta," *Taishō* vol. 10, No. T0293.
 
-[^41]: T0293's seven-item dharma-offering enumeration is a closed sequence. See SA5 finding 2.
+[^41]: T0293's seven-item dharma-offering enumeration is a closed sequence.
 
 [^42]: Donald S. Lopez Jr., *The Lotus Sūtra: A Biography* (Princeton: Princeton University Press, 2016).
 
-[^43]: Lopez framework重在 sūtra-as-object; but five dharma-teacher lines are not "five modes of offering to the sūtra scroll" but "five modes of becoming the dharma-body's extension." See BRIEF §E.1 push-back.
+[^43]: Lopez framework重在 sūtra-as-object; but five dharma-teacher lines are not "five modes of offering to the sūtra scroll" but "five modes of becoming the dharma-body's extension.".1 push-back.
 
 [^44]: Michael Pye, *Skilful Means: A Concept in Mahāyāna Buddhism* (Routledge 2nd ed. 2003).
 
-[^45]: Pye's framework nearly entirely resides at the doctrinal hermeneutics level, handling almost none of the ritual/somatic dimension of offering. See BRIEF §E.2 push-back.
+[^45]: Pye's framework nearly entirely resides at the doctrinal hermeneutics level, handling almost none of the ritual/somatic dimension of offering.2 push-back.
 
 [^46]: Jacqueline I. Stone, *Original Enlightenment and the Transformation of Medieval Japanese Buddhism* (Honolulu: University of Hawaiʻi Press, 1999).
 
-[^47]: Stone's primary research domain is medieval Japanese Lotus Buddhism, with little engagement of Han-Chinese frameworks. See BRIEF §E.3 push-back.
+[^47]: Stone's primary research domain is medieval Japanese Lotus Buddhism, with little engagement of Han-Chinese frameworks.3 push-back.
 
-[^48]: The voice transition from Part VI negative inversion to Part VII positive incarnation. See BRIEF §H.
+[^48]: The voice transition from Part VI negative inversion to Part VII positive incarnation.
 
 [^49]: *Lotus Sūtra* vol. 4 closing verse, "Whoever nears a dharma-teacher swiftly attains the bodhisattva path; following this teacher's learning, one sees innumerable Buddhas," *Taishō* vol. 9, No. T0262.
 

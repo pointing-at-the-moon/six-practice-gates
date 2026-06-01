@@ -227,19 +227,19 @@ The rest is your hand — and the loosening behind it.
 
 ### Pāli Literature (PTS / Mahāsaṅgīti CC0 publication-safe)
 
-| Text | Reference | publication_safe | Use in this paper |
+| Text | Reference | Licensing | Use in this paper |
 |------|------|------|------|
-| Vin Mv I 22 *Bimbisārasamāgamakathā* | Vin i 35–36 | ✅ Mahāsaṅgīti CC0 | §VI ★ *anupubbi-kathā* Buddha's-first-step formula |
-| Vin Cv VI 4 *Anāthapiṇḍikavatthu* | Vin ii 158–159 | ✅ Mahāsaṅgīti CC0 | §II P09 *cātuddisa saṅgha* institutional landing; §VI Beat 4 dharma-eye-before-gold |
-| SN 55.32 *Dutiyapuññābhisandasutta* | PTS v.391 | ✅ Mahāsaṅgīti CC0 | §II P01 *muttacāga* five-marks formula |
-| SN 55.39 *Kāḷigodhāsutta* | PTS v.395 | ✅ Mahāsaṅgīti CC0 | §II P02 Kāḷigodhā's stream-entry self-witness |
-| AN 5.34 *Sīhasenāpatisutta* | PTS iii.39; iv.81 | ✅ Mahāsaṅgīti CC0 | §II P06 4+1 epistemic partition (*ahaṁ jānāmi*) |
-| AN 5.36 *Kāladānasutta* | PTS iii.41 | ✅ Mahāsaṅgīti CC0 | §IV P30 *anumodanā* mediated-giving warrant |
-| AN 6.25 *Anussatiṭṭhānasutta* | PTS iii.312 | ✅ Mahāsaṅgīti CC0 | §II P03 *cāgānussati* formula |
-| AN 8.31 *Paṭhamadānasutta* | PTS iv.236 | ✅ Mahāsaṅgīti CC0 | §II P04 eight-motivation spectrum |
-| AN 8.36 *Puññakiriyavatthusutta* | PTS iv.241 | ✅ Mahāsaṅgīti CC0 | §II P08 three *puññakiriyavatthūni* |
-| AN 9.20 *Velāmasutta* | PTS iv.395 | ✅ Mahāsaṅgīti CC0 | §II P05 *accharāsaṅghātamatta aniccasaññā* apex |
-| MN 142 *Dakkhiṇāvibhaṅgasutta* | PTS iii.253–256 | ✅ Mahāsaṅgīti CC0 | §II P07 incommensurability-lock; §VI ★ Mahāpajāpatī robe-pair Beat 4 anchor |
+| Vin Mv I 22 *Bimbisārasamāgamakathā* | Vin i 35–36 | Mahāsaṅgīti CC0 | §VI ★ *anupubbi-kathā* Buddha's-first-step formula |
+| Vin Cv VI 4 *Anāthapiṇḍikavatthu* | Vin ii 158–159 | Mahāsaṅgīti CC0 | §II P09 *cātuddisa saṅgha* institutional landing; §VI Beat 4 dharma-eye-before-gold |
+| SN 55.32 *Dutiyapuññābhisandasutta* | PTS v.391 | Mahāsaṅgīti CC0 | §II P01 *muttacāga* five-marks formula |
+| SN 55.39 *Kāḷigodhāsutta* | PTS v.395 | Mahāsaṅgīti CC0 | §II P02 Kāḷigodhā's stream-entry self-witness |
+| AN 5.34 *Sīhasenāpatisutta* | PTS iii.39; iv.81 | Mahāsaṅgīti CC0 | §II P06 4+1 epistemic partition (*ahaṁ jānāmi*) |
+| AN 5.36 *Kāladānasutta* | PTS iii.41 | Mahāsaṅgīti CC0 | §IV P30 *anumodanā* mediated-giving warrant |
+| AN 6.25 *Anussatiṭṭhānasutta* | PTS iii.312 | Mahāsaṅgīti CC0 | §II P03 *cāgānussati* formula |
+| AN 8.31 *Paṭhamadānasutta* | PTS iv.236 | Mahāsaṅgīti CC0 | §II P04 eight-motivation spectrum |
+| AN 8.36 *Puññakiriyavatthusutta* | PTS iv.241 | Mahāsaṅgīti CC0 | §II P08 three *puññakiriyavatthūni* |
+| AN 9.20 *Velāmasutta* | PTS iv.395 | Mahāsaṅgīti CC0 | §II P05 *accharāsaṅghātamatta aniccasaññā* apex |
+| MN 142 *Dakkhiṇāvibhaṅgasutta* | PTS iii.253–256 | Mahāsaṅgīti CC0 | §II P07 incommensurability-lock; §VI ★ Mahāpajāpatī robe-pair Beat 4 anchor |
 
 ---
 

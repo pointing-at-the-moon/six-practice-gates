@@ -89,9 +89,9 @@ T0073's opening "five conditions of excellent giving" passage: "Householder! An 
 
 **Group 4: Honest-absence markers**
 
-It 27 / AN 11.16 *Mettānisaṁsasutta*: Per Bhikkhu Bodhi's AN translation index, this sūtra is the independent Pāli-canonical passage for "loving-kindness surpasses all merit-giving"; but the current vault-pali collection does not include it. This paper does not cross-check online, does not reconstruct from memory — the "loving-kindness finger-snap surpasses the five precepts" passage within the Velāma sūtra already suffices as internal evidence, requiring no external Pāli reinforcement. Deferred to future vault remediation.
+It 27 / AN 11.16 *Mettānisaṁsasutta*: Per Bhikkhu Bodhi's AN translation index, this sūtra is the independent Pāli-canonical passage for "loving-kindness surpasses all merit-giving"; but the current collection does not include it. This paper does not cross-check online, does not reconstruct from memory — the "loving-kindness finger-snap surpasses the five precepts" passage within the Velāma sūtra already suffices as internal evidence, requiring no external Pāli reinforcement. Deferred to future vault remediation.
 
-T0072 *Xuda zhangzhe jing* (alternate Guṇavṛddhi translation) / T0074 *Fo shuo zhangzhe shibao jing* (Faxian of Zhao Song translation): T0073's CBETA header cross-references itself as "No. 73 [No. 26(155), Nos. 72, 74, No. 125(27.3)]," flagging T0072 and T0074 as potential parallels in the Velāma cluster. These were not checked in the present cycle (the CBETA XML fallback has already been used for T0073; a second fallback exceeds this paper's scope). Flagged here for the future vault-remediation list.
+T0072 *Xuda zhangzhe jing* (alternate Guṇavṛddhi translation) / T0074 *Fo shuo zhangzhe shibao jing* (Faxian of Zhao Song translation): T0073's CBETA header cross-references itself as "No. 73 [No. 26(155), Nos. 72, 74, No. 125(27.3)]," flagging T0072 and T0074 as potential parallels in the Velāma cluster. These were not checked in the present cycle (the CBETA XML fallback has already been used for T0073; a second fallback exceeds this paper's scope). Flagged here for the future list.
 
 ### 2.2 B · Commentary
 

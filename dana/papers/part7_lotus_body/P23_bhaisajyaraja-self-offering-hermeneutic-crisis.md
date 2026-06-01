@@ -335,7 +335,7 @@ The forward-anchor to Part VIII, the Avataṃsaka Samantabhadra field, may thus 
 
 [^51a]: T25n1509 vol. 11 p0143b28–c10. Nāgārjuna's orthodox definition of inner giving takes this King-jātaka as exemplum, structurally isomorphic with the Lotus Bhaiṣajyarāja.
 
-[^51b]: RAG verification: the specific mode of finger-burning (自燒手指) does not exist in T0202 *Xianyu Jing* jātaka collections — the jātaka paradigm predominantly uses "whole-body feeding beasts," "cutting flesh," "giving head/eyes/marrow/brain." The self-burning/finger-burning mode is the Lotus §23's distinctive advance within the inherited jātaka paradigm.
+[^51b]:the specific mode of finger-burning (自燒手指) does not exist in T0202 *Xianyu Jing* jātaka collections — the jātaka paradigm predominantly uses "whole-body feeding beasts," "cutting flesh," "giving head/eyes/marrow/brain." The self-burning/finger-burning mode is the Lotus §23's distinctive advance within the inherited jātaka paradigm.
 
 [^52]: D. Max Moerman, *Localizing Paradise: Kumano Pilgrimage and the Religious Landscape of Premodern Japan*, Harvard University Asia Center, 2005. 24 cases, ninth to eighteenth century.
 

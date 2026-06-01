@@ -264,11 +264,11 @@ The thread from precept-body flowing to giving-body is planted in Mañjuśrī's 
 
 [^9]: *Dharmaguptaka Vinaya*, ch.1, T22n1428, p0573c07–c09.
 
-[^10]: The classical baseline's silences (stealing-mind, dharma-theft, reputation-theft) detailed in SA2 RAG §E.
+[^10]: The classical baseline's silences (stealing-mind, dharma-theft, reputation-theft).
 
 [^11]: Four-commentator consensus: Jiehuan X11n0270, Hanshan X12n0279, Ouyi X13n0285, Zhenjian X0275.
 
-[^12]: Zhenjian, *Lengyan Jing Zhengmai Shu*, X0275, vault-楞嚴/注疏_X0275_卷006_pt1.md L3713–3715.
+[^12]: Zhenjian, *Lengyan Jing Zhengmai Shu*, X0275.
 
 [^13]: Hanshan, *Lengyan Jing Tongyi*, X12n0279, X12p0602c14–c18.
 
@@ -298,7 +298,7 @@ The thread from precept-body flowing to giving-body is planted in Mañjuśrī's 
 
 [^26]: Ibid.
 
-[^27]: The structural argument of śāstra precedents presented fully in SA4 RAG §A–D.
+[^27]: The structural argument of śāstra precedents.
 
 [^28]: *Mahāprajñāpāramitā-śāstra* T1509 ch.12 dāna→śīla transition passage.
 
@@ -326,15 +326,15 @@ The thread from precept-body flowing to giving-body is planted in Mañjuśrī's 
 
 [^40]: Ibid.
 
-[^41]: This is Mañjuśrī's great wisdom's distinctive feature—see SA5 RAG §C.2.
+[^41]: This is Mañjuśrī's great wisdom's distinctive feature.2.
 
 [^42]: Western readers often misread the four precepts as moralistic restriction—correction in §E §IV interlocutor dialogue.
 
-[^43]: Mañjuśrī's selection and the Four Precepts' discrimination are two faces of the same great wisdom—see SA5 RAG §D.1.
+[^43]: Mañjuśrī's selection and the Four Precepts' discrimination are two faces of the same great wisdom.1.
 
 [^44]: Mochizuki Shinkō, *仏教経典成立史論* (1946) + Lü Cheng, *楞嚴百偽*.
 
-[^45]: Buswell's (1989) frame fully applicable—see SA6 RAG Interlocutor 1.
+[^45]: Buswell's (1989) frame fully applicable.
 
 [^46]: *Mahāprajñāpāramitā-śāstra*, ch.12, T25n1509, p147b04–b08.
 
@@ -342,7 +342,7 @@ The thread from precept-body flowing to giving-body is planted in Mañjuśrī's 
 
 [^48]: Buswell, Robert E., Jr. (1989). *The Formation of Ch'an Ideology in China and Korea*. Princeton UP.
 
-[^49]: BTTS (2009) + Mochizuki Shinkō (1946）—see SA6 RAG Interlocutors 2–3.
+[^49]: BTTS (2009) + Mochizuki Shinkō (1946）.
 
 [^50]: *Śūraṅgama Sūtra*, ch.6, T19n0945, p0132b22–b26.
 
@@ -350,11 +350,11 @@ The thread from precept-body flowing to giving-body is planted in Mañjuśrī's 
 
 [^52]: Complete argument of śāstra precedents—T1509 ch.12–13, T1579 ch.39–40, T1488, T1484.
 
-[^53]: Mañjuśrī's selection and the Four Precepts' discrimination are two faces of the same great wisdom—see SA5 RAG §D.1.
+[^53]: Mañjuśrī's selection and the Four Precepts' discrimination are two faces of the same great wisdom.1.
 
 [^54]: *Śūraṅgama Sūtra*, ch.6, T19n0945, p0133c14.
 
-[^55]: Mañjuśrī's verse embedded dāna term—see SA5 RAG §B.3.
+[^55]: Mañjuśrī's verse embedded dāna term.3.
 
 [^56]: *Śūraṅgama Sūtra*, ch.6, T19n0945, p0130c22.
 

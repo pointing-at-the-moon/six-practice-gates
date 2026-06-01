@@ -175,7 +175,7 @@ First, the gate of "pure-and-mixed both fully endowed" (*Wujiao zhang*, T1866):
 
 > Entering a single *samādhi* and practising only giving, in every time, every place, every condition, every event, every kind, every duration … this is called "pure." And entering a single *samādhi* in which giving, precepts, perfections, the saving of beings, and so on [are present together], in every time, every place … this is called "mixed."[^15]
 
-Fazang needs an example with which to articulate how a single practice can be at once *pure* — one practice, exhaustively pervading every time, place, and condition — and at the same time *mixed* — that one practice already containing the giving, the precepts, the perfections, the saving of beings, and so on; containing them all. The example he chooses for the *pure* — is *dāna*. ✅ This is doctrinally telling: Fazang did not pick a neutral placeholder. He chose giving, as the worked example of "one IS all" at the level of practice.
+Fazang needs an example with which to articulate how a single practice can be at once *pure* — one practice, exhaustively pervading every time, place, and condition — and at the same time *mixed* — that one practice already containing the giving, the precepts, the perfections, the saving of beings, and so on; containing them all. The example he chooses for the *pure* — is *dāna*. This is doctrinally telling: Fazang did not pick a neutral placeholder. He chose giving, as the worked example of "one IS all" at the level of practice.
 
 Second, the *Jin shizi zhang* (T1881):
 

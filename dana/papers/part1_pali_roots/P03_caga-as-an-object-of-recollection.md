@@ -56,7 +56,7 @@ Read from this direction, the contemporary English reader's discomfort with "ret
 
 ## II. Canonical Foundation
 
-The evidence in this section runs along two axes. **Axis A (discourses)** is organized into four groups, corresponding to the canonical exposition of the six-recollection sequence, its parallel variants, its two-stage architecture, and the Chinese-translation expansion. **Axis B (commentary)** centers on Buddhaghosa's systematic treatment of the six *anussati* in the seventh chapter of the *Visuddhimagga*, particularly its fifth section on *cāgānussati*. In keeping with the NIAN-A dual-track discipline of this volume, every Nikāya reference is paired with its Chinese-translation parallel. *Visuddhimagga* citations follow this vault's licensing metadata of `publication_safe: false` and are *paraphrased only*.
+The evidence in this section runs along two axes. **Axis A (discourses)** is organized into four groups, corresponding to the canonical exposition of the six-recollection sequence, its parallel variants, its two-stage architecture, and the Chinese-translation expansion. **Axis B (commentary)** centers on Buddhaghosa's systematic treatment of the six *anussati* in the seventh chapter of the *Visuddhimagga*, particularly its fifth section on *cāgānussati*. In keeping with the NIAN-A dual-track discipline of this volume, every Nikāya reference is paired with its Chinese-translation parallel. *Visuddhimagga* citations follow this vault's licensing metadata of and are *paraphrased only*.
 
 ### 2.1 Axis A: Discourses (Pāli with Chinese parallels)
 

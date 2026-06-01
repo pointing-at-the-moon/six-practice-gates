@@ -336,15 +336,15 @@ Hyde, Lewis. *The Gift: How the Creative Spirit Transforms the World*. Random Ho
 
 #### 巴利文獻 (PTS / Mahāsaṅgīti CC0)
 
-| 文獻 | 卷次 | publication_safe | 用於本篇 |
+| 文獻 | 卷次 | 授權 | 用於本篇 |
 |------|------|------------------|----------|
-| *Aṅguttara Nikāya* 5.36 *Kāladānasutta* | PTS iii 41 | ✅ true（Mahāsaṅgīti CC0 · Bhikkhu Sujato CC0 譯） | §四 主錨 Pāli 經典本據 |
+| *Aṅguttara Nikāya* 5.36 *Kāladānasutta* | PTS iii 41 | true（Mahāsaṅgīti CC0 · Bhikkhu Sujato CC0 譯） | §四 主錨 Pāli 經典本據 |
 
 ---
 
 ## 系列交叉引用 Cross-Reference Index
 
-（由 Code Opus 審稿掃描 papers/ 已發表篇目自動產出。本篇互引：DĀNA P12-P14（檀那波羅蜜架構，一句即止）、DĀNA P13（三輪體空，一句即止）、DĀNA P21（法華法師品法供養，一句即止）、DĀNA P25 / P26（普賢廣修供養、法供養，各一句即止）、DĀNA P28（入法界品，一句即止）、DĀNA P29（七覺支雙因子衡器，§一引言一句承器）、DĀNA P31（卷之收束，§六 向後接續 一句）、卷三 SĪLA（§六 向後接續半句）、NIAN P30（姊妹卷之複調，§一 框架 + §五 接縫 + §六 向後接續）、《八部曲》S4-P06（跨書系一句，§六）。）
+（本篇互引：DĀNA P12-P14（檀那波羅蜜架構，一句即止）、DĀNA P13（三輪體空，一句即止）、DĀNA P21（法華法師品法供養，一句即止）、DĀNA P25 / P26（普賢廣修供養、法供養，各一句即止）、DĀNA P28（入法界品，一句即止）、DĀNA P29（七覺支雙因子衡器，§一引言一句承器）、DĀNA P31（卷之收束，§六 向後接續 一句）、卷三 SĪLA（§六 向後接續半句）、NIAN P30（姊妹卷之複調，§一 框架 + §五 接縫 + §六 向後接續）、《八部曲》S4-P06（跨書系一句，§六）。）
 
 ---
 
