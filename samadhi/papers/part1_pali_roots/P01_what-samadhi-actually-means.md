@@ -243,11 +243,11 @@ But that is later. This chapter has done its work by loosening three words that 
 
 [^15]: *Platform Sūtra of the Sixth Patriarch* (《六祖大師法寶壇經》), the "Concentration and Wisdom" section, "concentration and wisdom are one substance, not two," Taishō vol. 48, T2008. Cited here as a forward reference only; the principal treatment of the Chan doctrine that concentration and wisdom are not two belongs to Volume VII (Part VII) of this series.
 
-[^16]: Richard Shankman, *The Experience of Samādhi: An In-Depth Exploration of Buddhist Meditation* (Shambhala, 2008). [VERIFY] — the attribution here is to be checked item by item against the precise chapters of the original.
+[^16]: Richard Shankman, *The Experience of Samādhi: An In-Depth Exploration of Buddhist Meditation* (Shambhala, 2008). The attribution here is to be checked item by item against the precise chapters of the original.
 
-[^17]: Rupert Gethin, *The Foundations of Buddhism* (Oxford University Press, 1998); related work by Lance Cousins is scattered across the *Journal of the Pali Text Society* and other venues. [VERIFY] — attributions to be checked item by item.
+[^17]: Rupert Gethin, *The Foundations of Buddhism* (Oxford University Press, 1998); related work by Lance Cousins is scattered across the *Journal of the Pali Text Society* and other venues. Attributions to be checked item by item.
 
-[^18]: Robert H. Sharf, "Buddhist Modernism and the Rhetoric of Meditative Experience," *Numen* 42 (1995): 228–283. [VERIFY] — the precise target of the attribution to be checked against the original.
+[^18]: Robert H. Sharf, "Buddhist Modernism and the Rhetoric of Meditative Experience," *Numen* 42 (1995): 228–283. The precise target of the attribution to be checked against the original.
 
 [^19]: Pāli sources: *Mahāsaccaka-sutta*, Majjhima Nikāya 36 (the recollection of the boyhood first *jhāna* beneath the rose-apple tree); *Ariyapariyesanā-sutta*, Majjhima Nikāya 26 (the study under the two teachers and the abandoning of the formless attainments). The Chinese parallels are the relevant discourses of the *Madhyama Āgama* (《中阿含經》, T0026); the specific passages are the proper subject of the next chapter (P02).
 
