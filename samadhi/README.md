@@ -11,7 +11,7 @@ Of the six gates, 定 correlates with the Heart Sūtra's **究竟** (*ultimate* 
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: 🟢 **Paper phase — Part I in progress (P01 + P02 landed 2026-05-31)** · forward through the Āgama view, the Abhidharma and the path of purification, the Mahāyāna turn, prajñā and concentration, the Śūraṅgama, Chan's silent illumination and the huatou, the Lotus and Huayan, to the return of samādhi to prajñā
+- **Status**: 🟢 **Paper phase — Part I 3/5 (P01 + P02 + P03 landed 2026-05-31)** · forward through the Āgama view, the Abhidharma and the path of purification, the Mahāyāna turn, prajñā and concentration, the Śūraṅgama, Chan's silent illumination and the huatou, the Lotus and Huayan, to the return of samādhi to prajñā
 
 ### Planned Structure
 
@@ -29,9 +29,10 @@ Nine parts, an arc from the Pāli jhāna inward to the limit, then back out to w
 
 ### Published Papers
 
-**Part I — Pāli Roots** · 2/5
+**Part I — Pāli Roots** · 3/5
 - **P01** [三詞辨義](./papers/part1_pali_roots/P01_三詞辨義.md) / [What Samādhi Actually Means](./papers/part1_pali_roots/P01_what-samadhi-actually-means.md)
 - **P02** [閻浮樹下與二師](./papers/part1_pali_roots/P02_閻浮樹下與二師.md) / [The Rose-Apple Tree and the Two Teachers](./papers/part1_pali_roots/P02_the-rose-apple-tree-and-the-two-teachers.md)
+- **P03** [止觀雙軌](./papers/part1_pali_roots/P03_止觀雙軌.md) / [Samatha and Vipassanā: Two Tracks, One Vehicle](./papers/part1_pali_roots/P03_samatha-and-vipassana-two-tracks-one-vehicle.md)
 
 ---
 
