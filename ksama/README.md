@@ -11,7 +11,7 @@ Of the six gates, 懺 alone correlates not with a Heart Sūtra **verb** but with
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: 🟢 **Paper phase — Part I 2/3 (P01 + P02 landed 2026-05-31)** · forward through the Āgama view, Samantabhadra's confession, the 施→懺→戒 bridge, the three repentances, the Chinese repentance rites, to the repentance of non-arising
+- **Status**: 🟢 **Paper phase — Part I complete 3/3 (P01 + P02 + P03 landed 2026-05-31)** · forward through the Āgama view, Samantabhadra's confession, the 施→懺→戒 bridge, the three repentances, the Chinese repentance rites, to the repentance of non-arising
 
 ### Planned Structure
 
@@ -28,9 +28,10 @@ Eight parts, an ascent from phenomenal disclosure to the repentance of non-arisi
 
 ### Published Papers
 
-**Part I — Pāli Roots** · 2/3
+**Part I — Pāli Roots** · 3/3 ✅
 - **P01** [三詞辨義](./papers/part1_pali_roots/P01_三詞辨義.md) / [What Repentance Actually Means](./papers/part1_pali_roots/P01_what-repentance-actually-means.md)
 - **P02** [覆藏與出罪](./papers/part1_pali_roots/P02_覆藏與出罪.md) / [Concealment and Rehabilitation](./papers/part1_pali_roots/P02_concealment-and-rehabilitation.md)
+- **P03** [自恣與布薩](./papers/part1_pali_roots/P03_自恣與布薩.md) / [Invitation and Recitation](./papers/part1_pali_roots/P03_invitation-and-recitation.md)
 
 ---
 
