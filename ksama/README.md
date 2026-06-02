@@ -11,7 +11,7 @@ Of the six gates, 懺 alone correlates not with a Heart Sūtra **verb** but with
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: 🟢 **Paper phase — Parts I–III complete · 7 papers (P01–P07)** · Part I 3/3 · Part II 2/2 · Part III 2/2 · forward through the 施→懺→戒 bridge, the three repentances, the Chinese repentance rites, to the repentance of non-arising
+- **Status**: 🟢 **Paper phase — Parts I–IV complete · Part V open · 10 papers (P01–P10)** · Part I 3/3 · Part II 2/2 · Part III 2/2 · Part IV 2/2 · Part V 1/2 · forward through the three repentances, the Chinese repentance rites, to the repentance of non-arising
 
 ### Planned Structure
 
@@ -44,6 +44,9 @@ Eight parts, an ascent from phenomenal disclosure to the repentance of non-arisi
 **Part IV — The Death-and-Rebirth Bridge: Giving → Repentance → Restraint** · 2/2
 - **P08** [死而後生橋·施面接縫](./papers/part4_death_and_rebirth_bridge/P08_死而後生橋_施面接縫.md) / [The Death-and-Rebirth Bridge · The Giving-Side Seam](./papers/part4_death_and_rebirth_bridge/P08_the-death-and-rebirth-bridge-the-giving-side-seam.md) — only after the loss of self is disclosure lawful · the entry-seam between giving and repentance
 - **P09** [死而後生橋·戒面接縫](./papers/part4_death_and_rebirth_bridge/P09_死而後生橋_戒面接縫.md) / [The Death-and-Rebirth Bridge · The Precept-Side Seam](./papers/part4_death_and_rebirth_bridge/P09_the-death-and-rebirth-bridge-the-precept-side-seam.md) — then receive the bodhisattva precepts · repentance clears the karma, then the new precept-substance is received (rebirth) · the exit-seam that joins the whole bridge
+
+**Part V — The Three Repentances** · 1/2
+- **P10** [三種懺](./papers/part5_three_repentances/P10_三種懺.md) / [The Three Repentances](./papers/part5_three_repentances/P10_the-three-repentances.md) — a ladder from the phenomenal to the principial · procedural (扶戒) → sign-contemplating (扶定) → non-arising (扶慧), Zhiyi's threefold judgment · structure-first; the summit named only
 
 ---
 
