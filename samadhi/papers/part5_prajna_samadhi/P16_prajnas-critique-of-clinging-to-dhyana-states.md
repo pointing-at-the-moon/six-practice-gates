@@ -17,7 +17,7 @@ license: CC BY-NC-SA 4.0
 
 ***Craving the Flavor of Dhyāna and Sinking into Emptiness: How Prajñā Dissolves the Two Ways of Clinging to Concentration***
 
-*中文主題：定相亦空——貪定味與沈空滯寂，般若如何化解對定的兩種執取*
+*中文主題：般若對貪定味·住三昧之批判——定相亦空，般若如何化解對定的兩種執取*
 
 ---
 
