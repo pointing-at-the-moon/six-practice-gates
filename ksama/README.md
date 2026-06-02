@@ -41,6 +41,9 @@ Eight parts, an ascent from phenomenal disclosure to the repentance of non-arisi
 - **P06** [七支供之懺悔支](./papers/part3_seven_limbs_samantabhadra/P06_七支供之懺悔支.md) / [The Confession Limb of the Sevenfold Worship](./papers/part3_seven_limbs_samantabhadra/P06_the-confession-limb-of-the-sevenfold-worship.md)
 - **P07** [普賢懺悔業障](./papers/part3_seven_limbs_samantabhadra/P07_普賢懺悔業障.md) / [Samantabhadra's Confession of Karmic Obstacles](./papers/part3_seven_limbs_samantabhadra/P07_samantabhadras-confession-of-karmic-obstacles.md) — from a limb to a vow · the aspirational structure of the fourth vow
 
+**Part IV — The Death-and-Rebirth Bridge: Giving → Repentance → Restraint** · 1/2
+- **P08** [死而後生橋·施面接縫](./papers/part4_death_and_rebirth_bridge/P08_死而後生橋_施面接縫.md) / [The Death-and-Rebirth Bridge · The Giving-Side Seam](./papers/part4_death_and_rebirth_bridge/P08_the-death-and-rebirth-bridge.md) — only after the loss of self is disclosure lawful · the entry-seam between giving and repentance
+
 ---
 
 *指月 Pointing at the Moon · The Six Practice Gates · KṢAMĀ (懺) · 釋慧鏡 (Shi Huijing) · CC BY-NC-SA 4.0*
