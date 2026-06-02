@@ -11,7 +11,7 @@ Of the six gates, 定 correlates with the Heart Sūtra's **究竟** (*ultimate* 
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: 🟢 **Paper phase — Part I 5/5 ✅ · Part II 開卷 1/3 (P06 正定作為道支 landed 2026-06-01)** · forward through the rest of the Āgama view, the Abhidharma and the path of purification, the Mahāyāna turn, prajñā and concentration, the Śūraṅgama, Chan's silent illumination and the huatou, the Lotus and Huayan, to the return of samādhi to prajñā
+- **Status**: 🟢 **Paper phase — Part I 5/5 ✅ · Part II 2/3 (P06 正定作為道支 · P07 定覺支在七覺支中之位 landed 2026-06-01)** · forward through the rest of the Āgama view, the Abhidharma and the path of purification, the Mahāyāna turn, prajñā and concentration, the Śūraṅgama, Chan's silent illumination and the huatou, the Lotus and Huayan, to the return of samādhi to prajñā
 
 ### Planned Structure
 
@@ -36,8 +36,9 @@ Nine parts, an arc from the Pāli jhāna inward to the limit, then back out to w
 - **P04** [四禪與四無色定](./papers/part1_pali_roots/P04_四禪與四無色定.md) / [The Four Jhānas and the Formless Attainments](./papers/part1_pali_roots/P04_the-four-jhanas-and-the-formless-attainments.md)
 - **P05** [業處的對境結構](./papers/part1_pali_roots/P05_業處的對境結構.md) / [Kammaṭṭhāna and the Object-Structure of Absorption](./papers/part1_pali_roots/P05_kammatthana-and-the-object-structure-of-absorption.md)
 
-**Part II — The Āgama View** · 1/3
+**Part II — The Āgama View** · 2/3
 - **P06** [正定作為八正道第八支](./papers/part2_agama_view/P06_正定作為八正道第八支.md) / [Right Concentration as a Path-Factor](./papers/part2_agama_view/P06_right-concentration-as-a-path-factor.md)
+- **P07** [定覺支在七覺支中之位](./papers/part2_agama_view/P07_定覺支在七覺支中之位.md) / [The Concentration Factor among the Seven Awakening-Factors](./papers/part2_agama_view/P07_the-concentration-factor-among-the-seven-awakening-factors.md)
 
 ---
 
