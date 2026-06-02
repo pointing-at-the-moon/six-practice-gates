@@ -11,7 +11,7 @@ Of the six gates, 定 correlates with the Heart Sūtra's **究竟** (*ultimate* 
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: 🟢 **Paper phase — Part I 5/5 ✅ · Part II 3/3 ✅ · Part III 3/3 ✅ (P09 四十業處綱目 / The Forty Meditation-Objects · P10 禪支分析 / The Anatomy of a Jhāna-Factor · P11 定體 / Two Schools on the Nature of Absorption — sealed 2026-06-02)** · forward through the Mahāyāna turn, prajñā and concentration, the Śūraṅgama, Chan's silent illumination and the huatou, the Lotus and Huayan, to the return of samādhi to prajñā
+- **Status**: 🟢 **Paper phase — Part I 5/5 ✅ · Part II 3/3 ✅ · Part III 3/3 ✅ (P09 四十業處綱目 / The Forty Meditation-Objects · P10 禪支分析 / The Anatomy of a Jhāna-Factor · P11 定體 / Two Schools on the Nature of Absorption — sealed 2026-06-02) · Part IV 開卷 1/4 (P12 禪波羅蜜 / Dhyāna-Pāramitā in the Mahāprajñāpāramitā-śāstra)** · forward through prajñā and concentration, the Śūraṅgama, Chan's silent illumination and the huatou, the Lotus and Huayan, to the return of samādhi to prajñā
 
 ### Planned Structure
 
@@ -45,6 +45,9 @@ Nine parts, an arc from the Pāli jhāna inward to the limit, then back out to w
 - **P09** [四十業處綱目](./papers/part3_abhidharma_purification/P09_四十業處綱目.md) / [The Forty Meditation-Objects: A Taxonomy](./papers/part3_abhidharma_purification/P09_the-forty-meditation-objects-a-taxonomy.md)
 - **P10** [禪支分析](./papers/part3_abhidharma_purification/P10_禪支分析.md) / [The Anatomy of a Jhāna-Factor](./papers/part3_abhidharma_purification/P10_the-anatomy-of-a-jhana-factor.md)
 - **P11** [定體](./papers/part3_abhidharma_purification/P11_定體.md) / [Two Schools on the Nature of Absorption](./papers/part3_abhidharma_purification/P11_two-schools-on-the-nature-of-absorption.md)
+
+**Part IV — The Mahāyāna Turn** · 1/4
+- **P12** [禪波羅蜜](./papers/part4_mahayana_turn/P12_禪波羅蜜.md) / [Dhyāna-Pāramitā in the Mahāprajñāpāramitā-śāstra](./papers/part4_mahayana_turn/P12_dhyana-paramita-in-the-mahaprajnaparamita-sastra.md)
 
 ---
 
