@@ -11,7 +11,7 @@ Of the six gates, 懺 alone correlates not with a Heart Sūtra **verb** but with
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: 🟢 **Paper phase — Parts I–V complete · 11 papers (P01–P11)** · Part I 3/3 · Part II 2/2 · Part III 2/2 · Part IV 2/2 · Part V 2/2 · forward through the Chinese repentance rites, to the repentance of non-arising
+- **Status**: 🟢 **Paper phase — Parts I–V complete · Part VI open · 12 papers (P01–P12)** · Part I 3/3 · Part II 2/2 · Part III 2/2 · Part IV 2/2 · Part V 2/2 · Part VI 1/~3 · forward through the Chinese repentance rites, to the repentance of non-arising
 
 ### Planned Structure
 
@@ -48,6 +48,9 @@ Eight parts, an ascent from phenomenal disclosure to the repentance of non-arisi
 **Part V — The Three Repentances** · 2/2 ✅
 - **P10** [三種懺](./papers/part5_three_repentances/P10_三種懺.md) / [The Three Repentances](./papers/part5_three_repentances/P10_the-three-repentances.md) — a ladder from the phenomenal to the principial · procedural (扶戒) → sign-contemplating (扶定) → non-arising (扶慧), Zhiyi's threefold judgment · structure-first; the summit named only
 - **P11** [取相懺](./papers/part5_three_repentances/P11_取相懺.md) / [Sign-Based Repentance](./papers/part5_three_repentances/P11_sign-based-repentance.md) — the middle rung up close: the vertebra where phenomenal confession grows into the principial · buttressed by concentration · the sign as verification, not destination ("must not grasp") · breaks the offence of intrinsic nature · non-supersession · sealing Part V
+
+**Part VI — The Chinese Repentance Rites** · 1/~3
+- **P12** [漢傳懺法儀軌](./papers/part6_chinese_repentance_rites/P12_漢傳懺法儀軌.md) / [The Architecture of Chinese Repentance Liturgy](./papers/part6_chinese_repentance_rites/P12_chinese-repentance-liturgy.md) — structure-first: repentance liturgy as an institutional genre · the fivefold-repentance (五悔) skeleton · the ten stages of the *Lotus Samādhi* rite · contemplative rites vs ceremonial rites (a spectrum, not a chasm) · the doctrinal engine in Zhiyi's "body and speech aid the mental act" · the high-water mark of phenomenal repentance in China
 
 ---
 
