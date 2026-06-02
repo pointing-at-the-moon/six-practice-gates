@@ -11,7 +11,7 @@ Of the six gates, 定 correlates with the Heart Sūtra's **究竟** (*ultimate* 
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: 🟢 **Paper phase — Part I 5/5 ✅ · Part II 3/3 ✅ · Part III 3/3 ✅ (P09 四十業處綱目 / The Forty Meditation-Objects · P10 禪支分析 / The Anatomy of a Jhāna-Factor · P11 定體 / Two Schools on the Nature of Absorption — sealed 2026-06-02) · Part IV 4/4 ✅ (P12 禪波羅蜜 / Dhyāna-Pāramitā in the Mahāprajñāpāramitā-śāstra · P13 九住心 / Śamatha-Vipaśyanā in the Yogācārabhūmi · P14 不住之定 / The Bodhisattva's Non-Abiding Concentration · P15 三昧之大乘擴張 / Samādhi as Mahāyāna Expansion — sealed 2026-06-02)** · forward through prajñā and concentration, the Śūraṅgama, Chan's silent illumination and the huatou, the Lotus and Huayan, to the return of samādhi to prajñā
+- **Status**: 🟢 **Paper phase — Part I 5/5 ✅ · Part II 3/3 ✅ · Part III 3/3 ✅ (P09 四十業處綱目 / The Forty Meditation-Objects · P10 禪支分析 / The Anatomy of a Jhāna-Factor · P11 定體 / Two Schools on the Nature of Absorption — sealed 2026-06-02) · Part IV 4/4 ✅ (P12 禪波羅蜜 / Dhyāna-Pāramitā in the Mahāprajñāpāramitā-śāstra · P13 九住心 / Śamatha-Vipaśyanā in the Yogācārabhūmi · P14 不住之定 / The Bodhisattva's Non-Abiding Concentration · P15 三昧之大乘擴張 / Samādhi as Mahāyāna Expansion — sealed 2026-06-02) · Part V 開卷 1/3 (P16 定相亦空 / Prajñā's Critique of Clinging to Dhyāna-States — 2026-06-02)** · forward through the Śūraṅgama, Chan's silent illumination and the huatou, the Lotus and Huayan, to the return of samādhi to prajñā
 
 ### Planned Structure
 
@@ -51,6 +51,9 @@ Nine parts, an arc from the Pāli jhāna inward to the limit, then back out to w
 - **P13** [九住心](./papers/part4_mahayana_turn/P13_九住心.md) / [Śamatha-Vipaśyanā in the Yogācārabhūmi](./papers/part4_mahayana_turn/P13_samatha-vipasyana-in-the-yogacarabhumi.md)
 - **P14** [不住之定](./papers/part4_mahayana_turn/P14_不住之定.md) / [The Bodhisattva's Non-Abiding Concentration](./papers/part4_mahayana_turn/P14_the-bodhisattvas-non-abiding-concentration.md)
 - **P15** [三昧之大乘擴張](./papers/part4_mahayana_turn/P15_三昧之大乘擴張.md) / [Samādhi as Mahāyāna Expansion](./papers/part4_mahayana_turn/P15_samadhi-as-mahayana-expansion.md)
+
+**Part V — Prajñā and Concentration** · 1/3
+- **P16** [定相亦空](./papers/part5_prajna_samadhi/P16_定相亦空.md) / [Prajñā's Critique of Clinging to Dhyāna-States](./papers/part5_prajna_samadhi/P16_prajnas-critique-of-clinging-to-dhyana-states.md)
 
 ---
 
