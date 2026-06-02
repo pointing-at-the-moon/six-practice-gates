@@ -11,7 +11,7 @@ Of the six gates, 定 correlates with the Heart Sūtra's **究竟** (*ultimate* 
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: 🟢 **Paper phase — Part I 5/5 ✅ · Part II 3/3 ✅ (P06 正定作為道支 · P07 定覺支在七覺支中之位 · P08 五蓋作為定之所對治 landed 2026-06-01)** · forward through the Abhidharma and the path of purification, the Mahāyāna turn, prajñā and concentration, the Śūraṅgama, Chan's silent illumination and the huatou, the Lotus and Huayan, to the return of samādhi to prajñā
+- **Status**: 🟢 **Paper phase — Part I 5/5 ✅ · Part II 3/3 ✅ · Part III opened 1/3 (P09 四十業處綱目 / The Forty Meditation-Objects landed 2026-06-01)** · forward through the rest of the Abhidharma and the path of purification, the Mahāyāna turn, prajñā and concentration, the Śūraṅgama, Chan's silent illumination and the huatou, the Lotus and Huayan, to the return of samādhi to prajñā
 
 ### Planned Structure
 
@@ -40,6 +40,9 @@ Nine parts, an arc from the Pāli jhāna inward to the limit, then back out to w
 - **P06** [正定作為八正道第八支](./papers/part2_agama_view/P06_正定作為八正道第八支.md) / [Right Concentration as a Path-Factor](./papers/part2_agama_view/P06_right-concentration-as-a-path-factor.md)
 - **P07** [定覺支在七覺支中之位](./papers/part2_agama_view/P07_定覺支在七覺支中之位.md) / [The Concentration Factor among the Seven Awakening-Factors](./papers/part2_agama_view/P07_the-concentration-factor-among-the-seven-awakening-factors.md)
 - **P08** [五蓋作為定之所對治](./papers/part2_agama_view/P08_五蓋作為定之所對治.md) / [The Five Hindrances and What Jhāna Clears](./papers/part2_agama_view/P08_the-five-hindrances-and-what-jhana-clears.md)
+
+**Part III — Abhidharma and the Path of Purification** · 1/3
+- **P09** [四十業處綱目](./papers/part3_abhidharma_purification/P09_四十業處綱目.md) / [The Forty Meditation-Objects: A Taxonomy](./papers/part3_abhidharma_purification/P09_the-forty-meditation-objects-a-taxonomy.md)
 
 ---
 
