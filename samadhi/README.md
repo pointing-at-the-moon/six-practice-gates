@@ -11,7 +11,7 @@ Of the six gates, 定 correlates with the Heart Sūtra's **究竟** (*ultimate* 
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: 🟢 **Paper phase — Part I 5/5 ✅ · Part II 3/3 ✅ · Part III opened 1/3 (P09 四十業處綱目 / The Forty Meditation-Objects landed 2026-06-01)** · forward through the rest of the Abhidharma and the path of purification, the Mahāyāna turn, prajñā and concentration, the Śūraṅgama, Chan's silent illumination and the huatou, the Lotus and Huayan, to the return of samādhi to prajñā
+- **Status**: 🟢 **Paper phase — Part I 5/5 ✅ · Part II 3/3 ✅ · Part III 2/3 (P09 四十業處綱目 / The Forty Meditation-Objects · P10 禪支分析 / The Anatomy of a Jhāna-Factor — landed 2026-06-01)** · forward through the rest of the Abhidharma and the path of purification, the Mahāyāna turn, prajñā and concentration, the Śūraṅgama, Chan's silent illumination and the huatou, the Lotus and Huayan, to the return of samādhi to prajñā
 
 ### Planned Structure
 
@@ -41,8 +41,9 @@ Nine parts, an arc from the Pāli jhāna inward to the limit, then back out to w
 - **P07** [定覺支在七覺支中之位](./papers/part2_agama_view/P07_定覺支在七覺支中之位.md) / [The Concentration Factor among the Seven Awakening-Factors](./papers/part2_agama_view/P07_the-concentration-factor-among-the-seven-awakening-factors.md)
 - **P08** [五蓋作為定之所對治](./papers/part2_agama_view/P08_五蓋作為定之所對治.md) / [The Five Hindrances and What Jhāna Clears](./papers/part2_agama_view/P08_the-five-hindrances-and-what-jhana-clears.md)
 
-**Part III — Abhidharma and the Path of Purification** · 1/3
+**Part III — Abhidharma and the Path of Purification** · 2/3
 - **P09** [四十業處綱目](./papers/part3_abhidharma_purification/P09_四十業處綱目.md) / [The Forty Meditation-Objects: A Taxonomy](./papers/part3_abhidharma_purification/P09_the-forty-meditation-objects-a-taxonomy.md)
+- **P10** [禪支分析](./papers/part3_abhidharma_purification/P10_禪支分析.md) / [The Anatomy of a Jhāna-Factor](./papers/part3_abhidharma_purification/P10_the-anatomy-of-a-jhana-factor.md)
 
 ---
 
