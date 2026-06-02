@@ -246,8 +246,8 @@ The highest rung still keeps outside the door (Part VII); how these practice-for
 
 ---
 
-*License: CC BY-NC-SA 4.0 — Attribution · NonCommercial · ShareAlike*
-*Textual Verification: CBETA Chinese Buddhist Electronic Text Association*
-*Project: 指月 Point-to-the-moon · six-practice-gates (KṢAMĀ volume · Part V "The Three Repentances" #2 · Sign-Based Repentance · the middle rung · sealing Part V)*
-*Repository: https://github.com/pointing-at-the-moon/six-practice-gates*
-*Author: 釋慧鏡 Shi Huijing*
+*Paper:* KSAMA-P11 · *Sign-Based Repentance* · **KṢAMĀ · Part V · The Three Repentances · #2 · the middle rung · sealing Part V**
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates (六行門) · KṢAMĀ · Part V · #2 · sealing Part V
+*License:* CC BY-NC-SA 4.0
+*CBETA collation:* Citations from Zhiyi's *Shi chan boluomi cidi famen* (T1916), Zhili's *Xiuchan yaozhi* (T1937), the *Sūtra on Divining the Requital of Good and Evil Actions* (T0839), the *Brahmā's Net Sūtra* (T1484), the *Mahāprajñāpāramitā-śāstra* (T1509), the *Shi moheyan lun* (T1668), Yuanzhao's *Zichi ji* (T1805), and the *Jin guangming jing wenju ji* (T1785) verified against the CBETA Electronic Tripiṭaka 2024 edition.
+*Repository:* https://github.com/pointing-at-the-moon/six-practice-gates

@@ -224,8 +224,8 @@ The bridge now joined, the road ahead is barely opened, not entered: beyond sign
 
 ---
 
-*License: CC BY-NC-SA 4.0 — Attribution · Non-Commercial · Share-Alike*
-*Textual Verification: CBETA Electronic Tripiṭaka Collection (Chinese translations)*
-*Project: Point-to-the-moon · six-practice-gates (KṢAMĀ vol. · Part IV, The Death-and-Rebirth Bridge: Giving → Repentance → Precept, #2 · exit-bridge · precept-side seam)*
-*Repository: https://github.com/pointing-at-the-moon/six-practice-gates*
-*Author: Shi Huijing — the treasury of the true dharma eye, not established on words*
+*Paper:* KSAMA-P09 · *The Death-and-Rebirth Bridge · The Precept-Side Seam* · **KṢAMĀ · Part IV · The Death-and-Rebirth Bridge · #2 · the exit-seam**
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates (六行門) · KṢAMĀ · Part IV · #2
+*License:* CC BY-NC-SA 4.0
+*CBETA collation:* Citations from the *Samantabhadra Contemplation Sūtra* (T0277), the *Sūtra on Divining the Requital of Good and Evil Actions* (T0839), the *Dharmaguptaka Vinaya* (T1428), the *Upāsaka-śīla Sūtra* (T1488), the *Brahmā's Net Sūtra* (T1484), Daoxuan's *Xingshi chao* (T1804), and Yuanzhao's *Zichi ji* (T1805) verified against the CBETA Electronic Tripiṭaka 2024 edition.
+*Repository:* https://github.com/pointing-at-the-moon/six-practice-gates

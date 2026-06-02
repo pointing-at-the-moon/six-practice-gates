@@ -138,8 +138,8 @@ Walking out of the first arena, there are several more waiting behind it: the Go
 
 ---
 
-*License: CC BY-NC-SA 4.0 — Attribution · Non-Commercial · Share-Alike*
-*Textual Verification: CBETA Electronic Tripiṭaka Collection (Chinese canon)*
-*Project: Point-to-the-moon · six-practice-gates (KṢAMĀ 懺 volume · Part VI «Chinese Repentance Liturgy» #2 · Lotus Samādhi Repentance Rite · The Phenomenal Anatomy of a Model Contemplative Rite)*
-*Repository: https://github.com/pointing-at-the-moon/six-practice-gates*
-*Author: Shi Huijing 釋慧鏡 — the treasury of the true Dharma eye, not established on words*
+*Paper:* KSAMA-P13 · *The Lotus Samādhi Repentance Rite* · **KṢAMĀ · Part VI · Chinese Repentance Liturgy · #2 · the model contemplative rite**
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates (六行門) · KṢAMĀ · Part VI · #2 · the model contemplative rite
+*License:* CC BY-NC-SA 4.0
+*CBETA collation:* Citations from the *Lotus Samādhi Repentance Rite* (T1941, Sui · Zhiyi; collated original text by Song · Zunshi) verified against the CBETA Electronic Tripiṭaka 2024 edition.
+*Repository:* https://github.com/pointing-at-the-moon/six-practice-gates

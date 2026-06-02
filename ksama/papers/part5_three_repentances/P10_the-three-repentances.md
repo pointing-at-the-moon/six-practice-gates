@@ -248,8 +248,8 @@ As for what scenery lies within the door of that highest rung — how the offenc
 
 ---
 
-*License: CC BY-NC-SA 4.0 — Attribution · Non-Commercial · Share-Alike*
-*Textual Verification: CBETA Electronic Tripiṭaka Collection (Chinese translations)*
-*Project: Point-to-the-moon · six-practice-gates (KṢAMĀ vol. · Part V, The Three Repentances, #1 · the ladder · structure-first)*
-*Repository: https://github.com/pointing-at-the-moon/six-practice-gates*
-*Author: Shi Huijing — the treasury of the true dharma eye, not established on words*
+*Paper:* KSAMA-P10 · *The Three Repentances* · **KṢAMĀ · Part V · The Three Repentances · #1 · the ladder · structure-first**
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates (六行門) · KṢAMĀ · Part V · #1
+*License:* CC BY-NC-SA 4.0
+*CBETA collation:* Citations from Zhiyi's *Shi chan boluomi cidi famen* (T1916), the *Mahāprajñāpāramitā-śāstra* (T1509), and the *Shi moheyan lun* (T1668) verified against the CBETA Electronic Tripiṭaka 2024 edition.
+*Repository:* https://github.com/pointing-at-the-moon/six-practice-gates

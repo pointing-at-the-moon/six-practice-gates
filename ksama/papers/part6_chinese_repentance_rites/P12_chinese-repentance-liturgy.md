@@ -199,8 +199,8 @@ With this, the shape of the genre may be counted as set. The chapters that follo
 
 ---
 
-*License: CC BY-NC-SA 4.0 — Attribution · Non-Commercial · Share-Alike*
-*Textual Verification: CBETA Electronic Tripiṭaka Collection (Chinese canon)*
-*Project: Point-to-the-moon · six-practice-gates (KṢAMĀ 懺 volume · Part VI «Chinese Repentance Liturgy» #1 · Structure First · Repentance Liturgy as an Institutional Genre)*
-*Repository: https://github.com/pointing-at-the-moon/six-practice-gates*
-*Author: Shi Huijing 釋慧鏡 — the treasury of the true Dharma eye, not established on words*
+*Paper:* KSAMA-P12 · *The Architecture of Chinese Repentance Liturgy* · **KṢAMĀ · Part VI · Chinese Repentance Liturgy · #1 · structure-first**
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates (六行門) · KṢAMĀ · Part VI · #1
+*License:* CC BY-NC-SA 4.0
+*CBETA collation:* Citations from the *Lotus Samādhi Repentance Rite* (T1941), the *Mohe zhiguan* (T1911), the *Guoqing bailu* (T1934), the *Sūtra of Golden Light* (T0663), Zhili's *Rite of the Great Compassion Dhāraṇī* (T1950), and the *Repentance Rite of the Sanctuary of Compassion* (Liang Emperor's Repentance, T1909) verified against the CBETA Electronic Tripiṭaka 2024 edition.
+*Repository:* https://github.com/pointing-at-the-moon/six-practice-gates
