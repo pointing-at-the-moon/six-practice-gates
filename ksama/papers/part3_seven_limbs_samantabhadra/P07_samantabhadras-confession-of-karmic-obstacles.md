@@ -1,8 +1,9 @@
 ---
 title: "Samantabhadra's Confession of Karmic Obstacles: From a Limb to a Vow — The Aspirational Structure of the Fourth Vow"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Six Practice Gates · KṢAMĀ (Repentance) · Part III · The Seven Limbs & Samantabhadra's Repentance of Karmic Obstacles"
+series: "Six Practice Gates, Volume 3 — KṢAMĀ: Repentance, from the Vinaya's Disclosure to the Repentance of Non-Arising"
 series_short: "KṢAMĀ"
+volume: 3
 paper_id: "KSAMA-P07"
 paper_number: 7
 part: "Part III · The Seven Limbs & Samantabhadra's Repentance of Karmic Obstacles"

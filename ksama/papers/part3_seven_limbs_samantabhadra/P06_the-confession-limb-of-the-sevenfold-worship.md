@@ -1,8 +1,9 @@
 ---
 title: "The Confession Limb of the Sevenfold Worship: The Same Disclosure, a Different Witness"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Six Practice Gates · KṢAMĀ (Repentance) · Part III · The Seven Limbs & Samantabhadra's Repentance of Karmic Obstacles"
+series: "Six Practice Gates, Volume 3 — KṢAMĀ: Repentance, from the Vinaya's Disclosure to the Repentance of Non-Arising"
 series_short: "KṢAMĀ"
+volume: 3
 paper_id: "KSAMA-P06"
 paper_number: 6
 part: "Part III · The Seven Limbs & Samantabhadra's Repentance of Karmic Obstacles"

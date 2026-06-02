@@ -1,11 +1,12 @@
 ---
 title: "The Double-Edged Remorse: kukkucca as Engine and as Hindrance"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Six Practice Gates · KṢAMĀ (Repentance): From the Pāli Vinaya to the Six-Sense Confession · Part II · The Āgama View"
+series: "Six Practice Gates, Volume 3 — KṢAMĀ: Repentance, from the Vinaya's Disclosure to the Repentance of Non-Arising"
 series_short: "KṢAMĀ"
+volume: 3
 paper_id: "KSAMA-P04"
 paper_number: 4
-part: "Part II · The Āgama View (阿含的悔)"
+part: "Part II · The Āgama View"
 part_number: 2
 date: "2026-05"
 version: "1.0"

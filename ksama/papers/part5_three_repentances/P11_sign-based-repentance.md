@@ -1,12 +1,16 @@
 ---
 title: "Sign-Based Repentance: The Middle Rung Where Phenomenal Confession Grows into the Principial"
-author: "Shi Huijing"
-series: "KṢAMĀ"
+author: "釋慧鏡 (Shi Huijing)"
+series: "Six Practice Gates, Volume 3 — KṢAMĀ: Repentance, from the Vinaya's Disclosure to the Repentance of Non-Arising"
+series_short: "KṢAMĀ"
+volume: 3
 paper_id: "KSAMA-P11"
+paper_number: 11
+part: "Part V · The Three Repentances"
+part_number: 5
 date: "2026-06"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"
-lang: "en"
 ---
 
 # Sign-Based Repentance

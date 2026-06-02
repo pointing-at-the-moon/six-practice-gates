@@ -1,12 +1,16 @@
 ---
 title: "The Architecture of Chinese Repentance Liturgy: Structure First — A Repentance You Can Walk Into"
-author: "Shi Huijing"
-series: "KṢAMĀ 懺"
+author: "釋慧鏡 (Shi Huijing)"
+series: "Six Practice Gates, Volume 3 — KṢAMĀ: Repentance, from the Vinaya's Disclosure to the Repentance of Non-Arising"
+series_short: "KṢAMĀ"
+volume: 3
 paper_id: "KSAMA-P12"
+paper_number: 12
+part: "Part VI · Chinese Repentance Rites"
+part_number: 6
 date: "2026-06"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"
-lang: "en"
 ---
 
 # The Architecture of Chinese Repentance Liturgy

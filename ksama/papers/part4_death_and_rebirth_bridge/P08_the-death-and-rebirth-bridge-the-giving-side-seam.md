@@ -1,12 +1,16 @@
 ---
 title: "The Death-and-Rebirth Bridge · The Giving-Side Seam: Only After the Loss of Self Is Disclosure Lawful"
-author: "Shi Huijing"
-series: "KṢAMĀ"
+author: "釋慧鏡 (Shi Huijing)"
+series: "Six Practice Gates, Volume 3 — KṢAMĀ: Repentance, from the Vinaya's Disclosure to the Repentance of Non-Arising"
+series_short: "KṢAMĀ"
+volume: 3
 paper_id: "KSAMA-P08"
+paper_number: 8
+part: "Part IV · The Death-and-Rebirth Bridge"
+part_number: 4
 date: "2026-06"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"
-lang: "en"
 ---
 
 # The Death-and-Rebirth Bridge · The Giving-Side Seam

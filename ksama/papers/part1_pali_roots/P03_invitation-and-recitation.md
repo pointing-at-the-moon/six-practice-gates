@@ -1,8 +1,9 @@
 ---
 title: "Invitation and Recitation: the Saṅgha's Anti-Concealment Institutions — From the Abolition of Silence to the Fortnightly Threshold of Purity"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Six Practice Gates · KṢAMĀ (Repentance): From the Pāli Vinaya to the Six-Sense Confession · Part I · Pāli Roots"
+series: "Six Practice Gates, Volume 3 — KṢAMĀ: Repentance, from the Vinaya's Disclosure to the Repentance of Non-Arising"
 series_short: "KṢAMĀ"
+volume: 3
 paper_id: "KSAMA-P03"
 paper_number: 3
 part: "Part I · Pāli Roots"

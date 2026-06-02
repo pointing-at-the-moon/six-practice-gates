@@ -1,8 +1,9 @@
 ---
 title: "Concealment and Rehabilitation — the Saṅgha's Restoration Machinery: From the Cost of Covering Over to the Twenty-Monk Re-Attestation"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Six Practice Gates · KṢAMĀ (Repentance): From the Pāli Vinaya to the Six-Sense Confession · Part I · Pāli Roots"
+series: "Six Practice Gates, Volume 3 — KṢAMĀ: Repentance, from the Vinaya's Disclosure to the Repentance of Non-Arising"
 series_short: "KṢAMĀ"
+volume: 3
 paper_id: "KSAMA-P02"
 paper_number: 2
 part: "Part I · Pāli Roots"

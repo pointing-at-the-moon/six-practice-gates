@@ -1,11 +1,12 @@
 ---
 title: "The Deepest Remorse: Ajātaśatru and the Limit of Phenomenal Repentance"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Six Practice Gates · KṢAMĀ (Repentance): From the Pāli Vinaya to the Six-Sense Confession · Part II · The Āgama View"
+series: "Six Practice Gates, Volume 3 — KṢAMĀ: Repentance, from the Vinaya's Disclosure to the Repentance of Non-Arising"
 series_short: "KṢAMĀ"
+volume: 3
 paper_id: "KSAMA-P05"
 paper_number: 5
-part: "Part II · The Āgama View (阿含的悔)"
+part: "Part II · The Āgama View"
 part_number: 2
 date: "2026-06"
 version: "1.0"
