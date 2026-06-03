@@ -383,7 +383,7 @@ P17's question is: the Great Prajñāpāramitā (T0220), in six hundred volumes,
 7. 《長阿含經》，佛陀摵多等譯，《大正藏》第1冊，No. 0001.
 8. 《中阿含經》，僧伽提婆譯，《大正藏》第1冊，No. 0026.
 9. 《別譯雜阿含經》，失譯，《大正藏》第2冊，No. 0100.
-10. 《般若波羅蜜多心經注》，法藏造，《大正藏》第39冊，No. 1712.
+10. 《般若波羅蜜多心經注》，法藏造，《大正藏》第33冊，No. 1712.
 11. 《大般若波羅蜜多經》，唐玄奘譯，《大正藏》第5-9冊，No. 0220.
 
 ### II. Modern Scholarship
@@ -406,7 +406,7 @@ P17's question is: the Great Prajñāpāramitā (T0220), in six hundred volumes,
 | T0001 | Dirgha-āgama | T01, No. 0001 | Bhadrānta et al. | **Seven sacred riches** |
 | T0026 | Madhya-āgama | T01, No. 0026 | Saṃghadeva trans. | **Seven sacred riches** |
 | T0100 | Saṃyukta-āgama (別譯) | T02, No. 0100 | Anonymous | **Five perfections** |
-| T1712 | Heart Sūtra Commentary | T39, No. 1712 | Fazang | **Adaptation to context** |
+| T1712 | Heart Sūtra Commentary | T33, No. 1712 | Fazang | **Adaptation to context** |
 | T0220 | Mahāprajñāpāramitā-sūtra | T05-09, No. 0220 | Xuanzang trans. | **Giving→concentration→wisdom chain** |
 
 ## Cross-Reference Index

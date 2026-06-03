@@ -1,10 +1,10 @@
 ---
 title: "The Forty Meditation-Objects: A Taxonomy — Matching the Remedy to the Illness: Temperament, Antidote, and the Multi-Axis of the Meditation-Objects"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part III · Abhidharma and the Path of Purification"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P09
+paper_id: "SAMADHI-P09"
 paper_number: 9
 part: Part III · Abhidharma and the Path of Purification
 part_number: 3

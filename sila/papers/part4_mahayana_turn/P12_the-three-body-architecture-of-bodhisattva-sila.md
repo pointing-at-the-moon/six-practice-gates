@@ -2,11 +2,11 @@
 title: The Three-Body Architecture of Bodhisattva Sīla
 subtitle: Asaṅga's Three-Fold Structural Invention and Its Chinese Reception
 volume: 戒門 SĪLA
-paper_id: SILA-P12
+paper_id: "SILA-P12"
 paper_number: P12
 language: en
 date: 2026-05-21
-author: 釋慧鏡 Shi Huijing
+author: "釋慧鏡 (Shi Huijing)"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 status: draft

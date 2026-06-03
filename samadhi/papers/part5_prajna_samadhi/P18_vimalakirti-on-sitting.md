@@ -1,10 +1,10 @@
 ---
 title: "Vimalakīrti on Sitting: The One-Practice Samādhi"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part V · Prajñā and Concentration"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P18
+paper_id: "SAMADHI-P18"
 paper_number: 18
 part: Part V · Prajñā and Concentration
 part_number: 5

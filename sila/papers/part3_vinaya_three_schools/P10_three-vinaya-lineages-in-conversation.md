@@ -2,11 +2,11 @@
 title: Three Vinaya Lineages in Conversation
 subtitle: Synchronic Structure and the Five-Recension Cross-Comparison
 volume: 戒門 SĪLA
-paper_id: P10
+paper_id: "SILA-P10"
 paper_number: P10
 language: en
 date: 2026-05-19
-author: 釋慧鏡 Shi Huijing
+author: "釋慧鏡 (Shi Huijing)"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 status: draft

@@ -4,11 +4,11 @@ subtitle: "The Yingluo and Brahmā's Net Sūtras on the Three Grades, Self-Ordin
 title_zh: 受之為門
 subtitle_zh: 漢地受戒架構的形成——《菩薩瓔珞本業經》與《梵網經》的受戒三品、自誓受與戒體永不失
 volume: 戒門 SĪLA
-paper_id: SILA-P15
+paper_id: "SILA-P15"
 paper_number: P15
 language: en
 date: 2026-05-28
-author: 釋慧鏡 Shi Huijing
+author: "釋慧鏡 (Shi Huijing)"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷三 戒

@@ -1,10 +1,10 @@
 ---
 title: "Right Concentration as a Path-Factor — The Same Four Jhānas, Two Functions"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part II · The Āgama View"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P06
+paper_id: "SAMADHI-P06"
 paper_number: 6
 part: Part II · The Āgama View
 part_number: 2
@@ -156,7 +156,7 @@ To gather it up, the findings of this chapter divide into three layers. Its esse
 
 ## Notes
 
-[^1]: *Madhyama Āgama*, fascicle 49, the *Discourse on the Noble Path* (《聖道經》), Taishō vol. 1, No. T0026 (T01, p0736b16–b24; the Pāli parallel is *Majjhima Nikāya* 117, the *Mahācattārīsaka Sutta*, whose Pāli text is not verified here, the doctrine being carried by the Chinese parallel). "Dwells having attained" (成就遊) is an Āgama formula, meaning to abide accomplished therein. This takes up the closing question of the previous chapter, *Kammaṭṭhāna and the Object-Structure of Absorption* (SAMĀDHI-P05): the forty doors having been set up, it had still to be said where this track of calm stands within the whole of the Buddha's teaching. P05 set the vertical axis and the doors (what it is, where it leads); this chapter answers the place. P04 already planted the seed — the *Mahāsatipaṭṭhāna-sutta* lists only the four jhānas in defining right concentration, the four formless attainments not among them; this chapter discharges it: right concentration = the four jhānas, not the eight attainments. The volume's name for the ladder is the "vertical axis" (set in P04, not re-derived here).
+[^1]: *Madhyama Āgama*, fascicle 49, the *Discourse on the Noble Path* (《聖道經》), Taishō vol. 1, No. T0026 (T01, p0736b16–b24; the Pāli parallel is *Majjhima Nikāya* 117, the *Mahācattārīsaka Sutta*, whose Pāli text is not verified here, the doctrine being carried by the Chinese parallel). "Dwells having attained" (成就遊) is an Āgama formula, meaning to abide accomplished therein. This takes up the closing question of the previous chapter, *Kammaṭṭhāna and the Object-Structure of Absorption* (SAMADHI-P05): the forty doors having been set up, it had still to be said where this track of calm stands within the whole of the Buddha's teaching. P05 set the vertical axis and the doors (what it is, where it leads); this chapter answers the place. P04 already planted the seed — the *Mahāsatipaṭṭhāna-sutta* lists only the four jhānas in defining right concentration, the four formless attainments not among them; this chapter discharges it: right concentration = the four jhānas, not the eight attainments. The volume's name for the ladder is the "vertical axis" (set in P04, not re-derived here).
 
 [^2]: *Saṃyukta Āgama*, fascicle 28, discourse 785, Taishō vol. 2, No. T0099 (T02, p0204a05–a13). This discourse figures right concentration by "gathered in, stilled, collected, one-pointed" (攝受、寂止、三昧、一心), and divides it into the mundane (with outflows, with grasping, turning toward a good destination) and the supramundane (outflow-free, associated with the noble path); it does not define by the four jhānas. ❌ It is therefore an error to attribute the four-jhāna definition to the *Saṃyukta Āgama*.
 

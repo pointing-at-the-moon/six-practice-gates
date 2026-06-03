@@ -1,10 +1,10 @@
 ---
 title: "The Five Hindrances and What Jhāna Clears — Subtraction, Suppression, and the Return to Wisdom"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part II · The Āgama View"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P08
+paper_id: "SAMADHI-P08"
 paper_number: 8
 part: Part II · The Āgama View
 part_number: 2

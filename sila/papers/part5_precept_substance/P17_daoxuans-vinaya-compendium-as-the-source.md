@@ -4,11 +4,11 @@ subtitle: "The Receiving–Following Architecture of the Sifenlü Xingshichao"
 title_zh: 行事鈔為定典
 subtitle_zh: 道宣以受隨二戒重構四分律之綱要
 volume: 戒門 SĪLA
-paper_id: SILA-P17
+paper_id: "SILA-P17"
 paper_number: P17
 language: en
 date: 2026-05-28
-author: 釋慧鏡 Shi Huijing
+author: "釋慧鏡 (Shi Huijing)"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷三 戒

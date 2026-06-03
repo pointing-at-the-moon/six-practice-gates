@@ -1,10 +1,10 @@
 ---
 title: "Samatha and Vipassanā: Two Tracks, One Vehicle — The Yoking of Concentration and Wisdom"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part I · Pāli Roots"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P03
+paper_id: "SAMADHI-P03"
 paper_number: 3
 part: Part I · Pāli Roots
 part_number: 1

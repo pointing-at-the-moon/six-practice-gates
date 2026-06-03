@@ -1,10 +1,10 @@
 ---
 title: "The Bodhisattva's Non-Abiding Concentration — Mastery in Entering and Leaving, Non-Relishing of Absorption, and the Non-Realization of the Reality-Limit"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part IV · The Mahāyāna Turn"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P14
+paper_id: "SAMADHI-P14"
 paper_number: 14
 part: Part IV · The Mahāyāna Turn
 part_number: 4

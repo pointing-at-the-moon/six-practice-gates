@@ -1,10 +1,10 @@
 ---
 title: Three Axes of Sīla — Sīla, Saṃvara, Vinaya, and the Word That English Cannot Quite Hold
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 3 — SĪLA: From the Pāli Vinaya to the Sign-less Precepts · Part I · Pāli Roots"
-series_short: SĪLA
+series_short: "SĪLA"
 volume: 3
-paper_id: SILA-P01
+paper_id: "SILA-P01"
 paper_number: 1
 part: Part I · Pāli Roots
 part_number: 1

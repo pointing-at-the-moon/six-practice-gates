@@ -1,10 +1,10 @@
 ---
 title: "The Concentration Factor among the Seven Awakening-Factors — The Sixth Factor, Ripened Into"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part II · The Āgama View"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P07
+paper_id: "SAMADHI-P07"
 paper_number: 7
 part: Part II · The Āgama View
 part_number: 2

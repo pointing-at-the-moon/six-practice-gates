@@ -1,10 +1,10 @@
 ---
 title: "The Anatomy of a Jhāna-Factor — Taking One Factor Apart: Vitakka, Vicāra, and the Mechanism of Silence"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part III · Abhidharma and the Path of Purification"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P10
+paper_id: "SAMADHI-P10"
 paper_number: 10
 part: Part III · Abhidharma and the Path of Purification
 part_number: 3

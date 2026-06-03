@@ -1,10 +1,10 @@
 ---
 title: "The Four Pure Precepts as the Gateway to Samādhi"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part VI · The Śūraṅgama"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P19
+paper_id: "SAMADHI-P19"
 paper_number: 19
 part: Part VI · The Śūraṅgama
 part_number: 6
@@ -167,7 +167,7 @@ To gather the mind is the precept; and that is where concentration begins.
 
 [^12]: On the modern dispute over whether the *Great-Crown Śūraṅgama-sūtra* is a Chinese composite, cf. Mochizuki Shinkō (望月信亨) on apocryphal scriptures, and Ronald Epstein, "The Śūraṅgama-Sūtra (T. 945): A Reappraisal of Its Authenticity" (paper presented to the American Oriental Society, 1976). The textual-authenticity inquiry itself is treated at length in the precept-volume and in existing Śūraṅgama scholarship; this paper takes only the single point that "authenticity does not shake the precept-to-concentration doctrine," and does not walk through the inquiry again.
 
-[^13]: The twenty-five means of perfect penetration (including the perfect penetration of the ear-faculty, and Avalokiteśvara's "entering the stream and forgetting its object"), unfolded from the side of concentration, are treated in this volume's sixth Part in the following paper (SAMĀDHI-P20).
+[^13]: The twenty-five means of perfect penetration (including the perfect penetration of the ear-faculty, and Avalokiteśvara's "entering the stream and forgetting its object"), unfolded from the side of concentration, are treated in this volume's sixth Part in the following paper (SAMADHI-P20).
 
 ---
 
@@ -204,10 +204,10 @@ To gather the mind is the precept; and that is where concentration begins.
 ## Cross-Reference
 
 - **SĪLA-P24　*Ethics as the Ground of Samādhi*** (the volume on the precepts) → the source of this paper's seed-line. That paper reads the Four Pure Precepts from the side of the precept (the four similes precept by precept, the integral taking-up of the whole, the East Asian gradual-versus-perfect reckoning, the chain of the eleven Indic links of "from the precept comes concentration"), closing on the seed-line "its formal entrance in the volume on concentration" — which is this paper's landing-point. Two papers, one passage, two axes (the side of the precept / the side of concentration), each the other's reverse face.
-- **SAMĀDHI-P15　*The Name of the Śūraṅgama-samādhi*** (this volume's fifth Part) → distinguishes "Śūraṅgama" as the name of a concentration, drawing on the *Śūraṅgama-samādhi-sūtra* (T0642); the *Great-Crown Śūraṅgama-sūtra* (T0945) on which this paper draws is a different text, as §I distinguishes.
-- **SAMĀDHI-P18　*Vimalakīrti on Sitting: The One-Practice Samādhi*** (this volume's fifth Part · its sealing paper) → the close of the three-paper arc of prajñā's deconstruction, loosening, layer by layer, the mark of concentration, the dharma-attachment, and the mark of sitting; this paper takes up after it, returning in the sixth Part to the ground-level question of how concentration begins.
-- **SAMĀDHI-P20　*The Concentrative Face of the Twenty-Five Means of Perfect Penetration*** (this volume's sixth Part · the following paper) → the path of realization once the gate has been entered; the concentrative structure of the ear-faculty's perfect penetration and Avalokiteśvara's "entering the stream and forgetting its object," from the side of concentration.
-- **SAMĀDHI-P21　*The Fifty Skandha-Māras as Byways within Concentration*** (this volume's sixth Part) → what this paper's word "māra-deeds" points ahead to; the doctrinal map of the fifty skandha-māras.
+- **SAMADHI-P15　*The Name of the Śūraṅgama-samādhi*** (this volume's fifth Part) → distinguishes "Śūraṅgama" as the name of a concentration, drawing on the *Śūraṅgama-samādhi-sūtra* (T0642); the *Great-Crown Śūraṅgama-sūtra* (T0945) on which this paper draws is a different text, as §I distinguishes.
+- **SAMADHI-P18　*Vimalakīrti on Sitting: The One-Practice Samādhi*** (this volume's fifth Part · its sealing paper) → the close of the three-paper arc of prajñā's deconstruction, loosening, layer by layer, the mark of concentration, the dharma-attachment, and the mark of sitting; this paper takes up after it, returning in the sixth Part to the ground-level question of how concentration begins.
+- **SAMADHI-P20　*The Concentrative Face of the Twenty-Five Means of Perfect Penetration*** (this volume's sixth Part · the following paper) → the path of realization once the gate has been entered; the concentrative structure of the ear-faculty's perfect penetration and Avalokiteśvara's "entering the stream and forgetting its object," from the side of concentration.
+- **SAMADHI-P21　*The Fifty Skandha-Māras as Byways within Concentration*** (this volume's sixth Part) → what this paper's word "māra-deeds" points ahead to; the doctrinal map of the fifty skandha-māras.
 
 ---
 

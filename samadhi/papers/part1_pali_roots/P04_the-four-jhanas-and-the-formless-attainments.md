@@ -1,10 +1,10 @@
 ---
 title: "The Four Jhānas and the Formless Attainments — The Calibration of Concentration: A Vertical Axis from Scattered Mind to Pure Equanimity"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part I · Pāli Roots"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P04
+paper_id: "SAMADHI-P04"
 paper_number: 4
 part: Part I · Pāli Roots
 part_number: 1

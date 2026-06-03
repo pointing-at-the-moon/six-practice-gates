@@ -1,10 +1,10 @@
 ---
 title: "The Twenty-Five Gateways from the Samādhi Angle"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part VI · The Śūraṅgama"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P20
+paper_id: "SAMADHI-P20"
 paper_number: 20
 part: Part VI · The Śūraṅgama
 part_number: 6
@@ -139,7 +139,7 @@ The twenty-five means of perfect penetration are not twenty-five forks in the ro
 
 ## Notes
 
-[^1]: See the preceding paper of this Part, *The Gateway to Samādhi* (SAMĀDHI-P19), which argues that the Four Pure Precepts (T0945, fasc. 6) are the antecedent stage of concentration and that the precept is the gate into samādhi. Only a single line of connection is carried over here; that paper's argument is not repeated.
+[^1]: See the preceding paper of this Part, *The Gateway to Samādhi* (SAMADHI-P19), which argues that the Four Pure Precepts (T0945, fasc. 6) are the antecedent stage of concentration and that the precept is the gate into samādhi. Only a single line of connection is carried over here; that paper's argument is not repeated.
 
 [^2]: The same twenty-five-gateways passage has been read from the side of giving in this series' volume on dāna (DĀNA-P19, *Dāna in the Twenty-Five Gateways of Perfect Penetration*): the faculty's receiving function reverted into a function of giving, the thirty-two responsive forms, the fourteen gifts of fearlessness, and the rest. The present paper takes the side of concentration; the two run in parallel and do not overlap.
 
@@ -183,7 +183,7 @@ The twenty-five means of perfect penetration are not twenty-five forks in the ro
 
 [^22]: Robert H. Sharf, "Is Mindfulness Buddhist? (and Why It Matters)," *Transcultural Psychiatry* 52, no. 4 (2015): 470–484; cf. Jeff Wilson, *Mindful America: The Mutual Transformation of Buddhist Meditation and American Culture* (New York: Oxford University Press, 2014). Their arguments are paraphrased only; no original text is quoted.
 
-[^23]: The fifty skandha-māras, as the map of by-paths along the road of inward-gathering, are the subject of this Part's next paper (SAMĀDHI-P21); the matter is doctrinal description and is not unfolded here. This paper is not a clinical account of the meditative road.
+[^23]: The fifty skandha-māras, as the map of by-paths along the road of inward-gathering, are the subject of this Part's next paper (SAMADHI-P21); the matter is doctrinal description and is not unfolded here. This paper is not a clinical account of the meditative road.
 
 ---
 
@@ -217,9 +217,9 @@ The twenty-five means of perfect penetration are not twenty-five forks in the ro
 
 ## Cross-Reference
 
-- **SAMĀDHI-P19　*The Four Pure Precepts as the Gateway to Samādhi*** (this Part's preceding paper) → the spine this paper carries forward: the precept, as gathering the mind, is concentration's first inward movement. This paper takes up the question that follows once the gate has been entered — how the mind is gathered — and the commentators (Zixuan) themselves join the two as one continuous line of "gathering."
-- **SAMĀDHI-P17　*Mañjuśrī's Sword*** → where Mañjuśrī wields prajñā to cut through the subtle dharma-attachment within concentration; in this paper Mañjuśrī is purely the selector of perfect penetration (the three marks of the real), and the two divisions of labour are kept distinct.
-- **SAMĀDHI-P21　*The Fifty Skandha-Māras as Meditation-Pitfalls*** (this Part's following paper) → the map of the by-paths along the road of inward-gathering, which this paper's closing sentence points ahead to.
+- **SAMADHI-P19　*The Four Pure Precepts as the Gateway to Samādhi*** (this Part's preceding paper) → the spine this paper carries forward: the precept, as gathering the mind, is concentration's first inward movement. This paper takes up the question that follows once the gate has been entered — how the mind is gathered — and the commentators (Zixuan) themselves join the two as one continuous line of "gathering."
+- **SAMADHI-P17　*Mañjuśrī's Sword*** → where Mañjuśrī wields prajñā to cut through the subtle dharma-attachment within concentration; in this paper Mañjuśrī is purely the selector of perfect penetration (the three marks of the real), and the two divisions of labour are kept distinct.
+- **SAMADHI-P21　*The Fifty Skandha-Māras as Meditation-Pitfalls*** (this Part's following paper) → the map of the by-paths along the road of inward-gathering, which this paper's closing sentence points ahead to.
 - **DĀNA-P19　*Dāna in the Twenty-Five Gateways of Perfect Penetration*** (the volume on giving) → the same passage read from the side of giving; this paper is its concentrative reverse face, and the two do not overlap.
 - **NIAN volume · the recollection-of-the-Buddha samādhi** → the unfolding of Mahāsthāmaprāpta's "gathering in all six faculties, pure recollection continuing unbroken"; treated there, and only cross-referred here.
 

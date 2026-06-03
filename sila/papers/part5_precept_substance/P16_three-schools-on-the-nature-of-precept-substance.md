@@ -4,11 +4,11 @@ subtitle: "The Material, the Neither-Form-nor-Mind, and the Seed — An Ontologi
 title_zh: 三家戒體論
 subtitle_zh: 色法、非色非心、種子之本體三難
 volume: 戒門 SĪLA
-paper_id: SILA-P16
+paper_id: "SILA-P16"
 paper_number: P16
 language: en
 date: 2026-05-28
-author: 釋慧鏡 Shi Huijing
+author: "釋慧鏡 (Shi Huijing)"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷三 戒

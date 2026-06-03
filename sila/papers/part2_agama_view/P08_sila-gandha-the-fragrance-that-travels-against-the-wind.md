@@ -3,7 +3,7 @@ title: "Sīla-gandha: The Fragrance That Travels against the Wind"
 subtitle: "Sīla's Social-Domain Effect Across Sutta, Abhidharma, and Vinaya-Commentarial Strata"
 zh_title: "戒香"
 zh_subtitle: "道德氣息逆風而散之社會場域效應"
-author: "Shi Huijing (釋慧鏡)"
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 3 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part II · The Āgama View"
 series_short: "SILA"
 volume: 3

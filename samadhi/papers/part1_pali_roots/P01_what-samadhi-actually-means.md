@@ -1,10 +1,10 @@
 ---
 title: What Samādhi Actually Means — Samādhi, Samatha, Jhāna, and How Chinese Splits a Field the Abhidharma Re-gathers
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part I · Pāli Roots"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P01
+paper_id: "SAMADHI-P01"
 paper_number: 1
 part: Part I · Pāli Roots
 part_number: 1

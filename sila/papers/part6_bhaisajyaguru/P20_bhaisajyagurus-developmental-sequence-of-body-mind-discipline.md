@@ -4,11 +4,11 @@ subtitle: "Surface Falsification and the Reconstruction of the Precondition-Fiel
 title_zh: 藥師十二願中身心調伏的次第
 subtitle_zh: 表層證偽與前提場域之重構
 volume: 戒門 SĪLA
-paper_id: SILA-P20
+paper_id: "SILA-P20"
 paper_number: P20
 language: en
 date: 2026-05-29
-author: 釋慧鏡 Shi Huijing
+author: "釋慧鏡 (Shi Huijing)"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷三 戒
@@ -251,7 +251,7 @@ From here, a look ahead. What this paper has treated is the **precondition** of 
 - *Aṅguttara-nikāya* 11.1, *Kimatthiyasutta*.
 - Kumārajīva, trans. *Saddharmapuṇḍarīka Sūtra*. T09, no. 262.
 - Kumārajīva, trans. *Vimalakīrti-nirdeśa Sūtra*. T14, no. 475.
-- Saṅghavarman (attrib.), trans. *Larger Sukhāvatīvyūha Sūtra*. T11, no. 360.
+- Saṅghavarman (attrib.), trans. *Larger Sukhāvatīvyūha Sūtra*. T12, no. 360.
 
 All scriptural citations above have been collated against the CBETA Electronic Tripiṭaka.
 

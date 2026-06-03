@@ -4,11 +4,11 @@ subtitle: "The Offence Neither Inside Nor Outside, and What 'Upholding the Vinay
 title_zh: 維摩詰對形式戒之解構
 subtitle_zh: 罪性不在內外中間與「是名奉律」
 volume: 戒門 SĪLA
-paper_id: SILA-P22
+paper_id: "SILA-P22"
 paper_number: P22
 language: en
 date: 2026-05-30
-author: 釋慧鏡 Shi Huijing
+author: "釋慧鏡 (Shi Huijing)"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷三 戒

@@ -4,11 +4,11 @@ subtitle: "The Dual-Anchor Architecture of Anupalabdhi and Persistence-unto-Deat
 title_zh: 龍樹《大智度論》之尸羅波羅蜜
 subtitle_zh: 罪不罪不可得與護戒不惜身命的雙錨架構
 volume: 戒門 SĪLA
-paper_id: SILA-P13
+paper_id: "SILA-P13"
 paper_number: P13
 language: en
 date: 2026-05-21
-author: 釋慧鏡 Shi Huijing
+author: "釋慧鏡 (Shi Huijing)"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷三 戒

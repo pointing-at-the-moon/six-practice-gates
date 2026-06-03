@@ -342,7 +342,7 @@ And concerning §3.2's third level — the fact that the Chinese Pure Land patri
 6. *Commentary on the Mahāyāna-saṃgraha*, trans. Paramārtha, *Taishō* vol. 31, No. T1595, fifteen fascicles. Chen, 563 CE. Representative of the earlier Shelun-school line.
 7. *Vijñaptimātratā-triṃśikā-kārikā* and *Viṃśatikā*-associated commentaries, trans. Yijing and others, *Taishō* vol. 31, various.
 8. Kuiji, *Cheng Weishi Lun shùjì* 成唯識論述記, *Taishō* vol. 43, No. T1830, ten fascicles. Tang Gaozong era. Xuanzang's disciple's most authoritative Chinese-Buddhist commentary on T1585.
-9. Kuiji, *Cheng Weishi Lun zhǎngzhōng shūyào* 成唯識論掌中樞要, *Taishō* vol. 43, No. T1828, four fascicles. Tang. Background source for §§2.5 and 3.3 on the śāstras' silence concerning buddha-recollection.
+9. Kuiji, *Cheng Weishi Lun zhǎngzhōng shūyào* 成唯識論掌中樞要, *Taishō* vol. 43, No. T1831, four fascicles. Tang. Background source for §§2.5 and 3.3 on the śāstras' silence concerning buddha-recollection.
 10. Huizhao, *Cheng Weishi Lun liǎoyìdēng* 成唯識論了義燈, *Taishō* vol. 43, No. T1832, seven fascicles. Tang.
 11. Guifeng Zongmi, *Preface to the Collected Essays on the Source of Chan* 禪源諸詮集都序, *Taishō* vol. 48, No. T2015, four fascicles. Tang, 839 CE. Background for the Yogācāra-exegetical tradition of buddha-recollection in §6.1.
 12. Zhizhou, *Cheng Weishi Lun yǎnmì* 成唯識論演秘, *Taishō* vol. 43, No. T1833, seven fascicles. Tang.
@@ -393,7 +393,7 @@ And concerning §3.2's third level — the fact that the Chinese Pure Land patri
 | T1595 | *Mahāyāna-saṃgraha* commentary | Paramārtha | Chen, 563 CE |
 | T1597 | *Mahāyāna-saṃgraha* commentary | Vasubandhu / Xuanzang | Tang, 648 CE |
 | T1602 | *Āryaśāsana-prakaraṇa-śāstra* 顯揚聖教論 | Asaṅga / Xuanzang | Tang, 645 CE (**§2.5 three-vehicle transmutation-fruits**) |
-| T1828 | *Cheng Weishi Lun zhǎngzhōng shūyào* 成唯識論掌中樞要 | Kuiji | Tang |
+| T1831 | *Cheng Weishi Lun zhǎngzhōng shūyào* 成唯識論掌中樞要 | Kuiji | Tang |
 | T1830 | *Cheng Weishi Lun shùjì* 成唯識論述記 | Kuiji | Tang Gaozong era |
 | T1832 | *Cheng Weishi Lun liǎoyìdēng* 成唯識論了義燈 | Huizhao | Tang |
 | T1833 | *Cheng Weishi Lun yǎnmì* 成唯識論演秘 | Zhizhou | Tang |

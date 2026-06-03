@@ -4,11 +4,11 @@ subtitle: "Bhaiṣajyaguru's Vows as the Enabling-Ground of Precept-Keeping"
 title_zh: 十二大願的戒視角
 subtitle_zh: 藥師本願作為持戒的支持條件
 volume: 戒門 SĪLA
-paper_id: SILA-P19
+paper_id: "SILA-P19"
 paper_number: P19
 language: en
 date: 2026-05-29
-author: 釋慧鏡 Shi Huijing
+author: "釋慧鏡 (Shi Huijing)"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷三 戒

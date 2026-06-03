@@ -1,10 +1,10 @@
 ---
 title: "Dhyāna-Pāramitā in the Mahāprajñāpāramitā-śāstra — Not Merely a Deeper Absorption: How Prajñā Transforms Dhyāna into a Perfection"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part IV · The Mahāyāna Turn"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P12
+paper_id: "SAMADHI-P12"
 paper_number: 12
 part: Part IV · The Mahāyāna Turn
 part_number: 4

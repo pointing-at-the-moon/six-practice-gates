@@ -1,10 +1,10 @@
 ---
 title: "Two Schools on the Nature of Absorption — Is Concentration a Thing, or a Name? Sarvāstivāda and Theravāda on the Own-Substance of Samādhi"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part III · Abhidharma and the Path of Purification"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P11
+paper_id: "SAMADHI-P11"
 paper_number: 11
 part: Part III · Abhidharma and the Path of Purification
 part_number: 3

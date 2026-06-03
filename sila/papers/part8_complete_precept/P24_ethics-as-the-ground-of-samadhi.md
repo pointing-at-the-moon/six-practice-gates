@@ -4,11 +4,11 @@ subtitle: "The Four Pure Precepts in the Śūraṅgama, and Why They Are the Dec
 title_zh: 戒為定基
 subtitle_zh: 楞嚴四種清淨明誨何以是入三摩地之決定義
 volume: 戒門 SĪLA
-paper_id: SILA-P24
+paper_id: "SILA-P24"
 paper_number: P24
 language: en
 date: 2026-05-31
-author: 釋慧鏡 Shi Huijing
+author: "釋慧鏡 (Shi Huijing)"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷三 戒

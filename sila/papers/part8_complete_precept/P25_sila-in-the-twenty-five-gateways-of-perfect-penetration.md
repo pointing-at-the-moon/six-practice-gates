@@ -4,11 +4,11 @@ subtitle: "The Precept-Face of the Śūraṅgama Roster"
 title_zh: 戒亦圓通門
 subtitle_zh: 楞嚴二十五圓通章中的戒面
 volume: 戒門 SĪLA
-paper_id: SILA-P25
+paper_id: "SILA-P25"
 paper_number: P25
 language: en
 date: 2026-06
-author: 釋慧鏡 Shi Huijing
+author: "釋慧鏡 (Shi Huijing)"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷三 戒

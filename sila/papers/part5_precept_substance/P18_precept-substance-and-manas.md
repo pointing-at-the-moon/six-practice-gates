@@ -4,11 +4,11 @@ subtitle: "The Yogācāra Ontology of the Round-Teaching Seed-Substance, Its Dee
 title_zh: 戒體與末那
 subtitle_zh: 圓教種子戒體之唯識本體、深層障礙與轉依指向
 volume: 戒門 SĪLA
-paper_id: SILA-P18
+paper_id: "SILA-P18"
 paper_number: P18
 language: en
 date: 2026-05-28
-author: 釋慧鏡 Shi Huijing
+author: "釋慧鏡 (Shi Huijing)"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷三 戒

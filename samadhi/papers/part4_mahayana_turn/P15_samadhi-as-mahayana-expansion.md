@@ -1,10 +1,10 @@
 ---
 title: "Samādhi as Mahāyāna Expansion — How Naming Rewrote 'Concentration' into the Bodhisattva's Field of Practice-Gates"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part IV · The Mahāyāna Turn"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P15
+paper_id: "SAMADHI-P15"
 paper_number: 15
 part: Part IV · The Mahāyāna Turn
 part_number: 4

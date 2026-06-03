@@ -2,11 +2,11 @@
 title: Architecture of the Pāṭimokkha
 subtitle: A Self-Legislating Casuistic Case Law
 volume: 戒門 SĪLA
-paper_id: P09
+paper_id: "SILA-P09"
 paper_number: P09
 language: en
 date: 2026-05-19
-author: 釋慧鏡 Shi Huijing
+author: "釋慧鏡 (Shi Huijing)"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 status: draft

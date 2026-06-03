@@ -1,10 +1,10 @@
 ---
 title: "Kammaṭṭhāna and the Object-Structure of Absorption — Forty Doors: A Map of the Entrances to Calm"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part I · Pāli Roots"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P05
+paper_id: "SAMADHI-P05"
 paper_number: 5
 part: Part I · Pāli Roots
 part_number: 1
@@ -146,7 +146,7 @@ One question is left, at the last, pointing toward the volume's close. Each of t
 
 [^1]: "Access" (*upacāra*) and "absorption" (*appanā*), as a fixed technical pair, are found only in the treatises and the *Visuddhimagga* system; neither appears in the four Āgamas or the Nikāyas. See the discussion of the second seam in section IV. Methodologically this carries forward the self-restraint of the previous chapter (see [^3]).
 
-[^2]: This takes up the closing question of the previous chapter, *The Four Jhānas and the Formless Attainments*: the practice of calm has forty different objects, traditionally called *kammaṭṭhāna*; different objects lead to different depths along the axis, and different temperaments suit different objects. The previous chapter named the deliverable — what serves as the object, how it is cultivated, how far it reaches — and this chapter takes up that question, without re-narrating the ladder of the four jhānas. See SAMĀDHI-P04 in this volume.
+[^2]: This takes up the closing question of the previous chapter, *The Four Jhānas and the Formless Attainments*: the practice of calm has forty different objects, traditionally called *kammaṭṭhāna*; different objects lead to different depths along the axis, and different temperaments suit different objects. The previous chapter named the deliverable — what serves as the object, how it is cultivated, how far it reaches — and this chapter takes up that question, without re-narrating the ladder of the four jhānas. See SAMADHI-P04 in this volume.
 
 [^3]: Robert Sharf, "Buddhist Modernism and the Rhetoric of Meditative Experience," *Numen* 42(3): 228–283, 1995. His caution: do not read the inventory of objects, or the gradient of access and absorption, as transparent first-person reports of experience; the scheme of the forty *kammaṭṭhāna*, the progression of signs, and the thresholds of access and absorption may equally be the structure of a text, a teaching, or a normative dispute, rather than a description of an inner state. The chapter positions itself accordingly: it reads the structural map of the objects, not anyone's inventory of experiences upon entering concentration.
 

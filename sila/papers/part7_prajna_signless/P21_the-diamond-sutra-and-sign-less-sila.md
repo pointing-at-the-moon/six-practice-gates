@@ -4,11 +4,11 @@ subtitle: "Corpus-Silence and the Mahāprajñāpāramitā's Emptiness of Keeping
 title_zh: 無相戒
 subtitle_zh: 《金剛經》的緘默與《大般若經》的「持與犯本性空」
 volume: 戒門 SĪLA
-paper_id: SILA-P21
+paper_id: "SILA-P21"
 paper_number: P21
 language: en
 date: 2026-05-29
-author: 釋慧鏡 Shi Huijing
+author: "釋慧鏡 (Shi Huijing)"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷三 戒

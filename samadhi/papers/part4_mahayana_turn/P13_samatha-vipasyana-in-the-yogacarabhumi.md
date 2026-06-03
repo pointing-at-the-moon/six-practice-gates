@@ -1,10 +1,10 @@
 ---
 title: "Śamatha-Vipaśyanā in the Yogācārabhūmi — The Nine Stages of Mental Abiding: How the Yogācārabhūmi Models Concentration as a Measurable Gradient"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part IV · The Mahāyāna Turn"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P13
+paper_id: "SAMADHI-P13"
 paper_number: 13
 part: Part IV · The Mahāyāna Turn
 part_number: 4

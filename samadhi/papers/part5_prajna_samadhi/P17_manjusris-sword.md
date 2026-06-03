@@ -1,10 +1,10 @@
 ---
 title: "Mañjuśrī's Sword: Cutting Subtle Dharma-Clinging in Samādhi"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part V · Prajñā and Concentration"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P17
+paper_id: "SAMADHI-P17"
 paper_number: 17
 part: Part V · Prajñā and Concentration
 part_number: 5

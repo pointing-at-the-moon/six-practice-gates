@@ -4,11 +4,11 @@ subtitle: "When Keeper, Precept, and Protected Being Are All Unfindable"
 title_zh: 三輪體空於戒
 subtitle_zh: 能持、所持、所護皆不可得，何以「如是持戒則是起罪因緣」
 volume: 戒門 SĪLA
-paper_id: SILA-P23
+paper_id: "SILA-P23"
 paper_number: P23
 language: en
 date: 2026-05-30
-author: 釋慧鏡 Shi Huijing
+author: "釋慧鏡 (Shi Huijing)"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷三 戒

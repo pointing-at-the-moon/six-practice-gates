@@ -4,11 +4,11 @@ subtitle: "The Nine-fold Taxonomy as the Master-Architecture of Bodhisattva Prec
 title_zh: 九種戒相
 subtitle_zh: 九種為主、三聚為內節——論菩薩戒的雙向巢套
 volume: 戒門 SĪLA
-paper_id: SILA-P14
+paper_id: "SILA-P14"
 paper_number: P14
 language: en
 date: 2026-05-28
-author: 釋慧鏡 Shi Huijing
+author: "釋慧鏡 (Shi Huijing)"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷三 戒

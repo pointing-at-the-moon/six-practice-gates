@@ -2,11 +2,11 @@
 title: Two Sangha Crises and the Mechanism of Boundary-Renegotiation
 subtitle: Diachronic Narrative and the Twin Indigenous-Reception Anchors of East Asian Vinaya Masters
 volume: 戒門 SĪLA
-paper_id: P11
+paper_id: "SILA-P11"
 paper_number: P11
 language: en
 date: 2026-05-19
-author: 釋慧鏡 Shi Huijing
+author: "釋慧鏡 (Shi Huijing)"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 status: draft
