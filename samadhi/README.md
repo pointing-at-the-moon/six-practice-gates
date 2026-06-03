@@ -11,7 +11,7 @@ Of the six gates, 定 correlates with the Heart Sūtra's **究竟** (*ultimate* 
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: 🟢 **Paper phase — Part I 5/5 ✅ · Part II 3/3 ✅ · Part III 3/3 ✅ (P09 四十業處綱目 / The Forty Meditation-Objects · P10 禪支分析 / The Anatomy of a Jhāna-Factor · P11 定體 / Two Schools on the Nature of Absorption — sealed 2026-06-02) · Part IV 4/4 ✅ (P12 禪波羅蜜 / Dhyāna-Pāramitā in the Mahāprajñāpāramitā-śāstra · P13 九住心 / Śamatha-Vipaśyanā in the Yogācārabhūmi · P14 不住之定 / The Bodhisattva's Non-Abiding Concentration · P15 三昧之大乘擴張 / Samādhi as Mahāyāna Expansion — sealed 2026-06-02) · Part V 3/3 ✅ (P16 般若對貪定味·住三昧之批判 / Prajñā's Critique of Clinging to Dhyāna-States · P17 文殊之劍 / Mañjuśrī's Sword · P18 維摩詰宴坐 / Vimalakīrti on Sitting: The One-Practice Samādhi — sealed 2026-06-02) · Part VI 開卷 1/3 (P19 入三摩地之門 / The Four Pure Precepts as the Gateway to Samādhi — 戒為定基之定面承接 · sealed 2026-06-02)** · forward through the Śūraṅgama's twenty-five means and fifty skandha-māras, Chan's silent illumination and the huatou, the Lotus and Huayan, to the return of samādhi to prajñā
+- **Status**: 🟢 **Paper phase — Part I 5/5 ✅ · Part II 3/3 ✅ · Part III 3/3 ✅ (P09 四十業處綱目 / The Forty Meditation-Objects · P10 禪支分析 / The Anatomy of a Jhāna-Factor · P11 定體 / Two Schools on the Nature of Absorption — sealed 2026-06-02) · Part IV 4/4 ✅ (P12 禪波羅蜜 / Dhyāna-Pāramitā in the Mahāprajñāpāramitā-śāstra · P13 九住心 / Śamatha-Vipaśyanā in the Yogācārabhūmi · P14 不住之定 / The Bodhisattva's Non-Abiding Concentration · P15 三昧之大乘擴張 / Samādhi as Mahāyāna Expansion — sealed 2026-06-02) · Part V 3/3 ✅ (P16 般若對貪定味·住三昧之批判 / Prajñā's Critique of Clinging to Dhyāna-States · P17 文殊之劍 / Mañjuśrī's Sword · P18 維摩詰宴坐 / Vimalakīrti on Sitting: The One-Practice Samādhi — sealed 2026-06-02) · Part VI 2/3 (P19 入三摩地之門 / The Four Pure Precepts as the Gateway to Samādhi — 戒為定基之定面承接 · P20 二十五圓通的定面 / The Twenty-Five Gateways from the Samādhi Angle — 旋根入流作為二十五門共同收攝結構 · sealed 2026-06-03)** · forward through the Śūraṅgama's fifty skandha-māras, Chan's silent illumination and the huatou, the Lotus and Huayan, to the return of samādhi to prajñā
 
 ### Planned Structure
 
@@ -57,8 +57,9 @@ Nine parts, an arc from the Pāli jhāna inward to the limit, then back out to w
 - **P17** [文殊之劍](./papers/part5_prajna_samadhi/P17_文殊之劍.md) / [Mañjuśrī's Sword](./papers/part5_prajna_samadhi/P17_manjusris-sword.md)
 - **P18** [維摩詰宴坐](./papers/part5_prajna_samadhi/P18_維摩詰宴坐.md) / [Vimalakīrti on Sitting: The One-Practice Samādhi](./papers/part5_prajna_samadhi/P18_vimalakirti-on-sitting.md)
 
-**Part VI — The Śūraṅgama** · 1/3
+**Part VI — The Śūraṅgama** · 2/3
 - **P19** [入三摩地之門](./papers/part6_surangama/P19_入三摩地之門.md) / [The Four Pure Precepts as the Gateway to Samādhi](./papers/part6_surangama/P19_the-four-pure-precepts-as-the-gateway-to-samadhi.md)
+- **P20** [二十五圓通的定面](./papers/part6_surangama/P20_二十五圓通的定面.md) / [The Twenty-Five Gateways from the Samādhi Angle](./papers/part6_surangama/P20_the-twenty-five-gateways-from-the-samadhi-angle.md)
 
 ---
 
