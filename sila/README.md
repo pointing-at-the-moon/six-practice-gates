@@ -9,7 +9,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1), [*The Practice of
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: 🟢 **Paper phase 27/30 — Part I–VIII sealed · Part VIII 4/4 ✅ (P27 landed 2026-06-03)** · forward through Part IX 現代日用與診斷 (P28–P30)
+- **Status**: 🟢 **Paper phase 28/30 — Part I–VIII sealed · Part IX 1/3 (P28 landed 2026-06-03)** · forward through Part IX 現代診斷與日用 (P29–P30)
 
 ### Planned Structure
 
@@ -69,6 +69,9 @@ Nine parts, ~30 papers:
 - **P25** [戒亦圓通門](./papers/part8_complete_precept/P25_戒亦圓通門.md) / [Sīla in the Twenty-Five Gateways of Perfect Penetration](./papers/part8_complete_precept/P25_sila-in-the-twenty-five-gateways-of-perfect-penetration.md)
 - **P26** [行門之戒](./papers/part8_complete_precept/P26_行門之戒.md) / [The Four Peaceful Practices of the Lotus](./papers/part8_complete_precept/P26_the-four-peaceful-practices-of-the-lotus.md)
 - **P27** [分位之戒](./papers/part8_complete_precept/P27_分位之戒.md) / [Sīla across the Ten Bhūmis](./papers/part8_complete_precept/P27_sila-across-the-ten-bhumis.md)
+
+**Part IX — Modern Diagnosis and Living Sīla** · 1/3
+- **P28** [兩種失模](./papers/part9_modern_diagnosis/P28_兩種失模.md) / [Two Failure Modes](./papers/part9_modern_diagnosis/P28_two-failure-modes.md)
 
 ---
 
