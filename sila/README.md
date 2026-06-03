@@ -9,7 +9,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1), [*The Practice of
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: 🟢 **Paper phase 26/30 — Part I–VII sealed · Part VIII 3/4 (P26 landed 2026-06-03)** · forward through 華嚴十地圓戒 (P27) / 現代日用
+- **Status**: 🟢 **Paper phase 27/30 — Part I–VIII sealed · Part VIII 4/4 ✅ (P27 landed 2026-06-03)** · forward through Part IX 現代日用與診斷 (P28–P30)
 
 ### Planned Structure
 
@@ -64,10 +64,11 @@ Nine parts, ~30 papers:
 - **P22** [維摩詰對形式戒之解構](./papers/part7_prajna_signless/P22_維摩詰對形式戒之解構.md) / [Vimalakīrti's Deconstructive Moves on Conventional Sīla](./papers/part7_prajna_signless/P22_vimalakirtis-deconstructive-moves-on-conventional-sila.md)
 - **P23** [三輪體空於戒](./papers/part7_prajna_signless/P23_三輪體空於戒.md) / [Three-Circle Emptiness Applied to Sīla](./papers/part7_prajna_signless/P23_three-circle-emptiness-applied-to-sila.md)
 
-**Part VIII — Śūraṅgama, Lotus, Huayan: The Complete Precept** · 3/4
+**Part VIII — Śūraṅgama, Lotus, Huayan: The Complete Precept** · 4/4 ✅
 - **P24** [戒為定基](./papers/part8_complete_precept/P24_戒為定基.md) / [Ethics as the Ground of Samādhi](./papers/part8_complete_precept/P24_ethics-as-the-ground-of-samadhi.md)
 - **P25** [戒亦圓通門](./papers/part8_complete_precept/P25_戒亦圓通門.md) / [Sīla in the Twenty-Five Gateways of Perfect Penetration](./papers/part8_complete_precept/P25_sila-in-the-twenty-five-gateways-of-perfect-penetration.md)
 - **P26** [行門之戒](./papers/part8_complete_precept/P26_行門之戒.md) / [The Four Peaceful Practices of the Lotus](./papers/part8_complete_precept/P26_the-four-peaceful-practices-of-the-lotus.md)
+- **P27** [分位之戒](./papers/part8_complete_precept/P27_分位之戒.md) / [Sīla across the Ten Bhūmis](./papers/part8_complete_precept/P27_sila-across-the-ten-bhumis.md)
 
 ---
 
