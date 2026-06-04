@@ -15,6 +15,7 @@ sessions/
 CLAUDE.md
 FOUR_GATES_MASTER_PLAN.md
 PROJECT_MASTER_PLAN.md
+/BOOK_BUILD_PLAN.md
 PASSDOWN_TEMPLATE.md
 
 # Directive / working-flow files at repo root (local only — never public)
@@ -42,6 +43,10 @@ PAPER_CANONICAL_CARD.md
 
 # Book build outputs
 */book/build/output/
+
+# Book-phase working artifacts (local only — spine method + per-gate book plan)
+*_BOOK_SPINE.md
+*/book/*_PLAN.md
 
 # Volume-level canonical format & audit docs (private reference docs)
 nian/NIAN_CANONICAL_FORMAT_*.md
