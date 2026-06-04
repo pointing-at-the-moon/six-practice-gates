@@ -9,7 +9,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1), [*The Practice of
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: 🟢 **Paper phase — Parts I–VI (巴利根基 · 阿含視域 · 願為波羅蜜 · 四弘誓願 · 彌陀本願 · 普賢行願) 15/15 ✅ released as a head-start.** This is the series' sealing volume; its main drafting is gated on the SAMĀDHI volume's seal, with Parts I–V released ahead per a named exception. The grand reveal — the six-gate ↔ Heart Sūtra mapping and the attainment of bodhi as the sequence's END — is reserved for the closing Part VIII and is not anticipated here.
+- **Status**: 🟢 **Paper phase — Parts I–VII (巴利根基 · 阿含視域 · 願為波羅蜜 · 四弘誓願 · 彌陀本願 · 普賢行願 · 願與空·不退轉) 18/18 ✅ released as a head-start.** This is the series' sealing volume; its main drafting is gated on the SAMĀDHI volume's seal, with Parts I–VII released ahead per a named exception. The grand reveal — the six-gate ↔ Heart Sūtra mapping and the attainment of bodhi as the sequence's END — is reserved for the closing Part VIII and is not anticipated here.
 
 ### Planned Structure
 
@@ -52,6 +52,11 @@ Eight parts, ~20 papers (the sealing volume favors concision over expansion):
 - **P13** [行願不二](./papers/part6_samantabhadra_conduct/P13_行願不二.md) / [Vow and Conduct Are Not Two](./papers/part6_samantabhadra_conduct/P13_vow-and-conduct-are-not-two.md)
 - **P14** [念念相續](./papers/part6_samantabhadra_conduct/P14_念念相續.md) / [Vow upon Vow without Weariness](./papers/part6_samantabhadra_conduct/P14_vow-upon-vow-without-weariness.md)
 - **P15** [迴向](./papers/part6_samantabhadra_conduct/P15_迴向.md) / [Transference: The Hinge of the Tenth Vow](./papers/part6_samantabhadra_conduct/P15_transference-the-hinge-of-the-tenth-vow.md)
+
+**Part VII — Vow and Emptiness: The Non-Regressing Vow** · 3/3 ✅
+- **P16** [無所得而發願](./papers/part7_vow_and_emptiness/P16_無所得而發願.md) / [Vowing without a Vower](./papers/part7_vow_and_emptiness/P16_vowing-without-a-vower.md)
+- **P17** [無生法忍與不退轉之願](./papers/part7_vow_and_emptiness/P17_無生法忍與不退轉之願.md) / [The Patience of Non-Arising and the Vow That Does Not Turn Back](./papers/part7_vow_and_emptiness/P17_the-patience-of-non-arising-and-the-vow-that-does-not-turn-back.md)
+- **P18** [菩薩不住涅槃](./papers/part7_vow_and_emptiness/P18_菩薩不住涅槃.md) / [The Bodhisattva Does Not Enter Final Nirvāṇa](./papers/part7_vow_and_emptiness/P18_the-bodhisattva-does-not-enter-final-nirvana.md)
 
 ---
 
