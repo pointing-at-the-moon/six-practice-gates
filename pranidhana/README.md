@@ -9,7 +9,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1), [*The Practice of
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: 🟢 **Paper phase — Parts I–IV (巴利根基 · 阿含視域 · 願為波羅蜜 · 四弘誓願) 10/10 ✅ released as a head-start.** This is the series' sealing volume; its main drafting is gated on the SAMĀDHI volume's seal, with Parts I–IV released ahead per a named exception. The grand reveal — the six-gate ↔ Heart Sūtra mapping and the attainment of bodhi as the sequence's END — is reserved for the closing Part VIII and is not anticipated here.
+- **Status**: 🟢 **Paper phase — Parts I–V (巴利根基 · 阿含視域 · 願為波羅蜜 · 四弘誓願 · 彌陀本願) 12/12 ✅ released as a head-start.** This is the series' sealing volume; its main drafting is gated on the SAMĀDHI volume's seal, with Parts I–V released ahead per a named exception. The grand reveal — the six-gate ↔ Heart Sūtra mapping and the attainment of bodhi as the sequence's END — is reserved for the closing Part VIII and is not anticipated here.
 
 ### Planned Structure
 
@@ -43,6 +43,10 @@ Eight parts, ~20 papers (the sealing volume favors concision over expansion):
 **Part IV — The Four Great Vows** · 2/2 ✅
 - **P09** [四聖諦的主動式](./papers/part4_four_great_vows/P09_四聖諦的主動式.md) / [The Four Great Vows: The Grammar of Universal Aspiration](./papers/part4_four_great_vows/P09_the-grammar-of-the-four-great-vows.md)
 - **P10** [不可完成之願](./papers/part4_four_great_vows/P10_不可完成之願.md) / [The Unfinishable Vow: Vast Number as a Structure, Not a Target](./papers/part4_four_great_vows/P10_the-unfinishable-vow.md)
+
+**Part V — The Primal Vows of Amitābha** · 2/2 ✅
+- **P11** [願力如何成就一土](./papers/part5_primal_vows_amitabha/P11_願力如何成就一土.md) / [The Forty-Eight Vows: Vow-Power as the Architecture of a Pure Land](./papers/part5_primal_vows_amitabha/P11_vow-power-as-the-architecture-of-a-pure-land.md)
+- **P12** [他力與交付之文法](./papers/part5_primal_vows_amitabha/P12_他力與交付之文法.md) / [Other-Power and the Grammar of Entrusting](./papers/part5_primal_vows_amitabha/P12_other-power-and-the-grammar-of-entrusting.md)
 
 ---
 
