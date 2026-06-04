@@ -9,7 +9,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1), [*The Practice of
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: 🟢 **Paper phase — Part I (巴利根基) 3/3 ✅ released as a head-start.** This is the series' sealing volume; its main drafting is gated on the SAMĀDHI volume's seal, with Part I (P01–P03) released ahead per a named exception. The grand reveal — the six-gate ↔ Heart Sūtra mapping and the attainment of bodhi as the sequence's END — is reserved for the closing Part VIII and is not anticipated here.
+- **Status**: 🟢 **Paper phase — Parts I–II (巴利根基 · 阿含視域) 5/5 ✅ released as a head-start.** This is the series' sealing volume; its main drafting is gated on the SAMĀDHI volume's seal, with Part I (P01–P03) released ahead per a named exception. The grand reveal — the six-gate ↔ Heart Sūtra mapping and the attainment of bodhi as the sequence's END — is reserved for the closing Part VIII and is not anticipated here.
 
 ### Planned Structure
 
@@ -30,6 +30,10 @@ Eight parts, ~20 papers (the sealing volume favors concision over expansion):
 - **P01** [願不是許願](./papers/part1_pali_roots/P01_願不是許願.md) / [What Praṇidhāna Actually Means](./papers/part1_pali_roots/P01_what-pranidhana-actually-means.md)
 - **P02** [然燈佛前之本願](./papers/part1_pali_roots/P02_然燈佛前之本願.md) / [The Vow before Dīpaṃkara](./papers/part1_pali_roots/P02_the-vow-before-dipamkara.md)
 - **P03** [決意與願之不退](./papers/part1_pali_roots/P03_決意與願之不退.md) / [Adhiṭṭhāna and the Resolve of the Bodhisatta](./papers/part1_pali_roots/P03_adhitthana-and-the-resolve-of-the-bodhisatta.md)
+
+**Part II — The Āgama View** · 2/2 ✅
+- **P04** [善法欲不是渴愛](./papers/part2_agama_view/P04_善法欲不是渴愛.md) / [Chanda, Not Taṇhā](./papers/part2_agama_view/P04_chanda-not-tanha.md)
+- **P05** [有所求與無所求之願](./papers/part2_agama_view/P05_有所求與無所求之願.md) / [The Directed and the Undirected](./papers/part2_agama_view/P05_the-directed-and-the-undirected.md)
 
 ---
 
