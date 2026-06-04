@@ -21,7 +21,7 @@ license: CC BY-NC-SA 4.0
 
 > "The formless practice just is the peaceful practice. Amid all dharmas, the mark of mind is stilled and in the end does not arise; this is why it is called the formless practice. One abides ever in every kind of profound and subtle dhyāna: walking, standing, sitting, lying, eating, speaking — in all four postures, the mind is ever in concentration."
 >
-> — *The Meaning of the Lotus Sūtra's Course of Peaceful Practice*, transmitted as spoken by Nanyue Huisi, T46n1926, p. 0700a18–a21
+> — *The Meaning of the Lotus Sūtra's Course of Peaceful Practice*, transmitted as spoken by Nanyue Huisi, T1926, p. 0700a18–a21
 
 ---
 
@@ -135,7 +135,7 @@ Concentration is not a Sumeru built by sitting, but that stretch of mind, amid t
 
 ## Notes
 
-[^1]: *Miaofa lianhua jing*, "Chapter on Peaceful Practices" (fourteenth), trans. Kumārajīva of the Later Qin, T09n0262, fasc. 5, p. 0037c23–c24.
+[^1]: *Miaofa lianhua jing*, "Chapter on Peaceful Practices" (fourteenth), trans. Kumārajīva of the Later Qin, T0262, fasc. 5, p. 0037c23–c24.
 
 [^2]: Ibid., fasc. 5, p. 0037b10.
 
@@ -143,7 +143,7 @@ Concentration is not a Sumeru built by sitting, but that stretch of mind, amid t
 
 [^4]: Ibid., fasc. 5, p. 0039c05.
 
-[^5]: *The Meaning of the Lotus Sūtra's Course of Peaceful Practice*, transmitted as spoken by Nanyue Huisi (the opening ascribing it to "the great meditation master Si of Nanyue of the Chen, as spoken"), T46n1926, p. 0700a18–a21. The opening ascription being a record of oral teaching, the work is referred to throughout as "transmitted as spoken by Nanyue Huisi," with no assertion of his own authorship.
+[^5]: *The Meaning of the Lotus Sūtra's Course of Peaceful Practice*, transmitted as spoken by Nanyue Huisi (the opening ascribing it to "the great meditation master Si of Nanyue of the Chen, as spoken"), T1926, p. 0700a18–a21. The opening ascription being a record of oral teaching, the work is referred to throughout as "transmitted as spoken by Nanyue Huisi," with no assertion of his own authorship.
 
 [^6]: Ibid., p. 0700b01–b04. The Samantabhadra figuration and the vow-conduct of sūtra-recitation touched on here have their own home ground (the *Dāna* series, Part 8, and the *Mindfulness* volume); this paper takes only the one sense of "scattered, not entering samādhi" as a foil and does not unfold Samantabhadra.
 
@@ -153,11 +153,11 @@ Concentration is not a Sumeru built by sitting, but that stretch of mind, amid t
 
 [^9]: Ibid., p. 0700a28–b01.
 
-[^10]: *Words and Phrases of the Lotus Sūtra*, as spoken by Zhiyi of the Sui, T34n1718, p. 0120a27–b07. The precept-gate face (keeping far from disturbance, restriction-precept and practice-precept) is treated in the *Precepts*-volume companion (SĪLA P26), which expressly handed the concentration-gate leaf of these three over to this paper; the wisdom-gate (contemplating all dharmas as empty) belongs to *prajñā* and is reserved for separate treatment. This paper takes the concentration-gate ("gathering and disciplining the mind") alone.
+[^10]: *Words and Phrases of the Lotus Sūtra*, as spoken by Zhiyi of the Sui, T1718, p. 0120a27–b07. The precept-gate face (keeping far from disturbance, restriction-precept and practice-precept) is treated in the *Precepts*-volume companion (SĪLA P26), which expressly handed the concentration-gate leaf of these three over to this paper; the wisdom-gate (contemplating all dharmas as empty) belongs to *prajñā* and is reserved for separate treatment. This paper takes the concentration-gate ("gathering and disciplining the mind") alone.
 
-[^11]: *The Great Calming and Contemplation*, as spoken by Zhiyi of the Sui, T46n1911, p. 0013a24–a29.
+[^11]: *The Great Calming and Contemplation*, as spoken by Zhiyi of the Sui, T1911, p. 0013a24–a29.
 
-[^12]: *The Lotus Samādhi Repentance Rite*, composed by Zhiyi of the Sui, T46n1941, p. 0955b24. Only the boundary-line Zhiyi himself drew ("set aside what was done before, rely directly on the peaceful practice, be ever fond of seated meditation") is taken here, to point to the profound and subtle dhyāna toward which the repentance-practice tends; the procedural sequence of the repentance-rite has its own home ground — see the *Repentance*-volume companion (KSAMA P13).
+[^12]: *The Lotus Samādhi Repentance Rite*, composed by Zhiyi of the Sui, T1941, p. 0955b24. Only the boundary-line Zhiyi himself drew ("set aside what was done before, rely directly on the peaceful practice, be ever fond of seated meditation") is taken here, to point to the profound and subtle dhyāna toward which the repentance-practice tends; the procedural sequence of the repentance-rite has its own home ground — see the *Repentance*-volume companion (KSAMA P13).
 
 ---
 
@@ -165,11 +165,11 @@ Concentration is not a Sumeru built by sitting, but that stretch of mind, amid t
 
 | Short title | Full title | Number | Translator / Speaker |
 |------|------|------|----------|
-| *Lotus* | *Miaofa lianhua jing*, "Chapter on Peaceful Practices" (fourteenth) | T09n0262 | trans. Kumārajīva of the Later Qin |
-| *Meaning of the Course of Peaceful Practice* | *Fahua jing anlexing yi* | T46n1926 | as spoken by Nanyue Huisi of the Chen |
-| *Words and Phrases of the Lotus* | *Miaofa lianhua jing wenju* | T34n1718 | as spoken by Zhiyi of the Sui |
-| *Great Calming and Contemplation* | *Mohe zhiguan* | T46n1911 | as spoken by Zhiyi of the Sui |
-| *Lotus Samādhi Repentance Rite* | *Fahua sanmei chanyi* | T46n1941 | composed by Zhiyi of the Sui |
+| *Lotus* | *Miaofa lianhua jing*, "Chapter on Peaceful Practices" (fourteenth) | T0262 | trans. Kumārajīva of the Later Qin |
+| *Meaning of the Course of Peaceful Practice* | *Fahua jing anlexing yi* | T1926 | as spoken by Nanyue Huisi of the Chen |
+| *Words and Phrases of the Lotus* | *Miaofa lianhua jing wenju* | T1718 | as spoken by Zhiyi of the Sui |
+| *Great Calming and Contemplation* | *Mohe zhiguan* | T1911 | as spoken by Zhiyi of the Sui |
+| *Lotus Samādhi Repentance Rite* | *Fahua sanmei chanyi* | T1941 | composed by Zhiyi of the Sui |
 
 ---
 
@@ -195,5 +195,5 @@ Concentration is not a Sumeru built by sitting, but that stretch of mind, amid t
 *Paper:* SAMADHI-P27 · *The Lotus's Peaceful-Practice Samādhi* · **SAMĀDHI · Part VIII · Lotus and Huayan**
 *Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates (六行門)
 *License:* CC BY-NC-SA 4.0
-*CBETA collation:* Citations are verified against the CBETA Electronic Tripiṭaka — the *Miaofa lianhua jing* ("Chapter on Peaceful Practices," trans. Kumārajīva, T09n0262: "ever fond of seated meditation, in a quiet place, gathering and disciplining the mind"; "rising from dhyāna"; "entering deep into dhyāna, seeing the buddhas of the ten directions"), *The Meaning of the Lotus Sūtra's Course of Peaceful Practice* (transmitted as spoken by Nanyue Huisi, T46n1926: "the formless practice just is the peaceful practice … in all four postures the mind is ever in concentration"; "not entering samādhi"; "does not rest on the desire realm, nor abide in form or formlessness"), the *Words and Phrases of the Lotus Sūtra* (Zhiyi of the Sui, T34n1718: "gathering and disciplining the mind" as the concentration-gate), the *Great Calming and Contemplation* (Zhiyi, T46n1911: "all taking half-walking, half-sitting as the method"), and the *Lotus Samādhi Repentance Rite* (Zhiyi, T46n1941: the boundary-line "rely directly on the peaceful practice, be ever fond of seated meditation"). Volume and page follow the Taishō. The *Course of Peaceful Practice* opens with the ascription "the great meditation master Si of Nanyue of the Chen, as spoken," and so is referred to throughout as "transmitted as spoken by Nanyue Huisi," with no assertion of his own authorship. Stevenson, Stevenson and Kanno, and Swanson are cited by paraphrase only, for dialogue and contrast, not doctrinal equation.
+*CBETA collation:* Citations are verified against the CBETA Electronic Tripiṭaka — the *Miaofa lianhua jing* ("Chapter on Peaceful Practices," trans. Kumārajīva, T0262: "ever fond of seated meditation, in a quiet place, gathering and disciplining the mind"; "rising from dhyāna"; "entering deep into dhyāna, seeing the buddhas of the ten directions"), *The Meaning of the Lotus Sūtra's Course of Peaceful Practice* (transmitted as spoken by Nanyue Huisi, T1926: "the formless practice just is the peaceful practice … in all four postures the mind is ever in concentration"; "not entering samādhi"; "does not rest on the desire realm, nor abide in form or formlessness"), the *Words and Phrases of the Lotus Sūtra* (Zhiyi of the Sui, T1718: "gathering and disciplining the mind" as the concentration-gate), the *Great Calming and Contemplation* (Zhiyi, T1911: "all taking half-walking, half-sitting as the method"), and the *Lotus Samādhi Repentance Rite* (Zhiyi, T1941: the boundary-line "rely directly on the peaceful practice, be ever fond of seated meditation"). Volume and page follow the Taishō. The *Course of Peaceful Practice* opens with the ascription "the great meditation master Si of Nanyue of the Chen, as spoken," and so is referred to throughout as "transmitted as spoken by Nanyue Huisi," with no assertion of his own authorship. Stevenson, Stevenson and Kanno, and Swanson are cited by paraphrase only, for dialogue and contrast, not doctrinal equation.
 *Repository:* https://github.com/pointing-at-the-moon/six-practice-gates

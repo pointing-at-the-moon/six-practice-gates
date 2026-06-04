@@ -103,7 +103,7 @@ Viewing the three together, one common blind line shows: the totality of dharma-
 
 Two terms are to be corrected, lest they be wrongly merged.
 
-The first: **"the Lion's-Roused-Vigour samādhi" (師子奮迅三昧) is not the lion-samādhi of the eighty-fascicle *Avataṃsaka*.** Commentators often adduce a further "Lion's-Roused-Vigour samādhi" in Huayan to cite alongside the Ocean-Seal for the dharma-realm's wholeness. But on the face of the text, the eighty-fascicle *Avataṃsaka* (T10n0279) has no such name as "Lion's-Roused-Vigour samādhi"; its dharma-realm lion-samādhi reads in the scripture as the **Lion's-Stretch samādhi** (*siṃha-vijṛmbhita*, 師子頻申三昧): the Buddha enters the Lion's-Stretch samādhi, and all the worlds are wholly adorned and purified, whereby the Jeta grove is expanded.[^17] The name "Lion's-Roused-Vigour samādhi" issues from the *Treatise on the Great Perfection of Wisdom* and the *Larger Prajñāpāramitā* line, and its reading as "mastery in entering and exiting the concentrations" was treated in this volume's earlier papers on non-abiding concentration and the Mahāyāna expansion of samādhi; should this paper take up the lion-samādhi, it renders it uniformly as "Lion's-Stretch" and cites the eighty-fascicle *Avataṃsaka*, taking the one face of the dharma-realm's total purification, neither conflating two names and two senses nor restating the "mastery in entering and exiting" reading.[^18]
+The first: **"the Lion's-Roused-Vigour samādhi" (師子奮迅三昧) is not the lion-samādhi of the eighty-fascicle *Avataṃsaka*.** Commentators often adduce a further "Lion's-Roused-Vigour samādhi" in Huayan to cite alongside the Ocean-Seal for the dharma-realm's wholeness. But on the face of the text, the eighty-fascicle *Avataṃsaka* (T0279) has no such name as "Lion's-Roused-Vigour samādhi"; its dharma-realm lion-samādhi reads in the scripture as the **Lion's-Stretch samādhi** (*siṃha-vijṛmbhita*, 師子頻申三昧): the Buddha enters the Lion's-Stretch samādhi, and all the worlds are wholly adorned and purified, whereby the Jeta grove is expanded.[^17] The name "Lion's-Roused-Vigour samādhi" issues from the *Treatise on the Great Perfection of Wisdom* and the *Larger Prajñāpāramitā* line, and its reading as "mastery in entering and exiting the concentrations" was treated in this volume's earlier papers on non-abiding concentration and the Mahāyāna expansion of samādhi; should this paper take up the lion-samādhi, it renders it uniformly as "Lion's-Stretch" and cites the eighty-fascicle *Avataṃsaka*, taking the one face of the dharma-realm's total purification, neither conflating two names and two senses nor restating the "mastery in entering and exiting" reading.[^18]
 
 The second: **the Ocean-Seal is not "one of the ten great samādhis."** The ten great samādhis listed in the "Ten Concentrations" chapter (Universal Light, Wondrous Light … Dharma-Realm Mastery, Unobstructed Wheel, and so on) do not include the Ocean-Seal; the Ocean-Seal is a term of the "Sage's Crown" chapter, the "Samantabhadra's Samādhi" chapter, and Fazang's system. Hence one must not list the Ocean-Seal as "one of the ten concentrations" and number it among the ten great samādhis — the Ocean-Seal's standing is not as one within the ten concentrations but as that crown which Fazang judged to be "what simultaneous completeness rests upon, the essential body of the whole teaching."
 
@@ -127,21 +127,21 @@ Concentration may be as small as a single thought's clarifying, or as vast as th
 
 [^3]: The full system of dharma-realm dependent-origination and the unobstructed interpenetration of phenomena (the complete unfolding of the ten profound gates, the perfect fusion of the six characteristics, the ontology of "one is all") is not what this paper takes; it takes only the single joint with the study of concentration — that what "the gate of simultaneous complete intercorrespondence" rests upon is the Ocean-Seal samādhi. For the doctrinal view bound up with "one is all," see the relevant papers of this project's eight-part series.
 
-[^4]: *Avataṃsaka Sūtra* (eighty fascicles), T10n0279, fascicle 14, "Sage's Crown" chapter (twelfth), p. 0073c19.
+[^4]: *Avataṃsaka Sūtra* (eighty fascicles), T0279, fascicle 14, "Sage's Crown" chapter (twelfth), p. 0073c19.
 
-[^5]: Ibid., T10n0279, fascicle 14, p. 0074a04. The Ocean-Seal (the dharma-realm's appearing-together) and the Avataṃsaka samādhi (one mote gathering in all concentrations) are set side by side as one and the same power that gathers in the whole.
+[^5]: Ibid., T0279, fascicle 14, p. 0074a04. The Ocean-Seal (the dharma-realm's appearing-together) and the Avataṃsaka samādhi (one mote gathering in all concentrations) are set side by side as one and the same power that gathers in the whole.
 
-[^6]: *Avataṃsaka Sūtra* (eighty fascicles), T10n0279, fascicle 7, "Samantabhadra's Samādhi" chapter (third), pp. 0032c26–0033a03. Per T0279 the form is "Vairocana" (毘盧遮那). The quotation abridges at two places, "vast and unobstructed, like unto space" and "giving rise to all samādhi-dharmas."
+[^6]: *Avataṃsaka Sūtra* (eighty fascicles), T0279, fascicle 7, "Samantabhadra's Samādhi" chapter (third), pp. 0032c26–0033a03. Per T0279 the form is "Vairocana" (毘盧遮那). The quotation abridges at two places, "vast and unobstructed, like unto space" and "giving rise to all samādhi-dharmas."
 
-[^7]: Ibid., T10n0279, fascicle 7, pp. 0033a08–a14. Within each mote a field, within each field a Buddha, before each Buddha world-ocean-mote-number Samantabhadras, all equally entering this one same samādhi — this is the scriptural ground of "everywhere at once."
+[^7]: Ibid., T0279, fascicle 7, pp. 0033a08–a14. Within each mote a field, within each field a Buddha, before each Buddha world-ocean-mote-number Samantabhadras, all equally entering this one same samādhi — this is the scriptural ground of "everywhere at once."
 
-[^8]: *Cultivation of the Profound Meaning of the Avataṃsaka: Discernment of the Return to the Source by the Exhaustion of Delusion*, T45n1876, pp. 0637b21–b28 (set forth by Fazang). The first of the "one substance, two functions" is the constant function of the ocean-seal sealing the myriad forms.
+[^8]: *Cultivation of the Profound Meaning of the Avataṃsaka: Discernment of the Return to the Source by the Exhaustion of Delusion*, T1876, pp. 0637b21–b28 (set forth by Fazang). The first of the "one substance, two functions" is the constant function of the ocean-seal sealing the myriad forms.
 
-[^9]: *Treatise on the Divisions of the Doctrine of the One Vehicle of Huayan* (the *Treatise of the Five Teachings*), T45n1866, pp. 0505a13–a16 (set forth by Fazang). The first of the ten profound gates, "the gate of simultaneous complete intercorrespondence," states outright that what it rests upon is the Ocean-Seal samādhi.
+[^9]: *Treatise on the Divisions of the Doctrine of the One Vehicle of Huayan* (the *Treatise of the Five Teachings*), T1866, pp. 0505a13–a16 (set forth by Fazang). The first of the ten profound gates, "the gate of simultaneous complete intercorrespondence," states outright that what it rests upon is the Ocean-Seal samādhi.
 
-[^10]: *Record of Probing the Mystery of the Avataṃsaka*, T35n1733, p. 0119c11 ff. (set forth by Fazang). Establishes "the ninth, the gate of the ocean-seal's blazing manifestation," judging the ocean of the Ocean-Seal samādhi to be the essential body of the whole of Huayan.
+[^10]: *Record of Probing the Mystery of the Avataṃsaka*, T1733, p. 0119c11 ff. (set forth by Fazang). Establishes "the ninth, the gate of the ocean-seal's blazing manifestation," judging the ocean of the Ocean-Seal samādhi to be the essential body of the whole of Huayan.
 
-[^11]: Chengguan, following Fazang's sense of the ocean-seal's blazing manifestation, gathers the dharma-realm's simultaneous manifestation; see the *Commentary on the Avataṃsaka Sūtra*, T35n1735 (set forth by Chengguan).
+[^11]: Chengguan, following Fazang's sense of the ocean-seal's blazing manifestation, gathers the dharma-realm's simultaneous manifestation; see the *Commentary on the Avataṃsaka Sūtra*, T1735 (set forth by Chengguan).
 
 [^12]: "Infinitely multiplied, endlessly interpenetrating" (重重無盡) is a coinage of the exegetes — Fazang's *Record of Probing the Mystery*, the *Treatise of the Five Teachings*, Chengguan's *Commentary*, and the like — not scripture of the "Entry into the Dharma-Realm" chapter; in citing it one should mark it as the exegetes' gloss and not present it as a scriptural quotation.
 
@@ -153,7 +153,7 @@ Concentration may be as small as a single thought's clarifying, or as vast as th
 
 [^16]: Cleary's introductions to Huayan are noted here but not cited. For the bibliographic entry, see the References.
 
-[^17]: *Avataṃsaka Sūtra* (eighty fascicles), T10n0279, fascicle 60, "Entry into the Dharma-Realm" chapter, p. 0320a12 ff. The eighty-fascicle *Avataṃsaka* reads "Lion's-Stretch samādhi" (師子頻申三昧), not "Lion's-Roused-Vigour samādhi."
+[^17]: *Avataṃsaka Sūtra* (eighty fascicles), T0279, fascicle 60, "Entry into the Dharma-Realm" chapter, p. 0320a12 ff. The eighty-fascicle *Avataṃsaka* reads "Lion's-Stretch samādhi" (師子頻申三昧), not "Lion's-Roused-Vigour samādhi."
 
 [^18]: The name "Lion's-Roused-Vigour samādhi" and its reading as "mastery in entering and exiting" are treated in this volume's papers on non-abiding concentration (SAMĀDHI P14) and the Mahāyāna expansion of samādhi (P15), issuing from the *Treatise on the Great Perfection of Wisdom* / *Larger Prajñāpāramitā* line, a different scripture and different sense from the eighty-fascicle *Avataṃsaka*'s "Lion's-Stretch"; this paper does not restate it.
 
@@ -165,11 +165,11 @@ Concentration may be as small as a single thought's clarifying, or as vast as th
 
 | Short | Full Title | Number | Translator / Author |
 |-------|------------|--------|---------------------|
-| Avataṃsaka | *Avataṃsaka Sūtra* (eighty fascicles) | T10n0279 | trans. Śikṣānanda (Tang) |
-| Return to the Source | *Cultivation of the Profound Meaning of the Avataṃsaka: Discernment of the Return to the Source by the Exhaustion of Delusion* | T45n1876 | Fazang (Tang) |
-| Treatise of the Five Teachings | *Treatise on the Divisions of the Doctrine of the One Vehicle of Huayan* | T45n1866 | Fazang (Tang) |
-| Probing the Mystery | *Record of Probing the Mystery of the Avataṃsaka* | T35n1733 | Fazang (Tang) |
-| Commentary on the Avataṃsaka | *Commentary on the Avataṃsaka Sūtra* | T35n1735 | Chengguan (Tang) |
+| Avataṃsaka | *Avataṃsaka Sūtra* (eighty fascicles) | T0279 | trans. Śikṣānanda (Tang) |
+| Return to the Source | *Cultivation of the Profound Meaning of the Avataṃsaka: Discernment of the Return to the Source by the Exhaustion of Delusion* | T1876 | Fazang (Tang) |
+| Treatise of the Five Teachings | *Treatise on the Divisions of the Doctrine of the One Vehicle of Huayan* | T1866 | Fazang (Tang) |
+| Probing the Mystery | *Record of Probing the Mystery of the Avataṃsaka* | T1733 | Fazang (Tang) |
+| Commentary on the Avataṃsaka | *Commentary on the Avataṃsaka Sūtra* | T1735 | Chengguan (Tang) |
 
 ## References
 
@@ -191,7 +191,7 @@ Concentration may be as small as a single thought's clarifying, or as vast as th
 *Paper:* SAMĀDHI-P28 · *The Ocean-Seal Samādhi of the Avataṃsaka* · **SAMĀDHI · Part VIII · Lotus and Huayan**
 *Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates (六行門)
 *License:* CC BY-NC-SA 4.0
-*CBETA collation:* Citations are verified against the CBETA Electronic Tripiṭaka — the *Avataṃsaka Sūtra* in eighty fascicles (trans. Śikṣānanda of the Tang, T10n0279: the "Samantabhadra's Samādhi" chapter on the samādhi "the Tathāgatagarbha-body of all Buddhas Vairocana"; the "Sage's Crown" chapter on "the Ocean-Seal samādhi's spiritual power"; the "Entry into the Dharma-Realm" chapter's "Lion's-Stretch samādhi"); the *Cultivation of the Profound Meaning of the Avataṃsaka: Discernment of the Return to the Source* (Fazang of the Tang, T45n1876); the *Treatise on the Divisions of the Doctrine of the One Vehicle of Huayan* (Fazang, T45n1866); the *Record of Probing the Profundities of the Avataṃsaka* (Fazang, T35n1733 — "this samādhi-sea alone is the essential body of the teaching"); and the *Commentary on the Avataṃsaka Sūtra* (Chengguan of the Tang, T35n1735). Volume and page follow the Taishō. The eighty-fascicle *Avataṃsaka*'s lion-samādhi reads "Lion's-Stretch" (師子頻申), distinct from the "Lion's-Roused-Vigour samādhi" (師子奮迅) of the Larger Prajñā line treated in P14 and P15. Cook, Gimello, and Hamar (with Kimura) are cited by paraphrase only, for dialogue and contrast, not doctrinal equation.
+*CBETA collation:* Citations are verified against the CBETA Electronic Tripiṭaka — the *Avataṃsaka Sūtra* in eighty fascicles (trans. Śikṣānanda of the Tang, T0279: the "Samantabhadra's Samādhi" chapter on the samādhi "the Tathāgatagarbha-body of all Buddhas Vairocana"; the "Sage's Crown" chapter on "the Ocean-Seal samādhi's spiritual power"; the "Entry into the Dharma-Realm" chapter's "Lion's-Stretch samādhi"); the *Cultivation of the Profound Meaning of the Avataṃsaka: Discernment of the Return to the Source* (Fazang of the Tang, T1876); the *Treatise on the Divisions of the Doctrine of the One Vehicle of Huayan* (Fazang, T1866); the *Record of Probing the Profundities of the Avataṃsaka* (Fazang, T1733 — "this samādhi-sea alone is the essential body of the teaching"); and the *Commentary on the Avataṃsaka Sūtra* (Chengguan of the Tang, T1735). Volume and page follow the Taishō. The eighty-fascicle *Avataṃsaka*'s lion-samādhi reads "Lion's-Stretch" (師子頻申), distinct from the "Lion's-Roused-Vigour samādhi" (師子奮迅) of the Larger Prajñā line treated in P14 and P15. Cook, Gimello, and Hamar (with Kimura) are cited by paraphrase only, for dialogue and contrast, not doctrinal equation.
 *Repository:* https://github.com/pointing-at-the-moon/six-practice-gates
 
 ---
