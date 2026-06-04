@@ -32,7 +32,7 @@ license: CC BY-NC-SA 4.0
 
 ## Abstract
 
-The four lines every Chinese Buddhist knows by heart — "Sentient beings are numberless; I vow to liberate them. Afflictions are inexhaustible; I vow to sever them. Dharma-gates are measureless; I vow to study them. The Buddha-Way is unsurpassed; I vow to accomplish it" — are recited until automatic, yet rarely interrogated: why precisely these four? Is there a grammar binding them? Zhiyi's answer is unexpected: these are not four wishes but the Four Noble Truths cast in another mode. Drawing primarily on the Tiantai sources (Zhiyi's *Commentary on the Diamond Sūtra*, T1699; the Tiantai *Digest of the Fourfold Teaching* recorded by Chegwan, T1931; and the *Mohe Zhiguan*, T1911), with the Chan *Platform Sūtra*'s (T2008) self-nature reading as corroboration, this paper argues that the Four Great Vows are the *active voice* of the Four Noble Truths: the same suffering–origin–cessation–path that the śrāvaka *knows* in order to escape (knowing suffering, severing its origin, longing for cessation, cultivating the path), the bodhisattva rewrites truth by truth into a vow (vowing, *because of suffering*, to liberate; *because of origin*, to sever; *because of path*, to study every gate; *because of cessation*, to accomplish the Buddha-Way). A further bifurcation of compassion structures the set: great compassion takes the suffering-and-origin pair and *removes* (the first two vows); great loving-kindness takes the path-and-cessation pair and *gives* (the latter two). What makes the four a *grammar* rather than a *checklist* is that they are a *form*: the object aspired-to may turn outward (Tiantai's objects of the Four Truths) or inward (Chan's sentient beings within one's own mind) while the form holds invariant — one and the same four-vow form fitted with different objects, which is precisely the proof that it is a syntax governing *how* a vow is made, not four targets to be hit. Using the speech-act category of the commissive and Wittgenstein's notion of grammar as mirrors, the paper illuminates how the vow makes the world conform to the word (its direction of fit), and corrects three misreadings. It closes by setting a signpost — vows are established first, deeds come to fill them (*xing-xing tian-yuan*) — for the volume's later parts, and leaves for the next paper the barb these four conceal: do not "numberless" and "inexhaustible" doom the vow never to be finished?
+The four lines every Chinese Buddhist knows by heart — "Sentient beings are numberless; I vow to liberate them. Afflictions are inexhaustible; I vow to sever them. Dharma-gates are measureless; I vow to study them. The Buddha-Way is unsurpassed; I vow to accomplish it" — are recited until automatic, yet rarely interrogated: why precisely these four? Is there a grammar binding them? Zhiyi's answer is unexpected: these are not four wishes but the Four Noble Truths cast in another mode. Drawing primarily on the Tiantai sources (Zhiyi's *Commentary on the Diamond Sūtra*, T1698; the Tiantai *Digest of the Fourfold Teaching* recorded by Chegwan, T1931; and the *Mohe Zhiguan*, T1911), with the Chan *Platform Sūtra*'s (T2008) self-nature reading as corroboration, this paper argues that the Four Great Vows are the *active voice* of the Four Noble Truths: the same suffering–origin–cessation–path that the śrāvaka *knows* in order to escape (knowing suffering, severing its origin, longing for cessation, cultivating the path), the bodhisattva rewrites truth by truth into a vow (vowing, *because of suffering*, to liberate; *because of origin*, to sever; *because of path*, to study every gate; *because of cessation*, to accomplish the Buddha-Way). A further bifurcation of compassion structures the set: great compassion takes the suffering-and-origin pair and *removes* (the first two vows); great loving-kindness takes the path-and-cessation pair and *gives* (the latter two). What makes the four a *grammar* rather than a *checklist* is that they are a *form*: the object aspired-to may turn outward (Tiantai's objects of the Four Truths) or inward (Chan's sentient beings within one's own mind) while the form holds invariant — one and the same four-vow form fitted with different objects, which is precisely the proof that it is a syntax governing *how* a vow is made, not four targets to be hit. Using the speech-act category of the commissive and Wittgenstein's notion of grammar as mirrors, the paper illuminates how the vow makes the world conform to the word (its direction of fit), and corrects three misreadings. It closes by setting a signpost — vows are established first, deeds come to fill them (*xing-xing tian-yuan*) — for the volume's later parts, and leaves for the next paper the barb these four conceal: do not "numberless" and "inexhaustible" doom the vow never to be finished?
 
 **Keywords:** the Four Great Vows, the Four Noble Truths, grammar, active voice, the gate of vows and the gate of deeds, vowing upon the Four Truths, the bifurcation of compassion, the self-nature Four Vows, commissive speech-acts, Wittgenstein, deeds filling the vow, Zhiyi, the *Platform Sūtra*
 
@@ -172,7 +172,7 @@ The structural significance of this passage lies exactly in this: it moves the *
 
 [^p06]: For the six pāramitās as the summa of the "gate of deeds," and their juxtaposition with the "gate of vows," see this series' *Pāramitā — The Vow as a Vehicle to the Far Shore* (Part III · P06) and the papers of the giving (dāna) volume; the present paper takes only its structural position over against the four vows and does not rehearse the content of the six pāramitās.
 
-[^1]: *Commentary on the Diamond Sūtra* (*Jin'gang banruo jing shu*), spoken by Zhiyi, Taishō vol. 33, No. 1699, lower fascicle, p. 102b–c.
+[^1]: *Commentary on the Diamond Sūtra* (*Jin'gang banruo jing shu*), spoken by Zhiyi, Taishō vol. 33, No. 1698, lower fascicle, p. 102b–c.
 
 [^2]: *Tiantai Sijiao Yi* (*Digest of the Fourfold Teaching of Tiantai*), recorded by the Korean monk Chegwan, Taishō vol. 46, No. 1931, p. 777b. The work is a systematized digest of the Tiantai doctrine of the five periods and eight teachings, a faithful redaction of Zhiyi's teaching but not from Zhiyi's own hand; when cited it is described as "a digest of Tiantai teaching (recorded by Chegwan)."
 
@@ -196,7 +196,7 @@ The structural significance of this passage lies exactly in this: it moves the *
 
 ### I. Primary Buddhist Sources
 
-- *Jin'gang banruo jing shu* (*Commentary on the Diamond Sūtra*), spoken by Zhiyi, Taishō vol. 33, No. 1699.
+- *Jin'gang banruo jing shu* (*Commentary on the Diamond Sūtra*), spoken by Zhiyi, Taishō vol. 33, No. 1698.
 - *Mohe Zhiguan*, spoken by Zhiyi, recorded by Guanding, Taishō vol. 46, No. 1911.
 - *Tiantai Sijiao Yi* (*Digest of the Fourfold Teaching of Tiantai*), recorded by the Korean monk Chegwan, Taishō vol. 46, No. 1931.
 - *Liuzu dashi fabao tan jing* (*Platform Sūtra of the Sixth Patriarch*, Zongbao recension), Taishō vol. 48, No. 2008.
@@ -211,7 +211,7 @@ The structural significance of this passage lies exactly in this: it moves the *
 
 | Short title | Full title | Taishō no. | Author / Translator / Recorder |
 |------|------|-----------|------------|
-| Commentary on the Diamond Sūtra | Jin'gang banruo jing shu | T1699 (vol. 33) | Spoken by Zhiyi |
+| Commentary on the Diamond Sūtra | Jin'gang banruo jing shu | T1698 (vol. 33) | Spoken by Zhiyi |
 | Mohe Zhiguan | Mohe Zhiguan | T1911 (vol. 46) | Spoken by Zhiyi · recorded by Guanding |
 | Tiantai Sijiao Yi | Tiantai Sijiao Yi | T1931 (vol. 46) | Recorded by Chegwan (Korea) |
 | Platform Sūtra | Liuzu dashi fabao tan jing (Zongbao recension) | T2008 (vol. 48) | Compiled by Fahai · edited by Zongbao |
@@ -225,5 +225,5 @@ This paper opens Part IV (the Four Great Vows). Following the abstract groundwor
 *Paper:* PRANIDHANA-P09 · The Four Great Vows: The Grammar of Universal Aspiration · **PRAṆIDHĀNA · Part IV · The Four Great Vows**
 *Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates （六行門）
 *License:* CC BY-NC-SA 4.0
-*CBETA collation:* All citations verified against the CBETA edition (Commentary on the Diamond Sūtra T1699; Mohe Zhiguan T1911; Tiantai Sijiao Yi T1931; Platform Sūtra T2008).
+*CBETA collation:* All citations verified against the CBETA edition (Commentary on the Diamond Sūtra T1698; Mohe Zhiguan T1911; Tiantai Sijiao Yi T1931; Platform Sūtra T2008).
 *Repository:* https://github.com/pointing-at-the-moon/six-practice-gates
