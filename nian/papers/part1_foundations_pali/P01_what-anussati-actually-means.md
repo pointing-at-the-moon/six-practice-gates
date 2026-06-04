@@ -298,7 +298,7 @@ In the Pāli canon, *Buddhānussati* — the first of the six, and the most deve
 [^6]: Buddhaghosa, *Visuddhimagga* VII *Cha-Anussati-Niddesa*, PTS edition pp. 197–228. See Ñāṇamoli trans., *The Path of Purification*, ch. VII.
 [^7]: *Yogācārabhūmi*, *Śrāvakabhūmi*, fascicles 30–31. Taishō vol. 30, no. 1579.
 [^8]: 《大智度論》卷二十七〈隨喜迴向品〉。龍樹造、鳩摩羅什譯。T25 No. 1509。anussati → *anusmṛti* 之印度論層對照。
-[^9]: 《阿毘達磨俱舍論》卷十（心所品）。世親造、玄奘譯。T29 No. 1559。七十五法中心所法之 *smṛti* 定位。
+[^9]: 《阿毘達磨俱舍論》卷十（心所品）。世親造、玄奘譯。T29 No. 1558。七十五法中心所法之 *smṛti* 定位。
 
 ---
 
@@ -327,7 +327,7 @@ In the Pāli canon, *Buddhānussati* — the first of the six, and the most deve
 - Buddhaghosa, *Visuddhimagga* VII *Cha-Anussati-Niddesa*. PTS edition pp. 197–228. **Main source** (commentarial exposition of six recollections).
 - 《大智度論》卷二十七〈隨喜迴向品〉. Nāgārjuna, Kumārajīva trans. Taishō vol. 25, no. 1509. Indian śāstra-level correspondence anussati → *anusmṛti*.
 - 《瑜伽師地論》卷三十、卷三十一聲聞地. Asaṅga, Xuanzang trans. Taishō vol. 30, no. 1579. Yogācāra systematization of *smṛti* / *anusmṛti*.
-- 《阿毘達磨俱舍論》卷十（心所品）. Vasubandhu, Xuanzang trans. Taishō vol. 29, no. 1559. *smṛti* placement in 75-dharma cetasika taxonomy.
+- 《阿毘達磨俱舍論》卷十（心所品）. Vasubandhu, Xuanzang trans. Taishō vol. 29, no. 1558. *smṛti* placement in 75-dharma cetasika taxonomy.
 
 ### III. Modern Scholarship
 
@@ -369,7 +369,7 @@ In the Pāli canon, *Buddhānussati* — the first of the six, and the most deve
 | **Indian Śāstra** | Buddhaghosa, *Visuddhimagga* VII | PTS pp. 197–228 | six recollections commentary |
 | **Indian Śāstra** | 《大智度論》卷二十七 | T25, No. 1509 | anussati → *anusmṛti* |
 | **Yogācāra** | 《瑜伽師地論·聲聞地》 | T30, No. 1579 | *smṛti* / *anusmṛti* taxonomy |
-| **Abhidharma** | 《阿毘達磨俱舍論》卷十 | T29, No. 1559 | *smṛti* in 75 dharma list |
+| **Abhidharma** | 《阿毘達磨俱舍論》卷十 | T29, No. 1558 | *smṛti* in 75 dharma list |
 | **Modern — Pāli studies** | Karabacz (2016) | Harrassowitz | *sati* / *anussati* role analysis |
 | **Modern — Pāli studies** | Johannsson (1993) | Sotheby / Gombrich trans. | *anu-* + *√smṛ* etymology |
 | **Modern — History** | Bronkhorst (2011) | Routledge | dharmasūtra context |

@@ -330,7 +330,7 @@ NIAN's coda business stops here. *Buddhānusmṛti* is still *buddhānusmṛti*.
 - *Mahāyānasūtrālaṃkāra* (Asaṅga, trans. Prabhākaramitra), T1604.
 - *Pañcaskandhaka* (Vasubandhu, trans. Xuanzang), T1612.
 - *Mahāyānaśatadharmavidyādvāraśāstra* (Vasubandhu, trans. Xuanzang), T1614.
-- *Awakening of Faith in the Mahāyāna* (attrib. Aśvaghoṣa, trans. trad. attrib. Paramārtha), T1668.
+- *Awakening of Faith in the Mahāyāna* (attrib. Aśvaghoṣa, trans. trad. attrib. Paramārtha), T1666.
 - *Sifen shu* on *Guan wuliangshou jing* (Shandao), T1753.
 - *Jingangbi* (Zhanran), T1932.
 - *Anluo ji* (Daochuo), T1958.
@@ -375,7 +375,7 @@ NIAN's coda business stops here. *Buddhānusmṛti* is still *buddhānusmṛti*.
 | *Sūtrālaṃkāra* | *Mahāyānasūtrālaṃkāra* | Asaṅga, trans. Prabhākaramitra | T1604 |
 | *Pañcaskandhaka* | *Pañcaskandhaka* | Vasubandhu, trans. Xuanzang | T1612 |
 | *Bai-fa* | *Mahāyānaśatadharmavidyādvāraśāstra* | Vasubandhu, trans. Xuanzang | T1614 |
-| *Awakening* | *Awakening of Faith in the Mahāyāna* | attrib. Aśvaghoṣa, trans. attrib. Paramārtha | T1668 |
+| *Awakening* | *Awakening of Faith in the Mahāyāna* | attrib. Aśvaghoṣa, trans. attrib. Paramārtha | T1666 |
 | *Sifen shu* | *Sifen shu* on *Guan wuliangshou jing* | Shandao | T1753 |
 | *Diamond Scalpel* | *Jingangbi* | Zhanran | T1932 |
 | *Anluo ji* | *Anluo ji* | Daochuo | T1958 |

@@ -301,7 +301,7 @@ Thompson himself is explicit about the danger. *Waking, Dreaming, Being* repeate
 
 A register boundary has been clearly crossed. In Luoyang in 179 CE, Lokakṣema's workshop produced the *Pratyutpanna-samādhi Sūtra*, and the Chinese reception history of recollection-practice encountered for the first time a cluster of structures: the canonical debut of the compound *niànfó* as a central doctrinal term; the first appearance of Amitābha Buddha and Sukhāvatī; the full configuration of the three-fold semantics of "presence" (temporal, spatial, cognitive); the specific temporal protocol of seven days and seven nights; the specification of three months of walking meditation; and—most crucially—the built-in coupling of visionary seeing of buddhas with *prajñā* non-clinging. This cluster has no parallel in Pāli *buddhānussati*, and it is not an internal extension of the Pāli system. It is a **new mode-level arrival**.
 
-The three-sense framework of *niànfó sānmèi* in P04 §3.5 receives here its historical precision: sense A (*upacāra* platform) corresponds to Pāli *buddhānussati*, fully covered in Part I; sense C (Mahāyāna visionary) has its textual birth in T0418. Sense B (*appanā* compression) is the transitional position between the two; its mature form will unfold in later meditation-manuals such as Kumārajīva's *Zuòchán sānmèi jīng* T0613 and Buddhabhadra's *Guānfó sānmèi hǎi jīng* T0643 (Part V material). T0418 is the starting point of sense C.
+The three-sense framework of *niànfó sānmèi* in P04 §3.5 receives here its historical precision: sense A (*upacāra* platform) corresponds to Pāli *buddhānussati*, fully covered in Part I; sense C (Mahāyāna visionary) has its textual birth in T0418. Sense B (*appanā* compression) is the transitional position between the two; its mature form will unfold in later meditation-manuals such as Kumārajīva's *Zuòchán sānmèi jīng* T0614 and Buddhabhadra's *Guānfó sānmèi hǎi jīng* T0643 (Part V material). T0418 is the starting point of sense C.
 
 **For the practitioner, directly.** Visionary practice is neither an Eastern variant of mysticism nor the marker of Buddhism's descent into devotionalism. T0418 tells its own readers, at the moment of its first appearance: to see the buddha is good; to cling to the buddha is self-burning. Stable standing-manifestation of the seen form is *samādhi*; the reflexive dissolution of the seen form is also *samādhi*. The mind makes the buddha; the mind itself sees; yet the mind does not know the mind. This coupling does not release the practitioner from either side. If one's *niànfó* collapses into a one-way visionary pursuit, T0418's red-hot-iron simile is there to check it. If one's *niànfó* collapses into pure *śūnyatā* reflection without a concrete fulcrum, T0418's seven days and seven nights is there to anchor it. Neither pole can be dispensed with. This structural wisdom is an inherited competence of the Chinese *niànfó* tradition from the second century on, not a paradox invented by later Chan masters.
 
@@ -352,7 +352,7 @@ The three-sense framework of *niànfó sānmèi* in P04 §3.5 receives here its 
 - *Bá-pō púsà jīng* 拔陂菩薩經, translator uncertain (traditionally ascribed to Lokakṣema). *Taishō* vol. 13, no. 419. Not directly cited here.
 - *Sìshí'èr zhāng jīng* 四十二章經, translated by Kāśyapa Mātaṅga and Zhu Falan in the Later Han. *Taishō* vol. 17, no. 784. Primary source of NIAN P05; used here as the register-contrast background.
 - *Fó shuō Dà Ān-bān shǒu-yì jīng* 佛說大安般守意經, translated by An Shigao in the Later Han. *Taishō* vol. 15, no. 602. NIAN P05 comparative source.
-- *Zuòchán sānmèi jīng* 坐禪三昧經, translated by Kumārajīva in the Later Qin. *Taishō* vol. 15, no. 613. NIAN Part V comparative text; cited here only as preview.
+- *Zuòchán sānmèi jīng* 坐禪三昧經, translated by Kumārajīva in the Later Qin. *Taishō* vol. 15, no. 614. NIAN Part V comparative text; cited here only as preview.
 - *Guānfó sānmèi hǎi jīng* 觀佛三昧海經, translated by Buddhabhadra in the Eastern Jin. *Taishō* vol. 15, no. 643. NIAN Part V comparative text; cited here only as preview.
 - *Wúliàng shòu jīng* 無量壽經, *Taishō* vol. 12, no. 360; *Guān wúliàng shòu jīng* 觀無量壽經, no. 365; *Āmítuó jīng* 阿彌陀經, no. 366. NIAN Part IV primary sources; cited here only as preview.
 
@@ -385,7 +385,7 @@ _N/A_ — This paper's canonical basis (T0418 / Nikāya / *Visuddhimagga*) does 
 | T0419 | *Bá-pō púsà jīng* | *Taishō* T13 No. 419 | Attributed to Lokakṣema | Not cited |
 | T0784 | *Sìshí'èr zhāng jīng* | *Taishō* T17 No. 784 | Kāśyapa Mātaṅga / Zhu Falan | P05 primary; register-contrast |
 | T0602 | *Fó shuō Dà Ān-bān shǒu-yì jīng* | *Taishō* T15 No. 602 | An Shigao (Later Han) | P05 comparative |
-| T0613 | *Zuòchán sānmèi jīng* | *Taishō* T15 No. 613 | Kumārajīva (Later Qin) | Part V preview |
+| T0614 | *Zuòchán sānmèi jīng* | *Taishō* T15 No. 614 | Kumārajīva (Later Qin) | Part V preview |
 | T0643 | *Guānfó sānmèi hǎi jīng* | *Taishō* T15 No. 643 | Buddhabhadra (Eastern Jin) | Part V preview |
 | T0360 | *Wúliàng shòu jīng* | *Taishō* T12 No. 360 | — | Part IV preview |
 | T0365 | *Guān wúliàng shòu jīng* | *Taishō* T12 No. 365 | Kālayaśas (Liu-Song) | Part IV preview |
