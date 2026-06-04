@@ -206,7 +206,7 @@ T1509 fascicles 13–14 are the master architectural treatment of *śīla-pāram
 ---
 ## Footnotes
 
-[^1]: For the three-cluster framework's structural reconstruction and Zhiyi's three-cluster ↔ three-body mapping, see SILA-P12 (*The Three-Body Architecture of Bodhisattva Sīla*), this volume, particularly §V on Zhiyi's *Pusa jie yishu* 《菩薩戒義疏》 (T1812, *Taishō* vol. 40, T40n1812_p0584b07–10). The three-cluster framework names *what* the bodhisattva precepts are along the functional-object axis; the present paper takes up the further question of *how* the bodhisattva precepts become a *pāramitā*.
+[^1]: For the three-cluster framework's structural reconstruction and Zhiyi's three-cluster ↔ three-body mapping, see SILA-P12 (*The Three-Body Architecture of Bodhisattva Sīla*), this volume, particularly §V on Zhiyi's *Pusa jie yishu* 《菩薩戒義疏》 (T1811, *Taishō* vol. 40, T40n1812_p0584b07–10). The three-cluster framework names *what* the bodhisattva precepts are along the functional-object axis; the present paper takes up the further question of *how* the bodhisattva precepts become a *pāramitā*.
 
 [^2]: *Mahāprajñāpāramitā-śāstra* (《大智度論》, the *Śāstra*), fascicle 13 chapter-opening sūtra-line. *Taishō* vol. 25, T1509, p. 0153b02 (CBETA: T25n1509_p0153b02). The expression "chapter-opening single sūtra-line" refers to the line standing prior to the commentary's expository sections: the *Śāstra*'s standard convention is to cite a passage from the underlying *Pañcaviṃśati-sāhasrikā-prajñāpāramitā* (the *Mahā-prajñāpāramitā-sūtra* in Kumārajīva's earlier translation T0223) and then to expound it line by line. This single line is the sūtra-citation that opens fascicle 13's *śīla-pāramitā* exposition.
 
@@ -272,7 +272,7 @@ T1509 fascicles 13–14 are the master architectural treatment of *śīla-pāram
 - *Bodhisattvabhūmi* of the *Yogācārabhūmi* 《瑜伽師地論·菩薩地戒品》(T1579 fascicles 40–42, attributed to Maitreya / Asaṅga, Xuanzang translated, Tang 646–648). *Taishō*, vol. 30.
 - *Bodhisattvabhūmi-sūtra* 《菩薩地持經》(T1581, Dharmakṣema translated, Northern Liang fifth century, fascicle 5). *Taishō*, vol. 30.
 - *Mahāyānābhidharmasamuccayavyākhyā* 《大乘阿毘達磨雜集論》(T1606, Sthiramati composed, Xuanzang translated, fascicle 11). *Taishō*, vol. 31.
-- *Pusa jie yishu* 《菩薩戒義疏》(T1812, Zhiyi, Sui late sixth century). *Taishō*, vol. 40.
+- *Pusa jie yishu* 《菩薩戒義疏》(T1811, Zhiyi, Sui late sixth century). *Taishō*, vol. 40.
 - *Liù dù jí jīng* 《六度集經》(T0152, Kang Senghui translated, Wu mid-third century, fascicle 4 Sutasoma parallel). *Taishō*, vol. 3.
 
 ### Primary sources (Pāli · SuttaCentral, CC0)
