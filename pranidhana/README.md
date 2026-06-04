@@ -9,7 +9,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1), [*The Practice of
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: 🟢 **Paper phase — Parts I–VII (巴利根基 · 阿含視域 · 願為波羅蜜 · 四弘誓願 · 彌陀本願 · 普賢行願 · 願與空·不退轉) 18/18 ✅ released as a head-start.** This is the series' sealing volume; its main drafting is gated on the SAMĀDHI volume's seal, with Parts I–VII released ahead per a named exception. The grand reveal — the six-gate ↔ Heart Sūtra mapping and the attainment of bodhi as the sequence's END — is reserved for the closing Part VIII and is not anticipated here.
+- **Status**: 🟢 **Paper phase complete — Parts I–VIII 20/20 ✅.** This is the series' sealing volume. With the SAMĀDHI volume sealed, the gate on Part VIII was met and the two closing papers are now released: the three-times Buddhas' attainment of bodhi as the END of the sequence (P19), and the grand reveal — the six-gate ↔ Heart Sūtra mapping (觀／度／空／不／究竟／得菩提 = 念／施／懺／戒／定／願, five movements and one emptiness; repentance the one subtractive gate, the vow alone unsealing 得菩提) — as the series closer (P20). The loop of the whole six-gate sequence closes here, handed back to its sister series (on view and wisdom) and to the three trainings (śīla, samādhi, prajñā).
 
 ### Planned Structure
 
@@ -57,6 +57,10 @@ Eight parts, ~20 papers (the sealing volume favors concision over expansion):
 - **P16** [無所得而發願](./papers/part7_vow_and_emptiness/P16_無所得而發願.md) / [Vowing without a Vower](./papers/part7_vow_and_emptiness/P16_vowing-without-a-vower.md)
 - **P17** [無生法忍與不退轉之願](./papers/part7_vow_and_emptiness/P17_無生法忍與不退轉之願.md) / [The Patience of Non-Arising and the Vow That Does Not Turn Back](./papers/part7_vow_and_emptiness/P17_the-patience-of-non-arising-and-the-vow-that-does-not-turn-back.md)
 - **P18** [菩薩不住涅槃](./papers/part7_vow_and_emptiness/P18_菩薩不住涅槃.md) / [The Bodhisattva Does Not Enter Final Nirvāṇa](./papers/part7_vow_and_emptiness/P18_the-bodhisattva-does-not-enter-final-nirvana.md)
+
+**Part VIII — The Sealing: Attainment of Bodhi and the Grand Reveal** · 2/2 ✅ · *series closer*
+- **P19** [三世諸佛得菩提](./papers/part8_sealing_grand_reveal/P19_三世諸佛得菩提.md) / [The Three Periods' Buddhas Attain Bodhi](./papers/part8_sealing_grand_reveal/P19_the-three-periods-buddhas-attain-bodhi.md)
+- **P20** [六門一直是什麼](./papers/part8_sealing_grand_reveal/P20_六門一直是什麼.md) / [What the Six Gates Were All Along](./papers/part8_sealing_grand_reveal/P20_what-the-six-gates-were-all-along.md)
 
 ---
 
