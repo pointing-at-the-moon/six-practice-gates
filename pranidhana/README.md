@@ -9,7 +9,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1), [*The Practice of
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: 🟢 **Paper phase — Parts I–II (巴利根基 · 阿含視域) 5/5 ✅ released as a head-start.** This is the series' sealing volume; its main drafting is gated on the SAMĀDHI volume's seal, with Part I (P01–P03) released ahead per a named exception. The grand reveal — the six-gate ↔ Heart Sūtra mapping and the attainment of bodhi as the sequence's END — is reserved for the closing Part VIII and is not anticipated here.
+- **Status**: 🟢 **Paper phase — Parts I–III (巴利根基 · 阿含視域 · 願為波羅蜜) 8/8 ✅ released as a head-start.** This is the series' sealing volume; its main drafting is gated on the SAMĀDHI volume's seal, with Parts I–III released ahead per a named exception. The grand reveal — the six-gate ↔ Heart Sūtra mapping and the attainment of bodhi as the sequence's END — is reserved for the closing Part VIII and is not anticipated here.
 
 ### Planned Structure
 
@@ -34,6 +34,11 @@ Eight parts, ~20 papers (the sealing volume favors concision over expansion):
 **Part II — The Āgama View** · 2/2 ✅
 - **P04** [善法欲不是渴愛](./papers/part2_agama_view/P04_善法欲不是渴愛.md) / [Chanda, Not Taṇhā](./papers/part2_agama_view/P04_chanda-not-tanha.md)
 - **P05** [有所求與無所求之願](./papers/part2_agama_view/P05_有所求與無所求之願.md) / [The Directed and the Undirected](./papers/part2_agama_view/P05_the-directed-and-the-undirected.md)
+
+**Part III — Vow as a Perfection** · 3/3 ✅
+- **P06** [願為第八波羅蜜](./papers/part3_vow_as_perfection/P06_願為第八波羅蜜.md) / [Praṇidhāna as the Eighth Perfection](./papers/part3_vow_as_perfection/P06_pranidhana-as-the-eighth-perfection.md)
+- **P07** [願為路之骨架](./papers/part3_vow_as_perfection/P07_願為路之骨架.md) / [The Ten Vows of the Ten Grounds](./papers/part3_vow_as_perfection/P07_the-ten-vows-of-the-ten-grounds.md)
+- **P08** [龍樹與菩薩之願力](./papers/part3_vow_as_perfection/P08_龍樹與菩薩之願力.md) / [Nāgārjuna and the Bodhisattva's Vow-Power](./papers/part3_vow_as_perfection/P08_nagarjuna-and-the-bodhisattvas-vow-power.md)
 
 ---
 

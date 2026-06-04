@@ -25,6 +25,7 @@ MASTER_PLAN_*.md
 
 # Series-level style guide (local only)
 PAPER_STYLE.md
+PAPER_CANONICAL_CARD.md
 
 # Volume-level planning and audit briefs (local only)
 */*_PLAN.md
