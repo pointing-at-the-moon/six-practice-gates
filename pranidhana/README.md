@@ -9,7 +9,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1), [*The Practice of
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: 🟢 **Paper phase — Parts I–V (巴利根基 · 阿含視域 · 願為波羅蜜 · 四弘誓願 · 彌陀本願) 12/12 ✅ released as a head-start.** This is the series' sealing volume; its main drafting is gated on the SAMĀDHI volume's seal, with Parts I–V released ahead per a named exception. The grand reveal — the six-gate ↔ Heart Sūtra mapping and the attainment of bodhi as the sequence's END — is reserved for the closing Part VIII and is not anticipated here.
+- **Status**: 🟢 **Paper phase — Parts I–VI (巴利根基 · 阿含視域 · 願為波羅蜜 · 四弘誓願 · 彌陀本願 · 普賢行願) 15/15 ✅ released as a head-start.** This is the series' sealing volume; its main drafting is gated on the SAMĀDHI volume's seal, with Parts I–V released ahead per a named exception. The grand reveal — the six-gate ↔ Heart Sūtra mapping and the attainment of bodhi as the sequence's END — is reserved for the closing Part VIII and is not anticipated here.
 
 ### Planned Structure
 
@@ -47,6 +47,11 @@ Eight parts, ~20 papers (the sealing volume favors concision over expansion):
 **Part V — The Primal Vows of Amitābha** · 2/2 ✅
 - **P11** [願力如何成就一土](./papers/part5_primal_vows_amitabha/P11_願力如何成就一土.md) / [The Forty-Eight Vows: Vow-Power as the Architecture of a Pure Land](./papers/part5_primal_vows_amitabha/P11_vow-power-as-the-architecture-of-a-pure-land.md)
 - **P12** [他力與交付之文法](./papers/part5_primal_vows_amitabha/P12_他力與交付之文法.md) / [Other-Power and the Grammar of Entrusting](./papers/part5_primal_vows_amitabha/P12_other-power-and-the-grammar-of-entrusting.md)
+
+**Part VI — Samantabhadra's Vows of Conduct** · 3/3 ✅
+- **P13** [行願不二](./papers/part6_samantabhadra_conduct/P13_行願不二.md) / [Vow and Conduct Are Not Two](./papers/part6_samantabhadra_conduct/P13_vow-and-conduct-are-not-two.md)
+- **P14** [念念相續](./papers/part6_samantabhadra_conduct/P14_念念相續.md) / [Vow upon Vow without Weariness](./papers/part6_samantabhadra_conduct/P14_vow-upon-vow-without-weariness.md)
+- **P15** [迴向](./papers/part6_samantabhadra_conduct/P15_迴向.md) / [Transference: The Hinge of the Tenth Vow](./papers/part6_samantabhadra_conduct/P15_transference-the-hinge-of-the-tenth-vow.md)
 
 ---
 
