@@ -22,7 +22,7 @@ license: CC BY-NC-SA 4.0
 ---
 
 **Author:** 釋慧鏡 (Shi Huijing)
-**Date:** 2026-06
+**Date:** June 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
 **Series:** PRAṆIDHĀNA — Aspiration and the Vow
@@ -139,7 +139,7 @@ With this, Part I of the volume (the three papers on Pāli roots) comes to a clo
 
 ---
 
-## Notes
+## Footnotes
 
 [^1]: That resolve (*adhiṭṭhāna*) is the eighth of the Theravāda ten perfections, and is replaced by "vow" (*praṇidhāna*) in the Mahāyāna ten, is a structural difference between the Theravāda and Mahāyāna lists of perfections. The canonical loci for the Theravāda *adhiṭṭhāna-pāramī* are the *Cariyāpiṭaka* and the commentary on the *Buddhavaṃsa*, cited here at PTS reference-level only. Its sole Chinese-character witness is the modern translation in the Chinese rendering of the Pāli canon (Yuanheng Temple edition), *juéding bōluómì* ("perfection of resolve," N31 / N44); this is a twentieth-century recent translation still under copyright, and, in keeping with this project's source policy (handled by analogy with the `publication_safe: false` status of the GRETIL *Visuddhimagga*), only its existence is acknowledged—it is not entered as a main-text citation.
 
@@ -187,7 +187,7 @@ Pāli parallels (PTS reference-level only, not entered in the main text): *Cariy
 
 ---
 
-## Series Cross-Reference Index
+## Cross-References to Other Papers in the Series
 
 - **Carrying forward P01** (the three terms vow / pledge / dedication): this paper's discrimination of "resolve" continues the format of P01's discrimination of three terms—P01 established the vow as arousal; this paper establishes the immovability of that arousal.
 - **Carrying forward P02** (Sumedha's vow · Dīpaṅkara's prediction): P02's Dīpaṅkara prediction was the outer seal at "the beginning of non-retreat"; this paper supplies its inner root—what the prediction seals is the vow's own resolve / firmness.

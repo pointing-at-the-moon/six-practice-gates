@@ -22,10 +22,10 @@ license: CC BY-NC-SA 4.0
 ---
 
 **Author:** 釋慧鏡 (Shi Huijing)
-**Series:** Six Practice Gates · PRAṆIDHĀNA (Volume 6) · Part I, Pāli Roots
 **Date:** June 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** PRAṆIDHĀNA — Aspiration and the Vow
 
 ---
 
@@ -169,7 +169,7 @@ From a point of departure like this, what kind of road will be walked? This road
 
 ---
 
-## Notes
+## Footnotes
 
 [^1]: *Sūtra on Past and Present Causes and Effects* (過去現在因果經), fasc. 1, trans. Guṇabhadra (Liu-Song), Taishō vol. 3, No. 189. In a sustained biographical hand this sūtra preserves the complete scene of Sumedha (Megha, 儒童) vowing, spreading his hair, and receiving the prediction before the Buddha Puguang (Dīpaṃkara); it is the narrative spine of this paper.
 [^2]: Same sūtra, p. 622a (T03n0189, p0622a09). Sumedha's first-person vow at the moment of offering: "In order to accomplish all-knowledge, and to liberate the immeasurable suffering beings."
@@ -209,7 +209,7 @@ From a point of departure like this, what kind of road will be walked? This road
 
 ---
 
-## Cross-References within the Series
+## Cross-References to Other Papers in the Series
 
 This paper takes up the distinction of the three terms drawn in P01, carries "the vow" into Sumedha's primal vow, and establishes the spine's arousing-end for the volume. What it carries forward and where it points:
 

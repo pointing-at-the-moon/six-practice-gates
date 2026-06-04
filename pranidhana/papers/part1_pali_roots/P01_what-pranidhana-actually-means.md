@@ -21,10 +21,18 @@ license: CC BY-NC-SA 4.0
 ---
 
 **Author:** 釋慧鏡 (Shi Huijing)
-**Series:** Six Practice Gates · PRAṆIDHĀNA (Volume 6) · Part I, Pāli Roots (opening chapter)
 **Date:** June 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** PRAṆIDHĀNA — Aspiration and the Vow
+
+---
+
+## Abstract
+
+This is the opening chapter of the *praṇidhāna* (vow) volume of the *Six Practice Gates*, and its task is to draw the propositional boundary for the volume as a whole. Contemporary Western (and Chinese) self-help culture habitually misreads *making a vow* as a more devout form of *goal-setting* or *wishing*; this chapter argues instead that *praṇidhāna* is not a wish, not craving, and not manifestation — the difference lying not in the intensity of will but in the object the will is oriented toward, and in whether the one who vows presupposes a self to be realized. The argument proceeds by distinguishing three terms: the *Ekottarāgama* and the *Mahāprajñāpāramitā-śāstra* establish the vow as the founding of an orientation toward awakening; the *Upāsaka-śīla-sūtra* establishes the pledge as the decisive undertaking of what is received; the *Mahāprajñāpāramitā-śāstra*'s chapter on sympathetic-joy transference and the *Avataṃsaka-sūtra*'s chapter on the ten transferences establish transference as the re-direction of merit's aim rather than a hand-over; and a single line of the *Saṃyuktāgama* sets the boundary between vow and craving. From these the chapter argues that the vow is a constitutive rather than an acquisitive act, that transference is the turning of an aim rather than the transfer of a thing, and that the three terms, mutually entailing, each block one of three misreadings — *the vow is a wish*, *the vow is craving*, *the vow is a transaction*. The conclusion: the three terms together define the gate of vows' thesis that *the vow is not a wish*, and lay the semantic ground for the chapters that follow.
+
+**Keywords:** praṇidhāna; samādāna; pariṇāmanā; vow; aspiration; transference; primal vow (pūrva-praṇidhāna); craving (taṇhā); wholesome desire (chanda); constitutive vs acquisitive; three-term distinction; the gate of vows
 
 ---
 
@@ -142,14 +150,6 @@ But its structure is transactional: place the order, await delivery — the whol
 
 ---
 
-## Abstract
-
-This is the opening chapter of the *praṇidhāna* (vow) volume of the *Six Practice Gates*, and its task is to draw the propositional boundary for the volume as a whole. Contemporary Western (and Chinese) self-help culture habitually misreads *making a vow* as a more devout form of *goal-setting* or *wishing*; this chapter argues instead that *praṇidhāna* is not a wish, not craving, and not manifestation — the difference lying not in the intensity of will but in the object the will is oriented toward, and in whether the one who vows presupposes a self to be realized. The argument proceeds by distinguishing three terms: the *Ekottarāgama* and the *Mahāprajñāpāramitā-śāstra* establish the vow as the founding of an orientation toward awakening; the *Upāsaka-śīla-sūtra* establishes the pledge as the decisive undertaking of what is received; the *Mahāprajñāpāramitā-śāstra*'s chapter on sympathetic-joy transference and the *Avataṃsaka-sūtra*'s chapter on the ten transferences establish transference as the re-direction of merit's aim rather than a hand-over; and a single line of the *Saṃyuktāgama* sets the boundary between vow and craving. From these the chapter argues that the vow is a constitutive rather than an acquisitive act, that transference is the turning of an aim rather than the transfer of a thing, and that the three terms, mutually entailing, each block one of three misreadings — *the vow is a wish*, *the vow is craving*, *the vow is a transaction*. The conclusion: the three terms together define the gate of vows' thesis that *the vow is not a wish*, and lay the semantic ground for the chapters that follow.
-
-**Keywords:** praṇidhāna; samādāna; pariṇāmanā; vow; aspiration; transference; primal vow (pūrva-praṇidhāna); craving (taṇhā); wholesome desire (chanda); constitutive vs acquisitive; three-term distinction; the gate of vows
-
----
-
 ## Footnotes
 
 [^1]: *Ekottarāgama* (《增一阿含經》), fascicle 38, *Chapter on Hearing the Dharma* (聽法品第三十六), translated by Gautama Saṃghadeva (Eastern Jin), Taishō Tripiṭaka vol. 2, no. 0125, p. 758b. This is a first-person aspiration from a past causal ground; *Buddha of Lamplight* (燈光佛) is a variant rendering of Dīpaṃkara (the Chinese tradition also preserves 定光, 錠光, 提和竭羅). The complete primal-vow narrative is treated in a dedicated chapter of this volume (P02); here only the phrase *gave rise to this vow* is taken, to establish the arousing-sense of the vow.
@@ -199,7 +199,7 @@ This is the opening chapter of the *praṇidhāna* (vow) volume of the *Six Prac
 | Avataṃsaka (80-fasc.) | 大方廣佛華嚴經 (80卷) | T0279 (vol. 10) | Śikṣānanda |
 | Larger Sukhāvatīvyūha | 佛說無量壽經 | T0360 (vol. 12) | Saṃghavarman |
 
-## Cross-References within the Series
+## Cross-References to Other Papers in the Series
 
 This opening paper of the *Vow* volume establishes the three shared terms — vow, pledge, transference — that ground every paper that follows. What it points toward:
 
