@@ -9,7 +9,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1), [*The Practice of
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: 🟢 **Paper phase 29/30 — Part I–VIII sealed · Part IX 2/3 (P29 landed 2026-06-03)** · forward through Part IX 現代診斷與日用 (P30)
+- **Status**: ✅ **Paper phase sealed 2026-06-03 — 30/30 (all 9 Parts complete)** · Part IX 現代診斷與日用 3/3 (封卷 P30 以戒為師／*The Precept as Teacher* landed 2026-06-03)
 
 ### Planned Structure
 
@@ -70,9 +70,10 @@ Nine parts, ~30 papers:
 - **P26** [行門之戒](./papers/part8_complete_precept/P26_行門之戒.md) / [The Four Peaceful Practices of the Lotus](./papers/part8_complete_precept/P26_the-four-peaceful-practices-of-the-lotus.md)
 - **P27** [分位之戒](./papers/part8_complete_precept/P27_分位之戒.md) / [Sīla across the Ten Bhūmis](./papers/part8_complete_precept/P27_sila-across-the-ten-bhumis.md)
 
-**Part IX — Modern Diagnosis and Living Sīla** · 2/3
+**Part IX — Modern Diagnosis and Living Sīla** · 3/3 ✅
 - **P28** [兩種失模](./papers/part9_modern_diagnosis/P28_兩種失模.md) / [Two Failure Modes](./papers/part9_modern_diagnosis/P28_two-failure-modes.md)
 - **P29** [去思留言](./papers/part9_modern_diagnosis/P29_去思留言.md) / [Speech Without a Speaker](./papers/part9_modern_diagnosis/P29_speech-without-a-speaker.md)
+- **P30** [以戒為師](./papers/part9_modern_diagnosis/P30_以戒為師.md) / [The Precept as Teacher](./papers/part9_modern_diagnosis/P30_the-precept-as-teacher.md) · 封卷篇 / volume closer
 
 ---
 
