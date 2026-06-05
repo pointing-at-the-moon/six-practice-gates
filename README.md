@@ -1,25 +1,47 @@
 # The Six Practice Gates
 ## 六行門——行深般若波羅蜜多的六扇門
 
-*A Companion to the [指月八部曲](https://github.com/pointing-at-the-moon/dharma-research) / Pointing at the Moon Octalogy*
+*The 解 **Practice** axis of the [指月 / Pointing at the Moon](https://github.com/pointing-at-the-moon) fourfold 信解行證 — how prajñā walks out the door.*
 
-The Heart Sutra opens: "When Avalokitesvara Bodhisattva was **practicing** the deep Prajnaparamita..." The Octalogy traces what prajna **is**; this series traces how prajna **walks out the door**.
+華嚴以**信、解、行、證**四字攝盡修道全程。八部曲立其**信**（般若見地）；此系列明其**解**——把般若展開為六扇可走的行門。
 
-Six gates of practice, read as one sequence: **念 → 施 → 懺 → 戒 → 定 → 願**, culminating in 願. The Heart Sutra's "practicing the deep Prajnaparamita" walks all the way to its true climax — not stopping at 究竟涅槃 (ultimate nirvana), but going on to 得阿耨多羅三藐三菩提 (the Buddhas' full awakening). All six gates correlate with the Heart Sūtra — five with a **verb** (觀／度／不／究竟／得, each additive), and 懺 (repentance) with its **emptiness** (*śūnyatā*): the one subtractive gate, repentance as the contemplation that the nature of transgression is itself empty, entering after 施:
+The Heart Sūtra opens: *"When Avalokiteśvara was **practicing** the deep Prajñāpāramitā…"* The Octalogy traces what prajñā **is**; this series traces how it **walks out the door** — six gates of practice, read as one sequence that ends in the vow.
 
-| Seq. | Gate             | Heart Sūtra correlate                                                                                                                                                                                                                                 | Title                                                 | Status                                                                                                                                                                                                                                                                                                                              |
-| ---- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | **念** NIAN       | 觀 — *behold* (Avalokita)                                                                                                                                                                                                                              | [Mindful of the Buddha](./nian/)                      | ✅ **Sealed 2026-05-03 — 31/31 (all 8 Parts complete)**                                                                                                                                                                                                                                                                              |
-| 2    | **施** DANA       | 度 — *deliver* (across all suffering)                                                                                                                                                                                                                  | [The Practice of Giving](./dana/)                     | ✅ **Sealed 2026-05-15 — 31/31 (all 9 Parts complete)** — Part IX closer P31 走過之路 / *What You Just Walked Through* · 30-anchor retrospective + bilingual pastoral closure · 「檀為涅槃之初緣」 7-char volume-anchor                                                                                                                           |
-| 3    | **懺** KSAMA      | **空** — *emptiness* (*śūnyatā*) · the one subtractive gate · *(repentance as the contemplation that the nature of transgression is itself empty · enters after 施: once self is loosened, disclosure and the clearing of obstruction become possible)* | [Repentance](./ksama/)                                | ✅ **Sealed 2026-06-02 — 20/20 (P01–P20, all 8 Parts complete)** — 懺 the one subtractive gate (心經之空 · 罪性本空). Arc: Vinaya disclosure 發露 (I–II) → the seven-limb confession + the death-and-rebirth bridge into giving and the precepts (III–IV) → the three repentances 作法／取相／無生 (V) → the Chinese liturgies 法華三昧懺／梁皇寶懺 (VI) → the climax 無生之懺＝罪性本空＝《心經》之空 (VII) → modern diagnosis and the return to daily use (VIII). Through-lines: 受≠赦 · 空≠斷滅 · 登頂不廢階梯. (Per-paper detail in the volume README.) |
-| 4    | **戒** SILA       | 不 — *neither-arising-nor-ceasing*                                                                                                                                                                                                                     | [From Pāli Vinaya to the Sign-less Precepts](./sila/) | ✅ **Sealed 2026-06-03 — 30/30 (P01–P30, all 9 Parts complete)** — 戒 the gate of the boundary of action (心經之「不」 · neither-arising-nor-ceasing). Arc: Pāli roots 戒／律儀／律 三軸 (I) → the Āgama view 三戒支／五戒／八關齋／戒香 (II) → Vinaya across three schools 波羅提木叉 (III) → the Mahāyāna turn 三聚淨戒／尸羅波羅蜜／受之為門 (IV) → the 戒體 question 色法／非色非心／種子 (V) → Bhaiṣajyaguru's support-conditions (VI) → prajñā's sign-less precept 盡行而不取相 (VII) → the three-sūtra perfected precept 楞嚴法華華嚴 (VIII) → modern diagnosis and *sīla* as daily art 以戒為師 (IX). Through-lines: 戒以思為根 · 受隨相資 · 無相之持更嚴非更鬆 · 戒為定基→向定敞開. (Per-paper detail in the volume README.)                                                                                                                                                                                                                                                                                                |
-| 5    | **定** SAMADHI    | 究竟 — *ultimate* (nirvana · the bodhisattva's consummation) | [From the Pāli Jhāna to Silent Illumination and the Huatou](./samadhi/) | ✅ **Sealed 2026-06-04 — 31/31 (all 9 Parts complete)** — Part IX closer P31 內向之門回開 / *The Inward Gate Opens Back* · nine-Part retrospective + 定回歸般若 (定→慧, closing the three-trainings loop) · 「禪定能生實智慧」 7-char volume-anchor · 定 = the Heart Sūtra's 究竟涅槃, the inward gate that returns to wisdom |
-| 6    | **願** PRANIDHANA | 得菩提 — *attain awakening* (the three-times Buddhas · the END) | [From the Pāli Vow to Samantabhadra's Conduct](./pranidhana/) | ✅ **Sealed 2026-06-04 — 20/20 (all 8 Parts complete)** · *the series closer*. With the SAMĀDHI volume sealed, the gate on the closing Part VIII was met and the volume is now complete. Part I 巴利根基: 願不是許願 (三詞辨義 praṇidhāna／samādāna／pariṇāmanā) · 然燈佛前之本願 (善慧 Sumedha's primal vow before Dīpaṃkara) · 決意與願之不退 (adhiṭṭhāna · the non-regressing vow). Part II 阿含視域: 善法欲不是渴愛 (chanda 非 taṇhā · the orientation of the will) · 有所求與無所求之願 (paṇidhi 的方向光譜 · from seeking a good rebirth to the undirected vow). Part III 願為波羅蜜: 願為第八波羅蜜 (praṇidhāna as the eighth pāramitā · 到彼岸非完成) · 願為路之骨架 (十地之十願 · the ten vows as the architecture of the path) · 龍樹與菩薩之願力 (Nāgārjuna on vow-power · 福德如牛，願如御者). Part IV 四弘誓願: 四聖諦的主動式 (四弘誓願作為普願之文法 · the Four Great Vows as the active voice of the Four Noble Truths) · 不可完成之願 (「無邊」作為結構而非目標 · the unfinishable vow). Part V 彌陀本願: 願力如何成就一土 (四十八願 · 設我得佛…不取正覺之自縛條件式 · vow-power as the architecture of a Pure Land) · 他力與交付之文法 (他力作為願之一型 · 能托↔所托 · other-power as entrusting, not transaction). Part VI 普賢行願: 行願不二 (caryā-praṇidhāna as one compound · vow and conduct are not two · 願名行之所行、行填願之所名 · 如鳥二翼如車二輪) · 念念相續 (the closing refrain's time-face 無有間斷·無有疲厭 · sustained by 普賢觀行力, not willpower · vow as a line to the end of future time) · 迴向 (普皆迴向 as the hinge of the tenth vow · re-directing an aim, not transferring a thing · gathering the prior nine and turning the whole toward beings and bodhi). Part VII 願與空·不退轉: 無所得而發願 (vowing without a vower · 願者／所願／願三輪體空 · 空≠廢願：照願性本空不撥願力，如照罪性本空不撥業果) · 無生法忍與不退轉之願 (the patience of non-arising *anutpattika-dharma-kṣānti* · 願不退之保證在無生·無一法生起以供失去 · 以無地基為不動，非以抓得最緊為不動) · 菩薩不住涅槃 (*apratiṣṭhita-nirvāṇa* · 般若故不住生死、大悲故不住涅槃 · 願作為不肯以寂滅為終點之力 · rest is declined not because it is impossible, but because of the vow). Part VIII 封筆·得菩提與總序: 三世諸佛得菩提 (得阿耨多羅三藐三菩提 as the END of the sequence · Fazang's 斷果→智果 reading · 迴向發願 as the operative move that carries the one breath of prajñā across nirvāṇa to the buddha-station) · 六門一直是什麼 (**the grand reveal**: 觀／度／空／不／究竟／得菩提 = 念／施／懺／戒／定／願 · five movements and one emptiness · 懺 the one subtractive gate, 願 alone unsealing 得菩提 · the small arc 施失我→懺空業→戒新生 isomorphic with the great arc 行深般若→得菩提 · disclosed as the series' interpretive framework, not the sūtra's explicit words). The grand reveal is now complete; the loop of the whole six-gate sequence closes here, handed back to the Octalogy (view/wisdom) and to the three trainings (śīla·samādhi·prajñā). |
+**念 → 施 → 懺 → 戒 → 定 → 願**
 
-> ✅ **The paper phase of the whole series is complete — all six gates sealed (6 volumes · 163 papers).** The closing paper, *What the Six Gates Were All Along* (PRAṆIDHĀNA P20), reveals the six gates as one deepening of the Heart Sūtra and hands the sequence back to the Octalogy (view/wisdom) and to the three trainings.
+### The gates / 六門
 
-The sequence is linear and culminates in 願 — the vow that turns the bodhisattva's ultimate nirvana into the Buddhas' full awakening. Yet any gate can also serve as a practice entry point: walking through any one will naturally engage the others, ultimately returning to prajna.
+| # | Gate | Heart Sūtra | Volume | Status |
+|---|------|-------------|--------|--------|
+| 1 | **念** NIAN | 觀 *behold* | [Mindful of the Buddha](./nian/) | ✅ 31/31 · 8 Parts |
+| 2 | **施** DĀNA | 度 *deliver* | [The Practice of Giving](./dana/) | ✅ 31/31 · 9 Parts |
+| 3 | **懺** KṢAMĀ | 空 *emptiness* | [Repentance](./ksama/) | ✅ 20/20 · 8 Parts |
+| 4 | **戒** SĪLA | 不 *neither-arising-nor-ceasing* | [The Sign-less Precepts](./sila/) | ✅ 30/30 · 9 Parts |
+| 5 | **定** SAMĀDHI | 究竟 *ultimate* | [Silent Illumination and the Huatou](./samadhi/) | ✅ 31/31 · 9 Parts |
+| 6 | **願** PRAṆIDHĀNA | 得菩提 *attain awakening* | [Samantabhadra's Conduct](./pranidhana/) | ✅ 20/20 · 8 Parts |
+
+> ✅ **The paper phase is complete — all six gates sealed · 6 volumes · 163 papers.**
+
+### The grand reveal / 六門一直是什麼
+
+The closing paper shows the six gates were one deepening of the Heart Sūtra all along — five movements and one emptiness:
+
+> 觀 ／ 度 ／ **空** ／ 不 ／ 究竟 ／ 得菩提
+> 念 ／ 施 ／ **懺** ／ 戒 ／ 定 ／ 願
+
+懺 is the one *subtractive* gate (the Heart Sūtra's emptiness, 罪性本空); 願 alone unseals 得菩提 — the vow that turns the bodhisattva's ultimate nirvana outward into the Buddhas' full awakening. The sequence closes here, handed back to view (the Octalogy) and to the three trainings.
+
+### How to read / 怎麼讀
+
+Every paper is bilingual — 中文 and English side by side. The six volumes can be read in order, or entered through any single gate: walking through one naturally engages the others. Per-paper detail lives in each volume's README.
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](./LICENSE)
-- **Companion project**: [dharma-research](https://github.com/pointing-at-the-moon/dharma-research) (the Octalogy — 91 papers on prajna / wisdom)
+- **Companion axes** (指月 · 信解行證):
+  - [dharma-research](https://github.com/pointing-at-the-moon/dharma-research) — 信 View · 八部曲 + *The Eight Movements* (book)
+  - realization-paths — 行 Realization · 階位歷程 (walking the stations)
+  - attainment-signatures — 證 Attainment · 到達與自在 (arrival & mastery)
+  - 三無漏學 The Three Studies — the practice curriculum, launching at waken.org
+
+---
+*指月 Pointing at the Moon · 信解行證 · 解 Practice · 釋慧鏡 (Shi Huijing) · CC BY-NC-SA 4.0*

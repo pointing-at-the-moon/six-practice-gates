@@ -13,7 +13,7 @@ Of the six gates, 定 correlates with the Heart Sūtra's **究竟** (*ultimate* 
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
 - **Status**: ✅ **Paper phase SEALED 2026-06-04 — 31/31 (all 9 Parts complete)** · Volume closer P31 內向之門回開 / The Inward Gate Opens Back · Part IX triad (P29 兩種失格 modern-diagnosis + P30 AI 時代之定 + P31 定回歸般若 全卷收束) · forward to 願 PRAṆIDHĀNA Volume 6
 
-### Planned Structure
+### Structure
 
 Nine parts, an arc from the Pāli jhāna inward to the limit, then back out to wisdom:
 

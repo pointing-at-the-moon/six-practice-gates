@@ -13,7 +13,7 @@ Of the six gates, 懺 alone correlates not with a Heart Sūtra **verb** but with
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
 - **Status**: 🟢 **Paper phase — Parts I–VIII complete · 20 papers (P01–P20) ✅ volume sealed** · Part I 3/3 · Part II 2/2 · Part III 2/2 · Part IV 2/2 · Part V 2/2 · Part VI 3/3 ✅ · Part VII 4/4 ✅ · Part VIII 2/2 ✅ · the summit reached (non-arising = emptiness), then descended to modern diagnosis and daily use — the repentance gate closes, handing off to wisdom and to vow
 
-### Planned Structure
+### Structure
 
 Eight parts, an ascent from phenomenal disclosure to the repentance of non-arising:
 

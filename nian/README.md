@@ -14,7 +14,7 @@ A 31-paper volume tracing Buddhānussati from its Pāli origins through Chinese 
 
 ### Structure
 
-Nine parts, 31 papers:
+Eight parts, 31 papers:
 
 - **Part I** Foundations (Pāli) — 4 papers
 - **Part II** The Earliest Chinese Reception — 1 paper
@@ -78,8 +78,8 @@ See [`NIAN_PLAN.md`](./NIAN_PLAN.md) for full skeleton and methodology.
 
 ### 🎉 NIAN 全卷封筆 — 31/31 ✅ COMPLETE (2026-05-03)
 
-Volume One of *The Six Practice Gates* — the gate of continuous awareness — is now sealed at the paper level. The book-conversion phase (downgrade to chapter form) follows in due course, alongside the opening of Volumes Two (*Dāna*), Three (*Śīla*), Four (*Samādhi*), and the two devotional gates Five (*Praṇidhāna*) and Six (*Kṣamā*).
+Volume One of *The Six Practice Gates* — the gate of continuous awareness — is sealed at the paper level. All six gates (念施懺戒定願) are now complete; see the [series README](../README.md) for the full sequence and the grand reveal.
 
 ### Citation
 
-Once all papers ship, please cite as: Shi Huijing, *Mindful of the Buddha* (pointing-at-the-moon, 2026–).
+Please cite as: Shi Huijing, *Mindful of the Buddha*, The Six Practice Gates (pointing-at-the-moon, 2026).

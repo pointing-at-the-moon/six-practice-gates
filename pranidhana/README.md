@@ -11,9 +11,9 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1), [*The Practice of
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
 - **Status**: 🟢 **Paper phase complete — Parts I–VIII 20/20 ✅.** This is the series' sealing volume. With the SAMĀDHI volume sealed, the gate on Part VIII was met and the two closing papers are now released: the three-times Buddhas' attainment of bodhi as the END of the sequence (P19), and the grand reveal — the six-gate ↔ Heart Sūtra mapping (觀／度／空／不／究竟／得菩提 = 念／施／懺／戒／定／願, five movements and one emptiness; repentance the one subtractive gate, the vow alone unsealing 得菩提) — as the series closer (P20). The loop of the whole six-gate sequence closes here, handed back to its sister series (on view and wisdom) and to the three trainings (śīla, samādhi, prajñā).
 
-### Planned Structure
+### Structure
 
-Eight parts, ~20 papers (the sealing volume favors concision over expansion):
+Eight parts, 20 papers (the sealing volume favors concision over expansion):
 
 - **Part I** Pāli Roots — *praṇidhāna* / *samādāna* / *pariṇāmanā* foundations · Sumedha's primal vow before Dīpaṃkara · *adhiṭṭhāna* and the non-regressing vow
 - **Part II** The Āgama View — *chanda* (wholesome desire) not *taṇhā* (craving) · the directed and the undirected (*paṇidhi*) in the Nikāyas

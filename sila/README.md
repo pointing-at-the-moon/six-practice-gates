@@ -11,7 +11,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1), [*The Practice of
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
 - **Status**: ✅ **Paper phase sealed 2026-06-03 — 30/30 (all 9 Parts complete)** · Part IX 現代診斷與日用 3/3 (封卷 P30 以戒為師／*The Precept as Teacher* landed 2026-06-03)
 
-### Planned Structure
+### Structure
 
 Nine parts, ~30 papers:
 

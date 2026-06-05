@@ -11,9 +11,9 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1). Where NIAN establ
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
 - **Status**: ✅ **Paper phase SEALED 2026-05-15 — 31/31 (all 9 Parts complete)** · Volume closer P31 走過之路 · Part IX triad (P29 modern-diagnosis + P30 AI 時代之施 + P31 全卷收束) · forward to SĪLA Volume 3
 
-### Planned Structure
+### Structure
 
-Nine parts, ~30 papers:
+Nine parts, 31 papers:
 
 - **Part 1** The semantics and roots of dāna
 - **Part 2** Dāna in the Āgamas
@@ -64,14 +64,14 @@ Nine parts, ~30 papers:
 - **P22** [常不輕菩薩身禮拜](./papers/part7_lotus_body/P22_常不輕菩薩身禮拜.md) / [Sadāparibhūta — The Offering of Reverence](./papers/part7_lotus_body/P22_sadaparibhuta-the-offering-of-reverence.md)
 - **P23** [藥王菩薩本事品之身命施詮釋危機](./papers/part7_lotus_body/P23_藥王菩薩本事品之身命施詮釋危機.md) / [Bhaiṣajyarāja's Self-Offering: A Hermeneutic Crisis](./papers/part7_lotus_body/P23_bhaisajyaraja-self-offering-hermeneutic-crisis.md)
 
-**Part 8 — The Avataṃsaka: dharmadhātu offering** (普賢主場 · 卷重心)
-- **P24** [歡喜地之施](./papers/part8_huayan_dharmadhatu/P24_歡喜地之施.md) / [The Joy of the First Ground](./papers/part8_huayan_dharmadhatu/P24_joy-of-the-first-ground.md) — Part VIII opener · 普賢主場 #1
-- **P25** [普賢廣修供養](./papers/part8_huayan_dharmadhatu/P25_普賢廣修供養.md) / [Samantabhadra's Vow of Vast Offerings](./papers/part8_huayan_dharmadhatu/P25_samantabhadra-vow-vast-offerings.md) — Part VIII #2 · 普賢主場 unfold · 五百年累積結晶
-- **P26** [諸供養中法供養為最](./papers/part8_huayan_dharmadhatu/P26_諸供養中法供養為最.md) / [The Highest of All Offerings](./papers/part8_huayan_dharmadhatu/P26_highest-of-all-offerings.md) — Part VIII #3 · 法供養 deep-dive · 教禪一致 explicit anchor
-- **P27** [善財五十三參](./papers/part8_huayan_dharmadhatu/P27_善財五十三參.md) / [Sudhana's Fifty-Three Teachers and the Giving Thread](./papers/part8_huayan_dharmadhatu/P27_sudhana-fifty-three-teachers-giving-thread.md) — Part VIII #4 · dāna-as-walk-through · polyphony chiasmus 結構
-- **P28** [入法界品作為施的最終形態](./papers/part8_huayan_dharmadhatu/P28_入法界品作為施的最終形態.md) / [Entering the Dharmadhātu through Giving](./papers/part8_huayan_dharmadhatu/P28_entering-the-dharmadhatu-through-giving.md) — Part VIII #5 · destination-move · 普賢主場 closer · 五部曲圓收
+**Part 8 — The Avataṃsaka: dharmadhātu offering**
+- **P24** [歡喜地之施](./papers/part8_huayan_dharmadhatu/P24_歡喜地之施.md) / [The Joy of the First Ground](./papers/part8_huayan_dharmadhatu/P24_joy-of-the-first-ground.md)
+- **P25** [普賢廣修供養](./papers/part8_huayan_dharmadhatu/P25_普賢廣修供養.md) / [Samantabhadra's Vow of Vast Offerings](./papers/part8_huayan_dharmadhatu/P25_samantabhadra-vow-vast-offerings.md)
+- **P26** [諸供養中法供養為最](./papers/part8_huayan_dharmadhatu/P26_諸供養中法供養為最.md) / [The Highest of All Offerings](./papers/part8_huayan_dharmadhatu/P26_highest-of-all-offerings.md)
+- **P27** [善財五十三參](./papers/part8_huayan_dharmadhatu/P27_善財五十三參.md) / [Sudhana's Fifty-Three Teachers and the Giving Thread](./papers/part8_huayan_dharmadhatu/P27_sudhana-fifty-three-teachers-giving-thread.md)
+- **P28** [入法界品作為施的最終形態](./papers/part8_huayan_dharmadhatu/P28_入法界品作為施的最終形態.md) / [Entering the Dharmadhātu through Giving](./papers/part8_huayan_dharmadhatu/P28_entering-the-dharmadhatu-through-giving.md)
 
 **Part 9 — Contemporary diagnosis and AI coda**
-- **P29** [現代診斷：七覺支喜輕安雙因子作為診斷工具](./papers/part9_modern_diagnosis/P29_現代診斷.md) / [Modern Diagnosis: Pīti + Passaddhi as Cross-Traditional Diagnostic Instrument](./papers/part9_modern_diagnosis/P29_modern-diagnosis.md) — Part IX opener · register pivot · 七覺支 喜+輕安 雙因子 cross-traditional diagnostic · 內生 critique 1300 年 recovery · 漢傳念佛 求-交易化 + 西方 mindfulness 工具化 雙案例
-- **P30** [AI 時代之施：增上緣、一念心力與隨喜之教證](./papers/part9_modern_diagnosis/P30_AI時代之施.md) / [Giving in the Age of AI: The Doctrinal Grounding of Adhipati-Pratyaya, Momentary Cetanā, and Anumodanā](./papers/part9_modern_diagnosis/P30_giving-in-the-age-of-ai.md) — Part IX #2 · AI 作為 adhipati-pratyaya doctrinal grounding · 一念 cetanā 教證 + 隨喜 mediated-giving warrant · 跨書系 polyphony with NIAN P30
-- **P31** [走過之路：全卷收束與下手處](./papers/part9_modern_diagnosis/P31_走過之路.md) / [What You Just Walked Through: The Volume's Close and the Place to Begin](./papers/part9_modern_diagnosis/P31_what-you-just-walked-through.md) — Part IX #3 · DĀNA volume closer · 30-anchor retrospective + bilingual pastoral closure · 漸次說法 anupubbi-kathā opening + 「檀為涅槃之初緣」 7-char volume-anchor · ✅ **DĀNA SEALED 31/31**
+- **P29** [現代診斷：七覺支喜輕安雙因子作為診斷工具](./papers/part9_modern_diagnosis/P29_現代診斷.md) / [Modern Diagnosis: Pīti + Passaddhi as Cross-Traditional Diagnostic Instrument](./papers/part9_modern_diagnosis/P29_modern-diagnosis.md)
+- **P30** [AI 時代之施：增上緣、一念心力與隨喜之教證](./papers/part9_modern_diagnosis/P30_AI時代之施.md) / [Giving in the Age of AI: The Doctrinal Grounding of Adhipati-Pratyaya, Momentary Cetanā, and Anumodanā](./papers/part9_modern_diagnosis/P30_giving-in-the-age-of-ai.md)
+- **P31** [走過之路：全卷收束與下手處](./papers/part9_modern_diagnosis/P31_走過之路.md) / [What You Just Walked Through: The Volume's Close and the Place to Begin](./papers/part9_modern_diagnosis/P31_what-you-just-walked-through.md)
