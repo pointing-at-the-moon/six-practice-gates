@@ -105,7 +105,7 @@ This paper does *not* draw on later Chinese Pure Land commentaries (Shandao, Yon
 
 ### 3.1 The semantic and attentional structure of *sati*
 
-The verbal root *√smṛ* in both Sanskrit and Pāli carries two mutually supportive senses: *to remember* and *to hold*. The first points backward — not letting what one already knows fall off the mind. The second points at the present — keeping the mind in place, not letting it slip. In the actual operation described in MN 10, these two senses converge: the practitioner walking, sitting, lying down, eating, drinking, *clearly knows what she is doing* (the present-tense activation of "remembering") *and this clear knowing does not lapse with changing circumstances* (the continuous operation of "holding").
+The verbal root *√smṛ* in both Sanskrit and Pāli carries two mutually supportive senses: *to remember* and *to hold*.[^9] The first points backward — not letting what one already knows fall off the mind. The second points at the present — keeping the mind in place, not letting it slip. In the actual operation described in MN 10, these two senses converge: the practitioner walking, sitting, lying down, eating, drinking, *clearly knows what she is doing* (the present-tense activation of "remembering") *and this clear knowing does not lapse with changing circumstances* (the continuous operation of "holding").
 
 The Western rendering of *sati* as *mindfulness* captures the "present-moment awareness" dimension. This was its real contribution. But it trims away two things.
 
@@ -117,7 +117,7 @@ These two trimmings, however, are not the main concern of this chapter. The conc
 
 ### 3.2 The semantic and attentional structure of *anussati*
 
-*Anussati* is formed from the prefix *anu-* joined to the root *√smṛ*. The prefix *anu-* in Sanskrit and Pāli carries the sense of *along, following, repeatedly*: *anu-gacchati* ("to follow after"), *anu-modanā* ("to rejoice with"), *anu-śāsana* ("to instruct in sequence"). When *anu-* combines with *smṛ*, the result is not "to remember once" but "to repeatedly adhere, along a specific object, through sustained recollection."
+*Anussati* is formed from the prefix *anu-* joined to the root *√smṛ*. The prefix *anu-* in Sanskrit and Pāli carries the sense of *along, following, repeatedly*: *anu-gacchati* ("to follow after"), *anu-modanā* ("to rejoice with")[^8], *anu-śāsana* ("to instruct in sequence"). When *anu-* combines with *smṛ*, the result is not "to remember once" but "to repeatedly adhere, along a specific object, through sustained recollection."
 
 The prefix itself tells the reader that *anussati*'s core action is not "to hold the present moment" but "to return, again and again, along a specific content."
 

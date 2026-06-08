@@ -50,7 +50,7 @@ After thirty-one papers, the essence of *niàn* has not changed. *Niàn* is *ni�
 
 ## I. The Origin of *Buddhānusmṛti* — From *Anussati* to *Niànfó*
 
-The starting point of the thirty-one papers was already laid down in P01.
+The starting point of the thirty-one papers was already laid down in P01.[^1]
 
 *Anussati* is not *sati*. It is not "a religious version of attention," not "a Buddhist version of mindfulness." It is one specific *caitta* (object-specific mental factor) with its own operative structure, its own object-domain, and its own effect-mechanism.
 
