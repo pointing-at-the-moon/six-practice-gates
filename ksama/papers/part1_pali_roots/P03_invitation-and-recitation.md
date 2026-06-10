@@ -156,7 +156,7 @@ And all of this is still only the *gate* of phenomenal repentance, not its summi
 
 [^17]: *Mahīśāsaka Vinaya* （《五分律》）， fascicle 19, no. 1421 ("the formal act of invitation is also called *uposatha*").
 
-[^18]: *Sūtra on the Fast* (《佛說齋經》, trans. Zhi Qian, Wu period), Taishō Tripiṭaka vol. 1, no. 0087 ("on the six fast-days of the month take the eight precepts … for a day and a night, like an arhat"); *Madhyama-āgama*, Fasting Sūtra (《中阿含經·持齋經》), fascicle 55, no. 0026 ("the noble eight-factored fast").
+[^18]: *Sūtra on the Fast* (《佛說齋經》, trans. Zhi Qian, Wu period), Taishō Tripiṭaka vol. 1, no. 0087 ("a disciple of the Way, on the six fast-days of the month, takes the eight precepts … keeping them for a full day and night, the mind like a true man" — "true man" being Zhi Qian's archaic rendering of "arhat"); *Madhyama-āgama*, Fasting Sūtra (《中阿含經·持齋經》), fascicle 55, no. 0026 ("the noble eight-factored fast").
 
 ---
 
