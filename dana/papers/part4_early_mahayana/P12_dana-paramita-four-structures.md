@@ -394,7 +394,7 @@ T1509 consistently uses "檀" rather than "施" throughout. This is Kumārajīva
 *Mahāyāna-sūtrālaṃkāra* 《大乘莊嚴經論》， by Asaṅga, translated by Prabhākaramitra, Tang, Taishō vol. 31, no. 1604.
 *Liù dù jí jīng* 《六度集經》， translated by Kāng Sēnghuì, Wu, ca. 251 CE, Taishō vol. 3, no. 152.
 *Mahāprajñāpāramitā-sūtra* 《大般若經》， translated by Xuanzang, Tang, ca. 660–663 CE, Taishō vols. 5–7, no. 220 (T0220, *juan* 571 = "T0220e").
-*Madhyamaka-śāstra* 《中觀論》， attributed to Nāgārjuna, Taishō vol. 30, no. 1577 (T1577).
+*Dazhangfu Lun* 《大丈夫論》， by the bodhisattva Devala, translated by Daotai, Northern Liang, Taishō vol. 30, no. 1577 (T1577).
 *Mahāyāna-saṃgraha* 《攝大乘論》， by Asaṅga, translated by Xuanzang, Taishō vol. 31, no. 1592 (T1592).
 *Púsà dìchí jīng* 《菩薩地持經》， translated by Kumārajīva, Later Qin, Taishō vol. 30, no. 1579.
 
@@ -416,7 +416,7 @@ Lamotte, Étienne. *Le Traité de la Grande Vertu de Sagesse de Nāgārjuna (Mah
 | *Mahāyāna-sūtrālaṃkāra* | 《大乘莊嚴經論》 *juan* 8 | T31 no. 1604 | Asaṅga / Prabhākaramitra |
 | *Liù dù jí* | 《六度集經》 | T03 no. 152 | Kāng Sēnghuì |
 | *Mahāprajñāpāramitā-sūtra* | 《大般若經》 *juan* 571 | T05–07 no. 220 | Xuanzang |
-| *Madhyamaka-śāstra* | 《中觀論》 | T30 no. 1577 | (attrib.) Nāgārjuna |
+| *Dazhangfu Lun* | 《大丈夫論》 | T30 no. 1577 | Devala, tr. Daotai |
 | *Mahāyāna-saṃgraha* | 《攝大乘論》 | T31 no. 1592 | Asaṅga / Xuanzang |
 | *Púsà dìchí jīng* | 《菩薩地持經》 | T30 no. 1579 | Kumārajīva |
 

@@ -32,7 +32,7 @@ license: "CC BY-NC-SA 4.0"
 
 「夫布施者若無般若波羅蜜多，但得施名非到彼岸，要由般若波羅蜜多乃得名為施到彼岸。」(T0220e *juan* 571.) This passage marks the pivot of the entire DĀNA volume: when *dāna* turns from *merit* (*puṇya*) into *pāramitā*, what changes is not the act but the **ontological condition** of the act. The paper argues that the core mechanism by which *dāna* becomes *dāna-pāramitā* is the intervention of *prajñā* (wisdom; the discernment of emptiness), which transmutes giving from "merit with the three wheels apprehended" (*trimaṇḍala-sahita*) into "pāramitā with the three wheels emptied" (*trimaṇḍala-śūnya*). The *Liù dù jí jīng* 《六度集經》 (T0152), translated by Kāng Sēnghuì at Wu around 251 CE, preserves the earliest extant systematic six-perfection framework in Chinese — its eight-fascicle "*X-dù-wújí*" 〈X度無極〉 sequence with *dāna* as the first chapter — and the extreme self-giving narratives of its jātaka collection furnish the narrative substance of fearlessness-giving (*abhayadāna*); yet its *dāna-pāramitā* chapter (〈布施度無極章〉) collects every variety of giving under a single category and never names *abhayadāna* as a distinct slot. The crystallization of this naming and the systematization of the six perfections begins with the *Dà zhìdù lùn* 《大智度論》 (T1509)'s distinction between giving *with apprehension* (*有所得*, *upalambha-yukta*) and giving *without apprehension* (*無所得*, *anupalambha-yukta*). The systemic interdependence of the six perfections (T1604: "the six perfections mutually complete each other") and the beggar-enablement thesis (T1577: "without a beggar, *dāna-pāramitā* cannot be fulfilled") together institute a double revolution: not only does the condition of giving change (*prajñā* intervenes), the power dynamic of giving is reversed (the beggar enables the perfection). The paper closes by handing off to P12: how is the structure of *trimaṇḍala-śūnya* systematically unfolded in Nāgārjuna's *dāna-pāramitā* chapter?
 
-**Keywords:** *dāna-pāramitā*, *prajñāpāramitā*, with-apprehension giving (*upalambha*), without-apprehension giving (*anupalambha*), *trimaṇḍala-śūnya*, three-wheel emptiness, six perfections, *ṣaṭ-pāramitā*, *Liù dù jí jīng*, *Dà zhìdù lùn*, *Mahāyāna-sūtrālaṃkāra*, beggar-enablement, *yācaka*, mutual completion of the six perfections, paradigm shift, T0152 *dāna-pāramitā* chapter, T1509 *dāna-pāramitā* chapter, T0220e *Mahāprajñāpāramitā-sūtra*, T1577 *Mūla-madhyamaka-kārikā*, T1604 *Mahāyāna-sūtrālaṃkāra*, T1592 *Mahāyāna-saṃgraha*, T0125 *Ekottara-āgama*, three-wheels-apprehended, three-wheels-emptied, *prajñā*, *śūnyatā*, *pāramitā*, *dù-wújí* (ferrying-without-limit), jātaka narrative, *yācaka* (beggar), 〈檀度無極章〉, carryover from P10 *abhayadāna* triad, forward-pointer to P12 on *trimaṇḍala-śūnya*.
+**Keywords:** *dāna-pāramitā*, *prajñāpāramitā*, with-apprehension giving (*upalambha*), without-apprehension giving (*anupalambha*), *trimaṇḍala-śūnya*, three-wheel emptiness, six perfections, *ṣaṭ-pāramitā*, *Liù dù jí jīng*, *Dà zhìdù lùn*, *Mahāyāna-sūtrālaṃkāra*, beggar-enablement, *yācaka*, mutual completion of the six perfections, paradigm shift, T0152 *dāna-pāramitā* chapter, T1509 *dāna-pāramitā* chapter, T0220e *Mahāprajñāpāramitā-sūtra*, T1577 *Dazhangfu Lun*, T1604 *Mahāyāna-sūtrālaṃkāra*, T1592 *Mahāyāna-saṃgraha*, T0125 *Ekottara-āgama*, three-wheels-apprehended, three-wheels-emptied, *prajñā*, *śūnyatā*, *pāramitā*, *dù-wújí* (ferrying-without-limit), jātaka narrative, *yācaka* (beggar), 〈檀度無極章〉, carryover from P10 *abhayadāna* triad, forward-pointer to P12 on *trimaṇḍala-śūnya*.
 
 ---
 
@@ -98,7 +98,7 @@ But the chain is not linear. T1604's four senses — mutual inclusion (相攝), 
 
 ### 2.4 The Reversal of Power — T1577's Beggar-Enablement Thesis
 
-The *Madhyamaka-śāstra* 《中觀論》 (T1577, attributed to Nāgārjuna) at *juan* 1 furnishes the most dramatic reversal of the power relation of giving:
+The *Dazhangfu Lun* 《大丈夫論》 (*Treatise on the Great Man*, T1577, by the bodhisattva Devala, tr. Daotai) at *juan* 1, in the chapter "The Growth of the Donor and the Beggar," furnishes the most dramatic reversal of the power relation of giving:
 
 > 「若無乞者，檀波羅蜜則不滿足，無上菩提則不可得，是故於乞求者深生悲惱。」[^11]
 >
@@ -240,7 +240,7 @@ T1509 is not the product of a single author. P11 should not attribute the "with-
 
 [^10]: T1604's four senses: mutual inclusion (相攝), differentiation (差別), scriptural ground (依法), causation (為因). See the foregoing citation.
 
-[^11]: *Madhyamaka-śāstra* 《中觀論》 T1577, *juan* 1.
+[^11]: *Dazhangfu Lun* 《大丈夫論》 T1577, *juan* 1, "The Growth of the Donor and the Beggar" chapter; T30n1577, 0258c14–16.
 
 [^12]: *Ekottara-āgama* 《增一阿含經》 T0125, *juan* 19.
 
@@ -284,7 +284,7 @@ T1509 is not the product of a single author. P11 should not attribute the "with-
 *Ekottara-āgama* 《增一阿含經》， translated by Gautama Saṅghadeva, Eastern Jin, ca. 398 CE, Taishō vol. 2, no. 125.
 *Liù dù jí jīng* 《六度集經》， translated by Kāng Sēnghuì, Wu, ca. 251 CE, Taishō vol. 3, no. 152.
 *Dà zhìdù lùn* 《大智度論》， composed by Nāgārjuna, translated by Kumārajīva, Later Qin, ca. 404–406 CE, Taishō vol. 25, no. 1509.
-*Madhyamaka-śāstra* 《中觀論》， attributed to Nāgārjuna, Taishō vol. 30, no. 1577.
+*Dazhangfu Lun* 《大丈夫論》， by the bodhisattva Devala, translated by Daotai, Northern Liang, Taishō vol. 30, no. 1577.
 *Mahāyāna-saṃgraha* 《攝大乘論》， by Asaṅga, translated by Xuanzang, Taishō vol. 31, no. 1592.
 *Mahāyāna-sūtrālaṃkāra* 《大乘莊嚴經論》， by Asaṅga, translated by Prabhākaramitra (and others), Taishō vol. 31, no. 1604.
 *Majjhima Nikāya* 142, *Dakkhiṇāvibhaṅgasutta*, PTS edition.
@@ -307,7 +307,7 @@ Nattier, Jan. *A Few Good Men: The Bodhisattva Path according to The Inquiry of 
 | *Liù dù jí* | *Liù dù jí jīng* 《六度集經》 | T03 no. 152 | Kāng Sēnghuì |
 | *Mahāprajñāpāramitā-sūtra* | 《大般若波羅蜜多經》 *juan* 571 | T05–07 no. 220 | Xuanzang |
 | *Dà zhìdù lùn* | 《大智度論》 *juan* 60 | T25 no. 1509 | Nāgārjuna / Kumārajīva |
-| *Madhyamaka-śāstra* | 《中觀論》 *juan* 1 | T30 no. 1577 | (attrib.) Nāgārjuna |
+| *Dazhangfu Lun* | 《大丈夫論》 *juan* 1 | T30 no. 1577 | Devala, tr. Daotai |
 | *Mahāyāna-saṃgraha* | 《攝大乘論》 | T31 no. 1592 | Asaṅga / Xuanzang |
 | *Mahāyāna-sūtrālaṃkāra* | 《大乘莊嚴經論》 *juan* 8 | T31 no. 1604 | Asaṅga / Prabhākaramitra |
 
