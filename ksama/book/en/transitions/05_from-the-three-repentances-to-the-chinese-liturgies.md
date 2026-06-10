@@ -8,7 +8,7 @@ By now we hold a map — the three repentances: procedural, sign-based, non-aris
 
 But a map, in the end, is a map.
 
-Zhiyi speaks of sign-based repentance — of "seeing, within a stilled mind, various signs," of "taking the arising of a sign as its term" — but how to sit, how to contemplate, how to bow, how to carry the repentance through step by step — he says himself: "let the practitioner seek the sūtras for himself and act by the text." The operation he handed on to the scriptures, and to those who came after.
+Zhiyi speaks of sign-based repentance — of "seeing, within a stilled mind, various signs" — the phrase "taking the arising of a sign as its term" is the later summation of Master Zhili — but how to sit, how to contemplate, how to bow, how to carry the repentance through step by step — he says himself: "let the practitioner seek the sūtras for himself and act by the text." The operation he handed on to the scriptures, and to those who came after.
 
 Did those who came after catch it?
 
@@ -30,4 +30,4 @@ That question misreads precisely the care that built the Chinese repentance rite
 
 What Part Six walks is these liturgies brought to ground. It looks not only at what the rites look like, but at why they look the way they do — how each of those seemingly elaborate steps holds up the practitioner's heart, step by step, from scatter toward concentration, from the phenomenal mark toward the contemplation of principle. Elaborateness is not their flaw; elaborateness is their skillful means.
 
-We turn this page, and begin with the largest of the liturgies, the one the most people bow through.
+We turn this page, and go first to see what a repentance rite actually looks like.
