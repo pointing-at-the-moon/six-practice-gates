@@ -49,6 +49,7 @@ PAPER_CANONICAL_CARD.md
 */book/*_PLAN.md
 */book/*_STYLE.md
 */book/_archive/
+*/_archive/
 # Per-part demotion intermediates (the whole-book notes/references/sutra-index ship; these don't)
 */book/*/back-matter/notes-part*.md
 */book/*/back-matter/references-part*.md
@@ -60,3 +61,4 @@ nian/NIAN_FORMAT_AUDIT_*.md
 nian/NIAN_PHASE_*.md
 nian/NIAN_REMEDIATION_*.md
 */book/*_ALIGNMENT.md
+*/_archive/
