@@ -90,8 +90,8 @@ The reader who wants to know how a term is written in the original, and what it 
 - **Upāli** — 優波離 — *Upāli* (Pā./Skt.) — Foremost in upholding the Vinaya, reciter of the Vinaya at the council; guardian of phenomenal repentance's foundation, and the one rebuked before Vimalakīrti precisely on his keeping of the Vinaya—phenomenal repentance was laid by him, and principial repentance summited on him.
 - **Ānanda** — 阿難 — *Ānanda* — At the council of the five hundred he disclosed, five times, faults he "did not see" as faults—cutting disclosure free of remorse.
 - **Sāriputta** — 舍利弗 — *Sāriputta* (Pā.) / *Śāriputra* (Skt.) — On the night of the invitation, he rose before the Buddha and asked the Buddha, in turn, to raise his faults.
-- **Mahākassapa** — 大迦葉 — *Mahākassapa* (Pā.) — Raised the fault of the two bhikkhus Bhaṇḍa and Ābhiñjika, who contended over their learning.
-- **Mahāmoggallāna** — 目連（大目乾連） — *Mahāmoggallāna* (Pā.) — Entering concentration and surveying the whole assembly, he seized the two impure bhikkhus, Assaji and Punabbasu, and led them out the door—only then did the Buddha recite the precepts.
+- **Mahākassapa** — 大迦葉 — *Mahākassapa* (Pā.) — Raised the fault of the two bhikkhus Bhaṇḍa and Abhiñjika, who contended over their learning.
+- **Mahāmoggallāna** — 目連（大目乾連） — *Mahāmoggallāna* (Pā.) — Entering concentration and surveying the whole assembly, he seized the two impure bhikkhus, Assaji and Punabbasuka, and led them out the door—only then did the Buddha recite the precepts.
 - **Rāhula** — 羅睺羅（羅云） — *Rāhula* — The Buddha's son; in the Hot Springs Grove at Rājagaha, the Buddha used a vessel of water to teach him disclosure and discarding.
 - **Pāṭaliya (the headman)** — 波羅牢（伽彌尼） — *Pāṭaliya* (*gāmaṇi*, village headman) — The headman among the Koliyans who, having offended the Buddha, repented in fear and trembling, and received the seal: "this is growth in the noble Dharma."
 - **Kassapagotta** — 迦葉氏 — *Kassapagotta* (Pā.) — In the forest at Paṅkadhā he felt a flash of intolerance at the Buddha's teaching on the precepts; remorse arose at once, and he followed Him all the way to the Jeta Grove to repent his fault.
@@ -99,7 +99,7 @@ The reader who wants to know how a term is written in the original, and what it 
 - **Bimbisāra** — 頻婆娑羅 — *Bimbisāra* — The king of Magadha who ruled by the Dharma, killed by his son, the crown prince Ajātasattu.
 - **Devadatta** — 提婆達兜（提婆達多） — *Devadatta* — Incited Ajātasattu to harm the Buddha and loosed the drunken elephant; with the five heinous offenses upon him he fell into Avīci for a kalpa, yet by one thought of "Namo" became, in the end, a pratyekabuddha—plain proof that the turn is "a lessening, not an erasure."
 - **Jīvaka** — 耆婆（壽命童子） — *Jīvaka* — The royal physician who led King Ajātasattu to the mango grove to see the Buddha.
-- **Ruciraketu (the bodhisattva)** — 信相（菩薩） — (in the *Sūtra of Golden Light*) — Dreamed of a golden drum, heard from within it the verses of repentance, and recited them before the Buddha—the originating image behind the wording of the Chinese repentance liturgies.
+- **Ruci (the bodhisattva)** — 信相（菩薩） — (in the *Sūtra of Golden Light*) — Dreamed of a golden drum, heard from within it the verses of repentance, and recited them before the Buddha—the originating image behind the wording of the Chinese repentance liturgies.
 - **Vimalakīrti** — 維摩詰 — *Vimalakīrti* (Skt.) — The householder who rebuked Upāli—"do not add to the offense of these two bhikkhus"—and laid bare that transgression is "neither within, nor without, nor in between," and that "one who knows this is called a keeper of the Vinaya."
 
 ### Patriarchs and Treatise Masters
