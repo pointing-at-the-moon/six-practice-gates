@@ -1,0 +1,17 @@
+# Part Six · The Chinese Repentance Liturgies · A Practice You Can Walk Into
+
+The previous part finished building the ladder of the three repentances — a map, a classification in doctrine. But a map, in the end, is a map. Zhiyi taught sign-based repentance, taught the seeing, "within a stilled mind, of various signs"; yet as for how to sit, how to contemplate, how to carry the repentance through step by step, he himself said: "let the practitioner seek the sūtras for himself and act by the text." He handed the operation on to those who came after.
+
+And those who came after caught it. From the Southern and Northern Dynasties through the Sui and Tang and on into the Song, the patriarchs of China took these methods of contemplation scattered through the Mahāyāna sūtras and composed them into "repentance rites" one could actually practice by — with a fixed altar-space, a fixed sequence of homage, fixed chanting and visualization; from entering the altar to leaving it, follow along and the practice is done. The Liang Emperor's Jeweled Repentance, the Lotus Samādhi Repentance, the Great Compassion Repentance, the Compassionate Water Repentance (*Shui chan*)… the names so familiar to our ears came from just this.
+
+This part walks exactly there: into these repentance liturgies that came down to earth.
+
+Three chapters. The first sets up the shape of "repentance liturgy" as a genre — what a repentance rite looks like (the ten stages), what its heart is (the fivefold repentance), and the question that matters most: if the deepest repentance is that single inward thought, why make it into so vast and elaborate a liturgy? The second chapter walks into the first ritual arena — Zhiyi's *Lotus Samādhi Repentance Rite* — to see how an "inward" contemplative rite uses phenomenal acts to lead a person, step by step, up to the deepest door. The third walks into the other pole — the Liang Emperor's Jeweled Repentance — to see how an "outward" ceremonial rite lays the "I" out into the suffering of the beings of the six paths, dissolving the line of discrimination between foe and kin.
+
+This part has one thing to say plainly, head-on — the thing most easily misunderstood. These rites bow to a thousand Buddhas at a stretch, bind the altar and make offerings, run through the six periods of day and night; the scene is elaborate in the extreme. To an eye trained on efficiency, a thought comes easily: what is all this apparatus actually for? Repent cleanly in the mind and be done — why all this form?
+
+That thought misreads exactly what the Chinese repentance rites are for. Their doctrinal engine sits in a single sentence of Zhiyi's: the deepest repentance, that single inward thought, is the highest — and yet it is "subtle and hidden in the mind-principle, hard to open all at once": too fine, too hard; an ordinary person cannot climb to it in one move. And so one "mobilizes body and speech to aid the mental act" — the body and the mouth are marshaled too, and visible, doable prostration, circumambulation, and recitation are set to helping that subtle, hard-to-arouse thought. The liturgy is not repentance degenerated into form; it is precisely the compassion of operability: for that highest and hardest Dharma, it builds a scaffold that a person of flesh and blood can truly set foot on.
+
+Elaborateness is not its flaw; elaborateness is its expedient.
+
+We begin by looking at what, exactly, a repentance rite looks like.
