@@ -64,7 +64,7 @@ Begin with 懺. The point most easily missed is that the weight of 懺 does not 
 
 The Vinaya's account of the assassin's repentance states this most clearly. The man confesses *I was foolish, I was deluded, I was unskillful*, and asks to be borne with — *may you receive this, so that in future I may guard myself*; and the one who receives the repentance answers that, since the man can see the transgression as a transgression and make amends in accordance with the Dhamma, he is received. The text then names the whole process *growth in the discipline of the noble ones*: to see the transgression as a transgression, to make amends according to the Dhamma, to undertake restraint for the future — these three beats are precisely where the "growth" lies.[^1]
 
-The Chinese prototype of this passage is matched, with exact symmetry, in the *Pāyāsi*-parallel of the *Madhyama Āgama*:
+The Chinese prototype of this passage is matched, with exact symmetry, in the *Pāṭaliya*-parallel of the *Madhyama Āgama*:
 
 > 唯願瞿曇受我悔過，見罪發露，我悔過已，護不更作。……若有悔過，見罪發露，護不更作者，則長養聖法而無有失。[^2]
 
@@ -208,7 +208,7 @@ To end, a line of the Vinaya for the paper's signboard: **to disclose is ease; t
 
 [^1]: The assassin's repentance and the three-beat receiving: *Theravāda Vinaya, Cūḷavagga* VII (the assassin episode), Pali Text Society edition Vin ii 180. The Pāli three beats read *accayaṁ accayato disvā / yathādhammaṁ paṭikaroti / āyatiṁ saṁvaraṁ āpajjati = vuddhi ariyassa vinaye* ("having seen the transgression as a transgression, he makes amends according to the Dhamma and undertakes restraint for the future = growth in the discipline of the noble ones"). The English rendering follows the sense, not a word-for-word translation.
 
-[^2]: *Madhyama Āgama* (《中阿含經》), fascicle 4, *Pāyāsi-sūtra* (Karma-correspondence chapter), Taishō Tripiṭaka vol. 1, no. 0026. This three-beat — *seeing the offense and disclosing it, guarding against doing it again, nourishing the noble Dhamma* — is isomorphic with the Pāli three-beat of footnote [^1] and may be taken as its Chinese prototype.
+[^2]: *Madhyama Āgama* (《中阿含經》), fascicle 4, *Pāṭaliya-sūtra* (Karma-correspondence chapter), Taishō Tripiṭaka vol. 1, no. 0026. This three-beat — *seeing the offense and disclosing it, guarding against doing it again, nourishing the noble Dhamma* — is isomorphic with the Pāli three-beat of footnote [^1] and may be taken as its Chinese prototype.
 
 [^3]: The *receiving* side: *Madhyama Āgama* (《中阿含經》), fascicle 5 (Śāriputra-correspondence chapter), Taishō Tripiṭaka vol. 1, no. 0026.
 
@@ -245,7 +245,7 @@ To end, a line of the Vinaya for the paper's signboard: **to disclose is ease; t
 | *Theravāda Vinaya, Cūḷavagga* VII | Vin ii 180 | — | 懺 = the three-beat receiving (§2.1) |
 | *Theravāda Vinaya, Cūḷavagga* XI | Vin ii 288 | — | disclosure ≠ remorse (Ānanda's fivefold disclosure, §2.2) |
 | *Satipaṭṭhāna* family (MN 10 / DN 22) | — | — | *uddhacca-kukkucca* as hindrance (§2.3, §V) |
-| *Madhyama Āgama* fasc. 4, *Pāyāsi-sūtra* | Karma-correspondence chapter | vol. 1 No. 0026 | the Dhamma-conformable three-beat (§2.1, §III) |
+| *Madhyama Āgama* fasc. 4, *Pāṭaliya-sūtra* | Karma-correspondence chapter | vol. 1 No. 0026 | the Dhamma-conformable three-beat (§2.1, §III) |
 | *Madhyama Āgama* fasc. 5 | Śāriputra-correspondence chapter | vol. 1 No. 0026 | the receiving side (§2.1) |
 | *Saṃyukta Āgama* fasc. 21 / 30 / 41 | future arising of restraint-precepts | vol. 2 No. 0099 | the formative formula of phenomenal repentance (§III) |
 | *Saṃyukta Āgama* fasc. 47 | the law of burning | vol. 2 No. 0099 | the poisonous direction of remorse (§V) |
@@ -263,5 +263,5 @@ To end, a line of the Vinaya for the paper's signboard: **to disclose is ease; t
 *Paper:* KSAMA-P01 · *What Repentance Actually Means* · **KṢAMĀ · Part I · Pāli Roots · opener**
 *Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates (六行門) · KṢAMĀ · Part I · opener
 *License:* CC BY-NC-SA 4.0
-*CBETA collation:* Citations from the *Madhyama Āgama* (T0026 fasc. 4 *Pāyāsi-sūtra* / fasc. 5 Śāriputra-correspondence chapter), the *Saṃyukta Āgama* (T0099 fasc. 21 · 30 · 41 / fasc. 47 the law of burning / fasc. 26 the *uddhacca-kukkucca* hindrance), the *Dharmaguptaka Vinaya* (T1428 fasc. 35 · 36 · 37 · 38 · 45), the *Dharmaguptaka Bhikṣu Prātimokṣa* (T1429 fasc. 1), the *Dīrgha Āgama, Sāmaññaphala* (T0001 fasc. 17), the *Ekottarika Āgama* (T0125 fasc. 5), and the *Samantabhadra Contemplation Sūtra* (T0277 fasc. 1) verified against the CBETA Electronic Tripiṭaka 2024 edition. Pāli references follow the SuttaCentral Mahāsaṅgīti Tipiṭaka edition (*Cūḷavagga* VII = Vin ii 180 / *Cūḷavagga* XI = Vin ii 288; MN 10 / DN 22), with dual PTS numbering.
+*CBETA collation:* Citations from the *Madhyama Āgama* (T0026 fasc. 4 *Pāṭaliya-sūtra* / fasc. 5 Śāriputra-correspondence chapter), the *Saṃyukta Āgama* (T0099 fasc. 21 · 30 · 41 / fasc. 47 the law of burning / fasc. 26 the *uddhacca-kukkucca* hindrance), the *Dharmaguptaka Vinaya* (T1428 fasc. 35 · 36 · 37 · 38 · 45), the *Dharmaguptaka Bhikṣu Prātimokṣa* (T1429 fasc. 1), the *Dīrgha Āgama, Sāmaññaphala* (T0001 fasc. 17), the *Ekottarika Āgama* (T0125 fasc. 5), and the *Samantabhadra Contemplation Sūtra* (T0277 fasc. 1) verified against the CBETA Electronic Tripiṭaka 2024 edition. Pāli references follow the SuttaCentral Mahāsaṅgīti Tipiṭaka edition (*Cūḷavagga* VII = Vin ii 180 / *Cūḷavagga* XI = Vin ii 288; MN 10 / DN 22), with dual PTS numbering.
 *Repository:* https://github.com/pointing-at-the-moon/six-practice-gates
