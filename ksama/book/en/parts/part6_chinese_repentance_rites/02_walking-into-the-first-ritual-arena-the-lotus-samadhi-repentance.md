@@ -36,7 +36,7 @@ The seventh stage is where this rite truly beats. The moment it opens its mouth,
 
 The sentence is worth pausing on, because it is exceedingly easy to read backward.
 
-It is often misread as a climax of "emptiness" — as if Zhiyi meant, here, to dissolve sin into emptiness. The truth is exactly the opposite. This is a brake that Zhiyi presses down with his own hand at the very heart of the rite: emptiness is not grounds for skipping repentance; emptiness is, on the contrary, grounds for deeper repentance. "Though the nature of karma is empty, its fruits are not lost" — this is phenomenal repentance's understanding of itself; it is answering the question "then why, once things are empty, repent at all?", and the answer is: because the fruits are not lost, because remorse is the more keen. It runs in exactly the opposite direction from the repentance of non-arising in the final part, which lets repentance melt into emptiness. Here, phenomenal repentance is still the load-bearing wall.
+It is often misread as a climax of "emptiness" — as if Zhiyi meant, here, to dissolve sin into emptiness. The truth is exactly the opposite. This is a brake that Zhiyi presses down with his own hand at the very heart of the rite: emptiness is not grounds for skipping repentance; emptiness is, on the contrary, grounds for deeper repentance. "Though the nature of karma is empty, its fruits are not lost" — this is phenomenal repentance's understanding of itself; it is answering the question "then why, once things are empty, repent at all?", and the answer is: because the fruits are not lost, because remorse is the more keen. It runs in exactly the opposite direction from the repentance of non-arising in Part Seven, which lets repentance melt into emptiness. Here, phenomenal repentance is still the load-bearing wall.
 
 The main body of the repentance is the confession of the six faculties one by one: eye, ear, nose, tongue, body, mind — each faculty confessed in turn. Take the eye-faculty as the specimen and look at its texture: with utmost mind I repent; from countless lifetimes, the eye-faculty has coveted form after form… and now this sin of the eye is spoken out — "I dare not conceal it" — may the Buddhas and bodhisattvas wash it away with the dharma-water of the wisdom-eye, that all the grave sins of the eye-faculty be ultimately purified. The confession of each faculty closes on the same formula: "I confess this particular sin and dare not conceal it."
 
@@ -54,11 +54,11 @@ As for the tenth stage — contemplating the one true reality, the seated contem
 
 Not out of evasion — Zhiyi himself draws a line here. He says: practicing this way through the six periods of day and night is for teaching "novice bodhisattvas" — those who cannot yet enter deep samādhi; for them, one first uses phenomenal practices to subdue the mind and break the grave sins that obstruct the Way, so that body and mind become pure and they taste the savor of Dharma-joy; but one who would single-mindedly abide in stillness and enter deep samādhi must then "discard the foregoing practice" and rely directly on the Course of Ease and Bliss, constantly delighting in seated meditation.
 
-This passage is the spine of the whole rite, and the cleanest line between this chapter and the final part — and the line was drawn by Zhiyi's own hand.
+This passage is the spine of the whole rite, and the cleanest line between this chapter and Part Seven — and the line was drawn by Zhiyi's own hand.
 
 The phenomenal practices of the ten stages are a scaffold built for the novice who "cannot yet climb higher": it has flesh and blood, it can be walked, it extinguishes the grave sins that obstruct the Way, it lets one taste the savor of Dharma-joy. But from its very design it concedes that it will be surpassed — to enter that deepest door, this whole apparatus of phenomenal practice "must discard the foregoing practice." What that door opens onto is a state in which repentance at last dissolves, where there is no longer any mark of transgression left to repent.
 
-This chapter does not push that door. It keeps watch outside, leaves the name here, and waits for the final part to push it open.
+This chapter does not push that door. It keeps watch outside, leaves the name here, and waits for Part Seven to push it open.
 
 ### Walking On
 

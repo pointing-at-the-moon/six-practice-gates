@@ -10,7 +10,7 @@ The six-faculty repentance of the *Sūtra on the Contemplation of the Practice o
 
 ### Six Gates, Each with Its Layer of Frost
 
-At the close of the last chapter, the verse said "the host of transgressions are like frost and dew; the sun of wisdom can dissolve them." But the "frost and dew" is not one hazy mass of "transgressions." In this sūtra, the frost and dew are the frost gathered, each at its own gate, on the six sense faculties — eye, ear, nose, tongue, body, and mind.
+Earlier in this part, the verse said "the host of transgressions are like frost and dew; the sun of wisdom can dissolve them." But the "frost and dew" is not one hazy mass of "transgressions." In this sūtra, the frost and dew are the frost gathered, each at its own gate, on the six sense faculties — eye, ear, nose, tongue, body, and mind.
 
 The eye craves form, the ear chases sound, the nose clings to scent, the tongue makes verbal karma, the body does killing, stealing, and lust, the mind grasps on like a monkey that will not rest: each of the six faculties is a gate, and within each gate a layer of transgression-frost has gathered. What the six-faculty repentance does is precisely this: it takes "transgression has no own-being" — a claim that looks as though it could stand only in abstract thought — and sets it, one by one, into the body's six sense-gates.
 
