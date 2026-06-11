@@ -11,7 +11,7 @@ date: 2026-06
 author: "釋慧鏡 (Shi Huijing)"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
-series_zh: 六行門 · 卷三 戒
+series_zh: 六行門 · 卷四 戒
 part: VIII
 part_title: "Śūraṅgama, Lotus, Huayan: The Complete Precept"
 part_title_zh: 楞嚴法華華嚴的圓戒
@@ -71,13 +71,13 @@ The **sphere of action**, on its face, is phrased in wholly positive terms:
 
 > "If a bodhisattva-mahāsattva abides in the stage of patient endurance—gentle, agreeable, and not given to sudden violence, his mind also unstartled; and if again he does nothing toward the dharmas yet contemplates the dharmas in their true mark, neither acting nor discriminating—this is called the bodhisattva-mahāsattva's sphere of action."[^2]
 
-Abiding in patient endurance; contemplating the dharmas in their true mark—there is not one "not" here; it is all the positive content of "should abide in." Were the precept to stop here, that it is a practice-precept would be beyond dispute. The difficulty arises with the **sphere of intimacy**. Here the phrasing turns abruptly to the negative, a long string of "do not draw near":
+Abiding in patient endurance; contemplating the dharmas in their true mark—there is not one prohibitive "do not" here; it is all the positive content of "should abide in." Were the precept to stop here, that it is a practice-precept would be beyond dispute. The difficulty arises with the **sphere of intimacy**. Here the phrasing turns abruptly to the negative, a long string of "do not draw near":
 
 > "The bodhisattva-mahāsattva does not draw near to kings, princes, great ministers, or heads of office; does not draw near to the various heterodox wanderers, Brāhman ascetics, or Nirgranthas… nor again draw near to caṇḍālas… Yet should such persons come to him at times, he preaches the Dharma for them, with nothing hoped-for… He delights ever in sitting in meditation, in a quiet place gathering and disciplining his mind. Mañjuśrī! This is called the first sphere of intimacy."[^3]
 
 This string of "do not draw near" reads exactly like the prohibition-checklist of a restriction-precept. But two things must not be overlooked. First, this whole string of prohibitions is gathered *under* that single foregoing "should abide in"—it is not a separately erected master-list of prohibitions but the content *inside* the one positive mode, "abiding in the sphere of action and sphere of intimacy." Second, the list is immediately followed by an **escape clause**: "Yet should such persons come to him at times, he preaches the Dharma for them, with nothing hoped-for." This clause is decisive: if the very ones to be avoided do come before him, the bodhisattva still preaches the Dharma for them—only "with nothing hoped-for." Plainly, what is truly barred here is not the outward contact (contact made, he yet preaches) but the inward grasping—that "hoping-for." The object of restriction shifts from outer to inner, and the prohibition-checklist is thereby gathered into an inward discipline of the mind.
 
-The **second sphere of intimacy** is more purely positive still, with not one "not" remaining:
+The **second sphere of intimacy** is more purely positive still, with not one prohibitive "do not" remaining:
 
 > "Furthermore, the bodhisattva-mahāsattva contemplates that all dharmas are empty, their true mark—not inverted, not moving, not regressing, not turning, like empty space, without own-being… He delights always in contemplating such a mark of the dharmas. This is called the bodhisattva-mahāsattva's second sphere of intimacy."[^4]
 
@@ -216,4 +216,4 @@ As to the open question: the practice-precept disclosed by the "Chapter on Peace
 **Pointing at the Moon** ｜ Six Practice Gates · SĪLA 戒 ｜ CC BY-NC-SA 4.0
 Scriptural citations collated against the CBETA Electronic Tripiṭaka ｜ github.com/pointing-at-the-moon/six-practice-gates
 
-*Pointing at the Moon · The Six Practice Gates · Volume III SĪLA · Paper 26 · Part VIII #3 · June 2026*
+*Pointing at the Moon · The Six Practice Gates · Volume IV SĪLA · Paper 26 · Part VIII #3 · June 2026*

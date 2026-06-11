@@ -1,7 +1,7 @@
 ---
 title: "The Five Precepts and Their Canonical Scope: Cross-Layer Architecture from Āgama through Abhidharma to the Chinese Commentaries"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Six Practice Gates, Volume 3 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part II · The Āgama View"
+series: "Six Practice Gates, Volume 4 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part II · The Āgama View"
 series_short: "SILA"
 volume: 3
 paper_id: "SILA-P06"

@@ -4,7 +4,7 @@ subtitle: "Sīla's Social-Domain Effect Across Sutta, Abhidharma, and Vinaya-Com
 zh_title: "戒香"
 zh_subtitle: "道德氣息逆風而散之社會場域效應"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Six Practice Gates, Volume 3 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part II · The Āgama View"
+series: "Six Practice Gates, Volume 4 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part II · The Āgama View"
 series_short: "SILA"
 volume: 3
 paper_id: "SILA-P08"

@@ -4,7 +4,7 @@ subtitle: "Five Lay Precepts and Three Monastic Borrowings, One Day and One Nigh
 zh_title: "八關齋戒"
 zh_subtitle: "一日一夜暫時出家之週期回返機制"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Six Practice Gates, Volume 3 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part II · The Āgama View"
+series: "Six Practice Gates, Volume 4 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part II · The Āgama View"
 series_short: "SILA"
 volume: 3
 paper_id: "SILA-P07"

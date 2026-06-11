@@ -11,7 +11,7 @@ date: 2026-05-21
 author: "釋慧鏡 (Shi Huijing)"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
-series_zh: 六行門 · 卷三 戒
+series_zh: 六行門 · 卷四 戒
 part: IV
 part_title: The Mahāyāna Turn
 part_title_zh: 大乘之轉向
@@ -298,14 +298,14 @@ T1509 fascicles 13–14 are the master architectural treatment of *śīla-pāram
 
 ## Series Cross-References
 
-### Within Volume III SĪLA, preceding
+### Within Volume IV SĪLA, preceding
 
 - **SILA-P09** *The Architecture of the Pāṭimokkha* — the volume's foundational treatment of *śrāvaka* precept-architecture; the present paper's path-stage three-precept classification of T1509 (§2.3) shares structural continuity with the *prātimokṣa*-foundation established there.
 - **SILA-P10** *Three Vinaya Lineages in Conversation* — five-recension comparative *vinaya*-philology; the present paper does not engage *vinaya*-comparison and references it only at the level of shared precept-keeping foundation.
 - **SILA-P11** *Two Sangha Crises and the Mechanism of Boundary-Renegotiation* — the case-by-case attribution discipline (interpretive application vs. textual self-gloss) that the present paper applies is part of the same discipline-thread codified at P11.
 - **SILA-P12** *The Three-Body Architecture of Bodhisattva Sīla* — direct predecessor; the present paper's opening recapitulates P12's three-cluster framework and asks the question of how the bodhisattva precepts become a *pāramitā*. The attribution-mode continuity (Zhiyi-explicit in P12; T1509-self-glossing in P13) is identified as belonging to the same attribution-class.
 
-### Within Volume III SĪLA, forthcoming
+### Within Volume IV SĪLA, forthcoming
 
 - **SILA-P14** *The Bodhisattvabhūmi Chapter on Sīla* — direct successor; the *Yogācārabhūmi*'s nine-fold *śīla* taxonomy (T1579 fascicles 40–42) supplies the functional differentiation that complements the present paper's dual-anchor architectural treatment.
 - **SILA-P15** *The Yingluo Sūtra and the East Asian Receiving-Architecture* — three-cluster precepts in their Chinese reception and ordination-architecture; not engaged in the present paper.
@@ -333,4 +333,4 @@ T1509 fascicles 13–14 are the master architectural treatment of *śīla-pāram
 **License:** CC BY-NC-SA 4.0
 **Repository:** github.com/pointing-at-the-moon/six-practice-gates
 
-*Pointing at the Moon · The Six Practice Gates · Volume III SĪLA · Paper 13 · May 2026*
+*Pointing at the Moon · The Six Practice Gates · Volume IV SĪLA · Paper 13 · May 2026*

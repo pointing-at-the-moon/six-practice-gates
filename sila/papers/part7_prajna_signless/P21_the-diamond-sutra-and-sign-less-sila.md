@@ -11,7 +11,7 @@ date: 2026-05-29
 author: "釋慧鏡 (Shi Huijing)"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
-series_zh: 六行門 · 卷三 戒
+series_zh: 六行門 · 卷四 戒
 part: VII
 part_title: "Prajñā: Sign-less Precepts"
 part_title_zh: 般若無相戒
@@ -272,4 +272,4 @@ Where this paper argues to "keeping and breaking empty by nature" and "not raisi
 **Pointing at the Moon** ｜ Six Practice Gates · SĪLA 戒 ｜ CC BY-NC-SA 4.0
 Scriptural citations collated against the CBETA Electronic Tripiṭaka ｜ github.com/pointing-at-the-moon/six-practice-gates
 
-*Pointing at the Moon · The Six Practice Gates · Volume III SĪLA · Paper 21 · Part VII #1 · May 2026*
+*Pointing at the Moon · The Six Practice Gates · Volume IV SĪLA · Paper 21 · Part VII #1 · May 2026*

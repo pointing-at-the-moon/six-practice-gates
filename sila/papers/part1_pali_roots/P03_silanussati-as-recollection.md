@@ -1,7 +1,7 @@
 ---
 title: "Sīlānussati: Sīla as an Object of Recollection"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Six Practice Gates, Volume 3 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part I · Pāli Roots"
+series: "Six Practice Gates, Volume 4 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part I · Pāli Roots"
 series_short: "SILA"
 volume: 3
 paper_id: "SILA-P03"

@@ -1,7 +1,7 @@
 ---
 title: "Ariyakanta-sīla as the Fourth Sotāpattiyaṅga — A Reading of SĀ Sūtra 935"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Six Practice Gates, Volume 3 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part I · Pāli Roots"
+series: "Six Practice Gates, Volume 4 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part I · Pāli Roots"
 series_short: "SILA"
 volume: 3
 paper_id: "SILA-P02"
@@ -443,7 +443,7 @@ The paper points forward in three directions. P03 will take *sīlānussati* as i
 
 ### Volume Programmatic Relation
 
-The present paper is the second piece of Part I (Pāli Roots) of Volume 3 (SĪLA). It builds on P01's establishment of the three-axis distinction (*sīla* / *saṃvara* / *vinaya*) by entering more deeply into one specific instance — accomplishment in the noble ones' ethical conduct as a structural constituent of stream-entry. Subsequent papers of Part I will continue within the Pāli-Theravāda + Chinese-Āgama foundation; subsequent parts of the volume will turn to the Vinaya systems, the precept-substance discourse of East Asian Buddhism, the threefold pure precepts of the Mahāyāna, the vows of Bhaiṣajyaguru, and the sign-less precepts of the *prajñāpāramitā* tradition.
+The present paper is the second piece of Part I (Pāli Roots) of Volume 4 (SĪLA). It builds on P01's establishment of the three-axis distinction (*sīla* / *saṃvara* / *vinaya*) by entering more deeply into one specific instance — accomplishment in the noble ones' ethical conduct as a structural constituent of stream-entry. Subsequent papers of Part I will continue within the Pāli-Theravāda + Chinese-Āgama foundation; subsequent parts of the volume will turn to the Vinaya systems, the precept-substance discourse of East Asian Buddhism, the threefold pure precepts of the Mahāyāna, the vows of Bhaiṣajyaguru, and the sign-less precepts of the *prajñāpāramitā* tradition.
 
 ---
 

@@ -11,7 +11,7 @@ date: 2026-06
 author: 釋慧鏡 Shi Huijing
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
-series_zh: 六行門 · 卷三 戒
+series_zh: 六行門 · 卷四 戒
 part: VIII
 part_title: "Śūraṅgama, Lotus, Huayan: The Complete Precept"
 part_title_zh: 楞嚴法華華嚴的圓戒
@@ -229,7 +229,7 @@ Following this study's custom, this section marks several misreadings to be guar
 
 [^14]: "The offering of practising as taught" appears in the "Chapter on the Vows and Practices of Samantabhadra," *Avataṃsaka Sūtra* (40-fascicle recension), trans. Prajñā (Tang), Taishō vol. 10, no. T0293, fasc. 40 (p0845a04–06). The present paper takes only these few words as a joint; the full breadth of Samantabhadra's dharma-offering belongs to the sister papers and is not unfolded.
 
-[^15]: The positions of the three scholars in this section are summaries (paraphrases) of the main arguments of their works, not verbatim quotations; the "concord" and "distinction" with the present paper are drawn by this paper from their known positions, with specific chapters and page numbers to follow.
+[^15]: The positions of the three scholars in this section are summaries (paraphrases) of the main arguments of their works, not verbatim quotations; the "concord" and "distinction" with the present paper are drawn by this paper from their known positions. Citation is at the level of the works as wholes; no page-level pinpoint is claimed.
 
 [^16]: Dorji Wangchuk, *The Resolve to Become a Buddha: A Study of the Bodhicitta Concept in Indo-Tibetan Buddhism* (Tokyo: The International Institute for Buddhist Studies, Studia Philologica Buddhica, Monograph Series XXIII, 2007).
 
@@ -246,4 +246,4 @@ Scriptural citations collated against the CBETA Electronic Tripiṭaka ｜ githu
 
 *CBETA collation: all T-number citations in this paper — the Avataṃsaka-sūtra in 80 fascicles (T0279) and 60 fascicles (T0278), the *Daśabhūmika-sūtra* (T0286), Vasubandhu's *Daśabhūmika-vyākhyā* (T1522), and the Samantabhadra chapter of the 40-fascicle Avataṃsaka (T0293) — were collated against the CBETA Electronic Tripiṭaka (2024 revision).*
 
-*Pointing at the Moon · The Six Practice Gates · Volume III SĪLA · Paper 27 · Part VIII #4 · June 2026*
+*Pointing at the Moon · The Six Practice Gates · Volume IV SĪLA · Paper 27 · Part VIII #4 · June 2026*

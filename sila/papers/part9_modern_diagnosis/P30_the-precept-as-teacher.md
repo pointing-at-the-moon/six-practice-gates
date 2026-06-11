@@ -11,7 +11,7 @@ date: 2026-06
 author: 釋慧鏡 Shi Huijing
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
-series_zh: 六行門 · 卷三 戒
+series_zh: 六行門 · 卷四 戒
 part: IX
 part_title: "Modern Diagnosis and Living Sīla"
 part_title_zh: 現代診斷與日用
@@ -203,4 +203,4 @@ Scriptural citations collated against the CBETA Electronic Tripiṭaka ｜ githu
 
 *CBETA collation: the Chinese canonical citation in this paper — the *Sūtra of the Buddha's Bequeathed Teaching* (*Fo yijiao jing* / 佛垂般涅槃略說教誡經, T0389: the precept as teacher, the arising of concentration grounded in the precept, and restraining the mind to one point) — was collated against the CBETA Electronic Tripiṭaka (2024 revision).*
 
-*Pointing at the Moon · The Six Practice Gates · Volume III SĪLA · Paper 30 · Part IX #3 · June 2026*
+*Pointing at the Moon · The Six Practice Gates · Volume IV SĪLA · Paper 30 · Part IX #3 · June 2026*

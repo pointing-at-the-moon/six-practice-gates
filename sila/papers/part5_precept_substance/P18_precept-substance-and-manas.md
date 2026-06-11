@@ -11,7 +11,7 @@ date: 2026-05-28
 author: "釋慧鏡 (Shi Huijing)"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
-series_zh: 六行門 · 卷三 戒
+series_zh: 六行門 · 卷四 戒
 part: V
 part_title: The Precept-Substance Studies
 part_title_zh: 戒體論
@@ -370,13 +370,13 @@ The question of the precept-substance — from early Buddhism, where no such ind
 
 ## Series Cross-References
 
-### Within Volume III SĪLA, preceding
+### Within Volume IV SĪLA, preceding
 
 - **SILA-P16** *Three Schools on the Nature of Precept-Substance* — the material / neither-form-nor-mind / seed trilemma is P16's main scene; this paper takes only the **third school (seed)** and gives its full Yogācāra ontology, and does *not* re-litigate the material (Sarvāstivāda) or neither-form-nor-mind (Satyasiddhi) schools (a "cf. P16" pointer suffices).
 - **SILA-P17** *Daoxuan's Vinaya Compendium as the Source* — P17 established that the *Xingshichao* houses the substance-received as a structural placement ("the substance-received = a seed perfumed into the store-consciousness"); this paper enters the *ontology* of that substance-received, and does *not* re-expand the receiving–following spine, the doctrinal-classification architecture, or the canonical-standard reception.
 - **SILA-P15** *Receiving as Gate* — the *bodhisattva-precept* receiving (the three grades of receiving, self-ordination, the auspicious sign) is a different register; this paper does not import it.
 
-### Within Volume III SĪLA, forthcoming
+### Within Volume IV SĪLA, forthcoming
 
 - **SILA-P19 / P20** (Part VI · Bhaiṣajyaguru, the supporting conditions) — the conditions of body, faculty, food, clothing, lifespan, gender, and social circumstance under which precept-keeping becomes *possible*; this paper closes by orienting the precept-substance toward the transformation of the basis, and Part VI asks what makes the keeping possible at all.
 
@@ -401,4 +401,4 @@ The question of the precept-substance — from early Buddhism, where no such ind
 **Pointing at the Moon** ｜ Six Practice Gates · SĪLA 戒 ｜ CC BY-NC-SA 4.0
 Scriptural citations collated against the CBETA Electronic Tripiṭaka ｜ github.com/pointing-at-the-moon/six-practice-gates
 
-*Pointing at the Moon · The Six Practice Gates · Volume III SĪLA · Paper 18 · Part V #3 · May 2026*
+*Pointing at the Moon · The Six Practice Gates · Volume IV SĪLA · Paper 18 · Part V #3 · May 2026*

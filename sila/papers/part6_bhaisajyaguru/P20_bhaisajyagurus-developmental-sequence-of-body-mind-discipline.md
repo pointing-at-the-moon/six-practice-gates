@@ -11,7 +11,7 @@ date: 2026-05-29
 author: "釋慧鏡 (Shi Huijing)"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
-series_zh: 六行門 · 卷三 戒
+series_zh: 六行門 · 卷四 戒
 part: VI
 part_title: "Bhaiṣajyaguru: Support Conditions for Sīla"
 part_title_zh: 藥師願力與戒的支持條件
@@ -220,7 +220,7 @@ From here, a look ahead. What this paper has treated is the **precondition** of 
 
 [^3]: The corresponding passages of the eighth vow across the three recensions show no collation variants; their differences are purely matters of translator diction (Dharmagupta's "transforming the woman's body into the marks of a man" → Xuanzang's "transformation from female to male" → Yijing's "transformed into a man," with the added "with utmost sincerity invoke it" and "in this very body"), not variant readings within a single manuscript.
 
-[^4]: Lingyao's *Direct Explanation of the Bhaiṣajyaguru Sūtra*, composed by the Tiantai bhikṣu Lingyao (Qing), collected in the Xuzangjing, X21 (i.e., X0381; not the like-numbered T12 document). The two tiers of depth are at p. 0611a20–23; the debate on the vow-order at p. 0610c23–24, and "a vow that does not rest on the truths is called a deranged vow" earlier on the same fascicle, p. 0610c.
+[^4]: Lingyao's *Direct Explanation of the Bhaiṣajyaguru Sūtra*, composed by the Tiantai bhikṣu Lingyao (Qing), *Xuzangjing* vol. 21, No. 0381. The two tiers of depth are at p. 0611a20–23; the debate on the vow-order at p. 0610c23–24, and "a vow that does not rest on the truths is called a deranged vow" earlier on the same fascicle, p. 0610c.
 
 [^5]: The two Dunhuang *Commentaries on the Bhaiṣajyaguru Sūtra* (T2766, T2767), both Dunhuang manuscripts and unattributed, collected in T85, belong to a recension prior to Xuanzang's translation (and so have no three-encompassing precepts and no sequence-language; their plainness is itself collateral evidence for the history of the recensions). T2767 reads the eighth vow as "transforming indeterminate karma into determinate-for-the-good karma" and connects it to rebirth; T2766 does not gloss the transformation-of-the-female passage at all.
 
@@ -277,4 +277,4 @@ All scriptural citations above have been collated against the CBETA Electronic T
 **Pointing at the Moon** ｜ Six Practice Gates · SĪLA 戒 ｜ CC BY-NC-SA 4.0
 Scriptural citations collated against the CBETA Electronic Tripiṭaka ｜ github.com/pointing-at-the-moon/six-practice-gates
 
-*Pointing at the Moon · The Six Practice Gates · Volume III SĪLA · Paper 20 · Part VI #2 · May 2026*
+*Pointing at the Moon · The Six Practice Gates · Volume IV SĪLA · Paper 20 · Part VI #2 · May 2026*

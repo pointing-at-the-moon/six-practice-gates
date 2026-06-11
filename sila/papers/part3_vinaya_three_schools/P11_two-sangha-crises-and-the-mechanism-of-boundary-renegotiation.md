@@ -360,4 +360,4 @@ A final note. Yijing's seventh-century recommendation — to verify by the *Vina
 **License:** CC BY-NC-SA 4.0
 **Repository:** github.com/pointing-at-the-moon/six-practice-gates
 
-*Pointing at the Moon · Six Practice Gates · Volume III SĪLA · Paper Eleven · May 2026*
+*Pointing at the Moon · Six Practice Gates · Volume IV SĪLA · Paper Eleven · May 2026*

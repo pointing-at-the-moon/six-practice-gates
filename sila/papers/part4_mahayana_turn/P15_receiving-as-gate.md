@@ -11,7 +11,7 @@ date: 2026-05-28
 author: "釋慧鏡 (Shi Huijing)"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
-series_zh: 六行門 · 卷三 戒
+series_zh: 六行門 · 卷四 戒
 part: IV
 part_title: The Mahāyāna Turn
 part_title_zh: 大乘之轉向
@@ -34,7 +34,7 @@ order_in_series: 75
 ---
 
 > 佛子！受戒有三種受：一者諸佛菩薩現在前受，得真實上品戒……三佛滅度後千里內無法師之時，應在諸佛菩薩形像前，胡跪合掌自誓受戒……是下品戒。佛子！是三攝受、三種受戒，過去佛已說、未來佛當說、現在佛今說。
-> *(Translator's rendering: "Sons of the Buddha! There are three kinds of receiving the precepts. First, receiving them in the present presence of the buddhas and bodhisattvas — this attains the true higher-grade precept … Third, when the buddhas and bodhisattvas have passed away and within a thousand* li *there is no preceptor, one should, before the images of the buddhas and bodhisattvas, kneel with palms joined and receive the precepts by self-vow … this is the lower-grade precept. Sons of the Buddha! These three receptions, these three kinds of precept-receiving, the past buddhas have already taught, the future buddhas will teach, and the present buddhas now teach.")*
+> *(Translator's rendering: "Sons of the Buddha! There are three kinds of receiving the precepts. First, receiving them in the present presence of the buddhas and bodhisattvas — this attains the true higher-grade precept … Third, when the buddhas have passed away and within a thousand* li *there is no preceptor, one should, before the images of the buddhas and bodhisattvas, kneel with palms joined and receive the precepts by self-vow … this is the lower-grade precept. Sons of the Buddha! These three receptions, these three kinds of precept-receiving, the past buddhas have already taught, the future buddhas will teach, and the present buddhas now teach.")*
 > — *Pusa yingluo benye jing* (*Yingluo Sūtra*), fascicle [下] (*Taishō* vol. 24, No. 1485, p. 1020c04–c14)
 
 ---
@@ -303,13 +303,13 @@ One thing must finally be set down affirmatively. The *Yingluo* and the *Brahmā
 
 ## Series Cross-References
 
-### Within Volume III SĪLA, preceding
+### Within Volume IV SĪLA, preceding
 
 - **SILA-P12** *The Three-Body Architecture of Bodhisattva Sīla* — the home subject for the detailed analysis of the *content* of the three clusters; the present paper takes only their name, order, and term-history as background, and does not restate the content of the three clusters.
 - **SILA-P14** *The Bodhisattvabhūmi Chapter on Śīla* — the home subject for the four qualities of *svabhāva-śīla* and the foremost quality, "reception from another"; the present paper makes "reception from another" the hinge of P14↔P15 (§3.4).
 - (SILA-P13 *Nāgārjuna on Śīla-Pāramitā* — not cross-referenced here; a different axis.)
 
-### Within Volume III SĪLA, forthcoming
+### Within Volume IV SĪLA, forthcoming
 
 - **SILA-P16–P18** *The Precept-Substance Studies* — the home subject for the ontology of the precept-substance (form / mind / seed, the threefold debate) toward which the present paper's "mind as substance" only points; the ontological question is forward-referenced here (§3.3, and the open question of §VI).
 
@@ -331,4 +331,4 @@ One thing must finally be set down affirmatively. The *Yingluo* and the *Brahmā
 **License:** CC BY-NC-SA 4.0
 **Repository:** github.com/pointing-at-the-moon/six-practice-gates
 
-*Pointing at the Moon · The Six Practice Gates · Volume III SĪLA · Paper 15 · Part IV close · May 2026*
+*Pointing at the Moon · The Six Practice Gates · Volume IV SĪLA · Paper 15 · Part IV close · May 2026*

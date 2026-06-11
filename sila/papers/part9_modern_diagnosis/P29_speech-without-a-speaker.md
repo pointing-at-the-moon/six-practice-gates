@@ -11,7 +11,7 @@ date: 2026-06
 author: 釋慧鏡 Shi Huijing
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
-series_zh: 六行門 · 卷三 戒
+series_zh: 六行門 · 卷四 戒
 part: IX
 part_title: "Modern Diagnosis and Living Sīla"
 part_title_zh: 現代診斷與日用
@@ -141,7 +141,7 @@ What this paper can do ends here: to point out for others the joint that has bee
 
 [^6]: The sense of the *binding undertaking* and the *precept-essence* is set out in detail in this volume's P15 and P16; the establishing of "it is volition that is karma" in P28.
 
-[^7]: Nicolas Bommarito, *Inner Virtue* (Oxford University Press, 2018). His account, holding the moral worth of an action to hang on inner intention and the objects of caring, is of a piece with "karma is volition"; yet it stops at the cultivation of inner character and does not single out the verbal-karmic joint of "volition congealing into speech." (Note: the §IV survey of the three interlocutors is a reconstruction from disciplinary memory; page numbers, titles, and years await verification against the originals before publication.)
+[^7]: Nicolas Bommarito, *Inner Virtue* (Oxford University Press, 2018). His account, holding the moral worth of an action to hang on inner intention and the objects of caring, is of a piece with "karma is volition"; yet it stops at the cultivation of inner character and does not single out the verbal-karmic joint of "volition congealing into speech." (Note: the §IV survey of the three interlocutors is a paraphrase-level reconstruction from disciplinary memory, not verbatim quotation; citation is at the level of the works as wholes, and no page-level pinpoint is claimed.)
 
 [^8]: Roy Tzohar, *A Yogācāra Buddhist Theory of Metaphor* (Oxford University Press, 2018). His argument that all language is conventional designation (*upacāra*), with no one-to-one correspondence between word and referent; yet the gap he reveals lies on the side of *reference*, not on the side of *intention*.
 
@@ -162,4 +162,4 @@ Scriptural citations collated against the CBETA Electronic Tripiṭaka ｜ githu
 
 *CBETA collation: the Chinese canonical citations in this paper — the *Mahāprajñāpāramitā-śāstra* (*Dazhidu lun*, T1509, the four conditions of false speech), the *Abhidharmakośa* (T1558, vocal intimation and the four natural offenses) with Paramārtha's *Kośa* commentary (T1559), the *Yogācārabhūmi* (T1579, the bodhisattva exception), the *Daśakuśalakarmapatha-sūtra* (T0600, the fruit of abstaining from false speech), the *Dharmaguptaka Vinaya* (T1428) and the *Mūlasarvāstivāda Vinaya* (T1442, the great-lie precept) — were collated against the CBETA Electronic Tripiṭaka (2024 revision).*
 
-*Pointing at the Moon · The Six Practice Gates · Volume III SĪLA · Paper 29 · Part IX #2 · June 2026*
+*Pointing at the Moon · The Six Practice Gates · Volume IV SĪLA · Paper 29 · Part IX #2 · June 2026*

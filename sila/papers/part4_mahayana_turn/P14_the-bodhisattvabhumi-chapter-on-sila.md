@@ -11,7 +11,7 @@ date: 2026-05-28
 author: "釋慧鏡 (Shi Huijing)"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
-series_zh: 六行門 · 卷三 戒
+series_zh: 六行門 · 卷四 戒
 part: IV
 part_title: The Mahāyāna Turn
 part_title_zh: 大乘之轉向
@@ -260,12 +260,12 @@ A closing image. The tenth mode of *pariśuddhi-śīla*, "no loss of what was fi
 
 ## Series Cross-References
 
-### Within Volume III SĪLA, preceding
+### Within Volume IV SĪLA, preceding
 
 - **SILA-P12** *The Three-Body Architecture of Bodhisattva Sīla* — the three-cluster is P12's home subject; the present paper shows it as the nested module of the nine's second member, *sarva-śīla*, and shares the very same hinge sentence (T1581 p0918b01–06). The three-cluster's content and its mapping onto Zhiyi's three bodies are treated there and not restated here.
 - **SILA-P13** *Nāgārjuna on Śīla-Pāramitā* — direct predecessor; P13's *prajñā* deconstruction (the emptying of the marks through *anupalabdhi*) and the present paper's Yogācāra construction (the enumeration of the marks through the nine-fold) form a contrastive axis. P13 uses Kumārajīva's abbreviated 「尸羅波羅蜜」; the present paper uses Xuanzang's full 「戒波羅蜜多」.
 
-### Within Volume III SĪLA, forthcoming
+### Within Volume IV SĪLA, forthcoming
 
 - **SILA-P15** *The Yingluo Sūtra and the East Asian Receiving-Architecture* — direct successor; how the nine-fold / three-cluster lands in China as the prototype of an ordination liturgy (the open question on which the present paper closes).
 - **SILA-P16–P18** *The Precept-Substance Studies* — the precept-substance (戒體) dimension of *svabhāva-śīla*'s "reception from another" is deliberately *not* opened in the present paper; it is reserved for these dedicated papers.
@@ -274,7 +274,7 @@ A closing image. The tenth mode of *pariśuddhi-śīla*, "no loss of what was fi
 ### Cross-paper recurring anchors
 
 - The *Abhidharmasamuccaya-vyākhyā*'s deferral to the *Bodhisattvabhūmi* (T1606 p0750c09) — the same line used in SILA-P12.
-- The *catu-pārisuddhi-sīla* (Visuddhimagga I) — the Pāli baseline recurring across Volume III's Part I.
+- The *catu-pārisuddhi-sīla* (Visuddhimagga I) — the Pāli baseline recurring across Volume IV's Part I.
 
 ### Cross-volume polyphonic anchors
 
@@ -289,4 +289,4 @@ A closing image. The tenth mode of *pariśuddhi-śīla*, "no loss of what was fi
 **License:** CC BY-NC-SA 4.0
 **Repository:** github.com/pointing-at-the-moon/six-practice-gates
 
-*Pointing at the Moon · The Six Practice Gates · Volume III SĪLA · Paper 14 · May 2026*
+*Pointing at the Moon · The Six Practice Gates · Volume IV SĪLA · Paper 14 · May 2026*

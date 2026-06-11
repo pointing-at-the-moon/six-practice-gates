@@ -11,7 +11,7 @@ date: 2026-06
 author: 釋慧鏡 Shi Huijing
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
-series_zh: 六行門 · 卷三 戒
+series_zh: 六行門 · 卷四 戒
 part: IX
 part_title: "Modern Diagnosis and Living Sīla"
 part_title_zh: 現代診斷與日用
@@ -160,15 +160,15 @@ Two open directions are left at the last. First, the therapeutic dissolution of 
 
 [^6]: The First-Council history of "the minor and lesser precepts may be surrendered" has its own collation and mechanism papers in this volume; the distinction of the two keepings (restraining and performing) has its own dedicated paper. The raft simile appears in the *Madhyama-āgama*, the *Ariṣṭa-sūtra* (Taishō vol. 1, no. T0026, sūtra 200). All three are taken here as diagnostic cross-references; their history and detail are not re-argued.
 
-[^7]: Ann Gleig, *American Dharma: Buddhism Beyond Modernity* (New Haven: Yale University Press, 2019). (The book is itself a response to "Buddhist modernism" as argued in the McMahan line, so its fresh ethnographic evidence may be borrowed without separately re-establishing the latter. Chapter and page numbers to follow.)
+[^7]: Ann Gleig, *American Dharma: Buddhism Beyond Modernity* (New Haven: Yale University Press, 2019). (The book is itself a response to "Buddhist modernism" as argued in the McMahan line, so its fresh ethnographic evidence may be borrowed without separately re-establishing the latter. Cited at the level of the work as a whole; no page-level pinpoint is claimed.)
 
-[^8]: Wakoh Shannon Hickey, *Mind Cure: How Meditation Became Medicine* (New York: Oxford University Press, 2019). Chapter and page numbers to follow.
+[^8]: Wakoh Shannon Hickey, *Mind Cure: How Meditation Became Medicine* (New York: Oxford University Press, 2019). Cited at the level of the work as a whole; no page-level pinpoint is claimed.
 
 [^9]: Natalie Quli, "Western Self, Asian Other: Modernity, Authenticity, and Nostalgia for 'Tradition' in Buddhist Studies," *Journal of Buddhist Ethics* 16 (2009): 1–38.
 
-[^10]: Yifa, *The Origins of Buddhist Monastic Codes in China* (Honolulu: University of Hawai'i Press, 2002). Chapter and page numbers to follow.
+[^10]: Yifa, *The Origins of Buddhist Monastic Codes in China* (Honolulu: University of Hawai'i Press, 2002). Cited at the level of the work as a whole; no page-level pinpoint is claimed.
 
-[^11]: T. Griffith Foulk, "Myth, Ritual, and Monastic Practice in Sung Ch'an Buddhism," in *Religion and Society in T'ang and Sung China*, ed. Patricia Buckley Ebrey and Peter N. Gregory (Honolulu: University of Hawai'i Press, 1993). Chapter and page numbers to follow.
+[^11]: T. Griffith Foulk, "Myth, Ritual, and Monastic Practice in Sung Ch'an Buddhism," in *Religion and Society in T'ang and Sung China*, ed. Patricia Buckley Ebrey and Peter N. Gregory (Honolulu: University of Hawai'i Press, 1993). Cited at the level of the work as a whole; no page-level pinpoint is claimed.
 
 [^12]: Richard M. Jaffe, "Meiji Religious Policy, Sōtō Zen, and the Clerical Marriage Problem," *Japanese Journal of Religious Studies* 25, no. 1–2 (1998). (This JJRS 1998 article is the anchor for the precept-relaxation point; the monograph title is not to be substituted here.)
 
@@ -185,4 +185,4 @@ Scriptural citations collated against the CBETA Electronic Tripiṭaka ｜ githu
 
 *CBETA collation: the Chinese canonical citations in this paper — the *Mahīśāsaka Vinaya* (*Wufen lü*, T1421, the regional-adaptation passage) and the *Madhyama-āgama* *Ariṣṭa-sūtra* (T0026, the raft simile) — were collated against the CBETA Electronic Tripiṭaka (2024 revision).*
 
-*Pointing at the Moon · The Six Practice Gates · Volume III SĪLA · Paper 28 · Part IX #1 · June 2026*
+*Pointing at the Moon · The Six Practice Gates · Volume IV SĪLA · Paper 28 · Part IX #1 · June 2026*
