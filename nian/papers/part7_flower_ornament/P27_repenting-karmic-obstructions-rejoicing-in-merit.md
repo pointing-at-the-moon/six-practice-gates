@@ -82,7 +82,7 @@ Jizang's *Madhyamaka-śāstra Sub-Commentary* (T1824 / T1827) fascicle one cites
 
 ## III. Core Argument
 
-### III.1 Closure-Formula Isomorphism and the Dyadic Structure of the Karma Dyad
+### 3.1 Closure-Formula Isomorphism and the Dyadic Structure of the Karma Dyad
 
 The closure formula at the end of vow four reads:
 
@@ -117,7 +117,7 @@ The dyadic pairing is not a later commentarial imposition. The verse-section's t
 
 The verse-text of the *sūtra* itself binds the two vows internally within a single composite stanza. This same stanza further reveals the seven-branch worship's Chinese configuration in *embryonic* form (reverencing, praising, offering, requesting-abiding, requesting-turning-the-wheel, rejoicing-along-and-repenting, dedicating); it also confirms that **Samantabhadra's ten great vows are the Mahāyāna-Huayan amplification of the seven-branch worship lineage**. Vows four and five are the third and fourth branches. §III.4 below will trace this lineage back through Nāgārjuna's *Mahāprajñāpāramitā-śāstra* fascicle sixty-one as the Indic-treatise root.
 
-### III.2 Vow Four: Repenting Karmic Obstructions
+### 3.2 Vow Four: Repenting Karmic Obstructions
 
 Vow four's main exposition in T0293 fascicle forty develops in a three-tier causal chain, beginning from *the bodhisattva's reflection on unwholesome deeds done since beginningless kalpas*:
 
@@ -154,7 +154,7 @@ The unfolding of the seven minds is: (1) *shame and repugnance* — self-judgeme
 
 A philological detail must be flagged here. T0293 fascicle forty's chapter list has *chànhuǐ yèzhàng* 懺悔業障 (*repenting karmic obstructions*), but vow four's main exposition opening reads *yán chàn-chú yèzhàng zhě* 言懺除業障者 (*as to the meaning of extinguishing-and-repenting karmic obstructions*). The same translation (Prajña, 798 CE), single fascicle, the translator's deliberate dual usage: *huǐ* names the inner-mental turn (*repent with sincerity, not committing such deeds again*), *chú* names the function (*the obstruction of karma being extinguished*). The CBETA XML and the *Taishō* base text agree here; this is not a textual-critical anomaly. The doubled use of *repenting* and *extinguishing* will be picked up again in §V.1 below as part of the sūtra-layer-versus-treatise-layer terminology drift around *karmic obstruction*.
 
-### III.3 Vow Five: Rejoicing in Merit
+### 3.3 Vow Five: Rejoicing in Merit
 
 Before turning to vow five's main exposition, a philological hard-anchor must be set. The Pāli equivalent of *rejoicing in merit* is *anumodanā* (*anu-mud-*, *rejoicing-along*) — and not *muditā* (sympathetic joy, the third of the four immeasurables), and not *kataññū* (gratitude / recognition of kindness), and not *pattidāna* (giving the merit one has gained). The four terms have distinct etymologies and distinct doctrinal-canonical loci:
 
@@ -208,7 +208,7 @@ The phrase *self and others are not two* breaks open vow five's deeper doctrinal
 
 A final source-stratum observation must be added: the dyadic pairing of vow five with vow four — *rejoicing-along* paired with *repenting* — is not a Huayan-school innovation. The *Saddharmapuṇḍarīka-sūtra*'s *Chapter on the Merit of Rejoicing-Along* already exhibits the *minute-action, vast-merit* structure of rejoicing-along (the fifty-fold transmission passage: a single moment of rejoicing-along, transmitted through fifty intermediaries, yet the merit of the fiftieth recipient remains incalculable); Nāgārjuna's *Chapter on the Exposition of Rejoicing-Along and Dedication* in the *Mahāprajñāpāramitā-śāstra* fascicle sixty-one supplies the seven-branch worship's earliest configuration *and* the doctrinal exposition of rejoicing-along — the chapter's title (*Rejoicing-Along and Dedication*) itself signals rejoicing-along's systematic position in the Mahāyāna treatise layer. Samantabhadra's vow five is the fully-formed apex of this lineage.
 
-### III.4 The Karma Dyad in Three Frames (the Argument's Pivot)
+### 3.4 The Karma Dyad in Three Frames (the Argument's Pivot)
 
 The argument's pivot can now be stated: **vows four and five are not two isolated items in a list of ten meritorious deeds but an *isomorphic dyad* — the twin wings of karma practice — vow four operating as the *decrement-mechanism* on one's own karma (decrement of one's own karma); vow five operating as the *increment-mechanism* on the karma of others (increment of others' wholesome action); only when both wings turn together is karma actually transformed (*karma-transformation*).** This dyadic reading lands in three doctrinal frames.
 
@@ -234,7 +234,7 @@ The three frames cannot be collapsed onto a single side — and this is the prel
 
 But all three frames converge on a single conclusion: **repenting and rejoicing-along are the karma dyad's two-faced active treatment of karma — *the decrement of one's own karma* and *the receiving-in of others' wholesome action* are the twin wings of karma-transformation.** This is the argument's pivot, and the concrete articulation of the term *karma-transformation operator*.
 
-### III.5 Closure on the Chinese Ritual-Practice Side
+### 3.5 Closure on the Chinese Ritual-Practice Side
 
 The previous paper (P26) developed Shandao's three-karma-five-recollection-gateways correspondence as the daily six-period ritual schedule; the present paper does not re-deploy the three-karma mapping here, but instead takes the *fifth recollection-gateway*'s rejoicing segment alone as the Chinese-Pure-Land anchor for vow five, and then proceeds to the further Chinese-patriarchal articulations of the repentance-rejoicing dyad.
 
@@ -468,7 +468,7 @@ AN 8.36. *Puññakiriyavatthusutta*. Pali Text Society edition, *AN* IV 241-243.
 - Nāgārjuna. *Mahāprajñāpāramitā-śāstra* (T1509), fascicle 61 on rejoicing-and-dedication. Kumārajīva trans. *Taishō* vol. 25.
 - Dharmakṣema. *Suvarṇaprabhāsa-sūtra* (Golden Light Sūtra). T0663, *Taishō* vol. 16. 懺悔品.
 
-### III. Modern Scholarship
+### 3. Modern Scholarship
 
 Heim, Maria. *Theories of the Gift in South Asia: Hindu, Buddhist, and Jain Reflections on Dāna*. New York: Routledge, 2004.
 

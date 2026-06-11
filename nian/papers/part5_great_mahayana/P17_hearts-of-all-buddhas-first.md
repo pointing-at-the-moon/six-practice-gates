@@ -60,7 +60,7 @@ The paper advances on three levels. **Level one** (§II): the canonical groundin
 
 This paper organizes its canonical grounding through a "five-anchor division of labor" across T0670, T0671, and T0672. Three primary anchors carry distinct thetic functions: T0670 at p.481c01-03 is the **ontological lock-in** of *hṛdaya*; T0672's *Kṣaṇika-parivarta* at p.619c01-620a09 is the **nonduality lock-in** of *tathāgatagarbhālayavijñāna*; T0671 at p.556c28-557a06 is the **triune lock-in** of Tathāgata-mind / *ālaya*-consciousness / *tathāgatagarbha*. After these three, two supplementary anchors — T0671's *Sagāthakam* verse "constantly recollecting suchness" as the sole non-mundane use of the recollection-verb within the *Laṅkā*, and T0672's *Chapter on the Constancy and Impermanence of the Tathāgata* verse "thus constantly contemplating the Buddha" as the only "contemplating-the-Buddha" phrase attested in any of the three recensions. Operating together, the five anchors supply a complete canonical foundation.
 
-### 2.1 T0670 "Hearts of All Buddhas First" — the *Hṛdaya* Ontological Lock-In
+### 2.1 The Four-Fascicle *Laṅkāvatāra*'s "Hearts of All Buddhas First" — the *Hṛdaya* Ontological Lock-In
 
 Early in fascicle one of T0670, within the *Chapter on the Heart of the Speech of All Buddhas, Part One* (*Yīqiè fó-yǔ xīn pǐn zhī yī* 一切佛語心品之一), Bodhisattva Mahāmati opens by presenting one hundred and eight questions, and the World-Honored One responds with a verse that gathers up the whole: "**Of all the gates of great-vehicle perfections, the hearts of all buddhas stand first**."[^5] This verse appears in all three recensions (T0671, p.520b12-15; T0672, p.592a05-07), but **T0670 preserves, directly beneath the verse, an interlinear gloss that is decisive**:
 
@@ -72,7 +72,7 @@ The philological case for this lock-in can be confirmed directly at the Sanskrit
 
 Once the lock-in is established, the structure of the object of buddha-recollection shifts fundamentally. If "the heart of all buddhas first" is read as *citta*, then buddha-recollection becomes "recollecting the deliberative activity of the buddhas" — the object is the stream of mind of another, and the shape of the act must be external invocation. If it is read as *hṛdaya*, then buddha-recollection becomes "recollecting the shared essence of all buddhas" — the object is the core substance of the buddhas, and in the reading of the Bodhidharma-line Chan tradition and its later Yogācāra adopters (see §2.3), this substance is identical, at the level of *hṛdaya*, with the practitioner's own *tathāgatagarbha* — so the shape of the act must be internal seeing-the-mind. **The transition of buddha-recollection from an outward to an inward act is structurally completed in this one-character lock-in on *hṛdaya*.**
 
-### 2.2 T0672 *Kṣaṇika-parivarta* — the Nonduality Anchor of *Tathāgatagarbhālayavijñāna*
+### 2.2 The Seven-Fascicle *Laṅkāvatāra*'s *Kṣaṇika-parivarta* — the Nonduality Anchor of *Tathāgatagarbhālayavijñāna*
 
 Śikṣānanda's seven-fascicle T0672 is the latest of the three recensions and the most editorially rigorous. In the opening prose of the *Kṣaṇika-parivarta* (the *Chapter on the Momentary*, *Chapter Six*), the Blessed One unfolds the relation between the *tathāgatagarbha* and the *ālaya-vijñāna* in the translation choice that most closely fits the Sanskrit compound *tathāgatagarbhālayavijñāna*:
 
@@ -84,7 +84,7 @@ The structural effect of this compound naming is direct: **once the object of bu
 
 One philological detail must be added here. The prose in T0672's *Kṣaṇika-parivarta* is immediately followed by a block of verses (p.620a11-16), beginning with the quatrain "The profound *tathāgatagarbha* / Arises together with the seven consciousnesses / When two dharmas are grasped, arising occurs / When known as they truly are, non-arising is seen." These four lines are citable here. However, the verse-couplet at p.620a15-16 ("like a fool who sees the finger pointing at the moon") and the "artisan troupe" verse at p.620a17-18 belong to **material reserved for the sister-series S5-P02 of the Eight-Part Cycle**, which this paper strictly avoids.[^11] The *Laṅkā*'s finger-pointing-at-the-moon trope appears in all three recensions (T0670, fascicle four, p.510c17; T0671, fascicle seven, p.557a20-21; T0672, fascicle five, p.620a15-16) and serves as one of the sources of this book-series' "pointing-at-the-moon" title. This paper cites only the T0671 passage (p.557a20-21) — "like a fool who sees the finger pointing at the moon, / who contemplates the finger and not the moon; / who clings to names and words / does not see my truth" (translation mine) — as a book-series self-reference; the parallel passages in T0670 and T0672 are likewise avoided.
 
-### 2.3 T0671 "Tathāgata-Mind / Ālaya-Consciousness / Tathāgatagarbha" — the Triune Thetic Anchor
+### 2.3 The Ten-Fascicle *Laṅkāvatāra*'s "Tathāgata-Mind / Ālaya-Consciousness / Tathāgatagarbha" — the Triune Thetic Anchor
 
 Bodhiruci's ten-fascicle T0671, in the *Chapter on Buddha-Nature, Chapter Eleven* (*Fó-xìng pǐn dì shíyī* 佛性品第十一), provides a three-term juxtaposition absent from T0672 and not given in this word-order by T0670:
 
@@ -98,7 +98,7 @@ This triune identification is confirmed in the *Sagāthakam* (the verse-appendix
 
 And at the close of the *Sagāthakam* (fascicle ten), the verse "**The mind's own nature is pure; the pure Dharma-body of the Tathāgata**"[^14] answers, at both ends of the text, the opening chapter's threefold equation — "**What is quiescent is called one mind; one mind is called the *tathāgatagarbha***"[^15] — so that T0671 singly, in three plain equations (quiescence = one-mind / one-mind = *tathāgatagarbha* / mind's-own-nature-pure = Tathāgata's-pure-Dharma-body), locks the whole sūtra's ontological thesis as "**own-mind = *tathāgatagarbha* = Dharma-body**." Within this structure, P17's turn from "buddha-recollection to mind-recollection" is not a hermeneutic overlay imposed by Bodhidharma or Daoxin; it is the reading invited by the *Laṅkā*'s own text.
 
-### 2.4 T0672 "Thus Constantly Contemplating the Buddha" — the Only "Contemplating-the-Buddha" Locution in the Three Recensions
+### 2.4 The Seven-Fascicle *Laṅkāvatāra*'s "Thus Constantly Contemplating the Buddha" — the Only "Contemplating-the-Buddha" Locution in the Three Recensions
 
 Across the three translations in their entirety, *niàn-fó*, *niàn-rúlái*, and *niàn-zhū-fó* are zero-hit; *yìniàn* appears in one non-mundane occurrence at T0671's *Sagāthakam* ("constantly recollecting suchness"), already flagged at §2.3. There is, however, one point in T0672's *Chapter on the Constancy and Impermanence of the Tathāgata, Chapter Five* (*Rúlái cháng wú-cháng pǐn dì wǔ* 如來常無常品第五), at p.619b19-24, where a verse contains the only use of **"contemplating-the-Buddha"** (*guān-fó* 觀佛) as a direct locution anywhere in the three recensions:
 
@@ -108,7 +108,7 @@ The structural weight of the verse is this: the *Laṅkā* contains, in this one
 
 The function of this verse in §III's "buddha-recollection ⇌ mind-contemplation nonduality" reading is that **the *Laṅkā* itself provides a direct demonstrative transition from "contemplating the Buddha" to "seeing only one's own mind"** — the act of contemplating the Buddha and the act of seeing only one's own mind are set in parallel, as two faces of one practice, within a single verse. Buddha-recollection (as an extended form of contemplating the Buddha) and mind-recollection (as an extended form of seeing only one's own mind) are, in the *Laṅkā*'s unique "contemplating-the-Buddha" locution, built into a single act.
 
-### 2.5 T0671 "Buddha-Mind Chapter Four" — A False-Friend Warning
+### 2.5 The Ten-Fascicle *Laṅkāvatāra*'s "Buddha-Mind Chapter Four" — A False-Friend Warning
 
 Fascicle two of T0671 contains a chapter titled **"Buddha-Mind, Chapter Four"** (*Fó-xīn pǐn dì sì* 佛心品第四). The title poses an immediate surface temptation to the reader familiar with the "hearts of all buddhas first" theme: without careful inspection, the reader will automatically read the chapter as "a dedicated exposition of the doctrine of the *hṛdaya*-of-all-buddhas in its positive form." Yet close reading of the chapter's actual content shows that **the "buddha-mind" of "Buddha-Mind Chapter Four" refers to the *manomaya-kāya* (the mind-made body) doctrine, not to the "hearts of all buddhas" *hṛdaya*.**[^17]
 

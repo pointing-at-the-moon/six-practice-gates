@@ -63,7 +63,7 @@ The task of this paper is to lift that fact into view, through the three-layered
 
 ## II. Scriptural Foundations
 
-### 2.1 T0365 and the Textual Skeleton of the Sixteen Contemplations
+### 2.1 The *Sūtra on the Contemplation of Amitāyus* and the Textual Skeleton of the Sixteen Contemplations
 
 T0365 opens in a scene of worldly defilement: at Rājagṛha, King Ajātaśatru has imprisoned his father and very nearly murdered his mother. Queen Vaidehī, confined, turns from afar to Vulture-Peak (*Gṛdhrakūṭa*) and petitions:
 
@@ -93,7 +93,7 @@ The formal contemplations are launched from: "You and all sentient beings should
 
 The circulation-portion closes by juxtaposing two titles: first, "*Contemplating the Land of Bliss, Amitāyus Buddha, Avalokiteśvara, and Mahāsthāmaprāpta*" (the buddha-contemplation *samādhi* orientation); second, "*Purifying Karmic Obstacles and Being Born before All Buddhas*" (the buddha-recollection / rebirth orientation).[^16] The very end of the sūtra states: "The Buddha said to Ānanda: 'Hold well to these words. To hold these words is to hold the name of Amitāyus Buddha.'"[^17] The whole architecture of contemplation is finally reduced to "holding the name" — its terminal release. Contemplation (the sixteen contemplations) and name-invocation (the ten recollections) are not opposed within T0365 itself: contemplation is the full architecture, name-invocation is the floor-access channel, and both are of one body.
 
-### 2.2 T0643: The Direct Upstream Source
+### 2.2 The *Sūtra on the Ocean-Samādhi of Buddha-Contemplation*: The Direct Upstream Source
 
 The *Sūtra on the Ocean-Samādhi of Buddha-Contemplation* (T0643) was translated by Buddhabhadra (*Fótuó-bátuóluó* 佛陀跋陀羅, 359–429 CE) of the Eastern Jin, around 418–422 CE — some ten to twenty years before Kālayaśas's translation of T0365 (ca. 424–442 CE at Jiankang). T0643 is the **direct upstream source** of T0365's sixteen-contemplation system, not a parallel text.[^18]
 
@@ -109,7 +109,7 @@ At the end of fascicle 10, Ānanda asks for the sūtra's title, and the Buddha g
 
 **Buddha-contemplation *samādhi* = buddha-recollection *samādhi*.** Within T0643 itself, the Buddha equates the two terms by declaring them alternate names of the same text. This is the first clear documentary evidence in Chinese translation of the identification of "buddha-recollection" (*niàn fó* 念佛) with visualization-type *samādhi*. Later figures — Shandao, Hōnen — would judge the difference of "contemplating-recollection" versus "oral-recollection" along exactly this "*niàn* = *guān*" lineage that T0643 and T0365 had first opened.
 
-### 2.3 T0277: The Contemporary Parallel
+### 2.3 The *Sūtra on the Practice Method of Contemplating Samantabhadra Bodhisattva*: The Contemporary Parallel
 
 The *Sūtra on the Practice Method of Contemplating Samantabhadra Bodhisattva* (T0277) was translated by Dharmamitra (*Tánwú-mìduō* 曇無蜜多, d. 442 CE) at Yangzhou during ca. 424–442 CE — **completely overlapping with T0365's translation period**, both part of the Liu-Song Yuanjia-era Jiangnan translation-bureau's "contemplation-sūtra cluster."[^24]
 
@@ -117,7 +117,7 @@ T0277 and T0365 share six structural features: (a) end-time / suffering-frame re
 
 But in **direction of spatial movement** the two sūtras are exactly opposed: T0277 expands centrifugally from Samantabhadra's elephant-body outward to the buddha-lands of the ten directions; T0365 converges centripetally from outer objects inward to the Buddha-body and then downward into the nine grades of rebirth. This directional inversion is not accidental — T0277's governing axis is the practice of Samantabhadra, naturally centrifugal; T0365's governing axis is the Buddha-body of the Land of Bliss, naturally centripetal. T0365's convergence is what supports the paper's main thesis: a *designed route-map* requires a determinate *terminus*, and that *terminus* is the double closure of the Buddha-body (⑨) and the nine-grade entrance (⑭⑮⑯).
 
-### 2.4 Shandao's *Four-Fascicle Commentary* (T1753): Structural Tools
+### 2.4 Shandao's *Four-Fascicle Commentary*: Structural Tools
 
 Shandao (613–681) compiled the *Commentary on the Sūtra on the Contemplation of Amitāyus* (T1753, *Four-Fascicle Commentary*) in four fascicles corresponding to the sūtra's full text: "Profound Meaning" / "Prologue Meaning" / "Meditative-Good Meaning" / "Dispersed-Good Meaning."[^26] This paper takes only his **structural tools** — the *ordinary-being into recompense-land* thesis, the two-kinds-of-deep-faith (*jīfǎ èr-zhǒng shēnxìn* 機法二種深信), the right-determining act (*zhèng-dìng-yè* 正定業), the essential-and-extensive gate (*yào-hóng èr-mén* 要弘二門), and the suppressive-gate (*yìzhǐ-mén* 抑止門) doctrinal arguments all belong to P22.
 
@@ -135,7 +135,7 @@ Shandao further establishes **seven gates of profound meaning** as the commentar
 
 Shandao's most consequential structural verdict on the nine grades reads: "All are ordinary beings of the five defilements after the Buddha's passing — only because they encounter different conditions, the nine-grade distinctions arise. What are these? The upper three persons are ordinary beings who encounter the *Mahāyāna*. The middle three persons are ordinary beings who encounter the *Hīna*-yāna. The lower three persons are ordinary beings who encounter the evil-world (*good friend at the moment of death*)."[^34] The nine grades are thus rewritten from "sage-rank ladder" to "**differentiation of encountered conditions**." This verdict is the direct tool of §3.3's analysis.
 
-### 2.5 Zhiyi's *Commentary* (T1750) and *Mahāyāna Calming-and-Contemplation* (T1911): Intra-Buddhist Lens
+### 2.5 Zhiyi's *Commentary* and *Mahāyāna Calming-and-Contemplation*: Intra-Buddhist Lens
 
 Zhiyi (538–597)'s *Commentary on the Sūtra on the Contemplation of Amitāyus* (T1750) is the earliest systematic commentary on T0365, nearly a century before Shandao's T1753. T1750 opens by applying the **five-fold profound meaning** (*wǔchóng xuányì* 五重玄義) — "explication of name / discernment of essence / clarification of tenet / discussion of function / judgment of teaching-type" — to T0365.[^35] Its core designation reads:
 
@@ -167,7 +167,7 @@ Zhiyi's other major work, *Mahāyāna Calming-and-Contemplation* (*Móhē zhǐgu
 
 ## III. Central Argument
 
-### 3.1 Inheritance and Innovation: From T0643's Methodology to T0365's Sequence
+### 3.1 Inheritance and Innovation: From the Methodology of the *Sūtra on the Ocean-Samādhi of Buddha-Contemplation* to the Sequence of the *Sūtra on the Contemplation of Amitāyus*
 
 T0365 did not invent visualization methodology *ex nihilo*. By the fourth and fifth centuries the Jiangnan translation-bureaus were circulating a full vocabulary of contemplation-techniques, time-graduations, verification-criteria, and karmic-obstacle-reduction schemas. Visualization was the shared technical toolkit of the era; T0365's architectural act lies not in inventing tools but in **organizing tools into a sequence**.
 
@@ -262,7 +262,7 @@ One historical fact is worth noting in passing. T1750's entire commentary makes 
 
 ## V. Middle-Way Correction
 
-### ❌ Misreading 1: "Zhiyi's Four Kinds of Buddha-Recollection" as T1750's Original Terminology
+### ❌ Misreading 1: "Zhiyi's Four Kinds of Buddha-Recollection" as the *Commentary*'s Original Terminology
 
 A popular formulation — which includes part of the modern scholarly literature and the oral teaching tradition of Chinese Pure Land circles — runs: "Zhiyi's four kinds of buddha-recollection: name-invocation, image-contemplation, thought-contemplation, reality-as-such." Direct checking against CBETA XML[^73] shows the following:
 

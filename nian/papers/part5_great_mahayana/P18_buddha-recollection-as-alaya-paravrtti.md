@@ -344,8 +344,10 @@ And concerning §3.2's third level — the fact that the Chinese Pure Land patri
 8. Kuiji, *Cheng Weishi Lun shùjì* 成唯識論述記, *Taishō* vol. 43, No. T1830, ten fascicles. Tang Gaozong era. Xuanzang's disciple's most authoritative Chinese-Buddhist commentary on T1585.
 9. Kuiji, *Cheng Weishi Lun zhǎngzhōng shūyào* 成唯識論掌中樞要, *Taishō* vol. 43, No. T1831, four fascicles. Tang. Background source for §§2.5 and 3.3 on the śāstras' silence concerning buddha-recollection.
 10. Huizhao, *Cheng Weishi Lun liǎoyìdēng* 成唯識論了義燈, *Taishō* vol. 43, No. T1832, seven fascicles. Tang.
-11. Guifeng Zongmi, *Preface to the Collected Essays on the Source of Chan* 禪源諸詮集都序, *Taishō* vol. 48, No. T2015, four fascicles. Tang, 839 CE. Background for the Yogācāra-exegetical tradition of buddha-recollection in §6.1.
-12. Zhizhou, *Cheng Weishi Lun yǎnmì* 成唯識論演秘, *Taishō* vol. 43, No. T1833, seven fascicles. Tang.
+11. Zhiyi, *Móhē zhǐguān* 摩訶止觀 (*The Great Calming and Contemplation*), *Taishō* vol. 46, No. T1911, twenty fascicles. Chen–Sui period. Its four-samādhi system is the classic Chinese contemplative-practice precedent for reading the *tathāgatagarbha*–*ālaya* identity dynamically; Chinese-commentarial background to the practice-bridge thesis of §3.1.
+12. Fazang, *Huāyán jīng tànxuán jì* 華嚴經探玄記, *Taishō* vol. 35, No. T1733, twenty fascicles. Tang, 702 CE. Source of the Huayan nature-origination framework of non-duality; the golden-lion simile of his *Jīn shīzǐ zhāng* 金師子章 (*Taishō* vol. 45, No. T1880) resonates across traditions with the Ghanavyūha's gold-and-ring simile, providing Chinese metaphysical backing for the defiled-reliance / pure-reliance functional-stratum reading.
+13. Guifeng Zongmi, *Preface to the Collected Essays on the Source of Chan* 禪源諸詮集都序, *Taishō* vol. 48, No. T2015, four fascicles. Tang, 839 CE. Background for the Yogācāra-exegetical tradition of buddha-recollection in §6.1.
+14. Zhizhou, *Cheng Weishi Lun yǎnmì* 成唯識論演秘, *Taishō* vol. 43, No. T1833, seven fascicles. Tang.
 
 ### III. Modern Scholarship
 

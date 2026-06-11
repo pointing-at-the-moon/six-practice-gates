@@ -74,7 +74,7 @@ The Chinese ritual-practice layer is supplied by the convergence of three tradit
 
 ## III. Core Argument
 
-### III.1 Closure-Formula Isomorphism, Fourth-Time Confirmed; the Retrospective Ordering of Vows One through Ten
+### 3.1 Closure-Formula Isomorphism, Fourth-Time Confirmed; the Retrospective Ordering of Vows One through Ten
 
 Each of the ten great vows in T0293 fascicle forty closes with the same four-exhaustion-four-inexhaustion formula. NIAN P26 confirmed this isomorphism for vows one through three; NIAN P27 extended it through vow five; NIAN P28 extended it through vow seven. The present paper extends the empirical verification through vows eight, nine, and ten — the fourth-time confirmation:
 
@@ -95,13 +95,13 @@ The closure-formula isomorphism holds across vows one through ten at one hundred
 
 A philological observation of substantive consequence must be lodged here. **Vow ten's closure structure is itself isomorphic with the closure formulas of vows one through nine; the totalising function of vow ten is *not* encoded in the closure layer.** The retrospective totalising function is encoded, instead, in vow ten's **opening exposition sentence**: *"as for universal dedication: from the initial reverencing through to the accommodating, all merits whatsoever are entirely dedicated …"*[^7] That single opening sentence — *"from the initial reverencing through to the accommodating, all merits whatsoever are entirely dedicated"* — explicitly gathers the merits of vows one through nine and dedicates them all. The retrospective totalisation of the ten-vow set is thereby a textual fact internal to T0293 itself — encoded in vow ten's prose-exposition, not retrojected by sub-commentary. The substantive implication is significant: vows one through ten compose a single integrated system, structurally articulated in four progressive strata (*three-karma set → karma dyad → request-structure dyad → dedication closure-triad*), self-attested at the textual level rather than imposed by later interpretation.
 
-### III.2 Vow Eight: Constantly Following the Buddha in Study — the Upward-Bearing Dimension
+### 3.2 Vow Eight: Constantly Following the Buddha in Study — the Upward-Bearing Dimension
 
 Vow eight's principal exposition opens: *"as for constantly following the Buddha in study: of all the tathāgatas in the dust-mote-realms of all the buddha-fields throughout the entire dharmadhātu, throughout space, in the ten directions and three times — of every one of them, I take their practice as my study."*[^8] The object of study is the entire practice-record of **Vairocana as original master** — the bodhisattva's first arousing of the bodhi-mind, the unflagging effort, the flaying of skin to make paper and the drawing of blood to make ink, the writing of scriptures piled high as Sumeru, the sacrifice of head and eyes and limbs without sparing the body, and finally the attainment of great enlightenment beneath the tree.[^9] These narratives — the *body-sacrifice for the dharma* cluster of Indian Mahāyāna scripture — find here their Avataṃsaka articulation, gathered into the single object of *constantly following*. Vow eight's closure: *"as space is exhausted, as the realms of sentient beings are exhausted, as their karma is exhausted, as their afflictions are exhausted, my following-in-study is without end, moment-by-moment continuous, without interruption, body and speech and mind never wearying."*[^10] Vow eight's verse-couplet: *"I follow all the tathāgatas in study, cultivating the perfectly-circular practices of Samantabhadra ..."*[^11]
 
 Vow eight's dimension is **upward-bearing**. Its directional vector points toward the buddha-fruit, the attainment of bodhi, the perfection of wisdom. This is the dimension Chengguan identifies as *"toward bodhi, relying on attribute"*; in the *substance-attribute-function* schema vow eight pairs with **attribute** (*xiàng* 相), and in the three-virtues schema it pairs with **prajñā**. The *Lotus Sūtra*'s *Encouragement of Samantabhadra* chapter (T0262), which records the figure of Samantabhadra appearing to protect those who study the *sūtra*, supplies a one-line cross-reference for vow eight's narrative descendants in the wider Mahāyāna corpus, but is not developed here.
 
-### III.3 Vow Nine: Accommodating Sentient Beings — the Downward-Transforming Dimension
+### 3.3 Vow Nine: Accommodating Sentient Beings — the Downward-Transforming Dimension
 
 Vow nine's principal exposition opens: *"as for accommodating sentient beings: of every kind of sentient being throughout the entire dharmadhātu, throughout space, in the buddha-realms of the ten directions … of every kind, I accommodate and turn, attending in every way, making offerings in every way, as one would revere father and mother, as one would serve teacher and elder, as one would honour an arhat or even the tathāgata, equal and without distinction."*[^12] The line *"equal and without distinction"* is the doctrinal core of vow nine's exposition: in the bodhisattva's accommodation, sentient being and tathāgata are equal in the field of compassionate response.
 
@@ -113,7 +113,7 @@ This simile is the **thesis-pivot** of vow nine. It articulates a structural co-
 
 Vow nine's dimension is **downward-transforming**. Its directional vector points toward the suffering of sentient beings, the activation of great compassion, the giving of liberation. This is the dimension Chengguan identifies as *"toward sentient beings, relying on function"*; in the *substance-attribute-function* schema vow nine pairs with **function** (*yòng* 用), and in the three-virtues schema it pairs with **vimukti** (*liberation*). The *Vimalakīrti-nirdeśa*'s *Bodhisattva* chapter (T0475) — *"there is a liberation of the buddhas and bodhisattvas called accommodating-the-desire-of-sentient-beings"* — supplies a one-line cross-reference for the downward-transforming dimension's wider doctrinal anchor.
 
-### III.4 Vow Ten: Universal Dedication — the Closure of Total Dedication ⭐
+### 3.4 Vow Ten: Universal Dedication — the Closure of Total Dedication ⭐
 
 Vow ten's principal exposition opens immediately with the retrospective totalising sentence: *"as for universal dedication: from the initial reverencing through to the accommodating, all merits whatsoever are entirely dedicated to all sentient beings throughout the dharmadhātu, throughout space; may all sentient beings forever attain ease and peace, free of every illness and pain … may every evil deed they would do come to nothing, and every wholesome work they undertake be swiftly accomplished; may the gates of every evil destination be closed, and the upright path to the human, divine, and nirvāṇic states be opened wide."*[^16] The opening sentence — *"from the initial reverencing through to the accommodating, all merits whatsoever are entirely dedicated"* — is the textual core of vow ten: it gathers the merits of vows one through nine (from vow one's *reverencing* to vow nine's *accommodating*, through every intervening operator) and dedicates them to sentient beings and to the buddha-path. The mid-section of vow ten contains the **substituting-for-the-most-grievous-suffering passage**: *"if sentient beings, by reason of the karma they have piled up, undergo every kind of most grievous painful fruit, I shall undergo it in their stead."*[^17] This is the substantive other-benefitting face of dedication — the bodhisattva's bearing of others' suffering. Vow ten's closure: *"my dedicating is without end ..."*[^18] The thirty-second stanza of the verse-section is the seven-vow summary verse[^1], and the closing seal stanza of the entire fascicle — *"these supreme practices of Samantabhadra are mine ..."* — supplies vow ten's deathbed-vow ritual realisation.
 
@@ -129,7 +129,7 @@ Chengguan's eight-character maxim — *"transforming-below-with-great-compassion
 
 A philological discipline must be marked here. The named-triple *"dedication-to-sentient-beings / dedication-to-bodhi / dedication-to-the-absolute"* is **a sub-commentary-stratum codification, not a direct sūtra-treatise canonical naming**. T1509 fascicle sixty-one's *Rejoicing-and-Dedication* chapter contains only the operative schema (the three marks, the three modes of reverence) and does not formally name the triple; the *T0220 Prajñāpāramitā* corpus likewise lacks the named triple. The complete codification of *"sentient beings / bodhi / absolute"* as a named-triple appears to consolidate at the Zhiyi–Fazang–Chengguan–Zongmi sub-commentary stratum. The present paper accordingly cites the named-triple strictly from X05n0227 (Chengguan) and X05n0229 (Zongmi), not from T1509 (this caveat is given its full middle-way articulation at §V). Likewise, the phrase *"emptiness of the threefold sphere"* (*三輪體空*) — agent of dedication, object of dedication, recipient of dedication, all three empty — does not appear in this exact wording within T1509 or the *T0220 Prajñāpāramitā* strata, though its *substance* is canonical: T1509 articulates the same content through the **three marks** (designation-mark, dharma-mark, signless-mark). The present paper accordingly uses *"emptiness of the three marks"* (*三相空*, per T1509) as the audited replacement for *"emptiness of the threefold sphere,"* avoiding citation of a phrase whose precise textual locus has not been independently verified (the full caveat appears at §V).
 
-### III.5 Vows One through Ten: The Retrospective Substance-Attribute-Function Closure ⭐⭐ — the Paper's Originality Locus
+### 3.5 Vows One through Ten: The Retrospective Substance-Attribute-Function Closure ⭐⭐ — the Paper's Originality Locus
 
 ⭐⭐ This subsection develops the paper's principal originality and constitutes a retrospective extension of Chengguan's three-direction-dependence framework. Chengguan, in X05n0227, applies *substance / attribute / function* only to vows eight, nine, and ten. The present paper extends the schema across the whole ten-vow set:
 
@@ -151,7 +151,7 @@ The grounds for this cross-mapping are five.
 
 Within this cross-mapping framework, Paul Williams's *Mahāyāna Buddhism: The Doctrinal Foundations* (Routledge, 2nd ed. 2009) chapters five (*Tathāgatagarbha*) and six (*Huayan*) supply the **Anglophone-academic articulation** of the *substance-attribute-function* framework. Williams's framework provides the conceptual vocabulary through which Anglophone readers may approach the schema. The present paper's contribution to the Williams reception is the *cross-mapping of substance / attribute / function onto vows 1–3, 4–9, and 10*, a retrospective ordering Williams does not himself perform. The Williams framework is the basis of conceptual extension, not the target of pushback. Cook 1977's foregrounded final disposal is set out at §IV.
 
-### III.6 Chinese Ritual-Practice Closure: the Convergence of Three Traditions
+### 3.6 Chinese Ritual-Practice Closure: the Convergence of Three Traditions
 
 The Chinese ritual codification of vow ten consolidates across three converging traditions.
 
@@ -173,7 +173,7 @@ The Chinese ritual codification of vow ten consolidates across three converging 
 
 Following the *one-foregrounded-pushback-plus-two-extensions* configuration of the present series, §IV foregrounds Francis H. Cook's *Hua-yen Buddhism: The Jewel Net of Indra* (1977) for final disposal — a target carried as background through NIAN P26, P27, and P28 and now brought to the front for Part VII's closer paper — and concedes-and-extends to Williams 2009 (substance-attribute-function framework alignment) and Hamar 2007 (Sudhana macro-frame extension). Faure 1991, principal pushback ally in P28, is here held to background.
 
-### IV.1 Cook 1977: The Metaphysics-of-Totality Reading, Foregrounded for Final Disposal ★
+### 4.1 Cook 1977: The Metaphysics-of-Totality Reading, Foregrounded for Final Disposal ★
 
 Francis H. Cook's *Hua-yen Buddhism: The Jewel Net of Indra* (Pennsylvania State University Press, 1977) is among the foundational monographs of Anglophone Huayan studies. Cook's central thesis: Huayan = **metaphysics-of-totality** — the *dharmadhātu* understood as the perfectly mutually-interpenetrating **jewel-net of Indra**. Chapter eight, *"Living in the Net of Indra,"* is the principal locus of Cook's reading of the ten great vows: the vows are read as **exemplifications** (*exemplifications*) of the metaphysics — concrete instantiations of *dharmadhātu* totality on the practice side. Chapters four (*Identity*), five (*Intercausality*), and six (*Part and Whole*) supply the metaphysical apparatus.
 
@@ -187,15 +187,15 @@ The present paper's pushback against Cook's reading is set out along three conve
 
 A concession is required. Cook's *dharmadhātu* metaphysics-of-totality framework has its own textual ground in the *Avataṃsaka* sūtras themselves — the *Manifestation of the Tathāgata* chapter, the *Detachment from the World* chapter, the *Ten Stages* chapter all carry passages with metaphysical purchase. Cook's framework, on the metaphysical-Huayan side, is not in error; the present paper's pushback is not against the framework but against the **specific reading-direction** that treats the ten great vows as exemplifications of that framework. The ten great vows as a systematic textual unit consolidate only in the late eighth century; their character is that of a *cosmological-ritual operative system*, not an exemplification of *dharmadhātu* totality.
 
-### IV.2 Williams 2009: Substance-Attribute-Function Framework, Conceded-and-Extended
+### 4.2 Williams 2009: Substance-Attribute-Function Framework, Conceded-and-Extended
 
 Paul Williams, in *Mahāyāna Buddhism: The Doctrinal Foundations* (Routledge, 2nd ed. 2009), supplies the Anglophone-academic articulation of the *substance-attribute-function* framework in chapters five (*Tathāgatagarbha*) and six (*Huayan*). Williams's framework is the principal Anglophone vocabulary-channel through which the three greats (substance, attribute, function) become accessible to Western academic readers. The present paper's concession to Williams is full: the framework as Williams articulates it correctly renders the conceptual content of the *Awakening of Faith*'s three greats and correctly identifies the schema's central position within the Huayan tradition. The present paper's extension is: **the framework is cross-mapped retrospectively onto the ten-vow ladder** — vows 1–3 (substance) / vows 4–9 (attribute) / vow 10 (function) — a step Williams does not take. The Williams framework supplies the conceptual ground; the present paper's §III.5 supplies the cross-mapping. The framework is the basis of extension, not the target of pushback.
 
-### IV.3 Hamar 2007: Sudhana Macro-Frame, Conceded-and-Extended
+### 4.3 Hamar 2007: Sudhana Macro-Frame, Conceded-and-Extended
 
 Imre Hamar, ed., *Reflecting Mirrors: Perspectives on Huayan Buddhism* (Harrassowitz Verlag, 2007) is among the more important recent collections in Anglophone Huayan studies. The volume's treatment of Huayan includes the **Sudhana macro-frame** — the structural reading according to which Sudhana's pilgrimage in the *Gaṇḍavyūha* (*Entering the Dharma-Realm Chapter*) takes a specific narrative shape: from the arousal of the bodhi-mind under Mañjuśrī, through visits to the fifty-three good spiritual friends, ending with Samantabhadra at the chapter's close. The present paper's concession to Hamar's macro-frame is full: the Sudhana arc is the narrative ground of the *Entering the Dharma-Realm Chapter* and the narrative anchor for the figure of Samantabhadra's vow-practice. The present paper's extension is: vow ten's retrospective gathering — *"from the initial reverencing through to the accommodating, all merits whatsoever are entirely dedicated"* — is the **ritual closure of the Sudhana narrative-pilgrimage articulation of vows one through ten**. Sudhana's pilgrimage finds its ritual gathering in the practice of Samantabhadra's vow-king; Samantabhadra's vow-king finds its narrative completion at the dedication-closure of vow ten. ⚠️ The full table of contents of the Hamar 2007 volume has not been independently verified online for every relevant section; the present paper accordingly handles the extension via paraphrase rather than direct citation in the Hamar-specific points where verification remains pending.
 
-### IV.4 Faure 1991 Held to Background
+### 4.4 Faure 1991 Held to Background
 
 Bernard Faure's *The Rhetoric of Immediacy* (Princeton University Press, 1991), the principal pushback ally for *performative cosmology* in NIAN P28, is here held to background. Faure's framework remains the implicit ground of §IV — vow ten's universal-dedication ritual is a **performative-cosmological field-construction**: the dedication's verbal-and-bodily act *itself constructs* the cosmological field within which the *universal* of *universal dedication* operates. McMahan 2002 *Empty Vision*'s visionary-imagery reading is gestured at within §VI's cultivation guidance as a single-line cameo and is not engaged at §IV. Cleary's three-volume *Flower Ornament Scripture* (Shambhala, 1984–1987) is the primary English translation reference and appears in the bibliography.
 
@@ -352,7 +352,7 @@ X22n0424. *Sub-Commentary on the Amitābha Sūtra*. Composed by Yunqi Zhuhong. *
 
 X74n1464. *Three-Time Mindfulness Service*. Traditionally attributed to the Zhongfeng line. *Wàn xùzàng* vol. 74.
 
-### III. Modern Scholarship
+### 3. Modern Scholarship
 
 Cleary, Thomas, trans. *The Flower Ornament Scripture: A Translation of the Avatamsaka Sutra*. 3 vols. Boston: Shambhala, 1984–1987.
 
@@ -378,7 +378,7 @@ Williams, Paul. *Mahāyāna Buddhism: The Doctrinal Foundations*. 2nd ed. London
 - Ouyi Zhixu. * Amituo Jing Yaojie* (Essentials of the Amitābha Sūtra). T1762, *Taishō* vol. 37. 萬行司南.
 - Zhongfeng Mingben. *Sishi Xiinian* (Three-Time Mindfulness Service). X74n1464, *Wàn xùzàng* vol. 74. 十願全套.
 
-### IV. Cross-Reference to Series Papers
+### 4. Cross-Reference to Series Papers
 
 - P25 *Samantabhadra's Ten Great Vows: An Introduction*: the vow-king (願王) as the收攝 operator;愿8-10 as体/相/用三方向.
 - P26 *Reverencing Buddhas, Praising Tathāgatas, Cultivating Offerings*:愿1-3三業合構.
@@ -429,7 +429,7 @@ Williams, Paul. *Mahāyāna Buddhism: The Doctrinal Foundations*. 2nd ed. London
 
 
 
-### IV. Sutra & Śāstra Index
+### 4. Sutra & Śāstra Index
 
 | Abbrev. | Full Name | Author/Translator | Taisho |
 |---------|---------|---------|-------|

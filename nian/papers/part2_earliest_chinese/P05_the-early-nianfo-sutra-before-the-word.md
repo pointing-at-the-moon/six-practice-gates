@@ -65,7 +65,7 @@ The second thesis is equally critical: T0784 does not stand alone. Within roughl
 
 ## II. Canonical Sources
 
-### 2.1 Primary Source · *Sūtra in Forty-Two Sections*, One Fascicle (T0784)
+### 2.1 Primary Source · *Sūtra in Forty-Two Sections*, One Fascicle
 
 The primary source for this paper is T0784, traditionally attributed to the joint translation of Kāśyapa Mātaṅga and Dharmaratna in the tenth year of the Yongping era of the Later Han (67 CE), catalogued in the *Taishō Shinshū Daizōkyō* (大正新脩大藏經) vol. 17, no. 784. The text runs to 3,177 CJK characters and is traditionally divided into forty-two chapters plus a prefatory narrative (Emperor Ming's dream, and the sending of envoys to the Western Regions to obtain the scripture).[^1]
 
@@ -91,7 +91,7 @@ For the three vocabulary-identification tasks of this paper:
 
 The two critical absences—*niànfó* and the entire *jhāna* vocabulary—constitute the hard factual basis of this paper's argument.
 
-### 2.2 Comparative Source · An Shigao, *Fó shuō Dà Ān-bān shǒu-yì Jīng* (T0602)
+### 2.2 Comparative Source · An Shigao, *Fó shuō Dà Ān-bān shǒu-yì Jīng*
 
 The comparative source for this paper is T0602, translated by An Shigao between the second year of the Jianhe era and the third year of the Jianning era of the Later Han (148–170 CE), catalogued in *Taishō* vol. 15, no. 602, divided into upper and lower fascicles and running to approximately 12,000 characters.[^8]
 
@@ -143,7 +143,7 @@ This is the single most important claim about T0784. Facing the foreign practice
 
 The plausible inference is this: *dào* was a term already familiar to the Chinese literati class (used in both Daoist and Confucian discourse); *fó* was a newly imported transliteration. The compound expression *niàn-fó* requires a longer interval before it can settle naturally into the rhythms of classical Chinese. The translation workshop chose *niàndào* as the path of least resistance: readers could understand a new practice within an existing vocabulary frame. This choice had two long-range consequences. First, it allowed the ethical-philosophical register of early Chinese recollection-practice to form naturally. Second, it reserved a structural slot for the eventual coinage of *niànfó*: once *fó* had become sufficiently familiar, *niàn-fó* could take over or supplement the position held by *niàn-dào*, without requiring the reinvention of the whole *anussati* architecture.
 
-### 3.2 T0784 on the Third Track of P04's *Upacāra* Platform: The Register Judgment
+### 3.2 The *Sūtra in Forty-Two Sections* on the Third Track of P04's *Upacāra* Platform: The Register Judgment
 
 P04 §3.2 judged the meditative depth of *anussati*-type practices to be "the *upacāra* platform of objects-with-specific-character"—a technical boundary that Buddhaghosa draws at the end of *Visuddhimagga* VII on two grounds: "the depth of the Buddha's qualities" and "the mind's dispersal among the variety of recollected virtues." This section extends that technical coordinate back to the earliest Chinese reception: T0784 sits not merely within the *upacāra* platform but, to be precise, at a register **one discursive layer earlier than even *upacāra***—it simply does not inhabit the discourse of "concentration."
 
@@ -171,7 +171,7 @@ These four markers together define T0784's **third track** on the *upacāra* pla
 
 P04's claim that "the designed endpoint is not the failed endpoint" receives here its historical confirmation: the earliest Chinese reception of recollection-practice already received it in this register, and never mistook *upacāra* for a failed state of "not yet *appanā*." This register begins with T0784, runs through a millennium of development, and reaches its mature form in Pure Land name-recitation—but the fundamental tenor of the register was there from the beginning.
 
-### 3.3 Dual-Track Divergence: The Coexistence of T0784 (Ethical) and T0602 (Technical)
+### 3.3 Dual-Track Divergence: The Coexistence of the *Sūtra in Forty-Two Sections* (Ethical) and the *Fó shuō Dà Ān-bān shǒu-yì Jīng* (Technical)
 
 §2.2 has already tabulated the register contrast between T0784 and T0602. This section addresses the further question of **what this dual-track structure means for the historical possibility of later Chinese *niànfó*'s three-way branching**.
 

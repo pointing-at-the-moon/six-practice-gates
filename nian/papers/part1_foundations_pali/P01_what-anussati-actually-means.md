@@ -393,6 +393,8 @@ In the Pāli canon, *Buddhānussati* — the first of the six, and the most deve
 
 ---
 
+*CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
+
 *Repo: github.com/pointing-at-the-moon/six-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P01 · 釋慧鏡 (Shi Huijing) · 2026-04-14*

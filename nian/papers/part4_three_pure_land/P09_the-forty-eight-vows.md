@@ -64,7 +64,7 @@ The **fourth** layer: §IV engages Christopher Alexander's *A Pattern Language* 
 
 ## II. Scriptural Foundations
 
-### 2.1 T0360's Forty-Eight Vows: An Overview of the Text
+### 2.1 The *Sūtra of Immeasurable Life*'s Forty-Eight Vows: An Overview of the Text
 
 The vow-pronouncement of Dharmākara Bhikṣu in fascicle one of the *Sūtra of Immeasurable Life* (T0360) forms the doctrinal backbone of the entire sūtra.
 
@@ -106,7 +106,7 @@ If one sorts the forty-eight vows by subject and content, a clear dual-axis dist
 
 **Proportional observation.** The ratio of container-world vows (9) to sentient-world vows (39) is 1 to 4.33. This asymmetry is crucial evidence for §3.3. The vow-system of T0360 invests its resources primarily in **beings** — Buddha, resident inhabitants of the land, and outside beings — not in **environment**. This runs against the popular image of "the Pure Land" as defined by landscape splendor; T0360 itself never treats the beauty of the land as the focal point of its vows. The land's beauty is in the service of housing the soteriological operation; it is not the soteriological point.
 
-### 2.3 The Parallel with Zhi Qian's T0362 (Twenty-Four Vows)
+### 2.3 The Parallel with Zhi Qian's *Amitābha-Samyaksaṃbuddha-Sāra-Buddha-Dāna Crossing-Over Sūtra* (Twenty-Four Vows)
 
 Zhi Qian's *Amitābha-Samyaksaṃbuddha-Sāra-Buddha-Dāna Crossing-Over Sūtra* (T0362), a Wu-dynasty translation, enumerates twenty-four vows in its first fascicle. The bodhisattva's name here is **Dharmakara** (曇摩迦), not **Dharmakarālaya** (曇摩迦留, T0361) or **Dharmākara** (法藏, T0360). The previous buddha is **Lokavartin** (樓夷亘羅, same as T0361), where T0360 has **Lokeśvararāja** (世自在王). Each of the three translation teams produced its own renderings; none were harmonized. Even when the proper names fail to stabilize, the architectural continuity remains traceable — which is itself telling. The architecture does not depend on lexical identity of proper names.
 
@@ -127,7 +127,7 @@ Beyond granularization, T0360 adds **whole new categories**:
 
 The vow-concluding formula differs slightly in rhetorical force. T0362 says "if this vow is attained, I will become a buddha; if not, I will not in the end become a buddha" (*zhōng bù zuò fó*). T0360 says "I will not take complete enlightenment" (*bù qǔ zhèngjué*). The former has greater rhetorical weight (emphatic *zhōng bù*); the latter is more formal. But structurally both are conditional-vow formulas, and the syntactic inheritance across the Amitābha lineage is unmistakable.
 
-### 2.4 Vasubandhu's T1524: The Twenty-Nine Adornments and the Five Contemplation-Gates
+### 2.4 Vasubandhu's *Upadeśa on the Sūtra of Immeasurable Life*: The Twenty-Nine Adornments and the Five Contemplation-Gates
 
 Vasubandhu's *Upadeśa on the Sūtra of Immeasurable Life* (*Jìngtǔ lùn* / *Wǎngshēng lùn*; T1524), translated into Chinese by Bodhiruci in the Northern Wei, is a one-fascicle treatise. It is the earliest systematic Indian commentary on Amitābha's buddha-field — contemporaneous with the Chinese translation of T0360, and roughly a century or two before Tanluan and Daochuo.
 
@@ -155,7 +155,7 @@ The direct implication for §III. T1524's seventeen-plus-eight-plus-four classif
 
 **Domain delimitation.** This paper cites T1524 only for its twenty-nine-adornment classificatory function and its "two purities" synthesizing statement. T1524 as a broader Yogācāra-affiliated treatise — on *ālaya-vijñāna*, *tathatā*, *dharma-kāya* as comprehensive doctrinal themes — falls under P17 and P18 (the *Laṅkāvatāra* and *Ghanavyūha* chapters), and is not taken up here.
 
-### 2.5 Tanluan's T1957: The Two Purities (17 + 12)
+### 2.5 Tanluan's *Abridged Treatise on the Meaning of the Land of Peace and Bliss*: The Two Purities (17 + 12)
 
 Tanluan (476–542), a decisive commentarial figure between T0360's translation and Daochuo's systematization, led teaching at Xuanzhong Monastery in Bingzhou during the late Northern Wei. His *Abridged Treatise on the Meaning of the Land of Peace and Bliss* (T1957) is an independent work from his more famous *Commentary on the Sūtra of Rebirth* (T1819, not available in the present research canon). Only T1957 is cited here.
 
@@ -183,7 +183,7 @@ Tanluan then enumerates the two purities in detail. His classification is **broa
 
 Why does Tanluan make this re-grouping? Because from the standpoint of **soteriological function**, both Buddha and bodhisattvas are sentient beings — they belong to the same ontological category as the inhabitants of the land (though the inhabitants are lower in status than the bodhisattvas). The first cut is land versus sentient beings. The internal hierarchy of Buddha, bodhisattvas, and inhabitants is a second-level substructure. Tanluan subordinates the second-level substructure to the first-level cut, making the dual axis visible at 17:12. §3.1 will follow this Tanluanian choice.
 
-### 2.6 Daochuo's T1958: The Twelve Great Gates and the Five Great Benefits
+### 2.6 Daochuo's *Collection on the Land of Peace and Bliss*: The Twelve Great Gates and the Five Great Benefits
 
 Daochuo (562–645), in the *Collection on the Land of Peace and Bliss* (T1958), produces the signature systematization of early Tang Pure Land doctrine — a pivotal work between Tanluan and Shandao, laying the ground for Shandao's subsequent doctrinal closure.
 
@@ -245,7 +245,7 @@ Why do the vow-level and the adornment-level proportions diverge?
 
 The outer ring (land) acts as container → the middle ring (inhabitants) as beneficiaries → the outer extension (beings elsewhere) as soteriological reach. These three rings display T0360's vow-system as a **radiant structure**: from the innermost establishment of the land outward to the most distant beings. This radiant structure does **not hold** in T0362's twenty-four-vow version — T0362 has no large hearing-the-name outreach cluster (only a few scattered vows). T0360's forty-eight are not simply "T0362 doubled"; they are **T0362 plus a newly added outermost radiating extension**. §3.2 gives this observation a systematic statement.
 
-### 3.2 Second Layer: Four Expansion Moves from T0362 to T0360
+### 3.2 Second Layer: Four Expansion Moves from the *Amitābha-Samyaksaṃbuddha-Sāra-Buddha-Dāna Crossing-Over Sūtra* to the *Sūtra of Immeasurable Life*
 
 §2.3 has laid out the concrete vow-correspondences between T0362 (24 vows) and T0360 (48 vows). §3.2 organizes those correspondences into **four identifiable expansion moves**.
 

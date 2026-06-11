@@ -81,7 +81,7 @@ The **overlap zone** between the two verbs lies precisely here: when the object 
 
 This semantic overlap is the ground on which the coupling operates. The four textual nodes that follow perform different structural operations on this shared ground.
 
-### 2.2 Node 1 — T0361's Seventeenth Vow: "Hearing the Name" as New Access-Verb
+### 2.2 Node 1 — The *Fó shuō wúliàng qīngjìng píngděng jué jīng*'s Seventeenth Vow: "Hearing the Name" as New Access-Verb
 
 Lokakṣema's *Fó shuō wúliàng qīngjìng píngděng jué jīng* (T0361), vow seventeen of the twenty-four:
 
@@ -107,7 +107,7 @@ The name, as circulable object, carries salvific force in itself. This prepares 
 
 **Node 1 summary.** T0361 introduces the first non-*niàn* access-verb: *hearing the name*. The access-subject's action shifts from cognitive holding to receptive hearing, and the Name becomes a circulable salvific object. *Chēng* has not yet appeared as access-verb, but the conditional space for it is now firmly in place.
 
-### 2.3 Node 2 — T0360's Eighteenth Vow: "Even Ten Recollections" as Semantic Joint
+### 2.3 Node 2 — The *Wúliàng shòu jīng*'s Eighteenth Vow: "Even Ten Recollections" as Semantic Joint
 
 Saṅghavarman's *Wúliàng shòu jīng* (T0360; the translator attribution is contested in modern scholarship, and the actual date of production is more likely to fall somewhere between the late fourth and the early fifth centuries). Vows seventeen and eighteen stand in adjacent pairs:
 
@@ -143,7 +143,7 @@ The introduction of a cardinal number is itself decisive. T0418's "always recoll
 
 **Node 2 summary.** T0360's "even ten recollections" is the first point in the canonical vow-corpus where *niàn-chēng* coupling forms a semantic joint. Count-bounded, object-anchored, verb-open: these three features together constitute the structural template for the coupling that the next two nodes will more fully expose.
 
-### 2.4 Node 3 — T0365's Lowest-Grade Rebirth: The Emergence of *Chēng* as Independent Access-Verb
+### 2.4 Node 3 — The *Guān wúliàng shòu jīng*'s Lowest-Grade Rebirth: The Emergence of *Chēng* as Independent Access-Verb
 
 Kālayaśas's *Guān wúliàng shòu jīng* (T0365). The sixteenth contemplation, "the contemplation of the lower-grade rebirths," divides into three sub-levels. Reading all three together is essential.
 
@@ -183,7 +183,7 @@ Parsing the five-step verb-flow:
 
 Taken together, the two insights yield the structural form of the coupling thesis: *niàn* and *chēng* are not two independent actions, but the *inner and outer faces of a single practice*. Inner without outer is still practice (as in T0418's *pratyutpanna*-type visionary practice); outer without inner is empty shell (which Shandao, we will see, describes as "not-sincerely-from-the-mind"). The full practice has both faces at once.
 
-### 2.5 Node 4 — Shandao's T1753: Systematization Terminus and the Persistence of Coupling
+### 2.5 Node 4 — Shandao's *Commentary on the Contemplation Sūtra*: Systematization Terminus and the Persistence of Coupling
 
 Shandao's *Commentary on the Contemplation Sūtra* (T1753, also known as *Guānjīng sìtiè shū* 觀經四帖疏) is the doctrinal hinge of the Chinese Pure Land tradition. In the *Xuányì fēn* 玄義分 (fascicle 1) Shandao re-structures the *Contemplation Sūtra* as a bifurcation into *concentrated good* and *dispersed good*:
 
@@ -228,7 +228,7 @@ Because the evaluative unit of this iterative practice—the unit by which one m
 
 **Scope-guard.** This paper extracts from T1753 only the two passages above—the concentrated/dispersed bifurcation (fascicle 1) and the 正定業 definition (fascicle 4)—and only for their bearing on the *chēng* mechanics question. Shandao's doctrines of the three minds (*sān xīn*), the two-fold deep faith (*jīfǎ èrzhǒng shēnxìn*), and the ordinary-person's entry into the recompense-land (*fánfū rù bàotǔ*) are the primary material of P22 and are not treated here.
 
-### 2.6 Cross-Sectarian Evidence: T0232's One-Practice Samādhi
+### 2.6 Cross-Sectarian Evidence: The *Mañjuśrī Prajñā Sūtra*'s One-Practice Samādhi
 
 The coupling is not a Pure Land sectarian structure. Mandrasena's *Mañjuśrī Prajñā Sūtra* (T0232), fascicle 2, in the chapter on One-Practice Samādhi:
 
@@ -254,11 +254,11 @@ A full treatment of One-Practice Samādhi—especially the question of how it si
 
 §II has laid out five textual nodes (four primary + one cross-sectarian). §III organizes them into a coherent argument: the dynamics of a four-step evolution, and the structure of coupling-rather-than-replacement.
 
-### 3.1 Step One (T0361) — The Paradox of "Hearing the Name"
+### 3.1 Step One (*Fó shuō wúliàng qīngjìng píngděng jué jīng*) — The Paradox of "Hearing the Name"
 
 T0418's access-verb is *niàn*; the practitioner actively holds the buddha in mind. T0361's seventeenth vow introduces *hearing the name*, shifting the access-subject's action from active holding to receptive hearing. A paradox is thereby formed: hearing is a passive verb, but its precondition—"let my name be heard in the buddha-lands"—requires an active circulation of the name. T0361 does not say who circulates the name; but the conditional space in which *chēng* must eventually arrive has now been opened. *Chēng*, as the canonical function of moving a name from hidden to circulating, is the verb T0361 does not yet contain but must eventually invite.
 
-### 3.2 Step Two (T0360) — The Semantic Joint of "Even Ten Recollections"
+### 3.2 Step Two (*Wúliàng shòu jīng*) — The Semantic Joint of "Even Ten Recollections"
 
 T0360's eighteenth vow is the first canonical vow-text in which *niàn-chēng* coupling forms a genuine semantic joint. Three features of the joint:
 
@@ -268,7 +268,7 @@ T0360's eighteenth vow is the first canonical vow-text in which *niàn-chēng* c
 
 The introduction of a cardinal is particularly decisive. T0418's and T0361's "always recollect" have no count; T0360 introduces *ten*. A cardinal number cannot be smoothly realized by the *continuous* attention of *niàn* alone—it naturally invites discrete units. The most natural discrete unit is *discrete utterance*: *chēng*. But T0360 stops at the joint; its verb remains *niàn*. The commentarial tradition from Tanluan through Shandao fills in what the vow itself leaves open, reading "ten recollections" as "ten vocal recollection-callings"—not a reinterpretation against the text, but a filling-in of a space the text itself left open.
 
-### 3.3 Step Three (T0365) — The Emergence of *Chēng* and the Explicit Coupling
+### 3.3 Step Three (*Guān wúliàng shòu jīng*) — The Emergence of *Chēng* and the Explicit Coupling
 
 T0365's lowest-grade rebirth passages bring two decisive moves. The first: in lowest-grade upper-birth, *chēng* appears for the first time in the Chinese Pure Land canonical tradition as a **stand-alone access-verb**. Prior texts had used *chēng* only with a buddha as subject (e.g., T0360 vow seventeen, "the buddhas praise and call my name"); here, with the dying practitioner as subject, *chēng* becomes the access-verb in its own right.
 
@@ -280,7 +280,7 @@ Two insights follow.
 
 Together these insights crystallize the coupling: the two verbs are not independent actions but the inner and outer faces of a single practice.
 
-### 3.4 Step Four (T1753) — Systematization Terminus with Coupling Preserved
+### 3.4 Step Four (*Commentary on the Contemplation Sūtra*) — Systematization Terminus with Coupling Preserved
 
 Shandao's *Commentary* is the doctrinal hinge of the Chinese Pure Land tradition. Its architectural bifurcation of the *Contemplation Sūtra* into concentrated good and dispersed good, and its elevation of *kǒuchēng* to one of five right practices and of "one-mindedly-holding-the-name" to 正定業, provides the textual ground for the later East Asian dominance of name-recitation as mass practice. Shandao's text is the systematization terminus at which, one might expect, *chēng* finally displaces *niàn*.
 

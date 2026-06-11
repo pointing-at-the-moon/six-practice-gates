@@ -50,7 +50,7 @@ This re-anchoring continues, in symmetry, the moves of the two prior papers in P
 
 ---
 
-## II. Textual Foundation: The Six Sources of T1753 Architecture
+## II. Textual Foundation: The Six Sources of the *Guanjing Sitie Shu* Architecture
 
 Shandao's *Guanjing Sitie Shu* (T1753) is a four-fascicle commentary on the *Guan Wuliangshou fo jing* (觀無量壽佛經, T0365, translated by Kālayāśas in the Liu Song). The work is organized in four large parts: the *Xuányì fēn* (fascicle one, doctrinal classification), the *Xùfēn yì* (序分義, fascicle two, exposition of the prologue), the *Dìngshàn yì* (定善義, fascicle three, exposition of meditative-good practice), and the *Sànshàn yì* (散善義, fascicle four, exposition of distributed-good practice). The narrative arc moves from doctrinal classification down to practice-architecture, and from contemplative method down to the liturgy of the name. The passages central to this paper are concentrated in fascicle one (doctrinal anchoring) and fascicle four (practice architecture and institutional pivot), supplemented by the *observation-to-recitation* pivot passage in T1980 *Wǎngshēng lǐzàn jié*, the *time-near-and-time-far inversion* in T1958 *Ānlè jí*, and the *easy-practice* and *ten-recollections* passages in T1819 *Wǎngshēng lùn zhù*.[^2] Together these constitute P22's six-source documentary spine.
 
@@ -112,7 +112,7 @@ The *èrhé báidào* parable (B4) renders this internal architecture pictoriall
 
 The documentary completeness of the *Sànshàn yì*'s practice-architecture is now in place. Together with the *Xuányì fēn*'s doctrinal anchoring, it forms a mutually-supporting two-layer structure: the *Xuányì fēn* establishes the doctrinal warrant of *fánfū rù bàotǔ*; the *Sànshàn yì* establishes the *interior mental disposition under which the ordinary being concretely enters the recompense land amid daily defilements*. §3.3 now takes up the third layer: the institutionalization of that mental disposition into a name-holding axis.
 
-### 3.3 Institutional Pivot: The *Wénshū-prajñā* Hinge of T1980
+### 3.3 Institutional Pivot: The *Wénshū-prajñā* Hinge of the *Wǎngshēng lǐzàn jié*
 
 The documentary hinge of Shandao's third move — the institutional pivot — is located *not* in the body of T1753 but in the preface of his ritual-praise compilation T1980 *Wǎngshēng lǐzàn jié*. The passage there constitutes the most explicit articulation of the *observation-to-recitation* pivot in the entire Shandao corpus:
 

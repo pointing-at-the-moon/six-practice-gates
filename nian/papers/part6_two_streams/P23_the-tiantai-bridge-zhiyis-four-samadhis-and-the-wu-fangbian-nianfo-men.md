@@ -118,7 +118,7 @@ The same fascicle 2 then supplies the inward gradation that makes the bridge int
 
 Three layers of recollective depth: *color-and-form → distinguishing dharmas → reality*; lower → middle → higher *power* (*shìlì* 勢力). Note: this is a *threefold* progression, not a fourfold. The popular *guān-xiàng / guān-xiǎng / shí-xiàng* fourfold has correspondences here — *image* to *color-and-form*, *visualization* to *distinguishing dharmas*, *reality* to *reality* — but Yunqi's later fourfold reorganization (§V) does not preserve the structure of this Vibhāṣā gradation; rather, it interweaves the *Móhē zhǐguān* threefold with the *Wǔ-fāngbiàn niànfó-mén* fivefold, then collapses both into a fourfold for late-Ming pedagogical use. The historical layering, again, is the work of §V.
 
-### 3.3 The fivefold *niànfó-sānmèi* gates of T1962: the perfect-teaching as ceiling
+### 3.3 The fivefold *niànfó-sānmèi* gates of the *Wǔ-fāngbiàn niànfó-mén*: the perfect-teaching as ceiling
 
 The Zhiyi-attributed *Wǔ-fāngbiàn niànfó-mén* contains the decisive typological move:
 

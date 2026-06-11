@@ -72,7 +72,7 @@ The **Chinese ritual-practice layer** consists of three works whose function is 
 
 The argument unfolds across five sub-sections: §III.1 treats vow one's main exposition, closure formula, and verses, isolating the joint operation of the three karmic modes and the figure of the *Indra's-net* reverence; §III.2 treats the ten-form ladder of reverence and the patriarchal phrase *"may rightly be called the Samantabhadra practice-vow reverence"*; §III.3 treats vow two and the *subtle tongue-faculty* together with the four unobstructed understandings, distinguishing this from lyrical encomium; §III.4 treats vow three's reversal of material offerings into the seven kinds of dharma-offering and applies the *"true offering"* textual hook to the Cook pushback; §III.5 binds the three vows together as a three-karma set on the basis of textual isomorphism within T0293 and convergence within Chinese ritual practice.
 
-### III.1 Vow One: Three-Karma Joint Operation and Indra's-Net Reverence
+### 3.1 Vow One: Three-Karma Joint Operation and Indra's-Net Reverence
 
 The main expository section of vow one reads:
 
@@ -99,7 +99,7 @@ The verse-section's central couplet-pair locks this structure:
 
 The three textual movements — main exposition, closure formula, verse — form a three-fold chiasmus, each reinforcing the other; the three-karma joint operation and the *Indra's-net* reverence stand as the doubled deep structure. Note in particular the verse-line *"with body, speech, and mind made pure"* (*wǒ yǐ qīngjìng shēn yǔ yì* 我以清淨身語意): the three-karma figure makes its appearance already in the verse — a textual prefiguring of the three-karma-set reading to be developed at §III.5.
 
-### III.2 The Ten-Form Ladder: *"May Rightly Be Called the Samantabhadra Practice-Vow Reverence"*
+### 3.2 The Ten-Form Ladder: *"May Rightly Be Called the Samantabhadra Practice-Vow Reverence"*
 
 If vow one's textual structure is clear, its practical structure is not flat. Chengguan, in the *Practice-and-Vow Chapter Commentary*, makes the move on which the present paper's principal argument turns: he supplements Ratnamati's (勒那摩提, the Northern-Wei translator at the Yongning Temple) original seven-form schema[^13] by adding three further forms, yielding ten — and within the ten he identifies precisely which forms belong to the *Practice-and-Vow Chapter*.
 
@@ -127,7 +127,7 @@ On the latter, Zongmi's exposition of the first (arrogant) reverence carries an 
 
 Master Zhi (志公, also Baozhi 寶誌, 418–514) had been rebuking the *non-contemplative arrogant reverence* — that is, prostration that is mere bodily form without inward contemplation. Later Chan readers, taking the line out of its commentarial context, generalised it to a wholesale dismissal of reverence-and-repentance practice; Zongmi judges this a one-sided extraction.
 
-### III.3 Vow Two: The Subtle Tongue-Faculty and Four Unobstructed Understandings — Not Lyrical Encomium
+### 3.3 Vow Two: The Subtle Tongue-Faculty and Four Unobstructed Understandings — Not Lyrical Encomium
 
 The main expository section of vow two reads:
 
@@ -147,7 +147,7 @@ The *subtle tongue-faculty* is not the bodily-organ tongue made aesthetically pl
 
 Read through these three layers, vow two's *"praising"* is not a lyrical hymn or a ritual chanting of a praise-formula. It is a structurally dense itemising act: an enumeration of items within the ocean of the tathāgatas' merits, each item extolled along the four dimensions of the four unobstructed understandings, and conducted with the seven qualities of eloquence. The verse-section's central couplet — *"With oceans of all voices, I pour forth inexhaustible exquisite words; for all kalpas of the future, I praise the ocean of buddhas' deep merits"*[^21] — names this joint operation. This reading directly corrects the standard Anglophone rendering — Cleary 1984's *"praise the Tathāgatas"* — when the rendering is taken in its lyrical-encomium register. The early-Pāli precedent in *Vinaya, Mahāvagga* I.22's *iti'pi so* nine-epithet formula[^22] and the parallel enumeration in T0125 *Ekottara-āgama* fascicle two of the Buddha's *body, countenance, virtue of discipline, samādhi, and wisdom-body*[^23] are the early forms of this formulaic enumeration. Vow two is the cosmological amplification of this format.
 
-### III.4 Vow Three: The Reversal from Material Offerings into the Seven Kinds of Dharma-Offering
+### 3.4 Vow Three: The Reversal from Material Offerings into the Seven Kinds of Dharma-Offering
 
 The main expository section of vow three reads:
 
@@ -157,7 +157,7 @@ The opening clause is structurally aligned with vows one and two: the same cosmo
 
 But vow three has its own internal architecture. Where vow one is governed throughout by the verb of *reverencing* and vow two by the verb of *praising*, vow three's main exposition is followed first by an enumeration of material offerings, and then by a *sūtra*-internal reversal — *"of all offerings, the dharma-offering is supreme"* — that pivots the centre of gravity from material adornment to the seven kinds of dharma-offering. The density and explicitness of this reversal furnish the steel column for the present paper's pushback against Cook's metaphysics-only reading of Huayan.
 
-#### III.4.1 The Material Offerings and the *"Dharma-Offering Is Supreme"* Reversal
+#### 3.4.1 The Material Offerings and the *"Dharma-Offering Is Supreme"* Reversal
 
 The material-offerings passage reads:
 
@@ -183,7 +183,7 @@ Chengguan, drawing on a Sanskrit collation, extends this definitional move:
 
 Chengguan thus elevates *dharma-offering* from a list of seven liturgical items to a normative reading: *dharma-offering* is not what is opposed to material offering but what defines the genuine offering. **Any offering that conforms to the practice-vow is a true offering; any that does not falls short.**
 
-#### III.4.2 The Seven Kinds of Dharma-Offering, Item by Item
+#### 3.4.2 The Seven Kinds of Dharma-Offering, Item by Item
 
 T0293's translation by Prajña enumerates the seven kinds of dharma-offering by name only; the definitions are supplied chiefly by Zongmi's *Detailed Sub-Commentary*. The first and the seventh are given here verbatim; the middle five are summarised in essence-paraphrase.
 
@@ -209,7 +209,7 @@ The first item, anchored in the citation chain *Treatise on the Great Perfection
 
 The first item begins from the alignment of word and practice; the seventh ends with the awakening-mind grounded in sentient beings. Read as a pair — the first and the seventh — the seven items disclose their internal logic: dharma-offering is not seven parallel meritorious acts but a single integrated bodhisattva practice that begins from word-and-practice alignment, is animated by the search for awakening for the sake of sentient beings, and is sustained by the awakening-mind for which sentient beings supply the very oxygen. The line *"Were there no sentient beings, no bodhisattva would attain perfect awakening"* is the patriarchal steel column of the present paper's verdict on the *outward-facing* character of vow three.
 
-#### III.4.3 Closure Formula, Verse, and the *"True Offering"* in the Pushback Against Cook
+#### 3.4.3 Closure Formula, Verse, and the *"True Offering"* in the Pushback Against Cook
 
 Vow three's closure formula follows the same pattern as vows one and two:
 
@@ -225,11 +225,11 @@ The phrases *"vast and supreme understanding-mind"* (*guǎngdà shèngjiě xīn*
 
 Returning to the section's opening claim: the *sūtra* itself executes a reversal — material offerings → *"of all offerings, the dharma-offering is supreme"* → *"true offering"* as definitional verdict. This textual movement is the steel column of the pushback against the metaphysics-only reading. When Huayan is read as metaphysics-only, vow three is treated as a poetic illustration of metaphysical principles. But the *sūtra* itself, ahead of any patriarchal commentarial layer, has already executed the ritual-and-vow-as-practice grounding: *true offering* is not contemplation, but practice; not metaphysical contemplation, but the bodhisattva's outward-facing work along seven specific axes. §IV will return to the application of this textual hook in detail.
 
-### III.5 The Three-Karma Set: Textual Isomorphism and Convergence in Chinese Ritual Practice
+### 3.5 The Three-Karma Set: Textual Isomorphism and Convergence in Chinese Ritual Practice
 
 The structural claim now comes into focus: vow one operates principally through body-karma (*"five limbs touching the ground," "supporting the buddha's feet earnestly," "one body manifesting bodies as numerous as dust-particles"*); vow two operates principally through speech-karma (*"the subtle tongue-faculty," "oceans of all words," "oceans of inexhaustible voice"*); vow three is led by mind-karma (*"vast and supreme understanding-mind, deeply trusting all buddhas of the three times"*). Read together, the three vows form **the body, speech, and mind halves of a three-karma set**. This claim is not the imposition of a later commentarial interpretation; it is an isomorphic triplet packaged at the textual level by the *sūtra* itself.
 
-#### III.5.1 The Textual Isomorphism of the Three Closure Formulas
+#### 3.5.1 The Textual Isomorphism of the Three Closure Formulas
 
 A side-by-side reading of the three closure formulas shows that they differ in only one verb — *reverence / praise / offering* — while all other elements are 99% identical:
 
@@ -241,7 +241,7 @@ A side-by-side reading of the three closure formulas shows that they differ in o
 
 The three vows share: (i) the same four-exhaustion-four-inexhaustion parameter structure (empty space, sentient beings, their karma, their afflictions); (ii) the same *"moment-by-moment continuous, without interruption"* temporal structure; (iii) the same *"body and speech and mind never wearying"* three-karma joint-operation coda. **Each individual vow already operates in all three karmic modes** — vow one's reverence is not pure body-karma, vow two's praising is not pure speech-karma, vow three's offering is not pure mind-karma — and the three vows taken together exhibit a *body → speech → mind* progression of outward emphasis. **The two-layer structure** — three karmas operating within each vow, three vows aligned along the body-speech-mind axis — is the doubled textual evidence for the present paper's three-karma-set reading. This is not the work of later commentators: it is the structure that Prajña's 798 CE translation already presents.
 
-#### III.5.2 Shandao's *Verses for the Six Times of Reverence-Praise* and the Direct Codification
+#### 3.5.2 Shandao's *Verses for the Six Times of Reverence-Praise* and the Direct Codification
 
 Shandao (613–681), in the preface to his *Verses for the Six Times of Reverence-Praise* (T1980), states the three-karma codification explicitly:
 
@@ -251,7 +251,7 @@ The same scheme reappears in the five-recollection-gateway sequence: *"the gatew
 
 Shandao's three-karma codification is structurally aligned, point for point, with Samantabhadra's vows one, two, and three: vow one (reverencing) corresponds to Shandao's body-karma gateway of prostration; vow two (praising) to Shandao's speech-karma gateway of praise; vow three (extensively making offerings) to Shandao's mind-karma gateway of recollection-and-contemplation. Although the surface verbs differ — *extensively making offerings* in Samantabhadra, *recollection-and-contemplation* in Shandao — both occupy the same structural position: a mind-karma-led outward-facing bodhisattva activity. *Recollection-and-contemplation of that buddha* is itself a specific form of mind-karmic offering: recollecting that buddha's merits, that buddha's pure-land, that buddha's original vow — the very content of each segment of the six-period reverence-praise schedule. **Shandao's three-karma mapping is the direct patriarchal codification of the three-karma-set reading of Samantabhadra's vows one, two, and three, and supplies the principal Chinese-ritual-practice anchor for the present paper.**
 
-#### III.5.3 Zhiyi's *Lotus Samādhi Repentance Liturgy*: Three Sections in Parallel
+#### 3.5.3 Zhiyi's *Lotus Samādhi Repentance Liturgy*: Three Sections in Parallel
 
 Zhiyi (538–597), in his *Lotus Samādhi Repentance Liturgy*, fascicle one, places three sections of the ten-section liturgy as parallel independent ritual segments:
 
@@ -259,7 +259,7 @@ Zhiyi (538–597), in his *Lotus Samādhi Repentance Liturgy*, fascicle one, pla
 
 The third (*three-karma offering*), the fifth (*praising the Three Jewels*), and the sixth (*prostrating to the buddhas*) stand as three independent ritual segments. Zhiyi establishes this liturgical ordering at the close of the sixth century — two centuries before the *Practice-and-Vow Chapter* is rendered into Chinese in 798 CE; the two systems, mutually independent within the textual record, converge on the same structural configuration: prostration, praise, and offering as the minimum unit of bodhisattva practice. **This independent cross-system convergence — that the three-karma set is not a later commentarial interpolation but the structure independently arrived at by both the Chinese repentance-liturgy tradition and the *Practice-and-Vow* textual tradition — is among the strongest supports for the present paper's principal argument.**
 
-#### III.5.4 Shandao's Five Right Practices as the Closing Convergence
+#### 3.5.4 Shandao's Five Right Practices as the Closing Convergence
 
 T1753 Shandao's *Commentary on the Sūtra of the Visualization of the Buddha of Immeasurable Life*, fascicle four, in the *Sǎn-shàn yì* section, establishes five right practices: reciting, contemplating, prostrating, calling-the-name, and praising-and-offering.[^35] The third (*"prostrating"*) corresponds to Samantabhadra's vow one; the fifth (*"praising-and-offering"*) corresponds to the merger of vows two and three.
 
@@ -448,7 +448,7 @@ X05n0229. *Detailed Sub-Commentary on the Practice-and-Vow Chapter* (also known 
 - Shandao. *Wangsheng Lizan Ge* (Verses for the Six Times of Reverence-Praise). T1980, *Taishō* vol. 47. 五念門中第五迴向門.
 - Ouyi Zhixu. *Amituo Jing Yaojie* (Essentials of the Amitābha Sūtra). T1762, *Taishō* vol. 37. 萬行司南.
 
-### III. Modern Scholarship
+### 3. Modern Scholarship
 
 Bell, Catherine. *Ritual Theory, Ritual Practice*. New York: Oxford University Press, 1992.
 

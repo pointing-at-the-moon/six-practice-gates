@@ -62,7 +62,7 @@ The chapter inherits the equipment established in Part I (P01–P04): the *anuss
 
 ## II. Canonical Basis
 
-### 2.1 Basic Information on T0418
+### 2.1 Basic Information on the *Pratyutpanna-Samādhi Sūtra*
 
 The primary source of this chapter is the *Bānzhōu sānmèi jīng* 般舟三昧經 in its three-fascicle recension, *Taishō Tripiṭaka* vol. 13, no. 418, translated by Lokakṣema at Luoyang in the second year of the Guānghé era of Emperor Líng of the Later Han (179 CE). The text runs across sixteen chapters (*pǐn* 品) and comprises roughly 25,000 CJK characters. A shorter single-fascicle translation by the same hand is catalogued as T0417, and a further variant—the *Bá-pō púsà jīng* 拔陂菩薩經 attributed to Lokakṣema—as T0419. All citations in this chapter are from the three-fascicle T0418 text unless otherwise noted.[^1]
 

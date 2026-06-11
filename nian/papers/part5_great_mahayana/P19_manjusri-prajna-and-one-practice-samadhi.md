@@ -70,11 +70,11 @@ P17 on the *Laṅkāvatāra* completed the seventh verb-axis layer (*seeing-the-
 
 ---
 
-## II. Canonical Grounding — T0232's *Locus Classicus*, T0233's Philological Instability, and the Structural Low Threshold
+## II. Canonical Grounding — the *Mañjuśrī Prajñā Sūtra*'s *Locus Classicus*, the Saṃghavarman Recension's Philological Instability, and the Structural Low Threshold
 
 This chapter establishes the canonical grounding of P19 on three levels. §2.1 restores the *locus classicus* of T0232's one-practice samādhi passage and flags the six-layer structure of its practice-instruction. §2.2 handles the philological instability of T0233 at the parallel passage — the compound "one-practice samādhi" as a stable term hangs on the T0232 textual line only. §2.3 argues that the T0232 passage's structural low threshold — low preliminary bar, variable direction, abstract one-buddha — is the textual reason the passage can bear six different stances among the six masters.
 
-### 2.1 The *Locus Classicus* of the T0232 One-Practice Samādhi Passage (Fascicle Two)
+### 2.1 The *Locus Classicus* of the *Mañjuśrī Prajñā Sūtra*'s One-Practice Samādhi Passage (Fascicle Two)
 
 In fascicle two of T0232, Mañjuśrī addresses the Buddha: "World-Honored One! What practice, performed in what manner, leads quickly to *anuttara-samyak-saṃbodhi*?" The Buddha first answers "Practice as taught in the *prajñāpāramitā*," then continues: "And there is further a one-practice samādhi... which likewise leads quickly to *anuttara-samyak-saṃbodhi*" (translation mine). Mañjuśrī immediately presses the question further:
 
@@ -102,7 +102,7 @@ The practice fruit extends, beyond "seeing the buddhas of the three periods," in
 
 The T0232 one-practice samādhi passage is complete here. The doctrinal skeleton of the whole passage is: **ontological naming through the single mark of the *dharmadhātu* → preliminary of hearing prajñā → six-layer method of binding-to-one-buddha, solely invoking the name, following the direction → fruit of seeing the three-periods buddhas through recollection of one → ontological ground in single suchness → closure through two similes.** The whole passage runs under six hundred characters. Its structure is tight, its operational instructions concrete, its ontological position sharp. This is the *locus classicus* that the six Chinese masters each go on to cite.
 
-### 2.2 The Philological Instability of T0233 — "One-Practice Samādhi" as a Stable Compound Hangs on T0232 Alone
+### 2.2 The Philological Instability of the Saṃghavarman Recension — "One-Practice Samādhi" as a Stable Compound Hangs on the *Mañjuśrī Prajñā Sūtra* Alone
 
 The *Mañjuśrī-prajñāpāramitā-sūtra* (translated by Saṃghavarman, T0233; one fascicle in the current CBETA edition) is an independent Chinese translation of the same Sanskrit textual system as T0232.[^11] The textual shape of the two translations at the one-practice samādhi passage differs enormously. The critical fact: **the compound "one-practice samādhi" never once appears in T0233.**
 
@@ -122,7 +122,7 @@ This difference cannot be read as "T0233 does not handle *niàn-fó*." T0233 has
 
 The implication for P19: **"One-practice samādhi" as a stable compound (*stable compound*) is philologically present in the T0232 textual line only.** When later Tiantai, Chan, Pure Land, and confluence masters cite "one-practice samādhi," they are citing a specific compound and a specific textual context that belongs to Mandrasena's T0232 translation, not a trans-translation shared concept. This observation will resurface in §3.4 when treating Zhiyi — the *Mohe Zhiguan*'s fascicle-two labeling of T0232 and T0233 **simultaneously** as the sources of "one-practice samādhi" is a creative philological operation, not a factual reportage of the textual evidence.
 
-### 2.3 The Structural Low Threshold of the T0232 One-Practice Samādhi Passage — Why Six Stances Are Possible
+### 2.3 The Structural Low Threshold of the *Mañjuśrī Prajñā Sūtra*'s One-Practice Samādhi Passage — Why Six Stances Are Possible
 
 §§2.1 and 2.2 have established the *locus classicus* of the T0232 one-practice samādhi passage and its philological stability. This section argues the textual reason why the passage can bear six different stances from six masters: on three distinct levels, the T0232 original leaves **structural room** such that any of the later houses can insert its own interpretation without philological illegitimacy.
 

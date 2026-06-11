@@ -56,7 +56,7 @@ This chapter continues the fourth layer of the NIAN verbal-grammar longitudinal 
 
 ## II. Canonical Grounding
 
-### 2.1 The Universal Gate Chapter (T0262, Fascicle 7)
+### 2.1 The Universal Gate Chapter (*Lotus Sūtra*, Fascicle 7)
 
 The Universal Gate Chapter, Chapter 25 of Kumārajīva's (*Jiūmóluóshí* 鳩摩羅什) *Lotus Sūtra* (composed in 406 CE, eighth year of Hongshi of the Later Qin), stands in Fascicle 7 as the twenty-fifth chapter of the sūtra — after the Chapter on the Merits of the Dharma-Teacher and the Bodhisattva Never Disparaging Chapter of Fascicle 6, and before the *Dhāraṇī* Chapter, the Chapter on King Śubhavyūha of Old, and the Chapter on the Encouragement of Samantabhadra of Fascicle 7.[^4] The chapter opens with Bodhisattva Akṣayamati (*Wújìnyì* 無盡意) posing the question as a narrative hook:
 
@@ -90,7 +90,7 @@ The verses at the end of the chapter are the core material for §3.2's argument.
 
 The main verb of the chapter's prose is *chēng* 稱 (single-mindedly invoke the name, invoke the name-title), while the main verb of the verses is *niàn* 念 (recollect that Avalokita's power, therefore constantly recollect, recollection upon recollection let no doubt arise). This prose/verse verbal differentiation is the canonical basis of the §3.2 dual-track argument.
 
-### 2.2 The Expedient Means Chapter (T0262, Fascicle 1)
+### 2.2 The Expedient Means Chapter (*Lotus Sūtra*, Fascicle 1)
 
 The Expedient Means Chapter, Chapter 2, stands in Fascicle 1 as the first narrative chapter following the opening Introductory Chapter. Its core doctrinal content consists of the *ultimate-reality* (*zhūfǎ shí-xiàng* 諸法實相) teaching of the "ten suchnesses" (appearance, nature, substance, power, function, cause, condition, effect, retribution, ultimate coherence of beginning and end) and the "opening the three to reveal the one" (the ten-direction buddha-realms contain only a one-vehicle dharma, there being neither two nor three except as the Buddha's expedient teaching).[^8] This chapter does not treat the doctrinal content of Expedient Means as a whole — that belongs to the theme of Lotus *teaching-classification*, not to the scope of name-invocation verbal grammar. This chapter extracts only the *bodily-karma verses* and the *scattered-mind single-invocation verses* of the Expedient Means verse-section, as sūtra-evidence for §3.1's bodily-karma architecture and §3.3's scattered-mind / single-minded dual pole.
 
@@ -112,7 +112,7 @@ The structural significance of this passage: Expedient Means accepts that **non-
 
 These four lines constitute the Lotus's lowest threshold for name-invocation: scattered mind (not requiring single-mindedness), entering a stūpa or shrine (not requiring meditation practice), a single invocation (not requiring sustained holding), "Homage to the Buddha" (not requiring a designated Buddha-name) — four negating conditions, each pushing the threshold to its minimum — while the fruition is "have already completed the Buddha-path," the highest fruition. This is one end of the §3.3 single-sūtra dual-pole argument.
 
-### 2.3 The Bodhisattva Never Disparaging Chapter (T0262, Fascicle 6)
+### 2.3 The Bodhisattva Never Disparaging Chapter (*Lotus Sūtra*, Fascicle 6)
 
 The Bodhisattva Never Disparaging Chapter, Chapter 20, stands in Fascicle 6, after the Chapter on the Merits of the Dharma-Teacher and before the Chapter on the Tathāgata's Spiritual Power. The chapter recounts Bodhisattva Never Disparaging's reverence-practice during the semblance-dharma final age of Buddha King of Awesome Sound (*Wēiyīn-wáng fó* 威音王佛):[^9]
 
@@ -128,7 +128,7 @@ The chapter's closing section forms a cross-sūtra mirror with P12:[^10]
 
 Never Disparaging's *final-moment purification of the six sense-faculties* — this is the P12 *Śūraṅgama* "gather in the six sense-roots, with pure recollection uninterrupted" teaching presented in another vector. P12 is **gathering the roots inward** (the six faculties quiescent and integrated in a single buddha-recollecting mind); Never Disparaging is **gathering the roots outward** (the six faculties purified at the terminus of reverence toward beings). The former's fruit is certified through stillness-cultivation; the latter's fruit is evoked through reverence. Both return to the purification of the six sense-faculties, but in opposite vectors — §3.1 takes this cross-sūtra mirror as structural evidence that "bodily-karma reverence is itself a complete form of buddha-recollection," without needing to import external argument from other buddha-recollection traditions.
 
-### 2.4 The T0263 Guangshiyin Parallel and an Overview of Zhiyi's *Commentary on the Words*
+### 2.4 The *Zheng Fahua Jing* Guangshiyin Parallel and an Overview of Zhiyi's *Commentary on the Words*
 
 The *Sūtra of the Correct Dharma-Flower* (*Zhèng Fǎhuá Jīng* 正法華經, T0263) was translated by Dharmarakṣa (*Zhú Fǎhù* 竺法護) in the seventh year of Taikang (286 CE) of the Western Jin — the earliest extant complete Chinese translation of the *Lotus Sūtra*, predating Kumārajīva's T0262 by 120 years.[^11] The corresponding chapter in T0263 stands in Fascicle 10 as Chapter 23 (T0263 contains 27 chapters total, Kumārajīva's T0262 has 28; the chapter divisions differ), with the translated title "Universal Gate Chapter on the Light of the World's Sounds" (*Guāngshìyīn pǔmén pǐn* 光世音普門品), rather than "Universal Gate Chapter on the Contemplator of the World's Sounds." The key verbal difference between the two translations: T0262 uses *yīxīn chēngmíng* 一心稱名 ("single-mindedly invoke the name"), while T0263 uses *yīxīn zì-guī* 一心自歸, *jīshǒu guī-mìng* 稽首歸命, and *shēn-mìng zì-guī* 身命自歸 — Kumārajīva's *chēng* is vocal-karma vocalization, whereas Dharmarakṣa's *guī* ("turn toward, entrust") is body-mind orientation. More crucially, T0263's name-invocation merit-comparison section contains explicitly the four characters *zhíchí míng-hào* 執持名號 ("holding the name"):
 

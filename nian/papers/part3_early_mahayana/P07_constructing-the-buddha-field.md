@@ -60,7 +60,7 @@ This paper argues three things.
 
 ## II. Canonical Basis
 
-### 2.1 The Existing Ground of T0418
+### 2.1 The Existing Ground of the *Pratyutpanna-samādhi Sūtra*
 
 P06 dealt in detail with the visionary architecture of T0418. This section marks only the passages from T0418 that are indispensable as the starting platform for §III; the full treatment has been carried out already.
 
@@ -84,7 +84,7 @@ The question itself presupposes that Amitābha's buddha-field is reachable by so
 
 **The summary point.** T0418 already possesses the syntactic structure of a rebirth-mechanism (destination + means-of-access + cultivation-producing-destination). But in T0418 this structure is *scattered*: there is no systematic list of vows, no detailed enumeration of buddha-field qualities, and no comparison among candidate buddha-fields prior to buddhahood. The structuring work is the contribution of T0313 and T0361.
 
-### 2.2 T0313 *Akṣobhyavyūha*: The Akṣobhya Line
+### 2.2 The *Akṣobhyavyūha*: The Akṣobhya Line
 
 *Ā-chù fó guó jīng* 阿閦佛國經 (*Akṣobhyavyūha-sūtra*), translated by Lokakṣema in the Later Han, two fascicles, *Taishō* vol. 11 no. 313 (in the *Ratnakūṭa* division). Same translator as T0418, roughly the same period; both Zürcher and Nattier accept this sūtra as a core text of the Lokakṣema corpus.[^4]
 
@@ -98,7 +98,7 @@ The question itself presupposes that Amitābha's buddha-field is reachable by so
 
 **The summary point.** The axial structure of T0313's buddha-field is the *bodhisattva's own non-disturbance*—the very etymology of "Akṣobhya." The field is the byproduct of that non-disturbance. The focus of the vows is "what I will not do"—no anger, no lust, no theft—*not* "what I will give to those who come to be born." The soteriological optimization target is the bodhisattva's own self-steadying; the field is its result, not its instrument.
 
-### 2.3 T0361 *Wúliàng qīngjìng píngděng jué jīng*: The Early Amitābha Line
+### 2.3 The *Wúliàng qīngjìng píngděng jué jīng*: The Early Amitābha Line
 
 *Fó shuō wúliàng qīngjìng píngděng jué jīng* 佛說無量清淨平等覺經, traditionally attributed to Lokakṣema, four fascicles, *Taishō* vol. 12 no. 361 (*Ratnakūṭa* division). The translator attribution has been contested in modern scholarship (Harrison 1987 and Nattier 2008 have variously suggested Zhi Qian or joint translation); this paper does not enter the philological debate and adopts only the minimal consensus: *this sūtra belongs to the early Chinese Sukhāvatīvyūha translations produced in the Luoyang-to-Jianye workshops of the late second through early third centuries, with a translation date approximately contemporary with or slightly later than T0418*.[^6] It runs roughly parallel to T0313.
 
@@ -122,7 +122,7 @@ The first vow is *absence of evil destinies in the land* (a residential conditio
 
 T0361's 24-vow system is shorter than T0360's 48-vow system, but the architecture is already complete: each vow opens with "When I have become a buddha…" and closes with "if this is not fulfilled, I shall not become a buddha." This conditional-vow format (the "if-not-X-then-not-buddhahood" formula) is the skeleton of the entire Amitābha-line vow tradition. The 48-vow version *expands, refines, and locally adds* (for example, the eighteenth vow's "even ten recollections" clause); **it does not rebuild**.
 
-### 2.4 The Zhi Qian Recension (T0362)
+### 2.4 The Zhi Qian Recension
 
 *Fó shuō Āmítuó sānyé sānfó sàlóu fó tán guòdù réndào jīng* 佛說阿彌陀三耶三佛薩樓佛檀過度人道經, translated in the Wu kingdom by the Yuezhi lay translator Zhi Qian 支謙, two fascicles, *Taishō* vol. 12 no. 362, dating to approximately the early third century. It is another Chinese translation from the same *Sukhāvatīvyūha* text-family as T0361. The narrative structure runs closely parallel; Ānanda's question is almost word-for-word shared with T0361:
 
@@ -147,7 +147,7 @@ The four sūtras cited above (T0418, T0313, T0361, T0362) use the following prin
 
 ## III. Central Argument
 
-### 3.1 T0418 as the Nascent Opening of Buddha-Field Ontology
+### 3.1 The *Pratyutpanna-samādhi Sūtra* as the Nascent Opening of Buddha-Field Ontology
 
 P06 argued that T0418 introduced the visionary register, that it established the three-fold semantics of "presence" (temporal immediacy, spatial facing, cognitive immediacy), and that it welded visionary seeing to *śūnyatā* self-deconstruction from the first. The present section adds a dimension that P06's conservative framing left partially shadowed: T0418 not only opened the visionary *samādhi*, it simultaneously opened the grammatical structure of the buddha-field *as a destination to which one can be born*.
 
@@ -163,7 +163,7 @@ But T0418's opening has one structural deficiency: **it lacks a comparative dime
 
 T0313 and T0361 each, in different ways, supply floor plans.
 
-### 3.2 T0313's Akṣobhya Line: A Buddha-Field Axially Organized Around Self-Restraint
+### 3.2 The *Akṣobhyavyūha*'s Akṣobhya Line: A Buddha-Field Axially Organized Around Self-Restraint
 
 T0313 responds to T0418's opening on two levels.
 
@@ -173,7 +173,7 @@ T0313 responds to T0418's opening on two levels.
 
 **The soteriological optimization target**: self-steadiness. The welfare of the land's inhabitants (as in the passages about safe childbirth, the blind regaining sight, the deaf regaining hearing) are mentioned as meritorious consequences—but they are not *the focus at the moment of vow-making*. Those benefits appear in the description of the three-thousandfold world-system's auspicious signs at the moment Mahānetra gives Akṣobhya his prediction of buddhahood, not in the clauses of Akṣobhya's own vows.
 
-### 3.3 T0361's Amitābha Line: A Buddha-Field Axially Organized Around Salvific Reception, with a Constructional Ontology
+### 3.3 The *Wúliàng qīngjìng píngděng jué jīng*'s Amitābha Line: A Buddha-Field Axially Organized Around Salvific Reception, with a Constructional Ontology
 
 T0361's response to T0418 takes an entirely different road.
 

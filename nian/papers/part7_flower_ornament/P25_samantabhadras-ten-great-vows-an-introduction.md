@@ -77,9 +77,9 @@ On the commentary side: Chengguan's *Great Commentary on the Avataṃsaka* (T173
 
 ## III. Structural Analysis: A Four-Layered Argument
 
-This section develops the argument in four layers: the structural wholeness of the ten great vows (III.1), the architecture of *Entering the Dharmadhātu* (III.2), the *locus classicus* of dharma-realm buddha-recollection within T0293 itself (III.3), and the textual seam from Part VI to Part VII (III.4).
+This section develops the argument in four layers: the structural wholeness of the ten great vows (3.1), the architecture of *Entering the Dharmadhātu* (3.2), the *locus classicus* of dharma-realm buddha-recollection within the *forty-fascicle Avataṃsaka* itself (3.3), and the textual seam from Part VI to Part VII (3.4).
 
-### III.1 The Structural Wholeness of the Ten Great Vows
+### 3.1 The Structural Wholeness of the Ten Great Vows
 
 T0293 fascicle forty opens with Samantabhadra, having extolled the merits of the tathāgatas, addressing the assembled bodhisattvas and Sudhana:
 
@@ -107,7 +107,7 @@ The composite, then, is what the present paper calls structural wholeness. The *
 
 A methodological aside is owed at this point. The order of enumeration — reverencing → praising → offering → repenting → rejoicing → requesting → asking-to-abide → following → according → dedicating — is itself not arbitrary. From bodily reverence, vocal praise, and mental offering (the three doors of action paying respect) to repenting and rejoicing (the self–other relational pair), to requesting-and-asking (the petitionary pair), to following-and-according (the sustained-practice pair), to universal dedication (the totalizing closure), the sequence has its own internal logic. But the point of this section is the structural mechanism that binds the ten as a whole, not the inner content of each. The exposition of each vow's particular content — what reverence does, what praise involves, the typology of offering, and so on — is the proper subject of P26 through P29 and is not undertaken here.
 
-### III.2 The Architecture of *Entering the Dharmadhātu*
+### 3.2 The Architecture of *Entering the Dharmadhātu*
 
 The second layer requires stepping back into the *Entering the Dharmadhātu* chapter (*Gaṇḍavyūha*) of the *Avataṃsaka* as a whole. The eighty-fascicle recension (T0279) places this chapter in its final nine fascicles, narrating the journey of the youth Sudhana, who after generating the awakening-mind under Mañjuśrī travels southward to visit fifty-three teachers — the monk Meghaśrī, the monk Sāgaramegha, the monk Supratiṣṭhita, the elder Megha, the lay-elder Vimuktika, and so on — culminating in encounters with Maitreya, with Mañjuśrī once again, and finally with Samantabhadra. This fifty-three-visit sequence is not arbitrarily ordered. Chengguan, in his *Great Commentary*, writes:
 
@@ -127,7 +127,7 @@ This relation — *architecture before content* — is one of the central judgme
 
 This judgment in turn opens the third layer. If the ten great vows are the terminal content of the *Entering the Dharmadhātu* architecture, then the twenty-one gates of buddha-recollection at the mouth of the lay-elder Vimuktika in T0293 fascicle four — Vimuktika being the fifth teacher Sudhana visits in his southward journey — are the buddha-recollection architecture taught in the chapter's middle stretch. The early-encountered buddha-recollection architecture and the terminal vow-architecture of fascicle forty are the head and tail of the same body of text.
 
-### III.3 The Locus Classicus of Dharma-Realm Buddha-Recollection within T0293 Itself
+### 3.3 The Locus Classicus of Dharma-Realm Buddha-Recollection within the *Forty-Fascicle Avataṃsaka* Itself
 
 The third layer makes the central claim of this paper. *Dharma-realm buddha-recollection* (*dharmadhātu-buddhānusmṛti* 法界念佛) is not a category invented by the later Huayan school as a hermeneutic frame imposed upon the sūtra; its textual *locus classicus* is *within* the *Avataṃsaka* itself.
 
@@ -173,7 +173,7 @@ A conclusion follows. *Dharma-realm buddha-recollection* in Part VII is not a sy
 
 A precaution is owed. This argument is not the claim that dharma-realm buddha-recollection is the *only* legitimate form of buddha-recollection. The name-recitation, the four *samādhis*, and the late-imperial Pure Land–Chan integration each have their own textual originals and practice-lineages, set out in P20 through P24. The argument here is more limited and more precise: that T0293 fascicle four's twenty-one gates of buddha-recollection, fascicle thirty-nine's *moment-by-moment* eleven *prajñā-pāramitās*, and fascicle forty's ten great vows together with the *moment-by-moment continuous* formula constitute a textual-internal architecture that can encompass the Part VI buddha-recollection axis in its various entries. That architecture is *dharma-realm buddha-recollection* in its own textual original.
 
-### III.4 The Textual Seam from Part VI to Part VII
+### 3.4 The Textual Seam from Part VI to Part VII
 
 The fourth layer is the joining: the textual seam through which the Part VI confluence reaches Part VII runs along the closing of T0293 fascicle forty itself.
 
@@ -236,7 +236,7 @@ But Cook's framing has a consequential gap. The ritual-and-devotional axis — r
 
 More crucially: T0293 itself does not separate metaphysics from ritual-devotional practice along two distinct tracks. Fascicle four's twenty-one gates of buddha-recollection interweave dharma-realm pervasiveness (a metaphysical structure) with the practice of buddha-recollection (a ritual-devotional act). Fascicle forty's ten great vows are at once rituals of reverencing and a metaphysically-extended temporal structure (*moment-by-moment continuous, exhaustionless future-without-end*). Yunqi's late-Ming joining in fascicle four of the *Shūchāo* did not impose metaphysics upon devotion; it followed the dual axis the sūtra itself had laid down.
 
-The push-back, accordingly, is not that Cook is *wrong*. His metaphysics-of-totality reading is well-founded within the texts he chose to foreground. The push-back is that the framing is *incomplete*. A more adequate reading of the *Avataṃsaka* has to draw the ritual-devotional axis back into view — exactly the work that §III.3 and §III.4 of this paper have undertaken. The evidence is concrete: fascicle four's twenty-one gates of buddha-recollection (the metaphysics-and-recollection interweaving), fascicle forty's closing on the moment-of-death birth in the Land of Bliss (the metaphysics-of-totality drawn down into the most particular of practices), and Yunqi's *Shūchāo* fascicle four on the ten vow-kings leading to the Land of Bliss (the late-imperial masters' continuation of this textual direction) — none of these are visible within Cook's frame, but all are central to T0293's own structure.
+The push-back, accordingly, is not that Cook is *wrong*. His metaphysics-of-totality reading is well-founded within the texts he chose to foreground. The push-back is that the framing is *incomplete*. A more adequate reading of the *Avataṃsaka* has to draw the ritual-devotional axis back into view — exactly the work that §3.3 and §3.4 of this paper have undertaken. The evidence is concrete: fascicle four's twenty-one gates of buddha-recollection (the metaphysics-and-recollection interweaving), fascicle forty's closing on the moment-of-death birth in the Land of Bliss (the metaphysics-of-totality drawn down into the most particular of practices), and Yunqi's *Shūchāo* fascicle four on the ten vow-kings leading to the Land of Bliss (the late-imperial masters' continuation of this textual direction) — none of these are visible within Cook's frame, but all are central to T0293's own structure.
 
 ### Gregory's Sinification Narrative Misses a Dimension
 

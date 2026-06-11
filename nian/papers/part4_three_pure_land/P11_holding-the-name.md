@@ -61,7 +61,7 @@ The present paper argues T0366 as **a designed minimalist architecture** through
 
 ## II. Scriptural Foundations
 
-### 2.1 T0366: Textual Skeleton and the Holding-the-Name Passage
+### 2.1 The *Amitābha Sūtra*: Textual Skeleton and the Holding-the-Name Passage
 
 The *Amitābha Sūtra* (T0366) was translated by Kumārajīva in Later Qin, Hongshi 4 (402 CE) in one fascicle of approximately 1,800 Chinese characters.[^2] The full sūtra divides into three sections: *preface* (audience and setting) → *main exposition* (the dependent and direct retributions of the Land of Bliss + holding the name + witness by buddhas of the six directions) → *circulation* (the three-time-tense aspiration + the five defilements). Unlike T0360's vow-making-and-fulfillment dual-axis narrative, and unlike T0365's sixteen-layered contemplation-ladder opened from Vaidehī's distress-petition, T0366 has no vow-number, no contemplation-number, and no stage-ranking — the entire sūtra requires only a single address to "Śāriputra" for the Buddha to proceed without being asked, not waiting for an assembly-petition.
 
@@ -77,7 +77,7 @@ The **witness by buddhas of the six directions** (east, south, west, north, belo
 
 The circulation-portion closes with a three-time-tense aspirational structure — "already-made-vow / presently-making-vow / will-make-vow → already-reborn / presently-reborn / will-be-reborn" — and concludes with the tension of the five defilements, explaining Śākyamuni Buddha's achievement of buddhahood amid "the defilement of the eon, the defilement of views, the defilement of afflictions, the defilement of sentient beings, the defilement of life-span" and his expounding "a dharma difficult for all worlds to believe."[^7] The ease of the Land of Bliss and the difficulty of the Sahā world form mirror images of each other — the structural confrontation at the very end of T0366.
 
-### 2.2 Chronological Hard Evidence: T0366 (402 CE) Precedes T0360 and T0365
+### 2.2 Chronological Hard Evidence: The *Amitābha Sūtra* (402 CE) Precedes the *Sūtra of Immeasurable Life* and the *Sūtra on the Contemplation of Amitāyus*
 
 T0366 was translated by Kumārajīva in Later Qin, Hongshi 4 (402 CE); T0365 was translated by Kālayaśas in the Liu-Song Yuanjia period (424–442 CE), twenty to forty years later; T0360 is traditionally ascribed to Saṃghavarman in Cao-Wei, Jiaping 4 (252 CE), but modern scholarship has shown that its actual textual completion must fall somewhere between the Eastern Jin and the Liu-Song (fourth–fifth century), and the translator's identity is itself disputed.[^8] **T0366 is the earliest-translated of the Three Pure Land Sūtras in Chinese**.
 
@@ -85,7 +85,7 @@ The significance of this chronological fact lies not at the level of bibliograph
 
 The correct framing is: T0366, T0360, and T0365 each distill one type of entry-action from the pre-fifth-century Indian Pure Land thought-space. T0360 distills the **vow-layer** (the vow-power structure that produces the adornments of both dependent and direct retributions); T0365 distills the **contemplation-layer** (seeing the Buddha and the land through a cognitive-visual ladder); T0366 distills the **name-layer** (taking the holding-to of the Buddha's name as the single entry-action). The three are parallel, complementary, non-subordinate — together forming the three parallel channels by which the Indian Pure Land tradition entered the Chinese cultural region.
 
-### 2.3 Xuanzang's T0367: Philological Contrast Along Six Divergences
+### 2.3 Xuanzang's *Chēngzàn jìngtǔ fó shèshòu jīng*: Philological Contrast Along Six Divergences
 
 Xuanzang's *Sūtra on the Praise of the Pure Land and the Protection of the Buddha* (*Chēngzàn jìngtǔ fó shèshòu jīng* 稱讚淨土佛攝受經, T0367, 650 CE) is a retranslation based on a different Sanskrit recension, and diverges from T0366 at six philological points:[^9]
 
@@ -102,7 +102,7 @@ The three most significant items are 1, 2, and 3. Item 1, "holding the name" ver
 
 These six divergences carry a twofold implication for the main thesis of this paper: (a) T0366's minimalism is a **translator's word-choice within the Kumārajīva translation workshop**, not a late compression act — "*zhíchí* / *yī-xīn*" is a *translation event*, not a *doctrinal compression event*; (b) T0367, despite being closer to the Sanskrit and structurally more elaborate, did *not* supplant T0366 in Chinese reception — because Kumārajīva's literary distillation fit Chinese expressive habits more naturally and thereby locked in the practice-vocabulary of East Asia for the next sixteen hundred years.
 
-### 2.4 Zhuhong's *Commentary and Notes on the Amitābha Sūtra* (X0424): Philology of "Holding" and the Phenomenal-and-Principial Dual Exegesis
+### 2.4 Zhuhong's *Commentary and Notes on the Amitābha Sūtra*: Philology of "Holding" and the Phenomenal-and-Principial Dual Exegesis
 
 Yunqi Zhuhong (雲棲祩宏, 1535–1615), also known by the soubriquet Lianchi (蓮池, "Lotus Pond"), completed his *Commentary and Notes on the Amitābha Sūtra* (X0424) in four fascicles in 1595; it is the most comprehensive systematic commentary on T0366 in the late Ming. Four points are drawn here.[^10]
 
@@ -126,7 +126,7 @@ This is a late-Ming commentarial declaration of authority: T0365's contemplation
 
 **Fourth, ten-gate frame ↔ five-fold profound meaning.** (Fascicle 1): Zhuhong reads T0366 using the *Huayan Commentary*'s ten-gate frame (condensed into Tiantai's five-fold profound meaning, *wǔchóng xuányì* 五重玄義), classifying the sūtra as "the sudden teaching partly subsumed by the perfect teaching" — lifting T0366 out of the "minor sūtra of dispersed good" category and placing it on par with the *Avataṃsaka* and *Lotus* as a sudden-and-perfect scripture.[^14]
 
-### 2.5 Zhixu's *Essential Explanation of the Amitābha Sūtra* (T1762): The Six Faiths and Faith-Vow-Practice
+### 2.5 Zhixu's *Essential Explanation of the Amitābha Sūtra*: The Six Faiths and Faith-Vow-Practice
 
 Ouyi Zhixu (蕅益智旭, 1599–1655) completed his *Essential Explanation of the Amitābha Sūtra* in nine days in 1647 at the age of forty-nine; the work is one fascicle and applies Tiantai's five-fold profound meaning to T0366. Three points are drawn here.[^15]
 
@@ -274,19 +274,19 @@ The popular reading — especially prominent in the contemporary Western mindful
 
 Correction: Zhuhong's *Commentary and Notes*, Fascicle 3, establishes the philological gloss explicitly — "*zhí*: with resolute courage, not to be shaken; *chí*: in abiding fidelity, not to be forgotten."[^33] Holding the name is an action whose execution *simultaneously* requires **six mind-actions** (resolute + courage + not-to-be-shaken + abiding + fidelity + not-to-be-forgotten), not mechanical repetition. Catching-hold must be decisive and resolute; keeping-hold must be steadfast and unforgotten — at any moment, if any one of these six loosens, "holding" has already been broken. To read "holding" as mindless repetition is to misread a highly disciplined mental action as a mere vocal action.
 
-### ❌ Misreading 2: T0366 = Retrospective Compression of T0360 + T0365
+### ❌ Misreading 2: The *Amitābha Sūtra* as Retrospective Compression of the *Sūtra of Immeasurable Life* + the *Contemplation Sūtra*
 
 The popular reading — including parts of the vernacular homiletic tradition within Chinese Pure Land circles and the introductory literature of Western Pure Land studies — presupposes that T0366's minimalism is a reactive compression issued after T0360's vow-architecture and T0365's contemplation-architecture were already in place: because the first two sūtras are too elaborate, too difficult, and too long, a third brief-and-easy T0366 was produced as "the easy-version."
 
 Correction: §2.2 has established the philological chronology — T0366 (Kumārajīva, 402 CE) precedes T0365 (Kālayaśas, 424–442 CE) by twenty to forty years, and precedes T0360 (actual textual completion in the fourth–fifth century) by more than a generation. The compressed object cannot precede — in Chinese translation — the objects it is said to compress. The compression hypothesis is chronologically sealed. T0366's minimalism is its intrinsic character, originating in Kumārajīva's translation-workshop distillation of an early six-direction Sanskrit recension (§3.1), not a late compression. The three sūtras are three parallel independent transmissions constituting three access channels (§3.3), not a single-line derivation chain.
 
-### ❌ Misreading 3: T0366 Is Shallow and Suitable for Unsupervised Self-Study by Beginners
+### ❌ Misreading 3: The *Amitābha Sūtra* Is Shallow and Suitable for Unsupervised Self-Study by Beginners
 
 The popular reading — often found in contemporary Chinese introductory literature and English-language popularizations — positions T0366 as "the easiest of the three to enter, suitable as a self-study introduction for beginners," and recommends that beginners first read this sūtra before gradually moving on to T0360 / T0365.
 
 Correction: Zhixu's *Essential Explanation* establishes explicitly the "hard-among-the-hard five-layer graduation":[^34] difficulty of being born as a human → difficulty of hearing the Buddha-Dharma → difficulty of hearing the Pure Land dharma-gate → difficulty of hearing the name-holding dharma-gate → **difficulty of believing in this dharma-gate**. T0366's "difficulty" lies not in the complexity of its content but in the cognitive requirements of **faith** — if any one of the six faiths is not in place, the structural precondition of "holding the name" does not obtain. Beneath dispersed thinking, the action can continue even while the six faiths may all be missing; "apparently simple" name-holding in fact demands the subtlest faith-roots. T0366 is not "shallow" — it is a sūtra whose surface is simple but whose depth is subtle and intricate. Beginners without exegetical companionship and without a complete faith-root architecture will find it extremely difficult to penetrate the core design of this sūtra on their own.
 
-### ❌ Misreading 4: Yinguang's "Even if an Ancient Buddha Returned He Could Not Surpass This" Praise Is from T1762's Main Text
+### ❌ Misreading 4: Yinguang's "Even if an Ancient Buddha Returned He Could Not Surpass This" Praise Is from the *Essential Explanation*'s Main Text
 
 The popular practice — including parts of contemporary academic citation of Zhixu's *Essential Explanation* — attributes Master Yinguang's famous praise "even if an ancient Buddha were to return, he could not surpass this" to the main text of T1762, using it to reinforce the authority of Zhixu's work.
 
