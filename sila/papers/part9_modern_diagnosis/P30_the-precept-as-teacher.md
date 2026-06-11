@@ -18,7 +18,6 @@ part_title_zh: 現代診斷與日用
 order_in_part: 3
 order_in_volume: 30
 order_in_series: 90
-status: draft
 ---
 
 # The Precept as Teacher

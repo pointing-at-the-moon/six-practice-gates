@@ -18,7 +18,6 @@ part_title_zh: 楞嚴法華華嚴的圓戒
 order_in_part: 2
 order_in_volume: 25
 order_in_series: 85
-status: draft
 ---
 
 # Sīla in the Twenty-Five Gateways of Perfect Penetration

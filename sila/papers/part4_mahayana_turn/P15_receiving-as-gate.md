@@ -18,7 +18,6 @@ part_title_zh: 大乘之轉向
 order_in_part: 4
 order_in_volume: 15
 order_in_series: 75
-status: draft
 ---
 
 # Receiving as Gate

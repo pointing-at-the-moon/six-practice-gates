@@ -18,7 +18,6 @@ part_title_zh: 現代診斷與日用
 order_in_part: 2
 order_in_volume: 29
 order_in_series: 89
-status: draft
 ---
 
 # Speech Without a Speaker

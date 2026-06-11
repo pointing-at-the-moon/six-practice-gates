@@ -18,7 +18,6 @@ part_title_zh: 現代診斷與日用
 order_in_part: 1
 order_in_volume: 28
 order_in_series: 88
-status: draft
 ---
 
 # Two Failure Modes

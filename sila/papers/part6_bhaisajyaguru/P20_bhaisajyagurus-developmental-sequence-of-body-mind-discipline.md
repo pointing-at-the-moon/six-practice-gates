@@ -18,7 +18,6 @@ part_title_zh: 藥師願力與戒的支持條件
 order_in_part: 2
 order_in_volume: 20
 order_in_series: 80
-status: draft
 ---
 
 # Bhaiṣajyaguru's Developmental Sequence of Body-Mind Discipline
@@ -127,7 +126,7 @@ The stronger internal evidence is that Lingyao actually stages, against himself,
 > 問：既依《涅槃》及順修行，當以戒學為先，今何先慧？答：今是圓佛所修聖道，貴乎先得權實二智，普應……
 > *"Question: Since, following the Nirvāṇa-sūtra and the ordinary course of practice, the training in the precepts should come first, why here does wisdom come first? Answer: This is the holy path cultivated by the Buddha of the round teaching, which prizes first obtaining the two wisdoms, the provisional and the real, so as to respond universally to all …"*
 
-Lingyao asks outright: following the *Nirvāṇa-sūtra* and the ordinary sequence of practice, the training in the precepts ought to come first — why, then, does wisdom come first here? His own answer appeals to the round teaching: the holy path cultivated by the Buddha of the round teaching prizes first obtaining the two wisdoms, provisional and real, so as to respond universally to the capacities of beings. He says further, "Every particular vow is framed in terms of the four truths; a vow that does not rest on the truths is called a deranged vow," taking the four truths as that on which the vows rest. The very existence of this question-and-answer proves that a commentator did indeed treat the vow-order as a problem open to doctrinal dispute — and a dispute not idle but motivated by a doctrinal-classificatory concern. This is the strongest internal commentarial evidence for the present paper's claim that "the sequence is something constructible, and its construction is itself open to debate": not a question the paper imposes from outside, but one Lingyao raised eight hundred years ago.
+Lingyao asks outright: following the *Nirvāṇa-sūtra* and the ordinary sequence of practice, the training in the precepts ought to come first — why, then, does wisdom come first here? His own answer appeals to the round teaching: the holy path cultivated by the Buddha of the round teaching prizes first obtaining the two wisdoms, provisional and real, so as to respond universally to the capacities of beings. He says further, "Every particular vow is framed in terms of the four truths; a vow that does not rest on the truths is called a deranged vow," taking the four truths as that on which the vows rest. The very existence of this question-and-answer proves that a commentator did indeed treat the vow-order as a problem open to doctrinal dispute — and a dispute not idle but motivated by a doctrinal-classificatory concern. This is the strongest internal commentarial evidence for the present paper's claim that "the sequence is something constructible, and its construction is itself open to debate": not a question the paper imposes from outside, but one Lingyao raised more than three hundred years ago.
 
 ### III.4 An Honest Marking: Laying-Flat versus Depth
 
@@ -179,7 +178,7 @@ The downstream gradual chain is, in the Chinese, most aptly led by the *Kimatthi
 > 阿難！持戒為何義？……持戒者，令不悔義……不悔者，令歡悅義……
 > *"Ānanda, what is the point of keeping the precepts? … Keeping the precepts has the point of producing non-remorse … non-remorse has the point of producing gladness …"*
 
-Its full chain runs: keeping the precepts → non-remorse → gladness → joy → tranquillity → happiness → concentration → seeing things as they are and knowing them as they truly are → disenchantment → dispassion → liberation; and the discourse marks its principle thus, "dharma benefits dharma, dharma conditions dharma," saying that "this precept-keeping leads on to the highest." Its Pāli parallel is the *Kimatthiyasutta* of the Aṅguttara-nikāya, whose chain of eleven members runs: the precepts → non-remorse → gladness → joy → tranquillity → happiness → concentration → knowledge-and-vision of things as they are → disenchantment → dispassion → knowledge-and-vision of liberation, said to be that which leads "gradually (*anupabba*, *anupubba*) to the highest."
+Its full chain runs: keeping the precepts → non-remorse → gladness → joy → tranquillity → happiness → concentration → seeing things as they are and knowing them as they truly are → disenchantment → dispassion → liberation; and the discourse marks its principle thus, "dharma benefits dharma, dharma conditions dharma," saying that "this precept-keeping leads on to the highest." Its Pāli parallel is the *Kimatthiyasutta* of the Aṅguttara-nikāya, whose chain of eleven members runs: the precepts → non-remorse → gladness → joy → tranquillity → happiness → concentration → knowledge-and-vision of things as they are → disenchantment → dispassion → knowledge-and-vision of liberation, said to be that which leads "gradually (*anupubbena*) to the highest."
 
 ### V.2 A Discipline: The Gradual Chain Is the Foot of the Downstream Ladder, Not Positive Evidence for the Field
 

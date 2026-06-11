@@ -18,7 +18,6 @@ part_title_zh: 楞嚴法華華嚴的圓戒
 order_in_part: 1
 order_in_volume: 24
 order_in_series: 84
-status: draft
 ---
 
 # Ethics as the Ground of Samādhi

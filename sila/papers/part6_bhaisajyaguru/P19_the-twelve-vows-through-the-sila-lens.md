@@ -18,7 +18,6 @@ part_title_zh: 藥師願力與戒的支持條件
 order_in_part: 1
 order_in_volume: 19
 order_in_series: 79
-status: draft
 ---
 
 # The Twelve Vows through the Sīla Lens
@@ -275,7 +274,7 @@ All scriptural citations above have been collated against the CBETA Electronic T
 ## Series Cross-References
 
 - **DĀNA P31 *What You Just Walked Through*** — §V "The Seam" identifies the Dāna–Sīla inter-volume seam already laid in the fifth vow of the *Bhaiṣajyaguru-sūtra*; this paper's opening continues it.
-- **SĪLA *The Three-Encompassing Architecture of Bodhisattva-Sīla*** — the main arena for the three-encompassing pure precepts (restraint / embracing wholesome dharmas / embracing sentient beings); this paper, at the fifth vow, only identifies and does not re-derive.
+- **SĪLA *The Three-Body Architecture of Bodhisattva Sīla* (P12)** — the main arena for the three-encompassing pure precepts (restraint / embracing wholesome dharmas / embracing sentient beings); this paper, at the fifth vow, only identifies and does not re-derive.
 - **SĪLA *Precept-Substance and Manas*** — the main arena for the seed-perfuming ontology; the source of this paper's one-line Dunhuang "seed of right hearing-perfuming" cross-reference.
 - **SĪLA P20 (Bhaiṣajyaguru #2)** — the developmental sequence of body-and-mind discipline among the twelve vows, and the deep-dive into the eighth vow's circumstance of gender — what this paper's conclusion points toward.
 

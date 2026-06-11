@@ -18,7 +18,6 @@ part_title_zh: 楞嚴法華華嚴的圓戒
 order_in_part: 3
 order_in_volume: 26
 order_in_series: 86
-status: draft
 ---
 
 # The Four Peaceful Practices of the Lotus

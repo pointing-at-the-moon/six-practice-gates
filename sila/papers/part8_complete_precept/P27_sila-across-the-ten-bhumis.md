@@ -18,7 +18,6 @@ part_title_zh: 楞嚴法華華嚴的圓戒
 order_in_part: 4
 order_in_volume: 27
 order_in_series: 87
-status: draft
 ---
 
 # Sīla across the Ten Bhūmis

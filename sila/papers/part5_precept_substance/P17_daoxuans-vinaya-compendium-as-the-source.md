@@ -18,7 +18,6 @@ part_title_zh: 戒體論
 order_in_part: 2
 order_in_volume: 17
 order_in_series: 77
-status: draft
 ---
 
 # Daoxuan's Vinaya Compendium as the Source

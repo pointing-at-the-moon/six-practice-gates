@@ -18,7 +18,6 @@ part_title_zh: 戒體論
 order_in_part: 3
 order_in_volume: 18
 order_in_series: 78
-status: draft
 ---
 
 # Precept-Substance and Manas

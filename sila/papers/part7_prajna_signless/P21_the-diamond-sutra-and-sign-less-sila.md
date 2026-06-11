@@ -18,7 +18,6 @@ part_title_zh: 般若無相戒
 order_in_part: 1
 order_in_volume: 21
 order_in_series: 81
-status: draft
 ---
 
 # The Diamond Sūtra and Sign-less Sīla

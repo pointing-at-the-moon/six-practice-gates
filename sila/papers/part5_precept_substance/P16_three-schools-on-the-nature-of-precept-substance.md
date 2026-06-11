@@ -18,7 +18,6 @@ part_title_zh: 戒體論
 order_in_part: 1
 order_in_volume: 16
 order_in_series: 76
-status: draft
 ---
 
 # Three Schools on the Nature of Precept-Substance

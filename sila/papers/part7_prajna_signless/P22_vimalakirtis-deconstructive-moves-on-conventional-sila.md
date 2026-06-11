@@ -18,7 +18,6 @@ part_title_zh: 般若無相戒
 order_in_part: 2
 order_in_volume: 22
 order_in_series: 82
-status: draft
 ---
 
 # Vimalakīrti's Deconstructive Moves on Conventional Sīla
@@ -40,7 +39,7 @@ This paper takes the Upāli episode in the third ("Disciples") chapter of the *V
 
 ## Keywords
 
-*Vimalakīrti-nirdeśa*; Upāli; emptiness of the offence; grasping at marks; principial repentance; phenomenal repentance; crooked versus direct removal; upholding the Vinaya; signless precept; prajñā; the precept that breaks precepts; mind-purity and land-purity
+*Vimalakīrti-nirdeśa*; Upāli; emptiness of the offence; grasping at marks; principial repentance; phenomenal repentance; crooked versus direct removal; upholding the Vinaya; sign-less precept; prajñā; the precept that breaks precepts; mind-purity and land-purity
 
 ## 摘要
 
@@ -186,7 +185,7 @@ Zhiyi, in his *Textual Commentary on the Vimalakīrti Sūtra*, systematizes the 
 
 > 一作法懺、二觀相懺、三觀無生懺。作法懺滅違無作罪，〔依毘尼門〕……觀無生懺，滅妄想罪，此依慧門。〔復次〕違無作罪障戒、性罪障定、妄想罪障慧。
 > *"First, repentance-by-procedure; second, repentance-by-contemplating-marks; third, repentance-by-contemplating-non-arising. Repentance-by-procedure eradicates the offence of violating the non-expressive [precept-substance], [relying on the gate of the Vinaya] … repentance-by-contemplating-non-arising eradicates the offence of deluded thought, and this relies on the gate of wisdom. [Further:] the offence of violating the non-expressive obstructs morality; the offence of intrinsic nature obstructs concentration; the offence of deluded thought obstructs wisdom."*
-> — Zhiyi, *Textual Commentary on the Vimalakīrti Sūtra* (維摩經略疏), T38n1778, p0628b22–b25
+> — Zhiyi, *Abridged Commentary on the Vimalakīrti Sūtra* (維摩經略疏), T38n1778, p0628b22–b25
 
 The decisive point is this: "repentance-by-contemplating-non-arising" (that is, principial repentance, the gate of wisdom, the emptiness-face of prajñā) is what eradicates the "offence of deluded thought," and it *presupposes*—it does not *replace*—the tracks of repentance-by-procedure and repentance-by-contemplating-marks (phenomenal repentance, mark-grasping repentance). With his distinction of "sharp and dull faculties," Zhiyi marks the failing of "using the emptiness of the offence's nature to skip phenomenal repentance" plainly as the error of the dull, whose gist may be put as "a light mind cannot remove the offence of a heavy mind": to bring a careless mind against a grave offence cannot remove it, and the dull-faculty person must still repent, honestly, by procedure and by marks, while only the sharp-faculty person can rightly contemplate the nature of mind and "remove it directly."[^14] "Empty, therefore one may transgress" is thus not only not Vimalakīrti's meaning; it is the very failing the commentators across the centuries strove to guard against.
 
