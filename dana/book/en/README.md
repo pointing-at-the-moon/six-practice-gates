@@ -21,4 +21,4 @@ Each chapter is translated from the approved Chinese chapter and term-anchored t
 
 ## License
 
-CC BY-NC-SA 4.0 (see the repository [`LICENSE`](../../LICENSE)). Sūtra quotations verified against the CBETA Digital Tripiṭaka.
+CC BY-NC-SA 4.0 (see the repository [`LICENSE`](../../../LICENSE)). Sūtra quotations verified against the CBETA Digital Tripiṭaka.
