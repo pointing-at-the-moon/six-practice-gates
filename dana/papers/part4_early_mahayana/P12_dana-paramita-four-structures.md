@@ -62,7 +62,7 @@ This observation carries forward from P11. P11 established "prajñā as the tran
 
 This section lays evidence in seven strata corresponding to the four-layer core argument of §III. Following the discipline of the DĀNA volume, Mahāyāna *śāstra* materials are cited by Taishō volume and fascicle. Italicized Sanskrit terms carry a Chinese gloss on first occurrence, then stand alone.
 
-### 2.1 Dāna-Pāramitā as Definition — T1509 Fascicle 11, Chapter 17
+### 2.1 Dāna-Pāramitā as Definition — *Dà zhìdù lùn* Fascicle 11, Chapter 17
 
 The Dà zhìdù lùn 《大智度論》 (T1509) opens its treatment of dāna-pāramitā at fascicle 11, chapter 17, with a single defining formula:
 
@@ -74,7 +74,7 @@ This is the most precise definition of dāna-pāramitā in the text. Three key t
 
 The definitional structure is causal: because the three matters are unobtainable, dāna-pāramitā is fulfilled. The "unobtainable" does not negate the existence of giving; it negates the inherent existence of the three wheels of giving (giver, receiver, gift). This is the operation of emptiness-wisdom within giving itself — not a reflection appended after the act, but **the necessary and sufficient condition of giving becoming pāramitā**.
 
-### 2.2 Praising Dāna-Pāramitā — T1509 Fascicle 11, Chapter 18
+### 2.2 Praising Dāna-Pāramitā — *Dà zhìdù lùn* Fascicle 11, Chapter 18
 
 Fascicle 11, chapter 18 （讚檀波羅蜜義） lists a function-catalog of giving:
 
@@ -86,7 +86,7 @@ The structure of this catalog is significant: the first half describes worldly m
 
 The most critical item here is "檀為涅槃之初緣" (giving is the initial condition for nirvāṇa). T1509 establishes a causal chain: recollecting giving → joy → one-pointed mind → contemplation of arising and ceasing → attaining the Path.[^10] Giving is not the replacement for liberation (a transaction of merit for liberation) but the **initial cause** — without the joy that giving generates, the subsequent samādhi and contemplation cannot arise.
 
-### 2.3 The Characteristics of Dāna — T1509 Fascicle 11, Chapter 19
+### 2.3 The Characteristics of Dāna — *Dà zhìdù lùn* Fascicle 11, Chapter 19
 
 Fascicle 11, chapter 19 （檀相義） establishes a taxonomy of giving:
 
@@ -100,7 +100,7 @@ A crucial question arises: if dāna requires "five matters converging" (giver, r
 
 T1509's response is the core argument of fascicle 12 — first acknowledging the three matters as **conventionally existent** (prajñapti-sat, 假名有), then deconstructing their **inherently existent** (dharma-sat, 法有) status through dependent-origins analysis. This is standard Mādhyamaka methodology, but its **systematic application to dāna theory**, T1509 is the first.
 
-### 2.4 Dharma-Giving Surpasses Thing-Giving — T1509 Fascicle 11, Chapter 20
+### 2.4 Dharma-Giving Surpasses Thing-Giving — *Dà zhìdù lùn* Fascicle 11, Chapter 20
 
 Fascicle 11, chapter 20 （檀波羅蜜法施義） argues that dharma-giving surpasses thing-giving:
 
@@ -110,7 +110,7 @@ Fascicle 11, chapter 20 （檀波羅蜜法施義） argues that dharma-giving su
 
 The primacy of dharma-giving does not lie in it being "higher" than thing-giving but in it being **the giving that can be fully transmitted only when a Buddha is present in the world** — thing-giving naturally arises whether or not a Buddha appears (ordinary generosity suffices), while dharma-giving depends on direct access to the Buddha's own teaching for its complete expression. This establishes the historical condition of dharma-giving: it carries the continuity of the Buddha's true dharma — central to the bodhisattva path *during a Buddha's lifetime*. After a Buddha has departed, "giving" continues, but "dharma-giving" in its full sense no longer obtains.
 
-### 2.5 Filling Dāna-Pāramitā — T1509 Fascicle 12: The Complete Argumentation of Three Matters Unobtainable
+### 2.5 Filling Dāna-Pāramitā — *Dà zhìdù lùn* Fascicle 12: The Complete Argumentation of Three Matters Unobtainable
 
 Fascicle 12 contains the longest philosophical argumentation on trilakṣaṇa-śūnya in the entire treatise. Its central question:
 
@@ -140,7 +140,7 @@ The argumentation for the giver proceeds identically: "Four elements surrounding
 
 This is the most crucial of the extensions: trilakṣaṇa-śūnya is not a condition unique to dāna but **the common necessary-and-sufficient condition of all six pāramitā**. Each perfection operates in exactly the same way — apprehending the three wheels means "attaining X, not attaining the pāramitā"; not apprehending the three wheels means "fulfilling the pāramitā of X."[^21] The universalization of prajñā over all pāramitā is thus completed.
 
-### 2.7 The Six-Aspect System — T1604 as Symmetric Counterpart
+### 2.7 The Six-Aspect System — The *Mahāyāna-sūtrālaṃkāra* as Symmetric Counterpart
 
 T1604 *juan* 8 （二度攝品） offers a six-aspect analysis of dāna-pāramitā:
 

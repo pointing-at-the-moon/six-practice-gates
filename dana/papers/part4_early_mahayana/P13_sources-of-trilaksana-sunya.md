@@ -97,7 +97,7 @@ But more importantly, T1509 responds to this teaching by proposing the full tril
 
 This is the most precise anchor — the distinction between "three obstacles" (三礙) and "three purifications" (三種清淨). Three obstacles = trilakṣaṇa-sahita (three wheels with apprehension); three purifications = trilakṣaṇa-śūnya (three wheels emptied).
 
-### Stratum 4: The Full Argument — T1509's Decomposition Emptiness
+### Stratum 4: The Full Argument — The *Mahāprajñāpāramitā-śāstra*'s Decomposition Emptiness
 
 T1509 fascicle 12 presents the most systematic nyāya-style argument for trilakṣaṇa-śūnya. It opens with a question:
 
@@ -155,7 +155,7 @@ If the three wheels are all empty, then in practice there is naturally no graspi
 
 Not-grasping alone is not pāramitā — not-grasping is the manifestation of prajñā. When not-grasping combines with great compassion (giving for all sentient beings) and bodhicitta (dedicating toward supreme enlightenment), not-grasping becomes dāna-pāramitā.
 
-### (B) T1509's Systematization: From Sūtra-Proof to Nyāya-Argument
+### (B) The *Mahāprajñāpāramitā-śāstra*'s Systematization: From Sūtra-Proof to Nyāya-Argument
 
 T1509's contribution lies not in inventing trilakṣaṇa-śūnya but in transforming the sūtra's "proof-text mode" into "argument mode." Three specifics:
 
@@ -171,7 +171,7 @@ The sūtra's expression is sūtra-proof style — "Although X is spoken of, X ul
 
 The sūtra's emptiness is singular — all dharmas empty. T1509's trilakṣaṇa-śūnya is systematic — giver empty, receiver empty, gift empty, each independently analyzed, then synthesized. This is a structural innovation from "singular emptiness" to "triply-analyzed emptiness."
 
-### (C) T1604's Yogācāra Counter-Construction
+### (C) The *Mahāyānasūtrālaṃkāra*'s Yogācāra Counter-Construction
 
 T1604 fascicle 8 provides the Yogācāra counter-construction to trilakṣaṇa-śūnya:
 
@@ -246,7 +246,7 @@ Lance Cousins' comparative study of the six perfections vs. Pāli pāramī shows
 
 **Correction**: The philosophical foundation of trilakṣaṇa-śūnya is already fully present in T0220e's "anupalabdha" universal pattern. Nāgārjuna's contribution is systematization, not invention.
 
-### Misreading Three: T1604 and T1509 Contradict
+### Misreading Three: The *Mahāyānasūtrālaṃkāra* and the *Mahāprajñāpāramitā-śāstra* Contradict
 
 **Wrong**: T1604's "three-wheel purification" negates T1509's "three-wheels-emptied."
 

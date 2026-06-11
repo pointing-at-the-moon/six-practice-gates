@@ -52,7 +52,7 @@ The question presses with particular urgency upon the Western reader. Western Bu
 
 This section lays evidence in five strata corresponding to the four-layer core argument of §III. Following the dual-track discipline of the NIAN-A and DĀNA volumes, every passage that belongs to the Nikāya / Āgama stratum is cited with both the Taishō number (Chinese transmission) and the PTS reference (Pāli); Mahāyāna *śāstra* materials are cited by Taishō volume and fascicle; Pāli materials use the PTS edition. Italicized Pāli / Sanskrit terms carry a Chinese gloss on first occurrence, then stand alone.
 
-### 2.1 The Six-Perfection Framework — T0152's Eight-Fascicle Sequence and the Narrative Substance of the *Dāna-Pāramitā* Chapter
+### 2.1 The Six-Perfection Framework — The *Liù dù jí jīng*'s Eight-Fascicle Sequence and the Narrative Substance of the *Dāna-Pāramitā* Chapter
 
 The very structure of the *Liù dù jí jīng* 《六度集經》 (T0152, translated by Kāng Sēnghuì 康僧會 in the Wu state, ca. 251 CE) — eight fascicles, each titled by one of six perfections — is itself an argument. The opening fascicle gives the canonical list:
 
@@ -64,7 +64,7 @@ This passage is the **earliest systematic six-pāramitā sequence in extant Chin
 
 And yet, across all eight fascicles, a search for "無畏施" (*abhayadāna*) or "施無畏" (giving fearlessness) as a *category name* returns **zero hits**. Every donative narrative — including those whose substantive content is unmistakably fearlessness-giving (the king who interposes his own body to spare his subjects from the sword) — is gathered under the single rubric "the chapter of the perfection of giving that ferries without limit."[^5] The "narrative-saturated / category-name-absent" structure here is congruent with P10's overall reading of T0152: the substance is full, the classificatory name is absent.
 
-### 2.2 The *Prajñā* Condition — T1509's With-Apprehension versus Without-Apprehension
+### 2.2 The *Prajñā* Condition — The *Dà zhìdù lùn*'s With-Apprehension versus Without-Apprehension
 
 The *Dà zhìdù lùn* 《大智度論》 (T1509, translated by Kumārajīva, ca. 405 CE), at *juan* 60, preserves the central mechanism of the *dāna* → *dāna-pāramitā* transformation:
 
@@ -80,7 +80,7 @@ The structural keys of this passage are three. First, the giver who gives "with 
 
 This distinction is the hinge of *dāna-pāramitā* theory. It states: the value of giving does not turn on outward generosity (the merit-difference between Vessantara giving away his kingdom and a commoner giving a single meal lies not in *what* is given but in *how*); it turns on whether the giver's mind apprehends the three wheels. The intervention of *prajñā* is not an external supplement but the internal **transformative condition** — without *prajñā*, giving is forever giving; with *prajñā*, giving is *pāramitā*.
 
-### 2.3 Systematicity — T1604's Mutual Completion of the Six Perfections
+### 2.3 Systematicity — The *Mahāyāna-sūtrālaṃkāra*'s Mutual Completion of the Six Perfections
 
 The *Mahāyāna-sūtrālaṃkāra* 《大乘莊嚴經論》 (T1604, by Asaṅga 無著), at *juan* 8, sets the systematicity of the six perfections in four words and a short causal gloss:
 
@@ -96,7 +96,7 @@ The first sentence is the master-clause: the six perfections are not six indepen
 
 But the chain is not linear. T1604's four senses — mutual inclusion (相攝), differentiation (差別), scriptural ground (依法), and causation (為因) — show the six perfections to be **a non-linear system of mutual interdependence**: "mutual inclusion" means every perfection contains the other five (a true *dāna* must already contain *śīla*, *kṣānti*, *vīrya*, *dhyāna*, and *prajñā*); "differentiation" means each perfection has its proper distinct function; "scriptural ground" means the theoretical basis for the six is already textually warranted; "causation" means *dāna* is the necessary but not sufficient condition for the other five.[^10]
 
-### 2.4 The Reversal of Power — T1577's Beggar-Enablement Thesis
+### 2.4 The Reversal of Power — The *Dazhangfu Lun*'s Beggar-Enablement Thesis
 
 The *Dazhangfu Lun* 《大丈夫論》 (*Treatise on the Great Man*, T1577, by the bodhisattva Devala, tr. Daotai) at *juan* 1, in the chapter "The Growth of the Donor and the Beggar," furnishes the most dramatic reversal of the power relation of giving:
 
@@ -108,7 +108,7 @@ What is revolutionary about this passage is its claim: **the beggar is not a pas
 
 This reversal stands in symmetric correspondence to P10's "shift in the centre of the giver's agency from choice-of-field to choice-of-content." P10 traced the giver's active capacity moving from the recipient-axis ("which recipient to choose") to the content-axis ("what content to give"). P11 carries the analysis a step further: even within this active capacity, the giver remains *passively dependent* upon the beggar. The agency of giving is not a property of the giver alone; it is the **co-construction of the giver–beggar system**.
 
-### 2.5 The Āgama Transition — T0125 *juan* 19's *Dāna-Pāramitā* Usage
+### 2.5 The Āgama Transition — The *Ekottara-āgama* *juan* 19's *Dāna-Pāramitā* Usage
 
 In Āgama-stratum texts, the term "*dāna-pāramitā*" itself already appears, indicating a gradual transition rather than an abrupt innovation:
 
@@ -194,7 +194,7 @@ The use of "檀波羅蜜" (*dāna-pāramitā*) in T0125 *juan* 19 indicates that
 
 The structural difference between the six perfections (six) and the Pāli ten *pāramī*s shows that the two are not in a relation of straightforward translation. The choice of six reflects the specific doctrinal priorities of the Mahāyāna — and in particular, the *dāna*–*śīla* dyad (T1592: "because of the antidote to non-action, *dāna-pāramitā* and *śīla-pāramitā* are taught") has no parallel in the Pāli system.[^23]
 
-### ❌ Misreading 3: T0152's *dāna-pāramitā* chapter = a fully-formed Mahāyāna theory of giving.
+### ❌ Misreading 3: The *Liù dù jí jīng*'s *dāna-pāramitā* chapter = a fully-formed Mahāyāna theory of giving.
 
 T0152's *dāna-pāramitā* chapter expresses the perfection of giving through jātaka narrative, but its taxonomic limitation (every variety of giving is gathered under a single rubric, "the chapter of the perfection of giving that ferries without limit") indicates that it has not yet completed the theorization of *dāna-pāramitā*. The completion of theorization begins with T1509's "with-apprehension versus without-apprehension."[^24]
 

@@ -144,7 +144,7 @@ The most striking structural feature of T1579 is this: the nine characteristics 
 
 The same nine-fold structure applies to sīla, kṣānti, vīrya, dhyāna, and prajñā — a unified *pāramitā-framework*. The six perfections are not six independent virtues but the same qualitative transformation process manifesting across six dimensions. This discovery is crucial: T1579 provides not just a taxonomy of giving but a unified theory of the entire bodhisattva path.
 
-### T1604's Six Meanings
+### The *Mahāyānasūtrālaṃkāra*'s Six Meanings
 
 T1604 approaches the same problem from a different angle:
 
@@ -204,7 +204,7 @@ Two layers of meaning:
 
 This bottom line protects the autonomy of giving — giving cannot be co-opted by external power as an instrument of harm. This is an extremely important political-philosophical insight: even the noblest virtue, if captured by power, becomes an instrument of evil.
 
-### (D) Symmetry and Divergence with T1509
+### (D) Symmetry and Divergence with the *Mahāprajñāpāramitā-śāstra*
 
 | Dimension | T1509 Nāgārjuna (Madhyamaka) | T1579 Asaṅga (Yogācāra) |
 |------|------|------|
@@ -254,7 +254,7 @@ Western scholarship on Yogācāra dāna-pāramitā has focused primarily on T160
 
 **Correction:** T1579 places hard limits on all-giving: "even if one comes to request limbs, do not give" (when immeasurable benefiting activities are present). More fundamentally, "never follow another's command." The limit of giving is not "how much to give" but "pure intention."
 
-### Misreading 3: T1579 and T1509 Contradict
+### Misreading 3: The *Yogābhūmi* and the *Mahāprajñāpāramitā-śāstra* Contradict
 
 **Error:** Reading Yogācāra's "constructing characteristics" and Madhyamaka's "contemplating emptiness" as contradictory.
 

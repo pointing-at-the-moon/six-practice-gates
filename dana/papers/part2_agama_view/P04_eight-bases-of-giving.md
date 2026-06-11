@@ -137,7 +137,7 @@ The **watershed** of the five groups runs between positions 7 and 8 — not betw
 
 The structural contrast with contemporary taxonomies of donor motivation will be developed in §IV. This section establishes only: AN 8.31's eight items constitute a purity spectrum of motivation whose endpoint is not "the purest altruism," nor "the most socially mature giving," but **the sole motivation compatible with liberation** — giving for the cultivation of the mind.
 
-### 3.2 The T0125 *juan* 37 quality-configuration recipe — the *puñña-kriyā* structure of seven conditions co-present
+### 3.2 The *Ekottara Āgama juan* 37 quality-configuration recipe — the *puñña-kriyā* structure of seven conditions co-present
 
 §2.1 Group 2 has already listed T0125 *juan* 37 sūtra 9's eight bases. This section argues that its structure is **not a spectrum but a recipe** — the eight bases are not eight gradient positions, but eight categories of condition; when all eight categories are **co-present**, a single *dāna* is brought to completeness as *puñña-kriyā*.
 
