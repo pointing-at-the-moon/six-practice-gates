@@ -1,0 +1,11 @@
+# Part Six · Samantabhadra's Conduct-Vows · Vow and Conduct, Mended into One
+
+This part tells the ten royal vows.
+
+In the last chapter of the *Avataṃsaka Sūtra*—the Chapter on Samantabhadra's Conduct-Vows—Samantabhadra speaks ten vows to the youth Sudhana and the great assembly: paying homage to all buddhas, praising the Tathāgatas, making vast offerings, confessing karmic obstructions, rejoicing in merit, requesting the turning of the Dharma-wheel, requesting the buddhas to remain in the world, constantly following the buddhas in learning, ever according with sentient beings, and universal transference of all. The verses recited in the evening liturgy of Chinese temples come from this chapter; most readers of this book have known its lines since they were young.
+
+One thing first, to head off confusion with what came before: these ten vows and the ten vows of the first ground treated in Part Three—the making of offerings to all buddhas, the upholding of the true Dharma, that set—are two sets of vows, from two passages of scripture. The first-ground ten raise the skeleton for the bodhisattva who has entered the grounds; Samantabhadra's ten open a gate of practice for every practitioner—recited even in the evening liturgy of householders.
+
+This part has three chapters, answering three questions. Chapter one answers the word "conduct-vow"—why does the text join conduct and vow into a single word? Because with Samantabhadra, vow and conduct were never two things: the vow is what the conduct is oriented toward; the conduct is what fills the vow full—like the two wings of a bird, like the two wheels of a cart. Chapter two answers "moment to moment it continues"—every one of the ten vows closes with the same sentence: moment to moment it continues, without interruption, never wearying. On what ground does it not weary? Because what holds this line is not the "I" that wearies. Chapter three answers "universal transference"—why do the ten vows end with transference? Because the first nine accumulate and the tenth turns; without that last turn, however much is gathered, it all collapses back into oneself.
+
+The whole volume, arriving at this part, watches the vow grow at last from a point of arousing into a line that runs to the end of all future time.

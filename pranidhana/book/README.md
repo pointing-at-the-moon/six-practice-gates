@@ -11,4 +11,4 @@
 - `en/` — 英文書體鏡像。
 - `build/output/` — Pandoc PDF。
 
-狀態：scaffold 立、governing docs v1.0；章待撰。先行試寫第一部。
+狀態：中文成書全卷完稿（8 部 20 章 + 7 過渡 + 卷首 + 附錄）；英文書體全卷出齊（`en/`）。
