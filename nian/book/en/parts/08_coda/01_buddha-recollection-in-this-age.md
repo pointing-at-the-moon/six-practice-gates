@@ -16,11 +16,11 @@ So someone thinks: isn't buddha-recollection just saying the buddha-name fast an
 
 This is to see "recollection" wrongly.
 
-The masters gave "recollection" its definition: "with respect to a previously experienced object, causing the mind to clearly remember without forgetting." Recollection is taking something your mind has once held and keeping it — firmly remembered, never forgotten. Its key word is "mind" — a mind that can remember, can hold, can refuse to forget.
+The Yogācāra treatise, the *Cheng Weishi Lun*, gives "recollection" its definition: "with respect to a previously experienced object, causing the mind to remember clearly and not forget — this is its nature." Recollection is taking something your mind has once held (a "previously experienced" object) and keeping it — firmly remembered, never forgotten: that is its very nature. Its key word is "mind" — a mind that can remember, can hold, can refuse to forget.
 
 What the machine has is words in motion. It does not have that mind which can remember, can hold, can turn. However fast it pours out words, however many, that is words moving — not recollection moving. Fast is not the same as recollection.
 
-The sūtras hold a ready-made example that says this through to the bottom. In the heavens there is a kind of god of the "long-lifespan heaven," whose life stretches so long that "a thousand or a million Buddhas pass" — Buddha after Buddha appears in the world and enters nirvāṇa, thousands upon thousands of them — while the god, sunk in the savour of that long concentration, notices nothing at all. Look: a lifespan that long, that abundant, turns into the very "obstruction" that keeps one from ever meeting a Buddha.
+The *Mahāprajñāpāramitā Śāstra* holds a ready-made example that says this through to the bottom. Speaking of the conditions in which beings fall beyond the Dharma's reach, it names the "long-lifespan heaven": "if one is born in the long-lifespan heaven, a thousand myriad Buddhas pass, and — through attachment to the savour of concentration — one notices none of them." A god of that heaven lives a life stretched beyond measure; Buddha after Buddha appears in the world and enters nirvāṇa, thousands upon thousands of them, while he, sunk in the taste of his concentration, notices nothing at all. Look: a lifespan that long, that abundant, turns into the very "obstruction" that keeps one from ever meeting a Buddha.
 
 The long-lifespan heaven's "too slow, too long" and the machine's "too fast, too many" are in truth the same mistake: both take recollection for a matter of quantity — who lives longer, who cycles faster. But recollection has never been a matter of quantity. It is a mind, and whether that mind is willing to turn around.
 

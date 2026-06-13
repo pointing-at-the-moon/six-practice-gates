@@ -12,7 +12,7 @@ This appendix is for the reader who wants to look something up again. Each entry
 - **Buddha-recollection (*niànfó*)** — 念佛／佛隨念 — *buddhānussati* (P) / *buddhānusmṛti* (Skt) — Recollection directed to the Buddha. What this book tracks from beginning to end is the growing-up of this one word *niàn*.
 - **Mindfulness** — 正念 — *sati* (P) / *smṛti* (Skt) — Awareness of body and mind in the present moment. Same root as recollection, different use.
 - **The nine epithets** — 九德號 — *itipi so* (P, the opening words of the formula) — The Buddha's nine names of quality, the nine doors of buddha-recollection (see "The Nine Epithets in Detail" below).
-- **The six recollections** — 六隨念 — *cha anussati* (P) — Recollection of the Buddha, the Dhamma, the Saṅgha, virtue, generosity, and the deities: six objects, one engine.
+- **The six recollections** — 六隨念 — *cha anussati* (P) — Recollection of the Buddha, the Dharma, the Saṅgha, virtue, generosity, and the deities: six objects, one engine.
 - **One-Practice Samādhi** — 一行三昧 — *ekavyūha-samādhi* (Skt) — The samādhi of binding the mind to one Buddha and exclusively calling the name, recollection continuing thought after thought; Chan and Pure Land both flow from this one source.
 - ***Pratyutpanna-samādhi*** — 般舟三昧 — *pratyutpanna-samādhi* (Skt; in full, "the samādhi in which the Buddhas of the present all stand before one") — Seeing, within concentration, the present Buddhas of the ten directions standing before one's eyes.
 - ***Niàndào*, "recollecting the Way"** — 念道 — (an early Chinese translation term) — In the earliest Chinese translations (the *Sūtra in Forty-Two Sections*), before "*niànfó*" had yet become a word, the term that carried the same function.
@@ -80,11 +80,16 @@ The Buddha's nine qualities (the nine clauses of *itipi so*) are explained in de
 - **Samantabhadra (Bodhisattva)** — 普賢（菩薩） — *Samantabhadra* (Skt) — The great bodhisattva who presides over "practice"; the initiator of the ten great vow-kings.
 - **Mañjuśrī (Bodhisattva)** — 文殊（師利菩薩） — *Mañjuśrī* (Skt) — The great bodhisattva who presides over "wisdom"; the speaker of the One-Practice Samādhi.
 - **Avalokiteśvara (Bodhisattva)** — 觀世音（菩薩） — *Avalokiteśvara* (Skt) — In the Lotus's Universal Gate Chapter, the one who hears the sounds of suffering and rescues, manifesting through the universal gate.
+- **Bhadrapāla (Bodhisattva)** — 颰陀和（菩薩） — *Bhadrapāla* (Skt) — In the *Pratyutpanna-Samādhi Sūtra*, the five-precept lay bodhisattva who, at the great assembly in Rājagṛha, asked the method of seeing the Buddha.
 - **Mahāsthāmaprāpta (Bodhisattva)** — 大勢至（菩薩） — *Mahāsthāmaprāpta* (Skt) — In the Śūraṅgama's chapter on the perfect penetration of buddha-recollection, the one who practices by "gathering in the six sense-roots, with pure recollection uninterrupted"; Amitābha's attendant on the right.
 - **Maitreya (Bodhisattva)** — 彌勒（菩薩） — *Maitreya* (Skt) — The future Buddha, who will descend and take birth in the age to come.
 - **Queen Vaidehī** — 韋提希（夫人） — *Vaidehī* (Skt) — In the *Sūtra on the Contemplation of Amitāyus*, the queen who, from prison, asked the Buddha to teach the sixteen contemplations.
+- **Ajātaśatru (Prince/King)** — 阿闍世（王） — *Ajātaśatru* (Skt) — In the prologue to the *Sūtra on the Contemplation of Amitāyus*, the prince of Rājagṛha who imprisoned his father and would have killed his mother.
+- **Ruciraketu (Bodhisattva)** — 信相（菩薩） — *Ruciraketu* (Skt) — In the Confession Chapter of the *Golden Light Sūtra*, the bodhisattva who dreamed of a golden drum and, seeing the Buddhas of the ten directions within its light, brought out the verses of confession.
 - **Mahānāma** — 摩訶男 — *Mahānāma* (P) — In the early Āgamas, the lay disciple whose question to the Buddha — how to settle the heart in daily life — drew out the six recollections.
 - **Ānanda** — 阿難 — *Ānanda* (Skt/P) — The Buddha's attendant; the party concerned in the Cāpāla Shrine episode of "not requesting the Buddha to abide in the world."
+- **Tanluan** — 曇鸞 — (Pure Land patriarch of the Northern Wei, 476–542) — Having gone seeking long life and obtained ten scrolls of immortality-scriptures, he met Bodhiruci at Luoyang, received the *Contemplation Sūtra*, burned the immortality-scriptures, and turned to the Pure Land; he set up the distinction of self-power and other-power.
+- **Bodhiruci** — 菩提留支 — *Bodhiruci* (Skt) — The Northern Wei tripiṭaka-translator who, with a single spit and a single *Contemplation Sūtra*, turned Tanluan to the Pure Land.
 
 ---
 

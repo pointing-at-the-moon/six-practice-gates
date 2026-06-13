@@ -1,63 +1,49 @@
-## 7.2 Reverence, Praise, and Offerings: Body, Speech, and Mind — Three Acts of Homage Toward the Buddha
+## 7.2 Reverence, Praise, and Offerings: A Threefold Veneration of the Buddhas
 
-The first three of Samantabhadra's Ten Great Vows — reverencing all Buddhas, praising the Tathāgatas, extensively making offerings — are one set. They are the three movements by which your whole person turns toward the Buddha in respect: the body's bow (reverence), the mouth's praise (praising), and the offering in which the mind takes the lead (offerings). Body, speech, and mind — the three karmas — performing three acts of homage toward the Buddha.
+The first three of the ten great vows — reverencing all Buddhas, praising the Tathāgatas, making offerings extensively — form one group: the body's bow, the tongue's praise, the offering of goods and of conduct. A person's veneration of the Buddhas, from the inside out, runs along just these three roads.
 
-### Reverencing All Buddhas: Not a Matter of Bowing and Being Done
+And in Samantabhadra's telling, each of the three opens onto the full scale of the Flower Ornament.
 
-The first vow: reverencing all Buddhas.
+### Reverence: Toward Buddhas "As If Before My Very Eyes"
 
-Say "reverence," and people picture bowing the head before a buddha-image. But Samantabhadra's reverence goes far beyond that. The sūtra says: "with body, speech, and mind made wholly pure, I constantly cultivate reverence" — it is with all three together, body, speech, and mind, that one reverences. The body alone bowing down is only a third of it.
+Sudhana asks how one reverences; the first sentence of Samantabhadra's answer throws the doors wide:
 
-And the scale of this reverence is staggering. The sūtra says: "one body manifesting bodies as numerous as dust-particles, each one bowing to buddhas as numerous as dust-particles." Your one body manifests bodies as many as the dust-motes; each of those bodies bows to Buddhas as many again. Not one person, bowing one bow, to one Buddha — countless of you, at once, bowing to countless Buddhas. Layer upon layer without end, like the jewels strung in Indra's net, each one mirrored in every other.
+> All the Buddhas, the World-Honored Ones, throughout the realm of dharma and the realm of empty space, in the ten directions and the three times, numerous as the dust-motes of all buddha-fields — by the power of Samantabhadra's practice-vows I arouse deep faith and understanding, as if they stood before my very eyes.
 
-Here a patriarch's reminder must be heard from both sides. One side: the bow must carry that measure of contemplation, that measure of reverent mind. The old masters said that if one does not enter this contemplation, the body merely going up and down like a pestle pounding rice, one "only wears oneself out in vain" — wearied for nothing. The other side matters just as much: some students of Chan have taken that line as a warrant and discarded prostration and repentance altogether. The patriarch rebuked this, and rebuked it hard — "this is gravely mistaken."
+The object of reverence is every Buddha of the ten directions and three times, throughout the dharma-realm and the realm of space — and I, by the power of these vows, raise a faith and understanding so deep that it is "as if before my very eyes." Then: "before each and every Buddha I manifest bodies as numerous as the dust-motes of unspeakable buddha-fields, and each body bows in full to Buddhas as numerous as the dust-motes of unspeakable buddha-fields."
 
-So the measure of this bow is: the body must bow — do not copy those who have thrown prostration away; and the mind must be present — do not be left with an empty shell. Body, speech, and mind, bowing down together.
+Mark those words, "as if before my very eyes." Of the Buddhas of the ten directions and three times, the fleshly eye sees not one; what makes reverence possible is deep faith and understanding — believing the unseen into presence. This is the very skill this book has traced since Part One: recollection of the Buddha, held until He stands as if present. The Flower Ornament's reverence spreads that one thought across the whole dharma-realm: the single bow you bend into is offered not to one Buddha but to the Buddhas of every dust-mote and every land.
 
-### Praising the Tathāgatas: Not Singing a Hymn, but Counting Out the Buddha's Goodness Item by Item
+### Praise: With a Tongue Surpassing the Goddess of Eloquence
 
-The second vow: praising the Tathāgatas.
+The second vow, praising the Tathāgatas. In every dust-mote, says Samantabhadra, are Buddhas as numerous as the dust of all worlds, each encircled by an ocean of bodhisattvas — and I:
 
-"Praising" sounds like singing songs in the Buddha's honor, giving voice to a swell of devotion. But Samantabhadra's praise is not lyrical effusion.
+> … each with a subtle and wondrous tongue surpassing that of the goddess of eloquence; each tongue pouring forth an inexhaustible ocean of sounds; each sound an ocean of every word, praising and extolling the ocean of merits of all Tathāgatas, continuing unbroken to the end of future time.
 
-The sūtra says one is to praise with the "subtle tongue-faculty," "issuing oceans of inexhaustible voice," to "extol and praise the ocean of all the Tathāgatas' merits." What does that mean? It means counting the Buddha's merits out — item by item, naming them, proclaiming them.
+With tongues finer than the goddess of eloquence herself, each tongue an ocean of sounds, each sound an ocean of words — praising the ocean of the Tathāgatas' merits, without break, to the end of time.
 
-Remember the nine epithets from Part One? Worthy One, Rightly and Fully Enlightened, Perfect in Knowledge and Conduct... nine qualities of the Buddha, recollected one by one. Samantabhadra's praise stretches this to its utmost: the Buddha's merits are not nine but "an ocean of merits," past all counting; and your praise is not one mouth but "oceans of inexhaustible voice," never done speaking. Item by item, stream upon stream, the goodness of the Buddha is spoken out and proclaimed.
+Praising the Buddha is nothing new to readers of this book: in Part Five we met the bodhisattva Never-Disparaging of the *Lotus Sūtra*, who bowed to everyone he met and praised them — "I deeply revere you all … you shall all become Buddhas." He praised beings who would one day be Buddhas; here Samantabhadra carries praise itself to its limit — tongues without end, sounds without end, words without end, merit praised without end. Why praise at such scale? Because speech is one of the three karmas: the mind recollects the Buddha, the body bows to the Buddha — the mouth, too, must praise Him, or the recollection is not yet the whole person's. And one line of "Namo Amitābha Buddha" is itself praise: "Namo" is homage, and the Name is the compressed sum of the Buddha's measureless merits. To utter the Name is to praise.
 
-So praise is not one vague sigh of "Buddha, how great You are." It is knowing, with clarity, where the Buddha's goodness lies — good in that the afflictions are severed; good in perfect awakening; good in knowledge and conduct both complete... item by item, the way one counts the treasures of one's own house. The more clearly you know the Buddha's goodness, the more closely your mind adheres to the Buddha's virtues. That — that is "praising."
+### Offerings: Lamp-Wicks like Sumeru, Lamp-Oil like the Sea
 
-### Extensively Making Offerings: The Sūtra Itself Says the Highest Offering Is Practice
+The third vow, making offerings extensively. Samantabhadra first heaps up the offerings: clouds of flowers, of garlands, of heavenly music, of canopies and robes, every kind of incense — and each of them "in measure like Mount Sumeru, king of mountains"; lamps of every kind, "each lamp-wick like Mount Sumeru, and each measure of lamp-oil like the waters of the great ocean."
 
-The third vow: extensively making offerings. This one is the most easily misunderstood, and the most worth watching — because in this vow the sūtra itself performs a great reversal.
+Heaped to the very limit — and then Samantabhadra turns:
 
-It speaks first of material offerings, in the most solemn magnificence: flowers, incense, lamps, every kind of offering-implement, presented to the Buddhas — each "in quantity equal to Mount Sumeru, the king of mountains"; lamp-oil "equal to a great ocean's water." It sounds grand beyond measure.
+> Good son! Of all offerings, the dharma-offering is supreme.
 
-But right on its heels the sūtra turns, and says the line that matters most: "Of all offerings, the dharma-offering is supreme." Among all offerings, the dharma-offering stands highest.
+Among all offerings, the offering of Dharma stands first. And what is dharma-offering? The sūtra lists seven: "the offering of practicing as taught; the offering of benefiting sentient beings; the offering of embracing sentient beings; the offering of taking on the sufferings of sentient beings in their stead; the offering of diligently cultivating roots of goodness; the offering of not forsaking the bodhisattva's work; the offering of never leaving the awakening-mind." Not one of the seven is incense, flower, or lamp; every one is the Dharma lived.
 
-What is the dharma-offering? The sūtra lists seven kinds: practising as taught, benefitting sentient beings, gathering-in sentient beings, taking on sentient beings' suffering, diligent cultivation of wholesome roots, not abandoning the bodhisattva's work, not departing from the awakening-mind.
+And by how much does it stand first? The sūtra does not blur the figure: all that measureless offering of goods, "compared with a single thought of dharma-offering, does not reach one part in a hundred, one part in a thousand," nor any part nameable by analogy. Why? "Because all Tathāgatas honor the Dharma; and because practicing as taught gives birth to all Buddhas." However splendid the flowers, what the Buddha asks of you is to live what He taught.
 
-Look at the seven. Not one of them offers a thing. All of them are practice — you practising as the Buddha taught (practising as taught), you benefitting sentient beings, you taking on the suffering of sentient beings in their place, you never departing from the awakening-mind.
+Here a point must be seen clearly: the sūtra is not telling anyone to stop lighting lamps or offering flowers — Samantabhadra himself piles the material offerings as high as Sumeru and wide as the sea. It is setting an order: the offering of goods is veneration's outward form, the offering of Dharma its substance; the form is not to be discarded, the substance still less to be lost. The stick of incense and cup of water you set out each morning, offered with reverence, are good; but to rise from the altar and carry out what the Buddha taught — that one thought of "practicing as taught" outweighs a lamp-wick the size of Sumeru.
 
-The sūtra states this reversal with iron finality: "If a bodhisattva practises the dharma-offering, then he accomplishes the offering to the tathāgata; this practice is the true offering." The true offering is practice itself. To take the Buddha's teaching and steadily walk it — to practise, to benefit sentient beings — this is the highest offering anyone makes to the Buddha. No abundance of flowers, no fullness of lamp-oil, can match a single moment of practising as taught.
+### Three Roads out of a Single Reverence
 
-Of the seven dharma-offerings, the first is practising as taught — doing what one says, word and deed aligned; the last is not departing from the awakening-mind. And beneath this last one lies a line of immense warmth and immense depth: "Were there no sentient beings, no bodhisattva would attain perfect awakening." Without sentient beings, no bodhisattva — not one — could ever become a Buddha. Sentient beings are the oxygen of the awakening-mind; cut off from sentient beings, the mind that "seeks awakening for the benefit of all sentient beings" goes out.
+Reverence, praise, offerings: taken apart, three vows; taken together, the three outlets of a single word, veneration — the body venerates and bows, the mouth venerates and praises, the conduct venerates and offers.
 
-So what "extensively making offerings" offers is not incense and flowers. It is this whole life of yours — a life of practice, lived for sentient beings.
+The reader has in fact met these three roads once before, in Part Six. When Shandao laid out the "right practices" of the Pure Land path, they were exactly these: "to bow is to bow single-mindedly to that Buddha; to recite is to recite that Buddha's name single-mindedly; to praise and make offerings is to praise and make offerings single-mindedly." Shandao gathers the three onto one Buddha, Amitābha; Samantabhadra spreads them across the Buddhas of every dust-mote and land. One concentrates, the other broadens — but the "veneration" in which body, mouth, and mind fire together is one and the same. The person of one gate entered deeply, and the person who bows to the whole dharma-realm, are of one family in this word.
 
-### Body, Speech, and Mind: Three Acts of Homage Toward the Buddha
+And the closing verses gather all three into a single current of vow: "With a vast mind of supreme resolve, I deeply believe in all Buddhas of the three times; with the power of Samantabhadra's practice-vows, I make offerings to all Tathāgatas everywhere."
 
-Set the three vows side by side, and a beautiful symmetry comes into view.
-
-The first, reverence, weighs on the body — it bows down. The second, praise, weighs on the mouth — it speaks out. The third, offerings, is led by the mind — it offers up your practice entire. Body, speech, and mind, the three karmas, performing three kinds of homage toward the Buddha.
-
-And every one of the three closes on the same sentence: "moment-by-moment continuous, without interruption — body, speech, and mind never wearying." Look at it: inside each single vow, all three — body, speech, and mind — are in fact moving together. Taken as a whole, they are the three karmas' one complete act of respect toward the Buddha.
-
-Nor is this Samantabhadra's teaching alone. Master Shandao of the Pure Land school, in setting up the "three minds" of *niànfó*, taught exactly this: "body-karma prostration to that buddha; speech-karma praise and extolling of that buddha; mind-karma sole recollection and contemplation of that buddha." See — still the same three karmas of body, speech, and mind, turned toward the one Buddha Amitābha: bowing, praising, recollecting. The three acts of homage Samantabhadra performs toward all the Buddhas of the ten directions, and the three karmas Shandao teaches you to turn toward Amitābha alone, are one and the same structure — one opens out across the dharma-realm, the other gathers upon a single Buddha; but the body, speech, and mind that turn toward the Buddha in respect are one.
-
-### Toward the Buddha, Toward Oneself, Toward Others
-
-The first three vows are your whole person turning toward the Buddha — body bowing, mouth praising, mind offering.
-
-But Samantabhadra's vows do not stop at the Buddha. The next two turn the direction toward oneself and toward others: one turns back to face one's own faults — repenting karmic obstructions; the other lifts its eyes to face what is good in others — rejoicing in others' merit.
-
-In the next chapter we look at these two: how to face what one can hardly bear in oneself, and how to face the goodness of someone else.
+The veneration of the Buddhas is told. But a person must face more than the Buddhas — there are one's own faults, and other people's goodness. The next chapter: repenting karmic obstructions and rejoicing in merit — one mirror turned inward, one turned outward.

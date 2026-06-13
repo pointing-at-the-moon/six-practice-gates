@@ -2,9 +2,13 @@
 
 The first great sūtra that buddha-recollection walks into is the *Śūraṅgama Sūtra*.
 
-In Fascicle Five of the *Śūraṅgama* there is a famous passage, spoken by Mahāsthāmaprāpta Bodhisattva. The Buddha asked the holy ones seated in the assembly: by which gate of practice had each of them cultivated to perfect penetration — full, unobstructed attainment? When the turn came to Mahāsthāmaprāpta, he set out his own gate of buddha-recollection, and closed it with eight characters:
+In Fascicle Five of the *Śūraṅgama*, the Buddha asked the holy ones seated in the assembly: by which gate of practice had each of them cultivated to perfect penetration — full, unobstructed attainment? More than twenty holy ones rose, one by one, to answer. When the turn came to one bodhisattva — the sūtra records that "Mahāsthāmaprāpta, prince of the Dharma, together with his fifty-two fellow bodhisattvas, rose from his seat, bowed his head to the Buddha's feet" — he recounted his own origin:
 
-> Gathering in the six sense-roots, with pure recollection uninterrupted.
+> I remember, in a past as far back as the sands of the Ganges, a Buddha appeared in the world named Limitless Light; twelve Tathāgatas followed one upon another in a single kalpa, the last of them named Light Surpassing Sun and Moon.
+
+It was that Buddha, he says, who "taught me the buddha-recollection samādhi." Having set out the gate, he closed it with eight characters:
+
+> Without making any choice among them, I gather in the six sense-roots, so that pure recollection follows on unbroken, and attain *samādhi*. This is the foremost.
 
 Gather the six roots, all of them, into this one recollection; and let this pure recollection follow on, recollection after recollection, unbroken.
 
@@ -50,7 +54,9 @@ The Buddhas of the ten directions regard sentient beings with tender pity, the w
 
 But if the child will only turn and hold the mother in mind, the way she holds him, then mother and child, life after life, will never again be far apart.
 
-So Mahāsthāmaprāpta says: "If the sentient being's mind recollects the Buddha, is mindful of the Buddha, then in the present and in the future, they must see the Buddha."
+So Mahāsthāmaprāpta says:
+
+> If the sentient being's mind recollects the Buddha, is mindful of the Buddha, then in the present and in the future they will certainly see the Buddha; not far from the Buddha, without resort to any other means, the mind opens of itself.
 
 Look closely at this layer of meaning. Whether you see the Buddha does not turn on whether the Buddha is present — the Buddha has been present all along, holding you in mind all along, as a mother never once forgets her child. Whether the meeting happens turns entirely on the child — on you: whether you are willing to turn around and recollect this Buddha who has never stopped holding you in mind.
 

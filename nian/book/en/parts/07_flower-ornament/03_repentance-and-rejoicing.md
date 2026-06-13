@@ -1,72 +1,45 @@
-## 7.3 Repentance and Rejoicing: The Two Wings of Karma
+## 7.3 Repentance and Rejoicing: Two Mirrors Held to the Mind
 
-Having walked through reverence, praise, and offering toward the Buddhas, Samantabhadra's vows now swing the direction around — toward you yourself, and toward the people at your side.
+The fourth and fifth of the ten great vows — repenting karmic obstructions and rejoicing in merit — are a pair. One mirror faces one's own faults; the other faces other people's goodness. For one who cultivates recollection, neither mirror can be spared: lacking the first, the recollection is dammed up behind one's misdeeds; lacking the second, it is eaten away by envy.
 
-The fourth vow, repenting karmic obstructions, is turning back to face the unwholesome deeds you have done. The fifth vow, rejoicing in merit, is lifting the eyes and being glad, from the heart, for the good of others.
+### Repentance: If These Deeds Had Form, All Space Could Not Contain Them
 
-These two are a pair — the two wings of karma. One works downward, subtracting: it takes away your own past unwholesomeness (repentance). One works upward, adding: it brings in all the goodness of others (rejoicing). Only when both wings beat together can this karma you carry be turned over.
+When Sudhana's question reaches the fourth vow, Samantabhadra's answer begins by making one look at oneself without flinching:
 
-Within the ten great vows, their position is special. The fourth is the only vow that speaks of "my own self"; the fifth is the only one that speaks of "the good of others." The remaining eight all face outward — toward the Buddhas, or toward sentient beings. These two alone: one shines back into oneself, one shines toward others.
+> The bodhisattva reflects: through beginningless kalpas of the past, out of greed, hatred, and delusion, I have set body, speech, and mind in motion and done evil deeds beyond measure and beyond bound. If these evil deeds had substance and form, the whole realm of empty space could not contain them.
 
-### Repenting Karmic Obstructions: Loosening the Mountain of Karma That Will Not Move
+The bodhisattva thinks: in kalpas without beginning, driven by craving, hatred, and delusion, I have moved body, mouth, and mind to deeds of evil past all counting — and were those deeds to take form, all of space could not hold them.
 
-The fourth vow: repenting karmic obstructions.
+Stop on this sentence. The one who says it is Samantabhadra — the "I" here is set in a bodhisattva's mouth. If even a bodhisattva's self-reckoning is "all of space could not contain them," what of us? The Flower Ornament's repentance begins by bringing a person down onto this truthful floor: no covering, no haggling — first admit that the account is too large for space itself to hold.
 
-There is a line in the sūtra that startles the heart: "In the boundless past kalpas, by reason of greed, hatred, and delusion, I have given rise to body, speech, and mind that have committed unwholesome deeds without measure or limit. If these unwholesome deeds had a body and form, the boundless reaches of space could not contain them." — From beginningless time, by greed, hatred, and delusion, I have done unwholesome deeds past all counting; had those deeds a shape, the whole of space could not hold them.
+Only then comes the act of repentance: "I now, with the three karmas purified, before all the Buddhas and bodhisattvas throughout the dharma-realm, in lands numerous as dust-motes, repent with an utterly sincere heart, and will not do these deeds again, abiding always in the pure precepts and every merit." The waist of repentance is in those words — "and will not do them again." Repentance is not weeping over the old account and being done; it is cutting the road by which the account grows.
 
-Facing this mountain of karma that will not move, what is one to do? What Samantabhadra teaches is the verse of repentance that later generations recite every day:
+The closing verses gather this vow into four lines that later ages would recite daily:
 
-> All the evil deeds I have ever done in the past
-> arose from beginningless greed, hatred, and delusion;
-> springing from body, speech, and mind —
-> all of them I now repent.
+> Whatever evil deeds I did of old, all sprang from beginningless greed, anger, and delusion, born of body, speech, and mind — all of them I now repent.
 
-But this "repentance" must be looked at carefully. It is not merely "feeling grieved for a while over past wrongs." The sūtra says: "repent with sincerity, vowing not to commit such deeds again, abiding ever in pure precepts." To repent is to own, with a true heart, what one did wrong, and amend it; but hard upon it follows "not to commit such deeds again" — from here on, no more.
+The repentance verse of the morning and evening liturgy in Chinese Buddhism comes from this very place (here the chapter's wording runs "greed, anger, and delusion"). In Part Five we read the *Golden Light Sūtra*: the bodhisattva Ruciraketu dreaming of the golden drum, and verses of repentance sounding from the sky — repentance and buddha-recollection have walked together through the great Mahāyāna sūtras all along. In the Chapter on Practices and Vows, repentance is formally written into the ten vows, one more strand of "moment by moment continuous": when the realm of space is exhausted, my repentance shall be exhausted. Repentance is not first aid administered once after a fall; like buddha-recollection itself, it is a daily course, unbroken to the end of future time.
 
-You see, the weight of repentance does not rest wholly on "looking back over the bad ledger of the past"; it rests even more on "turning the head toward what comes after." It is not sorrow after the fact; it is the switch that starts the future's not-doing-it-again — which is why it is joined to the precepts: each act of repentance sets you back down, anew, upon the purity of the precepts.
+### Rejoicing: Down to a Single Dust-Mote, I Rejoice in It All
 
-Before repenting, the patriarchs teach you first to arouse seven minds: shame (knowing to blush); fear (dreading the fruit of karma); aversion (weariness of the round of rebirth); arousing the awakening-mind; equal regard for foe and kin (toward those you have hurt, laying down the opposition); recollecting the Buddhas' kindness; and the last, the deepest — "contemplating that the nature of offense is empty."
+The fifth vow, rejoicing in merit — gladness, from the heart, at the good that belongs to others.
 
-This last one deserves a word. It means: turn back and look clearly — that "offense" of yours, does it have a solid, forever-unchangeable substance of its own? It does not. An offense, too, arises from conditions; it is pieced together out of circumstances; it has no iron-cast, everlasting nature.
+Whose merit does Samantabhadra rejoice in first? The Buddhas': all Tathāgatas from their first arousing of the mind, "diligently amassing blessings, never begrudging body or life," through kalpas beyond telling giving away heads, eyes, hands, and feet beyond telling, through every hard practice to full awakening — "in all these roots of goodness I rejoice." And then the circle opens wide:
 
-This joins straight onto the principle of that golden drum in the dream — the *Golden Light Sūtra* of Part Five: true repentance is not gripping "my offense, my offense" ever more tightly; it is opening that clenched fist — seeing that neither the "I" nor the "offense" is as solid as it seemed, and the mountain of karma that would not move loosens of itself.
+> And of all the merits of every kind of being of the six destinies and four modes of birth, in all the worlds of the ten directions — though it be no more than a single dust-mote — I rejoice in it all.
 
-So let it be said plainly: repentance is not magic that makes a deed once done "never have happened." What it does is diminish — wearing that karma's momentum down, little by little, loosening it; turning the head, meanwhile, toward what comes after, and not committing it again; and at the deepest point, seeing through that "offense" to its lack of any solid substance. This is the first wing of karma: downward — subtracting.
+All beings of all worlds, of every destiny and every mode of birth: whatever merit is theirs, be it the size of one dust-mote, I rejoice in it. The merits of śrāvakas and pratyekabuddhas, of learners and adepts — I rejoice; the hard practices of all bodhisattvas — I rejoice. The verse gathers it cleanly: "All beings of the ten directions, the two vehicles, learners and adepts, all Tathāgatas and bodhisattvas — in all their merits I rejoice."
 
-### Rejoicing in Merit: When Others Do Well, You Are Glad with Them
+Why is rejoicing so weighty a merit? In the *Lotus Sūtra*'s Chapter on the Merit of Rejoicing, Maitreya asked on our behalf: "After the World-Honored One's passing, if someone hears this sūtra and is able to rejoice in it, how much blessing does he gain?" The Buddha's answer is the famous "fiftieth hand": someone hears the Dharma and rejoices; leaving the assembly, he goes elsewhere and, "as he heard it, expounds it according to his power to father and mother, kinsmen, good friends, and acquaintances. These people, having heard, rejoice and pass the teaching on; others, having heard, rejoice and pass it on in turn — and so, hand to hand, to the fiftieth person."
 
-The fifth vow: rejoicing in merit.
+Then the Buddha sets up a comparison. He first describes a great donor: take "four hundred myriad koṭis of asaṃkhyeya worlds, and the beings of the six destinies and four births" in them all — born of egg, womb, moisture, or transformation — and suppose "someone, seeking their happiness, gives to each whatever objects of delight it desires," giving "to every single being a whole Jambudvīpa's worth of gold, silver, lapis lazuli," every jewel, elephants, horses, carriages, palaces of the seven treasures — giving thus "for a full eighty years." This donor's merit, says the Buddha, does not reach the merit of that fiftieth person hearing one verse of the sūtra and rejoicing. A single thought of gladness, passed through fifty hands and diluted fifty times, still outweighs eighty years of jeweled giving across four hundred myriad koṭis of worlds — what then of the first thought?
 
-The two characters of "rejoicing-along" say it on their face: along with (the good of another), gladness (arises).
+Why so heavy? Because what rejoicing cures is the stickiest thing in the human heart — envy. To see another's good and sour first, belittle second: that is the reflex of the unguarded heart. Rejoicing turns it bodily around: another's good becomes as your own. Whoever's merit you rejoice in, that merit lights you once. A person who rejoices everywhere has piped the goodness of all beings of the ten directions into his own heart — which is why Samantabhadra can say "though it be a single dust-mote, I rejoice in it all," and by that one vow be rich beyond the dharma-realm.
 
-Rejoice in what? The sūtra says: in all good whatsoever — at the top, every wholesome root of the Buddhas of the ten directions, from their first arousing of the mind, through measureless kalpas of cultivation, all the way to buddhahood; at the bottom, among the beings of the six destinies, good even so slight as "one mote-of-dust"; in between, the merit of the sages of the two vehicles, and of the bodhisattvas' many difficult and painful practices — all of it: "in all of them I rejoice along."
+### One Inward, One Outward — the Same Heart Washed
 
-No matter who, no matter how great or small the good — you are glad for them, from the heart.
+Repentance faces one's own evil; rejoicing faces others' good — one inward, one outward, and it is the same heart that both of them wash.
 
-This vow looks light, but it is a medicine of tremendous strength. What disease does it treat? The patriarchs say: jealousy. The human heart has a stubborn sickness — it cannot bear to see others do well. Someone does good, comes by some good, and the heart turns sour. Rejoicing is the exact opposite of that sourness: when others do well, I do not sour; I am glad for them. Master Chengguan says that rejoicing can "extinguish the obstruction of jealousy, arouse equal-and-impartial wholesome action" — it dissolves the knot of jealousy and grows out a level, equal heart.
+Refuse to own your faults, and however diligently you recite, silt gathers beneath the recitation. Refuse to gladden at others' good, and however long you recite, vinegar gathers beside it. Set up both mirrors, and that one line of unbroken buddha-recollection sounds upon a heart at once clean and open.
 
-One layer deeper, Master Zongmi puts his finger on it: why does rejoicing let pass not even "one mote-of-dust" of good? Because "self and others are not two" — you and he, within this dharma-realm, were never divided by an iron wall; his good is a share of your good. Be glad for him, and you receive your share of that good.
-
-The *Lotus Sūtra* has a marvelous figure for this, called the "fifty-fold transmission": one person hears the Dharma and a single thought of rejoicing arises; he passes that gladness to a second person; the second to a third — one to the next, down to the fiftieth. And the sūtra says: even for that fiftieth person, the merit of that one thought of rejoicing is beyond all reckoning.
-
-You see, rejoicing is the least laborious, least costly practice under heaven: you need do nothing at all — only, on seeing someone do good, be glad for them, from the heart, without discount — and that one thought shares the merit of that good into you. The one who will not rejoice sulks at another's good, and for nothing adds the karma of jealousy to himself; the one who rejoices is gladdened by another's good, and for nothing adds a share of goodness to himself. The same "good thing that happened to someone else" — and one life grows narrower and narrower, the other wider and wider.
-
-This is the second wing of karma: upward — adding.
-
-### Two Wings, Beating Together
-
-Put the two together. Repentance subtracts, downward: it unloads, little by little, the unwholesome karma on your own back. Rejoicing adds, upward: it shares in, in an unbroken stream, all the good under heaven.
-
-One subtraction, one addition, and this ledger of karma of yours is turned over: you no longer stagger alone under your own past wrongs; you begin to share in the living goodness of everyone.
-
-And these two, like the vows before them, close on "moment-by-moment continuous, without interruption" — not one repentance, one rejoicing, and done, but to the end of all future time: these two wings, beating together, always.
-
-### Asking the Buddha to Teach, Asking the Buddha to Remain
-
-Reverence toward the Buddhas (vows one through three); facing oneself and others (four and five) — having walked this far, Samantabhadra's vows turn direction once more.
-
-The next two are two requests: asking the Buddha to teach the Dharma (requesting the turning of the dharma-wheel), and asking the Buddha not to leave, but to remain long in the world (requesting the Buddhas to abide in the world).
-
-By what right does a sentient being go and "request" anything of a Buddha? Asking the Buddha to teach, asking the Buddha to remain — what, exactly, is being requested?
-
-In the next chapter, we look at these two vows of "requesting."
+But the vow-king is not finished. After the Buddhas, oneself, and others, there remains the Dharma — asking that it be taught, and that its teachers remain in the world. The next chapter: the sixth and seventh vows, requesting the turning of the dharma-wheel, and requesting the Buddhas to abide.

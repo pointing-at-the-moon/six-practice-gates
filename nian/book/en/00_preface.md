@@ -18,6 +18,14 @@ It has changed shape many times. Its core has never changed.
 
 The book's subtitle — "from early Buddhist recollection to the Flower Ornament vision" — names exactly this road from end to end: setting out from the plainest recollection and walking all the way to the widest buddha-recollection of the Flower Ornament. A thousand years and more, one word *niàn* on this land — how it grew up, how it divided the household, how it flowed back together, and how it returned to that one plainest phrase.
 
+### A Road You Can Actually Walk
+
+This road is no airy metaphysics. Every step of it rests on a real scene.
+
+It sets out in the Nigrodha Park, south of Kapilavatthu — where a layman named Mahānāma, busy with the affairs of a great household, afraid that one day he might die suddenly in the crowded streets, flustered and forgetting the Buddha altogether, came to ask. It passes through a great assembly outside Rājagṛha, where a lay bodhisattva asked the Buddha before the whole throng: how does one practice, so as to see the Buddha face to face? It passes through a tragedy in the palace at Rājagṛha — a mother shut in a cell by her own son, crying out to the Buddha to show her a place free of sorrow. It passes through a street in Luoyang, where a monk from India spat once on the ground and woke a learned man who wanted only to live forever. It passes through one night's dream, in which a great golden drum, with the Buddhas of the ten directions appearing in its light, sounded out a confession of itself. And at the last it walks into the Jeta Grove of the *Flower Ornament*, where the youth Sudhana visits good teacher after good teacher, and Samantabhadra sets down his ten great vows.
+
+Look — all along this thousand-year road stand people, one after another, just like you and me: people who panic, who fear, who err, who reach the end of their rope. The one recollection the Buddha left behind is the rope held out to them — and to you.
+
 ### This Book Is Written for You
 
 This book is not written for scholars.

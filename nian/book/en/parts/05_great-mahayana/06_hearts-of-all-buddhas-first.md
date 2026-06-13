@@ -30,9 +30,17 @@ If "the hearts of all Buddhas" meant the Buddhas' mental activity, then to recol
 
 The *Laṅkāvatāra* then draws an equals sign between this "heart of all Buddhas" and two terms: the *tathāgatagarbha*, and the storehouse consciousness — the *ālaya-vijñāna*.
 
-What does that mean? The sūtra says: within the mind of every sentient being there is a deepest stratum. In its nature it is pure — that face is called the *tathāgatagarbha* (the Tathāgata, stored within). Yet it is covered over by defiled habits from beginningless time — that face is called the storehouse consciousness. The pure and the defiled are not two things; they are two faces of one and the same mind.
+In the second fascicle, the bodhisattva Mahāmati cites what the Buddha often says:
 
-And this *tathāgatagarbha* — this originally pure core hidden in your deepest place — the sūtra says all sentient beings carry it within their bodies.
+> The *tathāgatagarbha* is by nature pure, bearing the thirty-two marks, present within the bodies of all sentient beings — like a jewel of great price wrapped about by a soiled garment.
+
+The *tathāgatagarbha* is pure in its nature, complete with the thirty-two marks, right within the body of every being — like a priceless jewel, wrapped round and round in a filthy robe. The jewel is pure; the garment that wraps it is foul.
+
+In the fourth fascicle the Buddha says further:
+
+> The womb of the Tathāgata is the cause of the wholesome and the unwholesome … Perfumed by the false, evil habits of beginningless time, it is named the storehouse consciousness … its own nature stainless, ultimately pure.
+
+This one and the same storehouse is the cause of all good and ill; perfumed by the false, evil habits of beginningless time, it is called the storehouse consciousness; yet in itself "its own nature is stainless, ultimately pure." The pure face is called the *tathāgatagarbha*; the perfumed face is called the storehouse consciousness — not two things, but two faces of one mind, which the sūtra plainly calls together "the *tathāgatagarbha* storehouse-consciousness."
 
 Now join the threads. The heart of all Buddhas (that solid essence) = the *tathāgatagarbha* = the storehouse consciousness. And the *tathāgatagarbha* is innate in everyone, lying in the deepest stratum of your own mind.
 

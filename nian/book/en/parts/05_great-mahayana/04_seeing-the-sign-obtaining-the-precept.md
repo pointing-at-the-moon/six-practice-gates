@@ -48,9 +48,9 @@ So keeping the precept was never the static business of "receive it, then just d
 
 String these scattered clauses of the *Brahma Net Sūtra* together and a complete net comes into view — a net of "keeping the precept is recollecting the Buddha." At five points in time, it connects you to the Buddha:
 
-Every day — "thrice daily," morning, noon, and evening, reverence. (The root of the morning-and-evening services in Chinese monasteries lies here.)
+Every half-month — the Buddha Himself says, "I, every half-month, recite the dharma-precepts of the buddhas." Even the Buddha recites them half-month by half-month; and the precept-receiver likewise — the assembly gathers before the images of the Buddhas and bodhisattvas, one person recites the precepts from the high seat and everyone below listens and receives; once each half-month, the precept is reactivated.
 
-Every half-month — the assembly gathers before the Buddha-image, one person recites the precepts and everyone listens and receives; once each half-month, the precept is reactivated.
+Every day — for the visiting Mahāyāna teacher come from afar, "thrice daily make offering," "thrice daily bow" — weaving reverence into the morning, noon, and evening of every day.
 
 At the moment of reception — self-vow, repentance, the auspicious sign seen: connection made with the Buddha, the seed planted.
 

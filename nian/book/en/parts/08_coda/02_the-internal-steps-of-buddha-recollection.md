@@ -84,7 +84,7 @@ I am not saying this ledger is of no use at all. For someone just entering the g
 
 Because inside buddha-recollection, only one thing is really being done: changing the structure of this mind of yours.
 
-Not banking merit. Not erasing karmic obstructions. Not storing up blessings. It is this — letting the mind that ordinarily clenches with a death-grip loosen, and turn toward the Buddha. And this thing cannot be measured in "how many times." A man recites three thousand times a day, yet has never once tasted the flavor of those four steps — he is handing in homework. A man recites only ten times a day, yet every single time walks honestly through the four steps — that, and that alone, is practice.
+Not banking merit. Not erasing karmic obstructions. Not storing up blessings. It is this — letting the mind that ordinarily clenches with a death-grip loosen, and turn toward the Buddha. And this thing cannot be measured in "how many times." A man recites three thousand times a day, yet has never once tasted the flavor of those four steps — he is handing in homework. A man recites only ten times a day, yet every single time walks solidly through the four steps — that, and that alone, is practice.
 
 The one ruler of buddha-recollection is not in that ledger outside; it is in your own mind: this mind of yours — has it loosened? Has it turned? That ruler no one else can see, no one else can measure. Only you can read it.
 

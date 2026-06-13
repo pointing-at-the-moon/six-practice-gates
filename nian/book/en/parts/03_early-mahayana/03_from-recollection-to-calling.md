@@ -12,7 +12,7 @@ Let us watch how these two actions wove themselves together, step by step.
 
 ### The Name Begins to Circulate
 
-First comes the vow we met in the last chapter—the seventeenth: let my name spread through the ten directions, and let all beings who "hear my name" leap in joy to be born in my land.
+First comes the vow we met in the last chapter—the one that sends the name abroad: let my name spread through the eight directions, above and below, let the Buddhas praise it, and let all beings who "hear my name" leap in joy to be born in my land.
 
 Mark that word—*hear*. On the beings' side, the action is hearing; but for this side to hear, someone on the other side must speak the name out. A name must first be spoken, passed on, called, before anyone can hear it. Right here, the seat for the action *chēng* is quietly left empty, waiting for someone to fill it.
 

@@ -1,80 +1,51 @@
-## 7.5 Constantly Following the Buddha in Study, Accommodating Sentient Beings, Universal Dedication: Learning from the Buddha Above, Accommodating Beings Below, Dedicating It All
+## 7.5 Following the Buddha, Accommodating Beings, Universal Dedication: The Vow-King's Close
 
-The last three of Samantabhadra's ten great vows are the closing of the whole set. They lay the directions out into a pattern of upward, downward, and all-gathering: upward, following close behind the Buddha and learning from Him (constantly following the Buddha in study); downward, going along with every sentient being (accommodating sentient beings); and at the last, dedicating the whole of it away (universal dedication).
+The last three vows — following the Buddha constantly in study, accommodating sentient beings, dedicating all universally — are the close of the whole vow-king. One walks behind the Buddha; one bends down before sentient beings; and the last pours out the entire merit of the nine vows before it.
 
-### Constantly Following the Buddha in Study: Taking the Buddha's Life as Your Model
+### The Eighth Vow: Skin for Paper, Bone for Pen
 
-The eighth vow: constantly following the Buddha in study.
+What is it to follow the Buddha constantly in study? Samantabhadra gives no theory; he gives a person — "the Tathāgata Vairocana of this Sahā world." The sūtra says plainly: the Buddha of this very world of ours, the original master of the Flower Ornament assembly. And how did He practice on the causal ground?
 
-Study what? Study how that original master — Vairocana Buddha — practiced His own way through. The sūtra tells it: from His first arousing of the awakening-mind, this Buddha pressed forward without retreating; for the sake of seeking the dharma, for the sake of writing out the scriptures, He "flayed His skin to make paper and drew His blood to make ink" — peeled off His own skin to serve as paper, drew out His own blood to serve as ink; the scriptures He wrote piled as high as Mount Sumeru; and all along the way He "spared neither body nor life," until, beneath the tree, He accomplished the great enlightenment.
+> The Tathāgata Vairocana of this Sahā world, from His first arousing of the mind, advanced with vigor and never turned back, giving away bodies and lives beyond all telling: He flayed His skin to make paper, split His bones to make pens, and drew His blood to make ink, copying out the scriptures until they were piled high as Mount Sumeru — because He so honored the Dharma, He did not begrudge body or life.
 
-This is what "sacrificing the body for the dharma" means — staking body, life, and everything one owns on seeking the dharma, on practice.
+From the first arousing of the mind, vigor without retreat; bodies and lives given beyond telling; skin flayed for paper, bones split for pens, blood drawn for ink, the copied scriptures heaped like Sumeru. Why? "Because He so honored the Dharma, He did not begrudge body or life" — body and life not begrudged, let alone thrones, cities, palaces, and parks. Through every hard practice, to awakening beneath the tree, to teaching in every kind of assembly, to the showing of nirvāṇa — "in all of this I shall follow and learn." Nor of this one Buddha only: of all Tathāgatas in every dust-mote of every land, "in every moment, I follow and learn from them all."
 
-Samantabhadra says: "I follow all the Tathāgatas in study." — all of this, I follow, and I learn.
+See how "skin for paper" answers the last chapter: there we read that even the Buddha takes the Dharma as what He reveres; here we see what that reverence cost on the causal ground — paid in skin, bone, and blood. The first lesson of following the Buddha is the weight of those words, "because He so honored the Dharma." The verse: "I follow all Tathāgatas in study, perfecting the practice of Samantabhadra."
 
-So "constantly following the Buddha in study" is taking the Buddha's life — that life which spared nothing for the dharma — as your model, and following it step for step. This is the "upward": lift your head, look at the Buddha, and walk upward, step by step, in His footsteps.
+### The Ninth Vow: Awakening Belongs to Sentient Beings
 
-### Accommodating Sentient Beings: Sentient Beings Are the Root of Your Buddhahood
+The ninth vow, accommodating sentient beings, is the deepest and warmest teaching in the ten.
 
-The ninth vow: accommodating sentient beings.
+Samantabhadra first takes "accommodating" to its limit: toward every class of being in the dharma-realm — egg-born, womb-born, with form, without form, with thought, without thought — "I shall bend and turn to follow them all, serving them in every way, providing for them in every way, as one reveres father and mother, as one serves a teacher, an arhat, a Tathāgata — with no difference." Reverence toward every being, no different from reverence toward the Buddha. And brought down into deeds:
 
-If the eighth vow is lifting your head to look at the Buddha, then the ninth is lowering your head to look at sentient beings.
+> To the sick, a good physician; to those astray, the right road; in the dark night, a light; to the poor, a hidden treasure.
 
-The sūtra says to accommodate all sentient beings — "attending in every way, making offerings in every way" — and to do it "as one would revere father and mother, as one would serve teacher and elder," even "as one would honour an arhat or even the Tathāgata, equal and without distinction." Which is to say: you are to serve sentient beings as you would serve your own parents, your own teachers — even as you would serve the Buddha. With no difference at all.
+For the sick, be their physician; for the lost, point the road; in the night, be a lamp; for the poor, an uncovered treasure.
 
-Why? An utterly ordinary being — even a repellent one — on what ground must I honor him the way I honor the Buddha?
+Why such service? Samantabhadra gives the astonishing reason: "If a bodhisattva can accommodate sentient beings, this is to accommodate and make offering to all Buddhas; to honor and serve sentient beings is to honor and serve the Tathāgatas." To serve beings is to make offering to the Buddhas; to revere beings is to revere the Tathāgata. Why? "Because all Buddhas, the Tathāgatas, have the mind of great compassion as their very essence. Because of sentient beings, great compassion arises; because of great compassion, the awakening-mind is born; because of the awakening-mind, perfect awakening is accomplished." The Buddha's essence is great compassion — and compassion arises only because beings exist. Then comes the parable for the ages:
 
-Samantabhadra gives an exceedingly beautiful simile — the great tree-king:
+> It is like a great tree-king in a wilderness of sand: if its roots find water, its branches, leaves, flowers, and fruits all flourish. The bodhi tree-king in the wilderness of birth-and-death is just so: all sentient beings are its roots; the Buddhas and bodhisattvas are its flowers and fruits. Water the beings with the water of great compassion, and the flowers and fruits of the Buddhas' and bodhisattvas' wisdom come to be.
 
-> It is like a great tree-king growing in a desert wilderness of sand and gravel: when the root is watered, every branch and leaf, flower and fruit, flourishes. The bodhi-tree-king of the wilderness of birth-and-death is just so. All sentient beings are its root; all the Buddhas and bodhisattvas are its flowers and fruits. When the water of great compassion benefits sentient beings, the wisdom-flowers-and-fruits of the Buddhas and bodhisattvas are accomplished.
+A great tree-king in the desert: let the roots find water, and branch, leaf, flower, and fruit all flourish. In the desert of birth-and-death the tree of awakening is the same: beings are the root, Buddhas and bodhisattvas the flower and fruit; water the root with great compassion, and wisdom's flower and fruit are accomplished. And so Samantabhadra dares the verdict:
 
-Take the simile apart. In the wilderness of birth-and-death stands a great tree of buddhahood. The root of this tree — what is it? All sentient beings. Its flowers and fruits — what are they? The Buddhas and bodhisattvas. And the water that keeps the tree alive, that brings flower and fruit to ripeness — what is it? Great compassion — your compassion for sentient beings.
+> Therefore, awakening belongs to sentient beings. Without sentient beings, no bodhisattva could ever accomplish unsurpassed perfect awakening.
 
-Do you see it now — sentient beings are the root of that great tree which is your becoming a Buddha. If you want the tree to bear the fruit called buddhahood, you must take the water called great compassion and pour it on the root called sentient beings. Apart from sentient beings, the root dries out; and once the root is dry, that flower and fruit of your buddhahood will never form.
+Bodhi belongs to beings. Without beings, no bodhisattva ever becomes a Buddha. The seeker of the Way looks instinctively upward — at the Buddha, the Pure Land, awakening; the ninth vow turns his head downward: the sick, the lost, the benighted, the poor at your feet are the root of your tree of awakening. Water goes on the root.
 
-This says, all the way through, the line you met earlier in this part — "Were there no sentient beings, no bodhisattva would attain perfect awakening." Serving sentient beings is not some optional good deed standing outside the practice; it is an indispensable condition of your becoming a Buddha at all. You do not become a Buddha by going up and away from sentient beings; it is precisely by going down, by sinking yourself into sentient beings, that you become one.
+### The Tenth Vow: Their Heaviest Fruits of Suffering, I Will Bear in Their Stead
 
-So "accommodating sentient beings" is the "downward": bow your head, root yourself among sentient beings, and water the root of your buddhahood with the water of great compassion.
+The last vow, universal dedication: "all merits, from the first bow to the last accommodation, I dedicate wholly to all sentient beings throughout the realm of dharma and the realm of empty space" — may beings be ever at ease and free of sickness; may their evil designs fail and their good deeds quickly succeed; may the doors of the evil destinies be shut, and the right road of humans, gods, and nirvāṇa be shown. And then the heaviest sentence in the scroll:
 
-### Universal Dedication: Giving the Whole of It Away
+> If sentient beings, because of the evil deeds they have amassed, incur the very heaviest fruits of suffering, I will take them all upon myself in their stead, that those beings may all be freed, and in the end accomplish unsurpassed awakening.
 
-The tenth vow: universal dedication. It is the last of the ten great vows, and the one that gathers up the nine before it.
+Whatever heaviest suffering beings have earned by their amassed deeds — I will bear it in their place. Dedication carried to this point not only gives the merit away; it takes the suffering on. The ten vows open with reverence to the Buddhas and close with bearing the suffering of beings; the cord of "moment by moment continuous, without interruption" here shows its true direction — wound not around oneself, but paid out toward all beings.
 
-The sūtra's very first sentence is the gathering: "From the initial reverencing through to the accommodating, all merits whatsoever are entirely dedicated." From the first vow's reverencing, all the way to the ninth vow's accommodating — every merit laid up along that whole stretch is dedicated away — all of it.
+The verses gather these latter vows into four lines: "All the blessings of bowing, praising, and offering, of asking the Buddhas to abide and turn the wheel, the roots of goodness of rejoicing and repentance — I dedicate to all beings and to the Buddha-way." And the scripture closes the count: "Such are the ten great vows of the bodhisattva-mahāsattva, complete and perfect."
 
-Dedicated to whom? "To all sentient beings throughout the dharmadhātu, throughout space" — to every being in the whole dharma-realm, that they may "forever attain ease and peace." Samantabhadra even vows: every most grievous painful fruit that beings incur through their evil karma — "I shall undergo it in their stead." I will take it, he says, in their place.
+### The Vow-King Told, the Road Walked to Its End
 
-What is "dedication"? It is not a transaction — not merit moved like money from one account into another. The *huí* of *huíxiàng*, "dedication," means to turn, to incline: you take everything your practice has gained you, turn its whole direction around, and incline it outward — toward all sentient beings, toward the unsurpassed buddha-path. Not one drop kept back for yourself.
+The ten great vows are walked. Look back: three vows toward the Buddhas (reverence, praise, offerings), one each toward self and others (repentance, rejoicing), two toward the Dharma (requesting the wheel, requesting abiding), and the last three gathering everything toward sentient beings (following, accommodating, dedicating). And at the end of every vow, the same sentence: moment by moment continuous, without interruption; body, speech, and mind without weariness.
 
-Think of it: a person practices long and hard, and the most natural thought in the world is, "this merit is mine." Samantabhadra's final vow is precisely the loosening of that "mine" — released, completely, and given away. To practice a whole course through and, at the end, not even keep the merit of the practice, but dedicate all of it to everyone under heaven — this is the last, and the widest, gesture of the ten great vows.
+Buddha-recollection, come to the Flower Ornament, has become this: a whole way of living, threaded by recollection, stretched open by vows, homing on sentient beings. And the previous chapter has already read its terminus: at the end of life, "only this vow-king does not depart," leading the way, in one instant, to Utmost Bliss, face to face with Amitābha.
 
-The title of this book made a promise: from early Buddhist recollection to the Flower Ornament vision. And at the very end of Samantabhadra's ten great vows, the closing verse gently sets that whole road back down at the one Buddha, the one land, we know best:
-
-> These supreme practices of Samantabhadra are mine,
-> and the boundless surpassing merits — every one of them — are dedicated.
-> May all sentient beings drowning in *saṃsāra*
-> swiftly reach the buddha-realm of Infinite Light.
-
-— I have cultivated these supreme practices of Samantabhadra, and the boundless merit they have gained is dedicated, all of it, away; my one wish is that the beings still drowning in the sea of suffering go quickly to be born in the realm of the Buddha of Infinite Light — that is, of Amitābha.
-
-Look — after circling through a Flower Ornament this vast — ten great vows, the dharma-realm, layer upon layer without end — what it lands on at the very last is still that one line: rebirth in Amitābha's Pure Land. The widest of all and the plainest of all, here, once again become one.
-
-### Ten Vows, One Whole Way of Living
-
-Look back over Samantabhadra's ten great vows. The first three pay reverence toward the Buddhas (reverencing, praising, offering); the fourth and fifth face oneself and others (repentance, rejoicing); the sixth and seventh ask that the Buddha-Dharma long remain (requesting the turning of the dharma-wheel, requesting the Buddhas to abide in the world); and the last three learn from the Buddha above, accommodate beings below, and dedicate the whole (constantly following the Buddha in study, accommodating sentient beings, universal dedication).
-
-These ten are not ten scattered good deeds. They are buddha-recollection stretched open into one whole way of living — between you and all Buddhas, between you and all sentient beings, to the end of future time, moment after moment unbroken. A person of buddha-recollection, lived out to the very limit, lives into the shape of these ten great vows: the Buddha above when the head lifts, sentient beings below when the head bows, and every merit the hands perform dedicated to this entire dharma-realm.
-
-### A Long Road, Walked to Its End
-
-Recollection — this road has run a long way, from the first part of this book to here.
-
-It set out from that plain "recollection" in the Āgamas — calling to mind the nine qualities of the Buddha. It walked through the earliest Chinese "recollecting the path," *niàndào*; walked into the Three Pure Land Sūtras and settled a home there; walked through the deep teachings of the great Mahāyāna sūtras; walked through the parting and the joining of the two rivers, Chan and Pure Land; and at the last it came to the Flower Ornament, the widest country of all, and stretched open into Samantabhadra's ten great vows — and at the end of those ten vows, it settled gently back onto that one phrase, "*Namo Amitābha Buddha*."
-
-From early Buddhist recollection to the Flower Ornament vision — this long road, here, has been walked to its end.
-
-But though the road has reached its end, a few words remain to be said to you. This whole long road — what, in the end, is it meant to place in your hands?
-
-That is for the final part: the coda.
-
-In the next part, we gather up this whole long road of recollection, and lay it back into the palm of your hand.
+The scriptural journey of this book's main text ends here: from recollection beneath the trees of the Āgamas, to the vow-king of the Flower Ornament dharma-realm, and home again to that one line — "Namo Amitābha Buddha." One part remains — and it returns to us: in this age of ours, how is that one line to be recited?

@@ -2,17 +2,13 @@
 
 At the close of the last chapter, a question was left standing: the "qualities of the Buddha" to be recollected—which ones, exactly?
 
-The Buddha did not leave His disciples to imagine them. He left a ready-made format—nine words. Pāli calls the string *itipi so*, after its opening two words.
+The Buddha did not leave His disciples to imagine them. He left a ready-made format. The Pāli discourses call the string *itipi so*, after its opening two words, and count out nine: the Worthy One, the Rightly and Fully Enlightened, Perfect in Knowledge and Conduct, the Well-Gone, the Knower of the World, the Unsurpassed Tamer of Persons, the Teacher of Gods and Humans, the Buddha, the Blessed One. In the *Saṃyukta Āgama*, what the Buddha taught Mahānāma to recollect is this same string—"the Tathāgata, the Worthy One, the Rightly and Fully Enlightened, Perfect in Knowledge and Conduct, the Well-Gone, the Knower of the World, the Unsurpassed One, the Tamer of Persons, the Teacher of Gods and Humans, the Buddha, the World-Honored One."
 
-What the Buddha taught Mahānāma all those years ago was these nine words:
+Recited aloud, the string sounds like a sequence of honorifics. But it is not a certificate of merit, not a listing of the Buddha's titles for the sake of praise. It is one doorway after another.
 
-> That Blessed One is the Worthy One, the Rightly and Fully Enlightened, Perfect in Knowledge and Conduct, the Well-Gone, the Knower of the World, the Unsurpassed Tamer of Persons, the Teacher of Gods and Humans, the Buddha, the Blessed One.
+In recollecting the Buddha, the mind does not run the string through in one breath and call it done. At each word the mind is to pause, step in, look—letting the quality that word points to unfold in the mind, soak in—and then move to the next doorway. The doorways together form a map covering the whole of the Buddha: from what He accomplished, to how He walked, how He sees, how He receives and trains people, to what He is in this world.
 
-Nine words, and recited aloud they sound like a string of honorifics. But this is not a certificate of merit, not a listing of the Buddha's titles for the sake of praise. It is nine doorways.
-
-In recollecting the Buddha, the mind does not run the nine words through in one breath and call it done. At each word the mind is to pause, step in, look—letting the quality that word points to unfold in the mind, soak in—and then move to the next doorway. The nine doorways together form a map covering the whole of the Buddha: from what He accomplished, to how He walked, how He sees, how He receives and trains people, to what He is in this world.
-
-We push them open one by one.
+Following the order of the Pāli nine, we push them open one by one.
 
 ### The First Group: What He Accomplished
 
@@ -40,13 +36,13 @@ We push them open one by one.
 
 ### Recollecting Nine, or Recollecting Ten
 
-What people in the Chinese world have recited since childhood is in fact the "Ten Names"—Tathāgata, Worthy One, Rightly and Fully Enlightened, Perfect in Knowledge and Conduct, Well-Gone, Knower of the World, Unsurpassed One, Tamer of Persons, Teacher of Gods and Humans, Buddha-World-Honored-One. Against the Pāli nine, it adds "Tathāgata" at the head.
+What people in the Chinese world have recited since childhood is in fact the "Ten Names." The string in the *Saṃyukta Āgama* opens with "Tathāgata"—Tathāgata, Worthy One, Rightly and Fully Enlightened, Perfect in Knowledge and Conduct, Well-Gone, Knower of the World, Unsurpassed One, Tamer of Persons, Teacher of Gods and Humans, Buddha-World-Honored-One—one name more, at the head, than the Pāli nine.
 
-This is the format the Chinese translations inherited from their Sanskrit sources; nobody recited it wrong. Nine or ten, the practice is one and the same: the mind stops at each name and lets that quality enter. The difference is only one more doorway—"Tathāgata"—to push open. For the one who recollects, what matters has never been the count. It is whether, at each doorway, one has truly stopped long enough.
+This is the format the Chinese translations set down from the scriptural recension they transmitted; nobody recited it wrong. Nine or ten, the practice is one and the same: the mind stops at each name and lets that quality enter. The difference is only one more doorway—"Tathāgata"—to push open. For the one who recollects, what matters has never been the count. It is whether, at each doorway, one has truly stopped long enough.
 
 ### Why the Nine Qualities Can Transform the Mind
 
-The last chapter walked through the chain: recollect the Tathāgata, and craving, hatred, and delusion cannot at that moment wrap around the mind; the mind goes straight; then gladness, joy, tranquility, ease, all the way to concentration. Now look at the nine epithets as an object, and why they so readily drive that chain.
+The last chapter quoted that chain of change: when the noble disciple recollects thus, the entanglement of craving does not arise; his mind is straight; then gladness, joy, tranquility, ease, all the way to concentration. Now look at the nine epithets as an object, and why they so readily drive that chain.
 
 First, every epithet is a borrowing of one quality. Recollect the Worthy One: borrow "freedom from defilement." Recollect the Rightly and Fully Enlightened: borrow "right awakening." Recollect the Well-Gone: borrow "gone well, without regression." Nine epithets, nine qualities; one circuit around them, and the mind has been covered over by nine good qualities in turn.
 
@@ -58,16 +54,24 @@ And precisely because the mind must keep moving among the nine doorways, it cann
 
 The Buddha set this recollection format in three teaching scenes. Of the three, not one is a quiet meditation hall.
 
-The first is terror in the forest. In the *Dhajagga Sutta*, the Buddha tells the monks: dwelling alone in a forest, at the root of a tree, or in an empty hut, if fear suddenly rises and the hair stands on end, then recollect me—"That Blessed One is the Worthy One, the Rightly and Fully Enlightened…"—and the fear will subside. Why can recollecting the Buddha drive back terror? The Buddha's answer is exact: because the Buddha has left craving, hatred, and delusion behind, He is fearless, unshaken, not given to flight; when you recollect Him, what you borrow over is precisely this fearlessness. What you borrow depends on what you adhere to—adhere to something that itself fears, and what you borrow is fear; adhere to the Buddha, and what you borrow is fearlessness.
+The first is terror in the forest. The *Saṃyukta Āgama* records that the Buddha, dwelling in the Jeta Grove, Anāthapiṇḍika's Park at Śrāvastī, told the monks:
 
-The second is the clamor of home. When Mahānāma came to ask a second time—he had just recovered from a grave illness—the Buddha added a line: develop this recollection while walking, while standing, while sitting, while lying down, while engaged in work, and while at home in a house crowded with children. That one sentence sets buddha-recollection squarely inside the householder's noisiest, least quiet moments. Why did the Buddha say it just so? Because Mahānāma was a lay householder; teach only the meditation-hall version, and a householder has no way in. The format of the nine epithets is designed for exactly this clamor—no crossed legs, no silence required: nine words, recollectable at any moment.
+> If a monk dwelling in an empty place, at the root of a tree, or in an empty hut should at times feel fear, his mind startled and his hair standing on end, let him then recollect the Tathāgata, and the Dharma, and the Saṅgha. … When he recollects the Tathāgata, the Dharma, and the Saṅgha, the fear is at once removed.
 
-The third is danger on the road. In the *Saṃyukta Āgama*, Mahānāma tells the Buddha: the streets of Kapilavatthu run thick with people and horses every day—mad elephants, mad people, runaway carriages everywhere. He fears that one day he will die suddenly in some accident, and at the end there will be no time to recollect the Buddha, the Dhamma, the Saṅgha. The Buddha sets his heart at rest: do not fear. You have recollected the Buddha, the Dhamma, the Saṅgha for long years; that inclination of the mind will not be wasted. Even if you go in an accident, this mind—saturated a whole lifetime through by right faith, by virtue, by giving, by learning, by wisdom—will rise of itself toward a place of peace.
+And the Buddha told a story of the heavens to go with it. In an age past, when Śakra, lord of the gods, did battle with the asuras, Śakra told the gods of the Thirty-Three: in the fight, should fear arise, your minds startled and your hair on end, then recollect my enemy-quelling banner-top; recollecting that banner, the fear will subside. Then the Buddha turned the point home:
+
+> That Śakra, lord of the gods, still harbors craving, hatred, and delusion, and is not freed from birth, aging, sickness, death, sorrow, grief, and anguish; he knows fear, dread, flight, and the seeking of refuge—and yet he could tell the gods of the Thirty-Three to recollect his enemy-quelling banner. How much more the Tathāgata, the Worthy One, the Rightly and Fully Enlightened, down to the Buddha, the World-Honored One, who has left craving, hatred, and delusion behind, and is freed from birth, aging, sickness, death, sorrow, grief, and anguish, without any fear, dread, or flight—how could recollecting Him fail to remove all fear?
+
+Even Śakra still carries craving, hatred, delusion; even he knows fear and flight—yet recollecting his banner could turn back terror. How much more the Tathāgata, who has left those three behind and has no fear at all: recollect Him, and how could the terror not subside? Why recollecting the Buddha drives back terror, the Buddha lays bare here Himself: whomever you recollect, what you borrow over is that one's qualities. Adhere to something that itself fears, and the shelter you borrow is slight; adhere to the Buddha, and what you borrow is fearlessness itself.
+
+The second is the clamor of home. The Pāli discourse records that when Mahānāma, just recovered from a grave illness, came again to ask, the Buddha added a layer to the recollection He taught—develop it, in sum, while walking, while standing, while sitting, while lying down, while engaged in work, and even while at home in a house crowded with children. That line sets buddha-recollection squarely inside the householder's noisiest, least quiet moments. Why did the Buddha teach it just so? Because Mahānāma was a lay householder; teach only the meditation-hall version, and a householder has no way in. This format is designed for exactly such clamor—no crossed legs, no silence required: a string of epithets, recollectable at any moment.
+
+The third is danger on the road. Still in the Nigrodha Park, Mahānāma pours out his worry to the Buddha: Kapilavatthu is secure and prosperous, its people thriving, yet every time he goes in and out, "mad elephants, mad people, and runaway carriages are forever with him"—he fears that one day he will die suddenly in such a melee, his mind in panic at the end, having forgotten to recollect the Buddha, the Dharma, the Saṅgha; where then would he be reborn? The Buddha sets his heart at rest: do not be afraid, do not dread. You have recollected the Buddha, the Dharma, the Saṅgha for long years; this saturation of the mind will not be wasted. Even if you should go in an accident, this mind, steeped through the long night, will of itself rise toward a place of peace. The full text of this exchange we will read closely in chapter three.
 
 Three scenes, one message: buddha-recollection is designed for the disorder of ordinary days, not for ideal practice conditions.
 
 But what the Buddha left behind is not buddha-recollection alone.
 
-Recollection of the Buddha is only the first of the Buddhist "six recollections." Besides the Buddha there are the Dhamma, the Saṅgha, virtue, generosity, and the deities—six objects, one same track. Why six? Why these six? And how do they stand to one another?
+Recollection of the Buddha is only the first of the Buddhist "six recollections." Besides the Buddha there are the Dharma, the Saṅgha, virtue, generosity, and the deities—six objects, one same track. Why six? Why these six? And how do they stand to one another?
 
 In the next chapter, we look at all six doorways together.

@@ -2,7 +2,11 @@
 
 The year is 179 CE; the place, Luoyang. A translator come from the Yuezhi people, Lokakṣema, rendered a sūtra into Chinese—the *Pratyutpanna-Samādhi Sūtra*.
 
-This sūtra is the site of several firsts. The two characters *niànfó*—"recollect the Buddha"—stood forth for the first time in a Chinese scripture as the formal core of a practice: not in the *Sūtra in Forty-Two Sections* of Part Two, not in An Shigao's sūtra on the breath, but here. The name "Amitābha," and the place called "the Land of Bliss" (the sūtra transliterates it as "Sumati"), also showed their faces in Chinese characters for the first time.
+The sūtra opens onto a grand scene. The Buddha is at a place called Mahāvana-kareri in Rājagṛha (the city of Royal Abode), together with a company of five hundred great bhikṣus. A bodhisattva named Bhadrapāla, with five hundred bodhisattvas—the sūtra takes care to note one detail: "all keeping the five precepts"—comes to the Buddha in the afternoon, bows his head to the Buddha's feet, and withdraws to one side. Mark that detail: Bhadrapāla and the five hundred he brings are lay people who keep the five precepts. The protagonist who asks the question, in this sūtra that teaches a person to "see the Buddha," is not a meditation master deep in the mountains, but a lay bodhisattva. The Buddha releases His majestic power, and a hundred thousand monks, thirty thousand nuns, the bodhisattvas of the great countries of the eight directions each with twenty-eight thousand in train, and King Ajātaśatru, the Four Heavenly Kings, Śakra lord of the gods—all gather in one place. Before just such an assembly, Bhadrapāla asks the question of this sūtra: what practice should a bodhisattva follow, to gain wisdom vast as the great sea? The Buddha answers: there is one practice, supreme and first among all merits—
+
+> this *samādhi* is named: the presently-existing Buddhas all standing manifestly before one.
+
+This sūtra is the site of several firsts. The two characters *niànfó*—"recollect the Buddha"—stood forth here for the first time in a Chinese scripture as the formal core of a practice: not in the *Sūtra in Forty-Two Sections* of Part Two, not in An Shigao's sūtra on the breath, but here. The name "Amitābha," and the place everyone would later call "the Land of Bliss" (the sūtra transliterates it as "Sumati"), also showed their faces in Chinese characters for the first time.
 
 And the great thing it brought is this: a person can see the Buddha face to face.
 
@@ -12,17 +16,15 @@ The buddha-recollection of Parts One and Two was remembrance—remembering the B
 
 The *Pratyutpanna-Samādhi Sūtra* wants more than this. It wants you to recollect the Buddha into presence—to recollect until He, really and truly, stands before you.
 
-The method the sūtra gives is hard. Keep the precepts pure, dwell alone in one place, and single-mindedly recollect the Buddha Amitābha of the West. For how long? A day and a night, or seven days and seven nights. Fiercer still: three months—and through those three months, nothing but walking meditation (a slow pacing back and forth), no sitting, no lying down, no sleep. Recollect on like this, until—you see the Buddha.
+The method the sūtra gives is hard. This is how the Buddha teaches Bhadrapāla:
 
-The first seeing is very often in a dream. The sūtra says it plainly: "not in waking, but in the dream"—awake, you have not yet seen Him; in the dream, you see Him first.
+> Whether a bodhisattva be a śramaṇa or a layman, having heard of the buddha-realm of Amitābha in the West, let him recollect that Buddha of that quarter, not breaking the precepts, single-mindedly recollecting—whether for one day and night, or for seven days and seven nights—and after seven days he sees Amitābha. If he does not see Him in waking, he sees Him in a dream.
 
-### "Now, Right Before You, Standing"
+A śramaṇa, or a layman in white—keeping the precepts unbroken, single-mindedly recollecting the Amitābha of the West, a day and a night, or seven days and nights. Recollect to the end of the seventh day—and see Amitābha. Awake one may not yet see; first, in the dream, one sees. A fiercer term, too, the sūtra sets: three months. "He must not lie down for three months," "he must do walking meditation without rest, not sit, for three months, save for meals and the calls of nature"—through three months, only walking meditation (a slow pacing back and forth); but for eating and the privy, neither sitting nor lying down.
 
-This sūtra carries two names. One is the transliterated *bānzhōu*—Chinese sounds for the Sanskrit *pratyutpanna*. The other translates its meaning out character by character: "the presently-existing Buddhas of the ten directions all stand manifestly before one."
+Besides the transliterated name *bānzhōu*, the name the sūtra itself gives this *samādhi* is precisely those nine characters just quoted: the presently-existing Buddhas all standing manifestly before one. These nine characters hand over the whole skeleton of the *samādhi*.
 
-These nine Chinese characters hand over the whole skeleton of this *samādhi*.
-
-"Presently-existing"—not in the past. The Buddha you recollect is not an ancient figure long entered into nirvāṇa, whom you can only remember, but a Buddha who at this very moment is teaching the Dharma.
+"Presently-existing"—not in the past. The Buddha you recollect is not an ancient figure long entered into nirvāṇa, whom you can only remember, but a Buddha who at this very moment is teaching the Dharma. The sūtra says of that Amitābha: "in His land named Sumati, in the midst of the host of bodhisattvas, He is teaching the scriptures"—present continuous.
 
 "Before one"—not in some imagined corner inside your mind, but right in front of you, face to face with you.
 
@@ -30,7 +32,11 @@ These nine Chinese characters hand over the whole skeleton of this *samādhi*.
 
 The Buddha recollected thus turns from "a teacher gone far away" into a Buddha "present this moment, facing you, standing firm." This is a very different state of heart from the remembrance of Part One: not "I pay homage to a Buddha who has departed," but "there is a Buddha here, right now, waiting for me to see Him."
 
-One more line is essential. The sūtra says that this seeing is "not by supernormal locomotion reaching that buddha-realm"—it is not that you fly by supernormal power to the buddha-land and see Him there. Nor is it "ending here to be born in that buddha-realm before seeing"—it is not that you die first, take birth in that world, and only then see. Right here, at this moment, seated, you see. Seeing the Buddha comes before rebirth, and is not the same thing as rebirth. Hold on to this point; we will need it when we come to the Pure Land.
+One more passage is essential. The one who sees the Buddha thus—
+
+> does not use the divine eye to see through, nor the divine ear to hear through, nor supernormal locomotion to reach that buddha-realm; he does not end here and take birth there in that buddha-realm before seeing—but seated here, he sees Amitābha, and hears all the scriptures taught, and receives them in full; rising from the *samādhi*, he can expound them to others.
+
+Not by the divine eye or ear, not by flying through supernormal power to the buddha-land to see, and not by dying first and being reborn in that world before seeing. Right here, at this moment, seated, he sees. Seeing the Buddha comes before rebirth, and is not the same thing as rebirth. Hold on to this point; we will need it when we come to the Pure Land.
 
 ### Seeing the Buddha, Yet Not Clinging to the Buddha
 
@@ -38,13 +44,27 @@ By this point a doubt has most likely risen in the modern mind: recollecting all
 
 This doubt the *Pratyutpanna-Samādhi Sūtra* raised for you long ago, and broke on the spot. It is not a disclaimer patched on by later hands—the sūtra carried it built in from the moment it stepped on stage.
 
-Even as it teaches you to see the Buddha, the sūtra enjoins in the same breath: one who "sees the Buddhas must not cling to the Buddhas." The seeing is good; but seize hold of the Buddha-form you have seen, and it goes wrong. It gives a simile: a lump of iron, heated in fire until it glows red. The red glow is good—it means the fire's power has arrived. But stretch out your hand to grasp it, and what burns is your own hand. Seeing the Buddha is the same: that the form is seen means the *samādhi*'s power has arrived; but cling to that form, and what burns is you.
+Even as it teaches you to see the Buddha, the sūtra enjoins in the same breath:
 
-Then is the Buddha seen real, or false? The sūtra gives another simile: like a person looking into a clean mirror, clear water, a bright crystal, and seeing his own reflection. Ask: did this reflection bore into the mirror from outside? No. Did it come out from inside the mirror? No, again. It is only this—the mirror clean enough, the reflection naturally appears.
+> The bodhisattva guarding this *samādhi* should thus see the Buddha, but should not cling to the Buddha. Why? If there is clinging, it burns oneself. It is like a great lump of iron put in the fire and heated until red: a wise person will not take it in his hand. Why? It burns the hand.
 
-Seeing the Buddha is just so. The Buddha seen does not fly into your mind from outside (or the buddha-land would be one Buddha short), nor is He squeezed out of your own mind (or your mind would have begotten an extra Buddha). It is this—your mind pure enough, the Buddha's vow-power great enough, your *samādhi*-work full enough: the three meet in one place, and the Buddha naturally appears.
+The seeing is good; but seize hold of the Buddha-form you have seen, and it goes wrong. Like a great lump of iron heated in fire until it glows red—the red glow is good, it means the fire's power has arrived; but a wise person does not reach out to grasp it. Seeing the Buddha is the same, the sūtra goes on: "the bodhisattva seeing the Buddha should not cling—to form, to feeling, to perception, to formations, to consciousness he should not cling. Why? The clinger burns his own body. In seeing the Buddha, only recollect His merits."
 
-So at the end the sūtra gathers the whole matter into one line: "The mind makes the Buddha; the mind itself sees. The mind is Buddha. … When the mind has thoughts, that is delusion; when the mind is without thoughts, that is nirvāṇa." The Buddha you see is at once real—welling up out of the buddha-nature you have always possessed—and empty: there is no Buddha standing independently outside, flying in for you to look at.
+Then is the Buddha seen real, or false? The sūtra gives another, finely-drawn simile: like a fair young person, freshly adorned, who would look at his own face—and gazing into a vessel of clean sesame oil, a vessel of clean water, a newly-polished mirror, a flawless crystal, sees his own reflection. The Buddha asks Bhadrapāla: did this reflection come into them from outside? Bhadrapāla answers:
+
+> No, Most Honored of Gods. Because the oil, the crystal, the water, the mirror are clean and pure, one sees one's own reflection in them. And that reflection neither comes out from within, nor enters from without.
+
+The reflection does not enter from outside, nor come out from within. It is only this—the mirror clean enough, the reflection naturally appears.
+
+Seeing the Buddha is just so. And the sūtra makes the point explicit: the seeing of the Buddha rests on three things—"by the Buddha's majestic power, by the power of the *samādhi*, and by the power of one's own root-merit: by these three things one gains the seeing of the Buddha." Your own work, the Buddha's vow-power, the power of the *samādhi*—the three meet in one place, and the Buddha naturally appears, like a reflection in a clean mirror, neither coming from outside nor out from within.
+
+And so, within the *samādhi*, the practitioner realizes for himself the passage:
+
+> What I recollect, I see. The mind makes the Buddha; the mind itself sees. The mind is Buddha, the mind is the Tathāgata, the mind is my own body. The mind sees the Buddha; yet the mind does not itself know the mind, the mind does not itself see the mind. When the mind has thoughts, that is delusion; when the mind is without thoughts, that is nirvāṇa.
+
+"Tathāgata" here renders an old transliteration. What I recollect is what I see; it is the mind that makes the Buddha, the mind that itself sees—the mind is Buddha, the mind is the Tathāgata, the mind is my own body. Yet this mind does not itself know the mind, does not itself see the mind; let the mind raise a thought, and that is delusion; the mind without thought, that is nirvāṇa. The Buddha then speaks a verse, gathering it tighter still:
+
+> The mind does not know the mind; having a mind, it does not see the mind. When the mind raises thoughts, that is delusion; without thoughts, that is nirvāṇa.
 
 Do you see it—this sūtra teaches you with one hand to see the Buddha, and with the other hand not to seize the Buddha you have seen. Seeing and emptiness are bound together from the very start. Seeing the Buddha is not superstition; precisely because seeing the Buddha slips most easily into superstition, the practice came fitted, the moment it stepped on stage, with the brake called "not clinging."
 
