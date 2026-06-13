@@ -48,6 +48,7 @@ PAPER_CANONICAL_CARD.md
 *_BOOK_SPINE.md
 */book/*_PLAN.md
 */book/*_STYLE.md
+*/book/*_PLAYBOOK.md
 */book/_archive/
 **/_archive/
 # Per-part demotion intermediates (the whole-book notes/references/sutra-index ship; these don't)
