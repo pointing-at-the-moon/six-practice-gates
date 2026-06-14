@@ -16,7 +16,7 @@ From the outside, this looks all too much like sentencing. There is a term, ther
 
 The Vinaya records a contrast that could not be cleaner. A bhikkhu had committed two *saṅghādisesa* offenses, and concealed neither; later he disrobed, then returned and received full ordination again, and disclosed the two offenses. The Vinaya's verdict:
 
-> The Saṅgha should at once give him *mānatta* for the two offenses.
+> A bhikkhu had committed two *saṅghādisesa* offenses and concealed neither; he left the order. Having left and then received full ordination again, he disclosed the two offenses — the Saṅgha should at once give him *mānatta* for the two offenses.
 
 Fix on that phrase, *at once*. The one who never concealed enters, upon disclosure, "at once" into the six nights of *mānatta* — and the whole stretch of probation is waived entire.
 
@@ -28,7 +28,11 @@ This says outright what probation is. The probationary stage is not a price set 
 
 How, then, is the price of hiding reckoned? The answer is so simple it is nearly arithmetic: as many nights hidden, so many nights of probation.
 
-The Dharmaguptaka *Vinaya* calls this "according to the days concealed" — according to however many days you covered it. The Mahīśāsaka *Vinaya* records the worked example of one: a bhikkhu who concealed for one night asks the Saṅgha for one night's probation. The Mahāsāṃghika *Vinaya* records the worked example of ten: ten nights concealed, ten nights of probation requested. One for one, ten for ten; Vinaya after Vinaya, southern transmission and northern, the arithmetic is identical.
+The Dharmaguptaka *Vinaya* calls this "according to the days concealed" — according to however many days you covered it. Those words are the measuring rod. One petitioning for probation must say, before the Saṅgha:
+
+> I, the monk so-and-so, having committed a *saṅghādisesa* offense, now according to the days concealed ask the Saṅgha for the concealment-act. May the Saṅgha grant me the act according to the days concealed.
+
+The Mahīśāsaka *Vinaya* records the worked example of one: a bhikkhu who concealed for one night asks the Saṅgha for one night's probation. The Mahāsāṃghika *Vinaya* records the worked example of ten: ten nights concealed, ten nights of probation requested. One for one, ten for ten; Vinaya after Vinaya, southern transmission and northern, the arithmetic is identical.
 
 More telling still is an asymmetry within the ladder. The days of probation are live — they stretch and shrink with the days hidden; but the *mānatta* that follows hard upon it is fixed — six nights flat, whether you hid for one night or a hundred. The only stretch that scales is the one tied to hiding. If this procedure were pricing the gravity of the offense, the whole road should lengthen with it; it does not. Of the whole road, only the one stage built for hiding lengthens with the hiding.
 
@@ -42,7 +46,7 @@ And among the rules to be kept during probation, there is one that gives the int
 
 The Vinaya records: a bhikkhu on probation conceived a thought — better not join the assembly for the meal today, lest the other bhikkhus see that I am on probation and know that I once concealed. The Buddha's reply could hardly be shorter:
 
-> It must not be so.
+> The one undergoing concealment-probation thought: "I will not go to the meal, for fear the other monks will know I am undergoing it." The Buddha said: It must not be so.
 
 Not permitted. You may not take even the fact "I am on probation" and hide that too. The one on probation must declare his standing, unprompted, to every bhikkhu he meets; on the day of the recitation he declares it; at the year-end assembly he declares it; his seat is set in the last row, where everyone can see.
 
@@ -52,6 +56,8 @@ See the fineness of this design. The original disease arose from hiding — tuck
 
 There is one more device in this procedure, called reset to day one — literally, "sent back to the first day."
 
+> Let the Saṅgha perform for that monk the formal reset-to-day-one act.
+
 If during probation the old ways return and an offense of the same class is committed, the answer is not a few days added to the term: the days already walked are struck out at a stroke, and the count begins again from day one. The Vinaya of the southern transmission further lists three "night-breaks" — three circumstances under which that night does not count — and one of them is failure to declare: the day you stop declaring to the assembly, that day's probation does not count.
 
 Set the two devices side by side: how long you hid fixes how far back this road begins; stopping the laying-bare severs, at any moment, the road already walked. Head and tail, they watch one and the same thing — whether you are continuously, truly, laying yourself out in the light. This procedure honors no account of "days endured"; what it wants is a habit worn away, not a calendar crossed off.
@@ -60,7 +66,11 @@ Set the two devices side by side: how long you hid fixes how far back this road 
 
 Probation walked, the six nights of *mānatta* fulfilled, one last step remains: rehabilitation — literally, to draw the person out, to call him back.
 
-The weight of this step the Vinaya marks with a number. Saṅgha business is conducted, by the gravity of the matter, in four grades of quorum: four, five, ten, twenty. For a person to receive full ordination — to become a bhikkhu in form — a Saṅgha of ten suffices as witness. But rehabilitation — re-attesting as pure a person who has walked the whole road — the Vinaya rules in plain words must have a full twenty; one short, and the offense is not removed. It is the only act in the entire Vinaya for which nothing less than twenty will do.
+The weight of this step the Vinaya marks with a number. Saṅgha business is conducted, by the gravity of the matter, in four grades of quorum:
+
+> There are four kinds of Saṅgha: of four, of five, of ten, of twenty. … the Saṅgha of twenty may perform all acts — how much more, a Saṅgha beyond twenty!
+
+For a person to receive full ordination — to become a bhikkhu in form — a Saṅgha of ten suffices as witness. But rehabilitation — re-attesting as pure a person who has walked the whole road — the Vinaya rules in plain words must have a full twenty; one short, and the offense is not removed. It is the only act in the entire Vinaya for which nothing less than twenty will do.
 
 Ten to enter; twenty to come back. Why should the return be more solemn than the entry? Because what rehabilitation attests is a matter of the utmost gravity: a person who once fell, once concealed, and then walked back step by step is, from this day on, returned to his former place. With its largest-scale witness, the Saṅgha gravely receives him back into the ranks of the pure.
 
@@ -70,9 +80,11 @@ And at the act of rehabilitation, the person must recount aloud, before all, the
 
 Step back from the ladder, and one detail runs through it from end to end, worth singling out.
 
-Probation, the reset to day one, *mānatta*, rehabilitation — not one stage is handed down as a sentence by the Saṅgha; every stage is petitioned for by the person himself, kneeling: the robe bared over one shoulder, bowing to the feet of the assembled monks, kneeling with palms joined, saying the same set of words three times — *I ask the Saṅgha for … may the Saṅgha grant me … out of compassion.*
+Probation, the reset to day one, *mānatta*, rehabilitation — not one stage is handed down as a sentence by the Saṅgha; every stage is petitioned for by the person himself, kneeling: the robe bared over one shoulder, bowing to the feet of the assembled monks, kneeling with palms joined, saying the same set of words three times —
 
-I ask to walk this road; may the assembly, out of compassion, take me up and see me through it. — These are the words of one seeking healing, not the words of one being sentenced. Punishment is laid on from above; here, from first to last, it is the person himself who asks for the road, and at the road's end he is called back. So this procedure is, in its bones, not punishment but restoration to purity: it presses no one for a debt; it acknowledges one thing only — whether the person has come back.
+> I now ask the Saṅgha for the rehabilitation-act. May the Saṅgha grant me rehabilitation, out of compassion.
+
+Hear those last words — *out of compassion*. I ask to walk this road; may the assembly, out of compassion, take me up and see me through it. — These are the words of one seeking healing, not the words of one being sentenced. Punishment is laid on from above; here, from first to last, it is the person himself who asks for the road, and at the road's end he is called back. So this procedure is, in its bones, not punishment but restoration to purity: it presses no one for a debt; it acknowledges one thing only — whether the person has come back.
 
 ### Walking On
 

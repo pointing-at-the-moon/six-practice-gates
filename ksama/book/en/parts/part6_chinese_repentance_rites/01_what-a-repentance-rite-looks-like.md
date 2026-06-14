@@ -4,7 +4,11 @@ The words of a repentance liturgy were not, at the start, clauses someone sat do
 
 ### The Golden-Drum Dream
 
-In the city of Rājagṛha there was a bodhisattva named Ruci. One night he dreamed of a golden drum — vast and beautiful, its radiance bright as the light of the sun, flooding the ten directions. And within that light he saw the measureless Buddhas of the ten directions, seated on lapis-lazuli seats beneath jeweled trees, surrounded by measureless retinues, teaching the Dharma. And in the dream there was a figure like a brahmin who, striking the drum with a beater, sent forth a great sound; and what that sound proclaimed was verse after verse of repentance.
+There was a bodhisattva named Ruci. One night he dreamed of a golden drum:
+
+> Then the bodhisattva Ruci, that very night, dreamed of a golden drum — vast and beautiful, its radiance flooding everywhere like the light of the sun; and within that light he saw the measureless, boundless Buddhas of the ten directions, seated on lapis-lazuli seats beneath jeweled trees, surrounded by measureless retinues of hundreds of thousands, teaching the Dharma. And he saw a figure like a brahmin who, striking the drum with a beater, sent forth a great sound; and that sound proclaimed verses of repentance.
+
+The drum was vast and beautiful, its light bright as the light of the sun. And within that light he saw the measureless Buddhas of the ten directions, seated on lapis-lazuli seats beneath jeweled trees, surrounded by measureless retinues, teaching the Dharma. And in the dream there was a figure like a brahmin who, striking the drum with a beater, sent forth a great sound; and what that sound proclaimed was verse after verse of repentance.
 
 Ruci woke from the dream and committed those verses, word by word, to memory with utmost mind. At first light he went out of Rājagṛha to the Buddha's dwelling on Vulture Peak, bowed his head, circumambulated to the right three times, and then, before the Buddha, recited from beginning to end the golden drum he had seen in the dream and the verses of repentance he had heard.
 

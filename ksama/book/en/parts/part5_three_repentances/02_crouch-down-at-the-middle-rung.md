@@ -10,7 +10,11 @@ This is a misreading. What makes the middle rung the vertebra is precisely that 
 
 ### Repentance, for the First Time, on Your Own Concentrated Mind
 
-Procedural repentance is completed in the "external setting" of the Saṅgha — it leans on the mouth, on the assembly, on the rule. Sign-based repentance turns wholly into the "stilled mind." Zhiyi says it plainly: at this rung, "all this is done within the concentrated mind." This is the first time repentance no longer leans on people outside to judge for you, but asks you first to settle your own mind, and within that concentration to see the sign and judge by the sign.
+Procedural repentance is completed in the "external setting" of the Saṅgha — it leans on the mouth, on the assembly, on the rule. Sign-based repentance turns wholly into the "stilled mind." Zhiyi says it plainly:
+
+> The practitioner, following the methods of repentance set out in the scriptures, with focused mind and applied intent, sees within a stilled mind various signs … all this is done within the concentrated mind, and so sign-contemplating repentance is mostly expounded according to the methods of cultivating concentration.
+
+The hinge is the last clause — "all this is done within the concentrated mind." This is the first time repentance no longer leans on people outside to judge for you, but asks you first to settle your own mind, and within that concentration to see the sign and judge by the sign.
 
 Later Tiantai's Zhili gave this rung a cleaner fixed name, in eight characters: "the concentrated mind conjures the contemplation, and takes the arising of a sign as its term." There must be a "concentrated mind"; there must be "conjuring the contemplation" (an intentional contemplating done within concentration); and "the arising of a sign" is the term, the verification.
 
@@ -22,13 +26,21 @@ Repentance, by here, has for the first time become a thing that takes effort, ta
 
 Since this rung takes "the arising of a sign" for its term, one must first ask: what sign is it? Where does it come from?
 
-The most cited source for "seeing an auspicious sign" is a passage of the *Brahmā's Net Sūtra* on repenting a grave precept: a Buddha comes to stroke your crown; you see light, see flowers — these "various extraordinary signs" are the auspicious sign, and once one is seen, the offense counts as extinguished.
+The most cited source for "seeing an auspicious sign" is a passage of the *Brahmā's Net Sūtra* on repenting a grave precept:
 
-Zhiyi, for his part, gives a more structured set, "the four kinds of signs": first, signs seen in dream; second, while practicing, hearing a voice in the air, or seeing strange signs and various numinous omens; third, seeing in seated stillness signs of good and evil, of precept-breaking and precept-keeping; fourth, some dharma-gate within having come through, the mind of the way having opened forth — this too counts as a kind of sign.
+> An auspicious sign means: a Buddha comes to stroke your crown; you see light, see flowers, and various extraordinary signs — and the offense is then extinguished. Without an auspicious sign, repentance, though made, brings no avail.
+
+A Buddha strokes the crown of your head; you see light, see flowers — these "various extraordinary signs" are the auspicious sign, and once one is seen, the offense counts as extinguished. Zhiyi, for his part, gives a more structured set, "the four kinds of signs":
+
+> Signs do not exceed four kinds: first, signs seen in dream; second, while practicing, hearing a voice in the air, or seeing strange signs and various numinous omens; third, seeing in seated stillness signs of good and evil, of precept-breaking and precept-keeping; fourth, taking the inward realization of various dharma-gates and the opening-forth of the mind of the way as a sign.
 
 Watch the ordering of these four: from dream, to the time of practice, to seated stillness, and at last to "the opening-forth of inward dharma-gates" — from outer to inner, from object-sign all the way to mind-sign. The last kind is no longer "seeing something"; it is "something in the mind has turned." The ordering itself betrays the direction of sign-based repentance: the sign need not halt at outer scenes such as "seeing a Buddha, seeing light"; its deepest kind is a turning of the mind.
 
-As for how these signs are to be sought and contemplated, Zhiyi himself pushed the matter away: the methods, he says, are all in the Mahāyāna scriptures — "let the practitioner seek the sūtras for himself and act by the text." If even he says "seek the sūtras yourself," this book oversteps still less to teach the operation. How these contemplations settle into concrete liturgies, rite after rite, is the business of the next part, on the Chinese repentance liturgies; here they are named only, not taught.
+As for how these signs are to be sought and contemplated, Zhiyi himself pushed the matter away:
+
+> What is the practice-method of sign-contemplating repentance? Answer: the method is set out in the various Mahāyāna Vaipulya sūtras; let the practitioner seek the sūtras for himself and act by the text.
+
+If even he says "seek the sūtras yourself," this book oversteps still less to teach the operation. How these contemplations settle into concrete liturgies, rite after rite, is the business of the next part, on the Chinese repentance liturgies; here they are named only, not taught.
 
 ### The Sign, in Fact, Cannot Be Relied On
 
@@ -38,9 +50,11 @@ The first unreliability: the sign can be false. As said before, māra too can ma
 
 The second unreliability: the sign can also be the mind deceiving itself. One sūtra sets up a check against self-deception — if a person has already seen and heard all manner of excellent things *before* the pure sign has been sought, that is no auspicious sign; it is hollow, it is one's own defiled mind rushing ahead to fabricate for itself a counterfeit "I am already pure." One gate guards against the māra outside; one guards against the self-deceit inside — together they are a double gate.
 
-But the single most crucial line of sign-based repentance is not "how to tell true from false"; it is a line that pulls the firewood out from under the pot: even a true sign must not be grasped.
+But the single most crucial line of sign-based repentance is not "how to tell true from false"; it is a line that pulls the firewood out from under the pot: even a true sign must not be grasped. Zhiyi says:
 
-Zhiyi says: the sign appears, and you "take it for the judgment" — you use it to judge whether the offense has been extinguished; the sign is a criterion. But it is by no means a call to halt the mind on the sign and hold it fast. If you truly glue the mind to the sign, "the work of māra will surely come in abundance."
+> What is meant by contemplating signs is only this: apply the mind and practice; when the effort succeeds and the sign appears, take it for the judgment, and one knows whether the offense is extinguished or not. It does not mean that, while practicing, one keeps the sign in mind and gives rise to grasping. If one applies the mind so, the work of māra will surely come in abundance.
+
+The sign appears, and you "take it for the judgment" — you use it to judge whether the offense has been extinguished; the sign is a criterion. But it is by no means a call to halt the mind on the sign and hold it fast. If you truly glue the mind to the sign, "the work of māra will surely come in abundance."
 
 This is the axis of sign-based repentance, and the paradox of a thing whose very name says "take the sign" yet which teaches you "do not take the sign": the sign is for verifying (whether the offense is extinguished), not for abiding in (it is not the home your practice returns to). It teaches you to use the sign without being used by it. Once the sign is taken for a goal, an attainment, an experience to be savored over and over, it turns from verification into attachment, from helper into the doorway of māra's work.
 
@@ -56,7 +70,11 @@ If sign-based repentance were only "sitting in meditation and seeing auspicious 
 
 Downward, it breaks an offense that procedural repentance cannot reach.
 
-Of the three grades of offense Zhiyi sorts, procedural repentance breaks the "instituted offense" — an offense that exists only because the Buddha instituted a precept and you violated the institution; only once the precept is laid down does it exist. Sign-based repentance breaks the "offense of intrinsic nature" — killing, stealing, acts evil in themselves, which wait on no instituted precept; to commit them is already to do harm. He cites a very hard line: a monk has broken the precept against killing; repenting according to the rule, he can have "the precept-substance made pure and the path-obstructing offense extinguished" — the layer procedural repentance can repair (the precept-substance restored, the path no longer obstructed) comes back; but "the karmic retribution for the killing is not extinguished" — the karmic fruit the killing carries in cause and effect, procedural repentance cannot touch. What can go a step further and touch this layer, "the offense of intrinsic nature," is sign-based repentance, because "the effort it takes is great." (This line — "the path-obstructing offense extinguished, yet the retribution for the killing not extinguished" — speaks in the same voice as the salt-simile of the earlier part on karmic fruit: the fruit cannot be cancelled in one stroke.)
+Of the three grades of offense Zhiyi sorts, procedural repentance breaks the "instituted offense" — an offense that exists only because the Buddha instituted a precept and you violated the institution; only once the precept is laid down does it exist. Sign-based repentance breaks the "offense of intrinsic nature" — killing, stealing, acts evil in themselves, which wait on no instituted precept; to commit them is already to do harm. He cites a very hard line:
+
+> If a monk breaks the precept against killing, then though he repents and the precept-substance is made pure and the path-obstructing offense extinguished, yet the karmic retribution for the killing is not extinguished.
+
+A monk has broken the precept against killing; repenting according to the rule, he can have "the precept-substance made pure and the path-obstructing offense extinguished" — the layer procedural repentance can repair (the precept-substance restored, the path no longer obstructed) comes back; but "the karmic retribution for the killing is not extinguished" — the karmic fruit the killing carries in cause and effect, procedural repentance cannot touch. What can go a step further and touch this layer, "the offense of intrinsic nature," is sign-based repentance, because "the effort it takes is great." (This line — "the path-obstructing offense extinguished, yet the retribution for the killing not extinguished" — speaks in the same voice as the salt-simile of the earlier part on karmic fruit: the fruit cannot be cancelled in one stroke.)
 
 Upward, it still does not reach the ultimate — the offense of intrinsic nature broken, the deepest root offense of ignorance remains, and that is the business of the highest rung. So sign-based repentance is wedged in the middle: deeper than procedural repentance, shallower than non-arising. What it breaks is a *different* grade of offense — not procedural repentance done over again, but the next layer dug down after it.
 
@@ -66,7 +84,11 @@ These two phrases together overturn the question "which supersedes which" altoge
 
 Tiantai's Zhili gave the cleanest one-line summary of the whole: "Though the methods are three, they are performed in one and the same time. Better to lack in the earlier than to fall short in the later. Non-arising is most essential; sign-taking is still lenient." The three repentances are not a matter of finishing one before changing to the next; they run in one and the same time, layer pervading layer — and the higher one goes, the less it may be lacked. But mark this: he speaks of *weight*, not of *supersession*. The weights differ, and yet all three rungs remain, layer upon layer. The higher grade does not abolish the lower — this is exactly the boundary-stone the last chapter set, here made firm in Zhili's own words.
 
-And sign-based repentance itself has not yet broken free of the "phenomenal." Zhili has another phrase for it — it "also obtains phenomenal function": though it does not, like procedural repentance, walk the Saṅgha's rule out in the open, it is still a phenomenal repentance that carries the "sign" for its token; it has not yet been purified into principial repentance. Which proves, once more, exactly this: it stands between the phenomenal and the principial — one foot still in the phenomenal sign (a sign must be seen; the sign arises and the offense is extinguished), one foot already stepping toward the contemplation of principle (the sign arises, yet one does not abide in the sign). Treading on both ends; neither end can be spared.
+And sign-based repentance itself has not yet broken free of the "phenomenal." Zhili, judging the Suvarṇaprabhāsa repentance rite, says of it:
+
+> Sign-based repentance — as in the Vaipulya rite's seeking the twelve dream-kings, the bodhisattva-precept rite's seeing flowers and light and the stroking of the crown, the Ākāśagarbha rite's voice-proclaiming and arm-sealing — the sign arises and the offense is extinguished. Though it does not directly set forth a formal procedure, it also obtains phenomenal function.
+
+The four words "also obtains phenomenal function" matter greatly: though it does not, like procedural repentance, walk the Saṅgha's rule out in the open, it is still a phenomenal repentance that carries the "sign" for its token; it has not yet been purified into principial repentance. Which proves, once more, exactly this: it stands between the phenomenal and the principial — one foot still in the phenomenal sign (a sign must be seen; the sign arises and the offense is extinguished), one foot already stepping toward the contemplation of principle (the sign arises, yet one does not abide in the sign). Treading on both ends; neither end can be spared.
 
 ### One Thing to See Clearly Here
 

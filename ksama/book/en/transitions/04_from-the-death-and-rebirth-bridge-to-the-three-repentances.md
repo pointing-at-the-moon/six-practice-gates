@@ -32,6 +32,6 @@ What Part Five walks is this ladder of the three repentances — first setting t
 
 As for the third — the repentance of non-arising — and the deepest question it turns back to ask: this part walks only to its door, points to it at the ladder's highest rung, and does not yet push the door open. The world behind that door is kept for the deepest part of this whole book, where it will be opened in earnest.
 
-There is a reason in this. A ladder is climbed by setting each rung firm underfoot. Stand steady first on these two phenomenal rungs, see their goods and their limits clearly — and only then, lifting the eyes to the highest rung, does one see it truly, and see it not in vain.
+There is a reason in this. A ladder is climbed by setting each rung firm underfoot. Stand steady first on these two phenomenal rungs, see their goods and their limits clearly — and only then, lifting the eyes to the highest rung, does one see it truly, and see it not in vain. And one thing must be said plainly first: though the ladder divides into three rungs, climbing to a higher one does not abolish the lower. Even if one should one day climb to the rung of the repentance of non-arising, the two phenomenal rungs — procedural and sign-based — are not thereby annulled: when it is time to bow, one still bows; when it is time to disclose, one still discloses. Reaching the summit never abolishes the ladder. This, the whole of Part Five must keep in mind.
 
 We turn this page, and begin with the most concrete of the three — procedural repentance.

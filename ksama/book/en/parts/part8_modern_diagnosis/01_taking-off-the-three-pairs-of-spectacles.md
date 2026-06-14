@@ -34,7 +34,11 @@ The second pair of spectacles takes repentance for confession: disclose a fault 
 
 This lens is not pulled out of thin air — repentance does include the step of disclosure, whose outward form closely resembles the confessing of guilt. But the resemblance stops there; the lifeline of the difference lies in one word: receive.
 
-At its very outset this book cited the Vinaya: the Buddha says to the one who repents — that you can repent within the noble Dharma is itself a benefit you have gained for yourself; out of compassion for you, I receive your repentance. The Buddha can "receive"; He has never "absolved."
+At its very outset this book cited the Vinaya. The Buddha says to the repentant King Ajātaśatru:
+
+> One who can now repent the fault within the noble Dharma thereby benefits himself. Out of pity for you, I receive your repentance.
+
+The Buddha can "receive"; He has never "absolved."
 
 To receive is to accept this disclosure as it is, to confirm this turning — as a mirror reflects, just as they are, whoever comes before it. To absolve is for one vested with authority, by his power, to cancel a charge of guilt and rule that it no longer exists. The two look alike but differ in substance: receiving takes up, absolving wipes out; receiving hands the fault back to its doer to bear, absolving strikes the fault off the ledger. Hence the repeated insistence earlier: what disclosure yields is a lessening, not an erasure — it lessens the force of concealment and the momentum of continuation (what was hidden loosens; the impetus of the deed slows), and it does not remove for you some really existent body of guilt.
 

@@ -26,13 +26,21 @@ This gathering does not demote repentance into a piece of mechanical routine. A 
 
 Repentance as a daily office has an ancient and explicit scriptural spine.
 
-Nāgārjuna's *Daśabhūmika-vibhāṣā* (the *Treatise on the Ten Stages*), discussing the bodhisattva's practice, first speaks of being mindful of the Buddhas, calling their names, and paying them homage, and then says plainly: this is not yet enough — one should further, before all the Buddhas, repent, entreat, rejoice, dedicate. Then he sets these acts into an explicit structure of time: three periods by day, three by night, six periods in all — six times within one day, performed face to face with the Buddhas.
+Nāgārjuna's *Daśabhūmika-vibhāṣā* (the *Treatise on the Ten Stages*), discussing the bodhisattva's practice, first speaks of being mindful of the Buddhas, calling their names, and paying them homage, and then says plainly: this is not yet enough —
 
-This is one of the sources of what later ages call the "six-period repentance."
+> Not merely being mindful, naming, and paying homage; one should further, before all the buddhas, repent, entreat, rejoice, and dedicate.
+
+One should further, before the Buddhas, repent, entreat, rejoice, and dedicate. Then he sets these acts into an explicit structure of time:
+
+> How are repentance, entreaty, rejoicing, and dedication to be performed? How many times within day and night? Answer: … day and night together make six periods, single-mindedly mindful of the buddhas, as if present before one.
+
+Three periods by day, three by night, six periods in all — six times within one day, performed face to face with the Buddhas. This is one of the sources of what later ages call the "six-period repentance."
 
 What deserves a pause is what this structure is itself saying. It does not ask "does one repent only upon a fault?" but "how many times within a day and a night?" — rewriting repentance from a conditional clause, "arising when something happens," into a timetable, "performed by the hour." Repentance here is not an occasional event waiting on a transgression but a timed practice woven into the daily office: even on a day with no great fault to disclose, the six-period office is still kept. For what it treats is not only the faults already committed, but the habit-energies and obstructions that continue day after day, quietly growing without waiting for any great event. To bind repentance to the hour, and not to the act of erring — this is the decisive step by which it turns from a point into a line.
 
-The *Awakening of Faith* states the same structure more densely still: one should, vigorously and diligently, at the six periods day and night pay homage to the Buddhas, sincerely repent, entreat, rejoice, and dedicate toward bodhi, never ceasing.
+The *Awakening of Faith* (attributed to Aśvaghoṣa) states the same structure more densely still:
+
+> One should, vigorously and diligently, at the six periods day and night pay homage to the buddhas, sincerely repent, entreat, rejoice, and dedicate toward bodhi, never ceasing — thereby freed of obstructions and growing the roots of good.
 
 Two things deserve notice here.
 
@@ -58,7 +66,11 @@ Continuity, then, is both daily office and institution. But on what strength is 
 
 The question is no contrivance. A practice that asks for continuity through the six periods of day and night, through half-months, through years, and on to the end of time — if all it rests on is the practitioner's resolve and grit, it is almost bound to collapse some day: the human will tires; and remorse, if driven again and again by guilt, will sooner or later push a person into the downward spiral of "the more I repent, the wearier; the wearier, the more I blame myself." A line meant to walk to the end of time cannot run on fuel like that.
 
-When we spoke of Samantabhadra's vows of practice, we already touched the core of this question. Samantabhadra's vow is "moment after moment it continues, without interruption; in the karmic acts of body, speech, and mind there is no weariness" — and this "no weariness" is possible because it rests on "the power of Samantabhadra's contemplative practice," not on the gritted-teeth straining of the practitioner's will.
+When we spoke of Samantabhadra's vows of practice, we already touched the core of this question. Samantabhadra's vow is:
+
+> Moment after moment it continues, without interruption; in the karmic acts of body, speech, and mind there is no weariness.
+
+And this "no weariness" is possible because it rests on "the power of Samantabhadra's contemplative practice," not on the gritted-teeth straining of the practitioner's will.
 
 This bears on the daily use of repentance above all: the strength of continuity lies not in the resolve "I must hold on," but in the power of the practice relied upon itself. When repentance is set within a vow-power and a contemplative practice like that, continuity is no longer dragged forward by the will; it is carried by a greater momentum. This is the hinge on which "never ceasing" can stand without collapsing into self-flagellation: one never ceases not because the teeth are clenched, but because this line is held, from the first, by a power that does not weary.
 

@@ -8,7 +8,11 @@ The answer is hidden in a single line of the *Sūtra on the Contemplation of the
 
 ### The Word "Then" Is the Bridge's Hinge
 
-The sūtra says that a practitioner who wishes to fulfill the bodhisattva precepts should join the palms and pay homage everywhere to the Buddhas of the ten directions, and "repent all offenses, and declare one's own faults. Then…" — then, in a quiet place, address the Buddhas of the ten directions, requesting Śākyamuni Buddha to be one's preceptor (*upādhyāya*) and the bodhisattva Mañjuśrī one's instructing master (*ācārya*), and receive the bodhisattva precepts.
+The sūtra says that a practitioner who wishes to fulfill the bodhisattva precepts should join the palms and pay homage everywhere to the Buddhas of the ten directions, and
+
+> repent all offenses, and declare one's own faults. Then, in a quiet place, address the Buddhas of the ten directions and say: "The Buddhas, the World-Honored Ones, abide constantly in the world; through the obstruction of my karma, though I believe in the Vaipulya teachings I do not see the Buddhas clearly. Now I take refuge in the Buddha. May Śākyamuni, the Perfectly Awakened, the World-Honored One, be my preceptor; may Mañjuśrī of great wisdom, by his wisdom, grant me the pure bodhisattva dharmas …"
+
+— calling Śākyamuni to be one's preceptor and Mañjuśrī one's instructing master, and so on up to receiving the bodhisattva precepts.
 
 Look at where this word is placed. Before "then" is pure repentance — disclosure, the declaring of one's own faults. After "then" is the rite of reception — addressing the Buddhas, requesting the teachers, taking up the precept-substance. A single "then" joins the two banks of the bridge in one place.
 
@@ -22,7 +26,15 @@ This is no accident of ritual sequence; it is a doctrinal necessity.
 
 The Vinaya states this principle bluntly. For one carrying an undisclosed offense, that offense "obstructs the path" — it blocks attainment after attainment, from the first dhyāna to the fourth, from the first fruit to arhatship; only when one has repented do these blocked things open up, one by one. This is a clear structure of obstruction and opening: while the offense remains, the road is stopped; when repentance is done, the road opens. The very path that reception means to take up must first be cleared open by repentance.
 
-On the lay side, the *Upāsaka-śīla Sūtra* speaks the same principle: wholeheartedly repent; the repentance once done, the mind gives rise to gladness, and from then on one guards carefully and dares not offend again — this is what is called "pure precept-keeping." Pure precept-keeping is named pure not by some name conjured out of thin air in the instant of reception, but earned by that guarding which comes after "the repentance once done." The sūtra also poses a question framed as a ladder: if I cannot even hold the lesser precepts, how could I receive the greater? — purified to this rung, one is then fit to receive the next. Reception is not heaven scaled in a single bound; it is purity layered up rung by rung, the precept-substance made fit to receive rung by rung.
+On the lay side, the *Upāsaka-śīla Sūtra* speaks the same principle:
+
+> Wholeheartedly repent; the repentance once done, the mind gives rise to gladness, and guarding it carefully one dares not offend again — this is called pure precept-keeping.
+
+Pure precept-keeping is named pure not by some name conjured out of thin air in the instant of reception, but earned by that guarding which comes after "the repentance once done." The sūtra also poses a question framed as a ladder:
+
+> If I cannot first receive the lesser restraint, how could I receive the greater?
+
+Purified to this rung, one is then fit to receive the next. Reception is not heaven scaled in a single bound; it is purity layered up rung by rung, the precept-substance made fit to receive rung by rung.
 
 So the grammar of "then" stands: not receive the precepts first and then go repent, but first repent and clear the karma, be purified until fit to receive — and then receive. Repentance clearing the karma is the antecedent of reception — a before-and-after the doctrine cannot dodge.
 
@@ -32,7 +44,11 @@ But here lies an invisible threshold: to what degree must repentance be carried 
 
 The answer the tradition gives is: seeing an auspicious sign.
 
-The *Brahmā's Net Sūtra* states it most severely. One who has transgressed the ten grave precepts must, before images of the Buddhas and bodhisattvas, recite the precepts through the six periods of day and night and pay homage, with bitter earnestness, to the thousand Buddhas — "until an auspicious sign is seen." What is an auspicious sign? The sūtra explains it itself: a Buddha comes and strokes the crown of your head; you see light, see flowers, various extraordinary signs — and only then is the offense counted extinguished. And straight upon it comes a verdict — "without an auspicious sign, repentance, though made, brings no avail; such a one, in this very body, does not obtain the precept." A lighter precept, by contrast, is settled by disclosure and repentance before one person; no auspicious sign is needed.
+The *Brahmā's Net Sūtra* states it most severely. One who has transgressed the ten grave precepts must, before images of the Buddhas and bodhisattvas, recite the precepts through the six periods of day and night and pay homage, with bitter earnestness, to the thousand Buddhas — "until an auspicious sign is seen." What is an auspicious sign? The sūtra explains it itself:
+
+> A Buddha comes and strokes the crown of one's head; one sees light, sees flowers, various extraordinary signs — and the offense is thereby extinguished. Without an auspicious sign, repentance, though made, brings no avail; such a one, in this very body, does not obtain the precept.
+
+A lighter precept, by contrast, is settled by disclosure and repentance before one person; no auspicious sign is needed.
 
 One line here must be handled with care, for it is easily read backward. "Without an auspicious sign, repentance, though made, brings no avail" does not say that repentance itself is useless. It says: where no auspicious sign has been seen, this round of repentance is not yet full, that grave offense not yet extinguished; the auspicious sign is the verification of extinguished offense, and where the verification is unseen, the grave offense is not yet extinguished, and the door of the precept-substance has not yet opened. To read it as "repentance is useless" is to read the whole sentence backward.
 
@@ -44,7 +60,9 @@ But might the auspicious sign be no more than a flare of hallucination in one's 
 
 The door now open, what is it that is received? The precept-substance — and the "birth" of death-and-rebirth falls exactly on this precept-substance.
 
-The *Samantabhadra Contemplation Sūtra* gives this newborn body its own name. It says that a practitioner who contemplates the meaning of the Mahāyāna, when his earnestness ripens, needing no preceptor, no teachers, no formal act of the saṅgha, by the power of receiving and holding the Mahāyāna scriptures and through the exhortation of the bodhisattva Samantabhadra, "spontaneously accomplishes the fivefold dharma-body: morality, concentration, wisdom, liberation, and the knowledge-and-vision of liberation" — and it says, "all the Buddhas and Tathāgatas are born from this dharma."
+The *Samantabhadra Contemplation Sūtra* gives this newborn body its own name. It says that a practitioner who contemplates the meaning of the Mahāyāna, when his earnestness ripens,
+
+> needing no preceptor, no teachers, no formal act of the saṅgha, by the power of receiving and holding the Mahāyāna scriptures and through the exhortation of the bodhisattva Samantabhadra… spontaneously accomplishes the fivefold dharma-body: morality, concentration, wisdom, liberation, and the knowledge-and-vision of liberation. All the Buddhas and Tathāgatas are born from this dharma.
 
 What is accomplished is the fivefold dharma-body, and morality — the precept — stands first among the five. This is not to say that after reception one more rule has been added; it is to say that a new, moral body is here brought to birth, and the precept is its first member. With the word "born" in "born from this dharma," the sūtra's own text identifies this body as a body that takes birth.
 

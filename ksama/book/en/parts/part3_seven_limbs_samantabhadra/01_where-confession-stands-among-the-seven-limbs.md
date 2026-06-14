@@ -1,8 +1,12 @@
 ## 3.1 Where Confession Stands Among the Seven Limbs
 
-The Mahāyāna possesses a highly fixed sequence of worship, which the Chinese tradition has come to call "the sevenfold worship" (*saptāṅga-pūjā*) — seven links, in order: homage to the Buddhas, praise of the Tathāgatas, the vast cultivation of offering, confession of the karmic obstacle, rejoicing in merit, requesting the turning of the Dharma-wheel (together with the petition that the Buddhas remain in the world), and universal dedication.
+The Mahāyāna possesses a highly fixed sequence of worship, which the Chinese tradition has come to call "the sevenfold worship" — seven links, in order: homage to the Buddhas, praise of the Tathāgatas, the vast cultivation of offering, confession of the karmic obstacle, rejoicing in merit, requesting the turning of the Dharma-wheel (together with the petition that the Buddhas remain in the world), and universal dedication.
 
-Confession is one limb of it. It is not a solitary business of atonement; it is a position within this string of worship. A person at home in this liturgy will not ask "why repent" — that is too obvious. He will ask a finer question: why is confession placed here, and not elsewhere? This chapter answers that question.
+Confession is one limb of it. In this worship it settled into a verse everyone can recite by heart:
+
+> Whatever evil deeds I have done in the past, all arising from beginningless greed, hatred, and delusion, born of body, speech, and mind — all of them I now confess.
+
+These four lines are the "confession of the karmic obstacle" limb among the seven. It is not a solitary business of atonement; it is a position within this string of worship. A person at home in this liturgy will not ask "why repent" — that is too obvious. He will ask a finer question: why is confession placed here, and not elsewhere? This chapter answers that question.
 
 ### A Subtraction, Lodged in a String of Additions
 
@@ -16,7 +20,11 @@ Confession alone is "subtracting." It adds nothing; it removes, it lessens, the 
 
 Among the seven limbs, confession is the sole subtraction.
 
-And where has this sole subtraction been placed? Exactly between "the outward gathering of merit" (homage, offering) before it and "the augmenting of merit" (rejoicing and the rest) after it. It is not first, and it is not last; it stands at the very pivot where "adding" turns to "subtracting," and "subtracting" turns back to "adding."
+And where has this sole subtraction been placed? A summary verse near the close of the *Samantabhadra-caryā-praṇidhāna* sets the sequence out plainly:
+
+> Homage, offering, and confession of fault; rejoicing in merit, and requesting; whatever merit I have gathered — all of it I dedicate to awakening.
+
+Homage and offering before, confession of fault in the middle, rejoicing, requesting, and dedication after. This sole subtraction lies exactly between "the outward gathering of merit" before it and "the augmenting of merit" after it. It is not first, and it is not last; it stands at the very pivot where "adding" turns to "subtracting," and "subtracting" turns back to "adding."
 
 ### Why the Subtraction Is Inserted Among the Additions
 
@@ -36,11 +44,17 @@ Then this confession, carried up into worship — what act is it, exactly?
 
 Said plainly, it is still the old act that has walked all the way from the Vinaya: disclosure — saying the fault aloud, not covering it.
 
-This becomes clear the moment its provenance is laid open. In the Vinaya, when a monk knows he has a fault and seeks the way of purity, that way is disclosure: to the Saṅgha, or to a single pure monk, he says the fault aloud. The set form of disclosure is quite fixed: first call the pure monk who will bear witness, then give one's own name, then state what fault was committed, then declare "I disclose; I do not conceal." Within it there is one crucial position — the position of the witness. Disclosure requires a pure counterpart, present, to bear witness.
+This becomes clear the moment its provenance is laid open. In the Vinaya, when a monk knows he has a fault and seeks the way of purity, that way is disclosure. The *Daśādhyāya-vinaya* says it most bluntly:
+
+> Having a fault, one should disclose it; disclosing it, he is at ease; not disclosing it, the fault grows deeper.
+
+The set form of disclosure is quite fixed: first call the pure monk who will bear witness, then give one's own name, then state what fault was committed, then declare "I disclose; I do not conceal." Within it there is one crucial position — the position of the witness. Disclosure requires a pure counterpart, present, to bear witness.
 
 Now set this Vinaya formula beside the Mahāyāna scene of worship.
 
-In Nāgārjuna's *Mahāprajñāpāramitā-śāstra*, the bodhisattva is said to perform three events constantly, at the six periods of day and night, and the first of them is disclosure to the Buddhas of the ten directions: at dawn, baring the right shoulder, palms joined, he pays homage to the Buddhas of the ten directions and says: I, so-and-so, whatever evil karmic faults of body, speech, and mind I have committed, whether in this life or in past lives over measureless eons — these I confess before the present Buddhas of the ten directions, praying that they be extinguished, and I shall not do them again.
+In Nāgārjuna's *Mahāprajñāpāramitā-śāstra*, the bodhisattva is said to perform three events constantly, at the six periods of day and night, and the first of them is disclosure to the Buddhas of the ten directions:
+
+> I, so-and-so, whatever evil karmic faults of body, speech, and mind I have committed in this life or in past lives over measureless eons — these I confess before the present Buddhas of the ten directions, praying that they be extinguished, and I shall not do them again.
 
 Set this passage line by line against the Vinaya's formula of disclosure, and it is almost the same mould: calling the witness (the Vinaya calls a pure monk; here, homage to the Buddhas of the ten directions); giving one's name (I, so-and-so); stating the fault (the evil deeds of body, speech, and mind); disclosing and seeking purity (not concealing; praying that they be extinguished); and the close (I shall not do them again — precisely the terminus of "guarding against recurrence" we met earlier).
 

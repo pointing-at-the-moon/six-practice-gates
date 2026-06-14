@@ -16,9 +16,15 @@ The answer is this: at repentance's deepest point, what happens is not the erasi
 
 To climb to this summit, first recognize its place on Master Zhiyi's ladder.
 
-When the three repentances were set out earlier, we said: procedural repentance supports the precepts, sign-based repentance supports concentration, the repentance of non-arising supports wisdom. At that time the ladder was laid only as far as sign-based repentance (supporting concentration), and "the repentance of non-arising" was marked at the top — named, its substance held in reserve. To stand on this summit now is to redeem that promise.
+When the three repentances were set out earlier, we said: procedural repentance supports the precepts, sign-based repentance supports concentration, the repentance of non-arising supports wisdom. Master Zhiyi's own words:
 
-The rank Master Zhiyi gives this summit is the highest among all repentances: "Deep contemplation of non-arising is named the great repentance, the most honored and most sublime among all repentances. In every Mahāyāna sūtra that clarifies the method of repentance, all take this contemplation as their master." — He gathers the whole of Mahāyāna repentance under this one contemplative gate, "contemplating non-arising," treating it as the pivot by which Mahāyāna repentance is Mahāyāna repentance at all. (One thing must be said: this verdict of "most honored and most sublime" is Tiantai's retrospective integration of the repentance methods, Master Zhiyi's doctrinal-classification stance, not the self-statement of any single sūtra. Wherever the unified name "the repentance of non-arising" is used below, remember that it is the fruit of a Tiantai synthesis.)
+> Repentance by contemplating non-arising — this supports wisdom, and thereby clarifies repentance.
+
+At that time the ladder was laid only as far as sign-based repentance (supporting concentration), and "the repentance of non-arising" was marked at the top — named, its substance held in reserve. To stand on this summit now is to redeem that promise. The rank Master Zhiyi gives this summit is the highest among all repentances:
+
+> Know, then, that the deep contemplation of non-arising is named the great repentance, the most honored and most sublime among all repentances. In every Mahāyāna sūtra that clarifies the method of repentance, all take this contemplation as their master. Apart from this contemplation, none can be named the great Vaipulya repentance.
+
+"Most honored and most sublime," "all take this contemplation as their master" — he gathers the whole of Mahāyāna repentance under this one contemplative gate, "contemplating non-arising," treating it as the pivot by which Mahāyāna repentance is Mahāyāna repentance at all. (One thing must be said: this verdict of "most honored and most sublime" is Tiantai's retrospective integration of the repentance methods, Master Zhiyi's doctrinal-classification stance, not the self-statement of any single sūtra. Wherever the unified name "the repentance of non-arising" is used below, remember that it is the fruit of a Tiantai synthesis.)
 
 And the word of guarding must be said once more: to climb to the summit of the repentance of non-arising does not abolish procedural repentance or sign-based repentance, still less turn back and fold the phenomenal repentance of the first six parts wholesale into emptiness, as a superseded lower rung. The root sense of "support" is just that — to uphold, to lend strength. Phenomenal repentance and principial repentance each have their own face, and phenomenal repentance has its own real, cleansing power; the summiting of principial repentance lends support to it — it does not depose it.
 
@@ -26,10 +32,7 @@ And the word of guarding must be said once more: to climb to the summit of the r
 
 The mechanism of the repentance of non-arising finds its most condensed statement in a verse of the *Sūtra on the Contemplation of the Practice of Samantabhadra*:
 
-> The sea of all karmic obstruction is born from deluded thought;
-> if you would repent, sit upright and contemplate the real mark.
-> The host of transgressions are like frost and dew; the sun of wisdom can dissolve them.
-> Therefore, with all your heart, repent the six sense faculties.
+> The whole sea of karmic obstruction is born from deluded thought. If you would repent, sit upright and contemplate the real mark. The host of transgressions are like frost and dew; the sun of wisdom can dissolve them. Therefore, with a wholehearted mind, repent the six faculties of feeling.
 
 The verse presses the entire mechanism into eight lines.
 
@@ -37,7 +40,11 @@ All karmic obstruction has its source in "deluded thought." And since the source
 
 Look closely at the figure. Frost and dew vanish not because someone wipes them away by hand, but because, where the sunlight reaches, they never had a body in which to abide. This is the full weight of the words "the sun of wisdom": the dissolution of transgression is a seeing, not an absolution; a turn of cognition, not an easing of feeling.
 
-Another passage of the same sūtra says this "seeing" still more transparently: turn back and contemplate the very mind that committed the transgression, and you find "the mind as no-mind" — what is called the mind arises from inverted thought, and there is no substantial mind to be apprehended. And since the mind is itself empty, the transgression and the merit posited upon the mind have no owner to which they could be fastened. The sūtra says: "My own mind is empty; transgression and merit have no owner." And it gives this seeing a name of the utmost precision — "the repentance free of the mark of transgression."
+Another passage of the same sūtra says this "seeing" still more transparently:
+
+> Contemplate the mind as no-mind: it arises from inverted thought… Such dharma-marks neither arise nor cease. What is transgression? What is merit? My own mind is empty; transgression and merit have no owner… Repentance such as this — contemplating the mind as no-mind, dharma not abiding in dharma, all dharmas released, the truth of cessation at peace — is named the repentance free of the mark of transgression.
+
+Turn back and contemplate the very mind that committed the transgression, and you find "the mind as no-mind" — what is called the mind arises from inverted thought, and there is no substantial mind to be apprehended. And since the mind is itself empty, the transgression and the merit posited upon the mind have no owner to which they could be fastened: "My own mind is empty; transgression and merit have no owner." And the sūtra gives this seeing a name of the utmost precision — "the repentance free of the mark of transgression."
 
 One word must be held fast here. What is negated is the "mark of transgression," not the "transgression." It does not say "there is no transgression" — the disclosed inventories of the first six parts all stand. It says: repentance carried to the point of seeing that transgression "has no really-existent own-mark." To admit that one has made karma, and to congeal that karma into a leaden real mark that lodges in the heart, are two different things. What the repentance free of the mark of transgression dissolves is the latter.
 
@@ -45,11 +52,15 @@ One word must be held fast here. What is negated is the "mark of transgression,"
 
 The real-mark repentance verse says transgression is "born from deluded thought"; the *Vimalakīrti-nirdeśa Sūtra* pushes this "having no own-being" to its limit.
 
-That scene will be told in detail in the next chapter; here we take only its most central sentence. Vimalakīrti says: the nature of that transgression is "neither within, nor without, nor in between."
+That scene will be told in detail in the next chapter; here we take only its most central sentence. Vimalakīrti says:
+
+> The nature of that transgression is neither within, nor without, nor in between. As the Buddha has said: because the mind is defiled, beings are defiled; because the mind is pure, beings are pure… As the mind is, so is the defilement of transgression, so are all dharmas — none departing from suchness.
 
 To search everywhere for where transgression lies and find it nowhere — this is precisely what shows that transgression has no own-being. It is not within the mind (if it were, it would have to be there even before an object was met and a thought arose — but it is not); not in the outer object (the object is itself without awareness; what has it to do with me?); and with neither inner nor outer established, there is no further independent "between" in which to lodge it. Unfindable in all three places, the conclusion follows: transgression has no "real nature" subsisting apart from the concourse of conditions. It is an event-mark arisen from the meeting of body, speech, mind, object, and condition — present-seeming when conditions gather, vanished without trace when they disperse.
 
-Three lines converge on this one point — transgression has no own-being: Vimalakīrti's "neither within, without, nor in between"; the *Samantabhadra Contemplation Sūtra*'s "my own mind is empty; transgression and merit have no owner"; Master Zhiyi's "contemplating that transgression is non-arising… all transgressions are rooted in emptiness."
+Three lines converge on this one point — transgression has no own-being: Vimalakīrti's "neither within, without, nor in between"; the *Samantabhadra Contemplation Sūtra*'s "my own mind is empty; transgression and merit have no owner"; and Master Zhiyi's —
+
+> Neither apprehending transgression nor non-transgression; contemplating that transgression is non-arising shatters all transgression — for all transgressions are rooted in emptiness, and are ever pure.
 
 (One word must be added: these three passages come from three different textual traditions, whose original contexts and aims were never the same — one is a Prajñā-school teaching pitched to the occasion, one a liturgy of contemplative repentance, one a Tiantai doctrinal-classification discourse. What gathers them into the single unified category "the repentance of non-arising" is the integrative labor of Tiantai — not three scriptures that were ever one set.)
 
@@ -57,7 +68,9 @@ Three lines converge on this one point — transgression has no own-being: Vimal
 
 Now the great matter this volume has held in reserve all along can be uncovered.
 
-The Heart Sūtra has one line that is the literal landing-place of "the repentance of non-arising": "All dharmas are marked with emptiness; they neither arise nor cease, are neither defiled nor pure, neither increase nor decrease."
+The Heart Sūtra has one line that is the literal landing-place of "the repentance of non-arising":
+
+> All dharmas are marked with emptiness: neither arising nor ceasing, neither defiled nor pure, neither increasing nor decreasing.
 
 "Neither arising nor ceasing" is "non-arising." The "non-arising" of the repentance of non-arising is not some separate hidden meaning; it is exactly this line of the Heart Sūtra, appearing within the gate of repentance.
 
@@ -77,7 +90,11 @@ The moment "transgression has no own-being" is written, the most dangerous slope
 
 The worry is no idle one — history holds real precedents: those who misread justification by faith as a license to sin; those who took "originally not one thing" as a pretext for abandoning practice. The fear that "if transgression is empty, then anything goes" has its reasons, and must not be made light of.
 
-But the antidote to the worry lies in the very same passage of Vimalakīrti's rebuke of Upāli: "One who knows this is called a keeper of the Vinaya." — The one who knows that transgression has no own-being is the true keeper of the Vinaya.
+But the antidote to the worry lies in the very same passage of Vimalakīrti's rebuke of Upāli:
+
+> Deluded thought is defilement, no deluded thought is purity; distortion is defilement, no distortion is purity; grasping a self is defilement, not grasping a self is purity… One who knows this is called a keeper of the Vinaya; one who knows this is called one who truly understands.
+
+"One who knows this is called a keeper of the Vinaya" — the one who knows that transgression has no own-being is the true keeper of the Vinaya.
 
 This sentence turns the whole worry inside out. To see that transgression has no own-being is not to be issued a license to abolish the Vinaya; it is the highest fulfillment of keeping it. Why? Because to grasp transgression as a really-existent substance — one that accrues, that waits to be paid off — this grasping is itself "deluded thought," is itself "defilement"; the truly clean keeping of the Vinaya is the keeping that has seen through even this grasping. One who grasps transgression as real is, conversely, bound by transgression's "sense of being real," and so falls into fear, or into calculation, or into advancing and retreating within the bookkeeping of repayment; only the one who knows that transgression's nature is empty moves, in all his conduct, unpulled by the mark of transgression — and this is the true cleanness.
 

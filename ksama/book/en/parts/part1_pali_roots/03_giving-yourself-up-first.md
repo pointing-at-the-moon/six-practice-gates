@@ -1,8 +1,18 @@
 ## 1.3 Giving Yourself Up First
 
-It was in the Kalandaka Bamboo Grove outside Rājagaha. The Buddha had passed the rains retreat there with five hundred bhikkhus — all of them, says the *Saṃyukta Āgama*, arahants who had ended every taint, with a single exception: Ānanda. The retreat nearly over, on the full-moon fifteenth, the day of the invitation, the Buddha arranged a seat before the great assembly and sat.
+It was in the Kalandaka Bamboo Grove outside Rājagaha. The Buddha had passed the rains retreat there with five hundred bhikkhus — all of them, says the *Saṃyukta Āgama*, arahants who had ended every taint. The retreat nearly over, on the full-moon fifteenth, the day of the invitation, the Buddha arranged a seat before the great assembly and sat.
 
-He did not first teach the Dhamma. He first said something unexpected: you are my disciples, born from the Buddha's mouth, born of the Dhamma's transforming; now I ask you to bear with me — let nothing in my body, my speech, or my mind remain that could be blamed. In other words, He asked these five hundred disciples to point out whether He had any fault. From the assembly the venerable Sāriputta rose and answered first: in the World-Honored One's body, speech, and mind there is truly nothing to blame; then he turned about and asked the Buddha, in turn, to point out his own faults.
+He did not first teach the Dhamma. He first gave Himself up:
+
+> You are my sons, born from my mouth, born of the Dhamma's transforming, heirs to the riches of the Dhamma; now bear with me — let nothing in my body, my speech, or my mind remain that could be blamed.
+
+You are my disciples, born from the Buddha's mouth and of the Dhamma's transforming, inheritors of the household of the Dhamma; now, I ask you to bear with me — let nothing in my body, my speech, or my mind remain that could be reproved. In other words, He asked these five hundred disciples to point out whether He had any fault.
+
+From the assembly the venerable Sāriputta rose, straightened his robe, bowed to the Buddha, and answered first: in the World-Honored One's body, speech, and mind there is truly nothing to be reproved. Then he turned about and gave himself up in turn:
+
+> I now, before the World-Honored One, beg you to bear with me, by what is seen, heard, or suspected — if there is anything to be reproved in my body, speech, or mind.
+
+He asked the Buddha, in turn, to point out his own faults — if there were anything to be reproved in his body, speech, or mind, whether seen, heard, or suspected, let the World-Honored One name it.
 
 See what this opening inverts. In the world's imagining, the exposing of faults always runs from above to below: the high expose the low, the strong expose the weak. But here it is the one of highest standing in the Saṅgha, the one with the least "need" to be reproved, who first sets Himself where He can be reproved — and lays out body, speech, and mind, all three at once. When the one least obliged to be called out is the first to be called out, the pointing-out of another's faults turns from an exercise of power into the mutual support of those who dwell together.
 
@@ -34,9 +44,27 @@ Wherever there is an institution, someone will look for the loophole, and the Vi
 
 The fortnightly one is the recitation of the precepts that has already shown its face in the last two chapters — the *uposatha*. Every fortnight the Saṅgha gathers in one place and recites the precepts entire; this is the Saṅgha's most ordinary beat. What concerns this chapter lies wholly in the threshold standing before the recitation.
 
-The Dharmaguptaka *Vinaya* records it plainly: one who carries an undisclosed offense "may not recite the precepts, may not listen to the recitation" — no standing to recite with the assembly, none even to sit and listen. Through this door there is one road only: disclose first, before all, "not daring to conceal." And the clause that follows at once — "one who conceals incurs a graver offense" — is exactly the last chapter's principle: the hiding itself aggravates. Here it has come down from the crisis-handling of grave offenses to the ordinary doorway of every fortnight. Each fortnight, every bhikkhu must face it anew: you may hide, but the hiding is itself a graver offense, and it bars your way into the assembly.
+The Dharmaguptaka *Vinaya* records it plainly:
 
-Chapter one told how the recitation opens with three askings: whoever recalls an offense upon him, let him disclose it; to hold it back through three askings is deliberate false speech, is the obstructing of one's own path. The texts record, further, one particular night: the assembly already gathered in the hall, the venerable Ānanda asked the World-Honored One again and again to recite the precepts — the first watch ending, please recite; the middle watch ending, please recite; the last watch ending, please recite — and the Buddha remained silent throughout. Until at last He gave the reason: there is one in this assembly who is not pure; therefore I do not recite. The venerable Moggallāna thereupon entered concentration and surveyed the assembly, saw that the two bhikkhus Assaji and Punabbasuka sat with stain in their hearts, rose, went forward, and three times told the two to leave their seats; the two sat silent and unmoving, until Moggallāna at last took them by the hand, led them out the door, and only then reported back. Even the Buddha would not recite the precepts facing an assembly that harbored a hidden stain. So strict is purity as the precondition of recitation.
+> The World-Honored One laid down the precept: an offender may not recite the precepts, may not listen to the recitation, may not make amends toward another offender.
+
+One who carries an undisclosed offense has no standing to recite with the assembly, none even to sit and listen. Through this door there is one road only: disclose first, before all, "not daring to conceal." And the clause that follows at once — "one who conceals incurs a graver offense" — is exactly the last chapter's principle: the hiding itself aggravates. Here it has come down from the crisis-handling of grave offenses to the ordinary doorway of every fortnight. Each fortnight, every bhikkhu must face it anew: you may hide, but the hiding is itself a graver offense, and it bars your way into the assembly.
+
+Chapter one told how the recitation opens with three askings: whoever recalls an offense upon him, let him disclose it; to hold it back through three askings is deliberate false speech, is the obstructing of one's own path.
+
+How strict is this threshold? The *Madhyama Āgama*'s *Campā Sūtra* records one night. It was the fifteenth night of reciting the precepts; the Buddha had arranged a seat before the assembly of monks and sat — but having sat, He entered concentration and kept silent, saying nothing. A monk in the assembly rose, joined his palms, and asked the Buddha: the first watch is spent now, the assembly has sat long; may the World-Honored One recite the precepts. The Buddha did not answer. By the middle watch the monk asked again; the Buddha was silent still. By the last watch, asked a third time, the Buddha at last spoke: in this assembly there is one monk no longer pure.
+
+The venerable Moggallāna, hearing this, entered concentration and with the knowledge of others' minds surveyed the assembly, and saw which one the Buddha meant. He rose from concentration, went up to that monk, took him by the arm, led him outside the door, and let fall these words:
+
+> Foolish man, get far from here; do not dwell here; you may no longer take part in the assembly of monks; from this day forth, you are no monk.
+
+Then he barred and locked the door, and returned before the Buddha to report. Only then did the Buddha explain why:
+
+> Were the Tathāgata to recite that which leads to liberation before an impure assembly, that person's head would split into seven pieces.
+
+To "recite that which leads to liberation" is to recite the precepts that draw a person toward release. Even the Buddha would not recite the precepts facing an assembly that harbored a hidden stain — He would rather keep silent three watches through, and wait until that one had been led out, before opening His mouth. So strict, to this degree, is purity as the precondition of recitation.
+
+And this same night both the Chinese and the Pāli transmissions record: besides the *Campā Sūtra* of the *Madhyama Āgama*, the *Uposatha Sutta* (of the *Aṅguttara Nikāya*) and the *Ekottarika Āgama* carry the same event — the Buddha silent three watches, Moggallāna surveying the assembly's minds, the impure one led out by the arm. The details corroborate one another; this is no isolated witness but an iron rule the Saṅgha held in common.
 
 The invitation and the *uposatha*: one yearly, the grand reckoning; one fortnightly, the constant rhythm. The former abolishes silence and welcomes reproof; the latter sets "disclose first, then enter" as a door to be passed on schedule. Together, the two take "not concealing" — once a matter left to private conscience — and cast it into a beat of life that everyone keeps, on time.
 

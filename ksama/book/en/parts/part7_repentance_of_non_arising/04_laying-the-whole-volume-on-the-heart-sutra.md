@@ -10,7 +10,9 @@ To say it another way: the gate's entire movement from disclosure to non-arising
 
 ### The Eye That Sees, and the Bridge That Crosses Over
 
-The Heart Sūtra opens: "When Avalokiteśvara Bodhisattva was practicing the profound prajñāpāramitā, he clearly saw that the five aggregates are all empty, and crossed beyond all suffering and distress."
+The Heart Sūtra opens:
+
+> When Avalokiteśvara Bodhisattva was practicing the profound prajñāpāramitā, he clearly saw that the five aggregates are all empty, and crossed beyond all suffering and distress.
 
 This one line already touches two of the Six Practice Gates' neighboring gates.
 
@@ -20,7 +22,9 @@ Then "crossed beyond all suffering and distress." The one word "cross" is the bo
 
 ### Form Itself Is Emptiness — Landed on Transgression, It Is the Repentance of Non-Arising
 
-The core of the Heart Sūtra falls in this section: "Form is not different from emptiness, emptiness is not different from form; form itself is emptiness, emptiness itself is form… All dharmas are marked with emptiness; they neither arise nor cease, are neither defiled nor pure, neither increase nor decrease."
+The core of the Heart Sūtra falls in this section:
+
+> Form is not different from emptiness, emptiness is not different from form; form itself is emptiness, emptiness itself is form. Feeling, perception, formations, and consciousness are likewise so. All dharmas are marked with emptiness; they neither arise nor cease, are neither defiled nor pure, neither increase nor decrease.
 
 In the six gates' mapping onto the Heart Sūtra's "five verbs and one emptiness," the "emptiness" to which repentance answers falls exactly on this section. Why?
 
@@ -32,17 +36,27 @@ Seen by position, the correspondence is finer still. This section of the sūtra 
 
 And the place of repentance among the Six Practice Gates is exactly this: it follows the giving gate (giving carried to the loss of self, after which disclosure becomes possible) and opens onto the precept gate (the karma cleared, one is fit to receive the precept-substance). Repentance is the one and only subtractive gate precisely because it stands at this turning — from the marked "crossing" into the markless "no." The position lines up, and so the meaning lines up.
 
-And this line, "neither arising nor ceasing," appears in three texts at once, forming the spine of the convergence. The Heart Sūtra says that "all dharmas" are marked with emptiness, neither arising nor ceasing — the general principle. The *Samantabhadra Contemplation Sūtra* lands that principle directly on transgression and merit — "What is transgression? What is merit? My own mind is empty of itself; transgression and merit have no owner" — and so earns the name "the repentance free of the mark of transgression." Master Zhiyi states that step as a contemplation — "contemplating that transgression does not arise" — on the ground that "the root-nature of all transgressions is empty." Three sentences, three layers of one and the same thing: the Heart Sūtra gives the general principle of "neither arising nor ceasing"; the *Samantabhadra Contemplation Sūtra* trains it on transgression and merit; Master Zhiyi names that training, aimed at transgression and merit, "contemplating that transgression does not arise."
+And this line, "neither arising nor ceasing," appears in three texts at once, forming the spine of the convergence. The first is the Heart Sūtra's line itself: all dharmas are marked with emptiness, neither arising nor ceasing. The second is the *Samantabhadra Contemplation Sūtra*'s mind-contemplation passage:
+
+> Such dharma-marks neither arise nor cease. What is transgression? What is merit? My own mind is empty of itself; transgression and merit have no owner… this is named repentance without the mark of transgression.
+
+The third is Master Zhiyi's transgression-contemplation passage in the *Shi chan boluomi*:
+
+> Neither apprehending transgression nor non-transgression, contemplating that transgression does not arise, breaking all transgression — because the root-nature of all transgressions is empty and ever pure.
+
+Three sentences, three layers of one and the same thing: the Heart Sūtra gives the general principle of "neither arising nor ceasing"; the *Samantabhadra Contemplation Sūtra* trains it on transgression and merit — "my own mind is empty of itself; transgression and merit have no owner" — and so earns the name "the repentance free of the mark of transgression"; Master Zhiyi names that training, aimed at transgression and merit, "contemplating that transgression does not arise."
 
 And so the convergence stands: the repentance of non-arising is the name of the Heart Sūtra's "emptiness," landed on the face of transgression.
 
 ### No Knowledge, and No Attainment: Subtracted to the End
 
-Past the core section, the Heart Sūtra strings "no" upon "no": "Therefore in emptiness there is no form… no eye, ear, nose, tongue, body, or mind…"
+Past the core section, the Heart Sūtra strings "no" upon "no":
+
+> Therefore in emptiness there is no form, no feeling, perception, formations, or consciousness; no eye, ear, nose, tongue, body, or mind; no form, sound, scent, taste, touch, or dharma… no suffering, origin, cessation, path; no knowledge, and no attainment.
 
 This line — "no eye, ear, nose, tongue, body, or mind" — is exactly the prajñā floor beneath the last chapter's six-faculty repentance. The last chapter walked six gates, each faculty disclosing in turn, each dissolving into the real mark; here the Heart Sūtra gathers those six gates into a single line — "in emptiness, no six faculties." Not that the six faculties do not exist, but that they have no own-being to be grasped — and it is just this that leaves room for the faculties to dissolve into the real mark.
 
-The next line drives the "no" to both ends, the knower and the known: "No knowledge, and no attainment."
+And that line "no knowledge, and no attainment" drives the "no" to both ends, the knower and the known.
 
 This is the repentance of non-arising's ultimate step. The earlier lines saw that the transgression repented has no own-being (transgression does not arise); this line shines empty, together, the wisdom that repents and the fruit attained — the wisdom that repents is unapprehendable, the transgression repented is unapprehendable, and even "I have repented myself clean," held as an attainment, is unapprehendable. By this point even "repentance," the act itself, is no longer set up as a thing with an attainment to its name. This is the subtractive gate subtracted to the very end: grasping subtracted away, until knower and known are spent together.
 
@@ -52,9 +66,11 @@ It is exactly this run of "no"s that most invites a nihilist reading — does "n
 
 See this clearly first: what the string of "no"s negates is "own-being"; it does not negate by positing an entity called "emptiness." "No knowledge, and no attainment" negates "an existent wisdom to be relied on, an existent attainment to be grasped"; it does not say there is no wisdom, no practice, no realization. To seize "emptiness" as a really-existent thing to be grasped is to reify emptiness — exactly the inversion the Heart Sūtra itself most wants to break.
 
-More to the point, the Heart Sūtra does not abandon the reader inside the "no"; it sets its own guard then and there — "because there is nothing to attain," the bodhisattva's mind is without obstruction and reaches ultimate nirvāṇa; precisely because they rely on prajñā, the buddhas of the three times attain unsurpassed bodhi; and this sūtra, the most "no"-dense of texts, closes on "able to remove all suffering, real, not false."
+More to the point, the Heart Sūtra does not abandon the reader inside the "no"; it sets its own guard then and there:
 
-Follow the line: the "no" is not annihilation; the "no" is the very condition under which "removing all suffering" becomes possible at all — and the efficacy of that removal is "real, not false."
+> Because there is nothing to attain… ultimate nirvāṇa. The buddhas of the three times, relying on prajñāpāramitā, attain anuttarā-samyak-saṃbodhi… able to remove all suffering, real, not false.
+
+Follow the line: because there is nothing to attain, the bodhisattva's mind is without obstruction and reaches ultimate nirvāṇa; precisely because they rely on prajñā, the buddhas of the three times attain unsurpassed bodhi; and this sūtra, the most "no"-dense of texts, closes on "able to remove all suffering, real, not false." The "no" is not annihilation; the "no" is the very condition under which "removing all suffering" becomes possible at all — and the efficacy of that removal is "real, not false."
 
 Landed on repentance, the logic is the same: that the repentance of non-arising sees transgression as having no own-being does not mean transgression may be ignored, but the opposite — precisely because transgression has no own-being, it can truly be seen through; had transgression an own-being, solid and immovable, there would never come a day of its being repented clean. The sun of wisdom can dissolve the frost and dew precisely because the frost and dew were never really existent to begin with.
 

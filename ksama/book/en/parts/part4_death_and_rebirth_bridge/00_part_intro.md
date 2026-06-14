@@ -2,13 +2,7 @@
 
 By this point, the first three parts have, in the main, finished speaking of repentance's own affairs. But in this part, repentance shows for the first time its place on the whole road of practice — it is not an isolated gate; it is a seam.
 
-To see this seam clearly, repentance has to be set back into its place among the Six Practice Gates.
-
-The repentance this book speaks of is the third of the six gates. The gate before it is giving — loosening, inch by inch, the hand clenched tight around "mine." The gate after it is the precept — receiving a new precept-substance and beginning life as a new person. Join these three gates together, and a moving structure comes into view.
-
-Giving loosens "mine" — and loosened to the utmost, it is not only "my things" that come loose: the "I" itself is shaken loose, like a "death of the self." Repentance follows upon this loss of self: upon the self that no longer clutches for dear life, it discloses the old karma as it is and clears it clean. The precept follows upon repentance: only when all is cleared clean is one ready to receive the new precept-substance, like a "rebirth."
-
-Death, and then birth. Giving puts the self to death; repentance clears the karma after the death; the precept welcomes the new birth. Repentance is wedged exactly between this "death" and this "birth."
+The repentance this book speaks of is the third of the six gates. The gate before it is giving — loosening, inch by inch, the hand clenched tight around "mine"; loosened to the utmost, the "I" itself is shaken loose, like a "death of the self." The gate after it is the precept — cleared clean, one receives a new precept-substance, like a "rebirth." Repentance is wedged exactly between this "death" and this "birth": giving puts the self to death, repentance clears the karma after the death, the precept welcomes the new birth.
 
 So this part is a bridge with two faces. It has a face turned backward, joining onto giving — catching the self that has been loosened, the self headed toward death. It has a face turned forward, joining onto the precept — passing the one now purified on to the new precept-substance.
 

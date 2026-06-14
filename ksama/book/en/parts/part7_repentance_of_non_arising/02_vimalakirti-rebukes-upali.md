@@ -20,7 +20,11 @@ To read "do not compound the transgression of these two monks," the first point 
 
 What, then, is that superfluous layer that gets added?
 
-Kumārajīva's comment names it in a single stroke: the trouble lies in "fixing the mark of his transgression and pressing it further upon him." One who has broken the rule is already trembling at heart; if the transgression is now fixed into a settled, immovable real mark, and the offender reproached over and over against this reified mark, the only result is that "the mind is disturbed and the transgression compounded."
+Kumārajīva's comment names it in a single stroke:
+
+> One who has broken a precept is constantly in dread; if one fixes the mark of his transgression and presses it further upon him, this may be called disturbing the mind and compounding the transgression. But hearing the real mark, the mind, profound, has nowhere to lodge, and the burden of transgression dissolves of itself.
+
+One who has broken the rule is already trembling at heart; if the transgression is now fixed into a settled, immovable real mark, and the offender reproached over and over against this reified mark, the only result is that "the mind is disturbed and the transgression compounded."
 
 In other words, what compounds the transgression is not the deed, but the act of "fixing the mark of transgression" — and the repeated reproach that follows from it.
 
@@ -34,7 +38,9 @@ This is the deepest line between principial and phenomenal repentance: phenomena
 
 ### Transgression Is Not Within, Without, or in Between: Searched Out, It Is Wholly Empty
 
-On what ground, then, can one say the mark of transgression cannot be fixed? Sengzhao's comment takes up Vimalakīrti's line — the nature of transgression is "neither within, nor without, nor in between" — and gives it a dependent-origination argument.
+On what ground, then, can one say the mark of transgression cannot be fixed? Sengzhao's comment takes up Vimalakīrti's line — the nature of transgression is "neither within, nor without, nor in between" — and gives it a dependent-origination argument:
+
+> The arising of the burden of transgression is formed by causes and conditions; sought, its real nature is not in the three places… arisen from a concourse of conditions, searched out it is wholly empty.
 
 Is that transgression "within"? If it subsisted of itself in the offender's mind, it would have to be there even before an object was met and a thought arose — but that is not so. Is it "without"? If it subsisted of itself in the outer object, the object is itself without awareness; what has it to do with me? Is it "in between"? With neither inner nor outer established, there is no further independent "between" in which to lodge it. Searched through all three places and not found, the conclusion follows: transgression has no "real nature" subsisting apart from the concourse of conditions. It is an event-mark arisen from the meeting of body, speech, mind, object, and condition — present-seeming when conditions gather, vanished without trace when they disperse. Sengzhao's four words: "searched out, it is wholly empty."
 
@@ -42,7 +48,11 @@ This must be read together with Vimalakīrti's own similes. He says all dharmas 
 
 ### Transgression Binds Only the One Willing to Hold It Real
 
-Daosheng's comment drives this line to its most thoroughgoing sentence: the mark of transgression is firm only because a person has, with his own hands, "sealed up" that confusion, held it fast as a really-existent object, and then used it to bind himself. The key that unties the knot, then, was never elsewhere — "no longer binds himself with transgression." Once one sees that transgression has, from the first, no own-being, the self-tied knot loosens; "to one who has left the realm of transgression, can transgression lay hold?" — when a person has walked out of the realm of transgression that deluded thought built, whom is transgression left to seize?
+Daosheng's comment drives this line to its most thoroughgoing sentence:
+
+> Sealing delusion is the person's own doing — how should that transgression have any being? One who can realize this no longer binds himself with transgression… to one who has left the realm of transgression, can transgression lay hold?
+
+The mark of transgression is firm only because a person has, with his own hands, "sealed up" that confusion, held it fast as a really-existent object, and then used it to bind himself. The key that unties the knot, then, was never elsewhere — "no longer binds himself with transgression." Once one sees that transgression has, from the first, no own-being, the self-tied knot loosens; "to one who has left the realm of transgression, can transgression lay hold?" — when a person has walked out of the realm of transgression that deluded thought built, whom is transgression left to seize?
 
 This stroke is of the first importance, because it returns responsibility and freedom to the person in one motion. Transgression is not some stain imposed from outside, needing an outside force to wash it away; it is a knot the person constructs, seals, and binds for himself. The one who can bind is oneself; the one who can release is oneself.
 
@@ -52,13 +62,17 @@ The knot is not wrenched open by a force pulling the other way; in the seeing th
 
 ### "Called a Keeper of the Vinaya": The True Keeper Is the One Who Knows Transgression's Emptiness
 
-Having broken the false grasp, Vimalakīrti does not stop at breaking; he lays down a positive verdict: "One who knows this is called a keeper of the Vinaya."
+Having broken the false grasp, Vimalakīrti does not stop at breaking; he lays down a positive verdict:
+
+> One who knows this is called a keeper of the Vinaya; one who knows this is called one who truly understands.
 
 The weight of the sentence lies in its redefinition of "keeping the Vinaya" — of upholding the discipline.
 
-On the surface, Upāli, foremost in upholding the Vinaya, is the very exemplar of keeping it; but Vimalakīrti says the true keeping belongs to the one who "knows this" — who knows that transgression has no own-being, who does not fix its mark, who does not bind himself to it. And so a precise paradox appears: at the letter of the Vinaya, Upāli is beyond reproach; but at the Vinaya's ultimate, the foremost upholder — of whom it is said "even the foremost upholder of the Vinaya could not have said it" — is overtaken by the "supreme wisdom" the two precept-breaking monks now praise.
+On the surface, Upāli, foremost in upholding the Vinaya, is the very exemplar of keeping it; but Vimalakīrti says the true keeping belongs to the one who "knows this" — who knows that transgression has no own-being, who does not fix its mark, who does not bind himself to it. And so a precise paradox appears: at the letter of the Vinaya, Upāli is beyond reproach; but at the Vinaya's ultimate, the foremost upholder is overtaken.
 
-Hearing these words, the two monks' doubt and remorse dissolved on the spot, and they exclaimed: "What supreme wisdom! This is beyond Upāli; even the foremost upholder of the Vinaya could not have said it."
+Hearing these words, the two monks' doubt and remorse dissolved on the spot, and they exclaimed:
+
+> What supreme wisdom! This is beyond Upāli; even the foremost upholder of the Vinaya could not have said it.
 
 And this is the strongest possible answer to the suspicion that "if transgression is empty, then anything goes" — an answer that comes from the sūtra itself, not as an external defense. One might worry: does teaching "transgression has no own-being" not open a back door onto "breaking the rule doesn't matter"? The scene's reply runs flatly in the opposite direction: the one who knows transgression's emptiness is not the one who fails to keep the Vinaya, but the one who truly keeps it. For he keeps it not out of dread of the mark of transgression, nor does he operate his keeping as an instrument for reproaching himself or others again and again; he keeps it cleanly, keeps it with nothing for the mind to snag on, and his observance is, if anything, the steadier for it.
 
@@ -78,7 +92,11 @@ One more word must be added: Vimalakīrti's rebuke is a teaching that the wisdom
 
 Upāli: from the volume's opening as the founder who compiled the Vinaya and recited the precepts for the Saṅgha, to this scene where Vimalakīrti rebukes him full in the face — one and the same person. By his hand phenomenal repentance was founded; on his figure principial repentance summits. Head and tail, just so, are joined.
 
-And the two monks, their doubt and remorse gone at the hearing, did not rest at "I am free" — in that moment they aroused the awakening-mind, vowing "may all beings attain this discernment." The mark of transgression once emptied, what rose in the space it cleared was, of all things, a vow turned toward beings.
+And the two monks, their doubt and remorse gone at the hearing, did not rest at "I am free":
+
+> The two monks' doubt and remorse vanished at once; they aroused the mind of anuttarā-samyak-saṃbodhi, making this vow: may all beings attain this discernment.
+
+In that moment they aroused the awakening-mind. The mark of transgression once emptied, what rose in the space it cleared was, of all things, a vow turned toward beings.
 
 This thread, turning from "emptiness" toward "vow," is held down for now. Before us, the truth that "transgression has no own-being" must land one layer further — onto the six sense-gates of this body of ours.
 

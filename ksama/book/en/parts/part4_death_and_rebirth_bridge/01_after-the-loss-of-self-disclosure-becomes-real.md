@@ -8,11 +8,17 @@ What this chapter has to say is something unexpected: it is precisely this "I" s
 
 What giving loosens is "mine." But loosened to the utmost, what comes loose is not only "my things" — even the "I who gives" withdraws along with them.
 
-The *Diamond Sūtra* states this layer most transparently: a bodhisattva liberates all beings, yet in his mind there is no thought that "one being has been liberated by me"; for the moment the mind sets up the marks "I (the liberator) / beings (the liberated)," he is "then not a bodhisattva." The utmost of giving is not "I gave a great deal," but the withdrawal of the giver together with the "I who gives" — both leaving the stage at once.
+The *Diamond Sūtra* states this layer most transparently:
 
-Here lies the worry that comes most readily: with that ledger-keeping "I" gone, does giving not come to nothing?
+> Having liberated immeasurable, countless, boundless beings, yet no being is in reality liberated. … If a bodhisattva holds the notion of self, of person, of being, or of life-span, he is then not a bodhisattva.
 
-Quite the contrary. The *Diamond Sūtra* says, "giving without abiding in any mark, the merit is beyond measure." Merit that can be reckoned up is precisely the merit calculated by that ledger-keeping I — how much I gave, how much I am owed. Once one no longer clings to that mark, once the I that would convert giving into entries in a merit-passbook leaves the stage, giving no longer has any boundary that can be inventoried — and so "the merit is beyond measure."
+A bodhisattva liberates all beings, yet in his mind there is no thought that "one being has been liberated by me"; for the moment the mind sets up the marks "I (the liberator) / beings (the liberated)," he is "then not a bodhisattva." The utmost of giving is not "I gave a great deal," but the withdrawal of the giver together with the "I who gives" — both leaving the stage at once.
+
+Here lies the worry that comes most readily: with that ledger-keeping "I" gone, does giving not come to nothing? Quite the contrary. The sūtra goes on:
+
+> If a bodhisattva gives without abiding in any mark, the merit is beyond measure.
+
+Merit that can be reckoned up is precisely the merit calculated by that ledger-keeping I — how much I gave, how much I am owed. Once one no longer clings to that mark, once the I that would convert giving into entries in a merit-passbook leaves the stage, giving no longer has any boundary that can be inventoried — and so "the merit is beyond measure."
 
 Plainly, the loss of self performs no subtraction upon giving, does not make giving less; what it does is untie the rope that bound giving to the "I," letting giving recover its native boundlessness. The loss of self is not a coming-to-nothing; it is fulfillment.
 
@@ -26,9 +32,11 @@ Giving done to its utmost is "no being is in reality liberated by me" — the gi
 
 In a repentance that carries the mark of self, the center of gravity still rests on the "I" that wants to be seen, to be forgiven, to recover its respectability. It is a self-management conducted in the form of penitence — admitting fault on the surface, earning back a respectable face underneath. Only when that "I" demanding care at every turn leaves the stage does disclosure cease to be the "I"'s piece of theater and become a clean, faithful utterance of the deeds that were done.
 
-A question rises at once: if even the "I" is lost, then who is left repenting? Does disclosure not come to nothing?
+A question rises at once: if even the "I" is lost, then who is left repenting? Does disclosure not come to nothing? The *Diamond Sūtra* itself gives the shape of the answer:
 
-The *Diamond Sūtra* itself gives the shape of the answer: "give rise to a mind that abides in nothing." "Abiding in nothing" is the loss-of-self side: not setting up, upon circumstance after circumstance, an I that clings to them. "Give rise to a mind" is the disclosure side: precisely upon this non-abiding, mind arises, disclosure arises. The loss of self does not bring the mind to a standstill; it draws out the clinging I that would skim a secret profit inside the act of disclosure, so that the faithful utterance can arise after all — arise, and arise true.
+> The great bodhisattvas should give rise to a pure mind thus: they should not give rise to a mind abiding in form, nor in sound, smell, taste, touch, or mental objects; they should give rise to a mind that abides in nothing.
+
+"Abiding in nothing" is the loss-of-self side: not setting up, upon circumstance after circumstance, an I that clings to them. "Give rise to a mind" is the disclosure side: precisely upon this non-abiding, mind arises, disclosure arises. The loss of self does not bring the mind to a standstill; it draws out the clinging I that would skim a secret profit inside the act of disclosure, so that the faithful utterance can arise after all — arise, and arise true.
 
 So the loss of self and disclosure stand thus: not "the self is gone, therefore I cannot repent," but "precisely because nothing is abided in, disclosure can arise, and arise true."
 
@@ -48,13 +56,19 @@ The real use of this principle of the loss of self is that it dismantles, at a s
 
 We said earlier that concealment is the obverse of disclosure: hide the offense, refuse to say it, and repentance cannot even begin. But why does a person hide at all? Where is the root of the hiding sunk?
 
-The *Upāsaka-śīla Sūtra* sketches the mind of the concealer to the bone. It writes of the one hiding his offense, calculating thus: there are noble ones who have attained the divine eye, the divine ear, the knowledge of others' minds; if I do evil, they will surely see, hear, and know me; and if they see and know me, how could I do evil without giving rise to conscience-and-shame? — and the sūtra cuts through it in three words: this is "deceiving myself."
+The *Upāsaka-śīla Sūtra* sketches the mind of the concealer to the bone. It writes of the one hiding his offense, calculating thus:
+
+> If I do evil, such a one will surely see, hear, and know me. And if they see, hear, and know me, how could I do evil without giving rise to conscience-and-shame?
+
+And the sūtra cuts through it in three words: this is "deceiving myself."
 
 Look at what this concealer truly fears. Not the offense itself, but being "seen, known" — fearing that the image "I am pure" will break before an imagined witness. Concealment, in the end, is image-maintenance performed for an imagined audience; what it labors to guard is exactly this image, "I am pure." And this is not only deceiving others; it is, even more, deceiving oneself: knowing full well there is an offense, yet, before that witness (and before oneself), propping up a self without offense.
 
 At this point the use of the loss of self comes fully into the light: if the root of concealment is the grasping that guards "this pure image of me," then once that image which had to be guarded comes loose — once it is no longer a thing that must at all costs be defended — concealment loses its whole motive force. With no self that must at all costs stay respectable to preserve, there is nothing that must at all costs be hidden.
 
-The loss of self does not make a person numb to the offense — quite the reverse: what it dismantles is the layer of self-cosmetic standing between "offense" and "faithfulness," so that the offense can be set out exactly as it is. The same sūtra goes straight on to sketch the scene after this dismantling: that person passes from dread and sorrow to wholehearted repentance, and, the repentance once done, "the mind gives rise to gladness"; from then on he guards carefully and dares not offend again.
+The loss of self does not make a person numb to the offense — quite the reverse: what it dismantles is the layer of self-cosmetic standing between "offense" and "faithfulness," so that the offense can be set out exactly as it is. The same sūtra goes straight on to sketch the scene after this dismantling:
+
+> Such a person regards a light offense as grave; having so regarded it, remorse and conscience-and-shame arise — dread, sorrow, a mind that takes no pleasure in it; with wholehearted repentance, and the repentance once done, the mind gives rise to gladness, and guarding it carefully, he dares not offend again.
 
 The terminus of this arc is release, not an unending self-flagellation. The native character of disclosure shows itself here: it is the setting down of what was hidden, and so the shedding of weight; it is not the taking-up of the whip to beat oneself. What the loss of self perfects is exactly this light, generative disclosure.
 
@@ -64,7 +78,9 @@ At this point, someone may worry: in losing the "I," will conscience-and-shame b
 
 Quite the contrary. The conscience-and-shame that drives a person to disclose, and the current that washes out self-grasping, were one current all along.
 
-In the *Saṃyukta-āgama* there is a long causal chain, headed by "conscience-and-shame": because there is conscience-and-shame, there is non-heedlessness; because of non-heedlessness, one draws near good companions and trains in the precepts; because of training in the precepts, right mindfulness and clear comprehension, a mind unscattered; because the mind is unscattered, right intention, and the right path is walked; and so on down the line, flowing at last into "not clinging to self-view."
+In the *Saṃyukta-āgama* there is a long causal chain, headed by "conscience-and-shame":
+
+> By conscience-and-shame, non-heedlessness; by non-heedlessness, reverence, agreeable speech, and good companionship… by diligence, no agitation, abiding in restraint, training in the precepts; by training in the precepts, no loss of mindfulness, clear comprehension, a mind abiding undisturbed; by an undisturbed mind, right intention, drawing near the right path, a mind not slack; by a mind not slack, not clinging to self-view, not clinging to precept-grasping, crossing beyond doubt.
 
 "Self-view" (*sakkāya-diṭṭhi*) is precisely the core of self-grasping — "the five aggregates are self; the self possesses the aggregates." And "not clinging to self-view" is the loss of self.
 

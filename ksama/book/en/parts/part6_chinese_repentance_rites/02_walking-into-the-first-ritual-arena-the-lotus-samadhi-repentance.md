@@ -16,29 +16,49 @@ The welcome it extends is wide. Zhiyi says specifically that even one who has in
 
 ### The Ten Stages: A Scaffold Built Layer by Layer
 
-Once inside the arena, the rite arranges ten things for the practitioner, called the "ten stages": first, consecrating the arena; second, purifying the body; third, the threefold-act offering; fourth, inviting the Three Jewels; fifth, praising the Three Jewels; sixth, paying homage to the Buddhas; seventh, repentance; eighth, circumambulation; ninth, reciting the *Lotus Sūtra*; tenth, contemplating the one true reality. These are not ten independent ritual units set side by side, but a single sequenced path.
+Once inside the arena, the rite arranges ten things for the practitioner, called the "ten stages":
 
-Zhiyi left a note in his own voice here that matters greatly. He says: among these ten methods, some merely state the procedure to be performed, some teach how to dispose the mind in thought, and some are phrases to be recited aloud; the practitioner should skillfully take the sense and use it, and need not recite every line as written. The sentence tells us that this rite, from its author's own vantage, was never a how-to manual of "do such-and-such at this minute," but a model whose sense may be taken, whose parts may be added to or trimmed, into which generation after generation may walk afresh.
+> On first entering the arena, the practitioner must be furnished with ten methods: first, consecrating the arena; second, purifying the body; third, the threefold-act offering; fourth, inviting the Three Jewels; fifth, praising the Three Jewels; sixth, paying homage to the Buddhas; seventh, repentance; eighth, circumambulation; ninth, reciting the *Lotus Sūtra*; tenth, contemplating the one true reality.
+
+These are not ten independent ritual units set side by side, but a single sequenced path. Zhiyi has a note in his own voice here that matters greatly:
+
+> Among these ten methods, some merely state the procedure to be performed, some teach how to dispose the mind in thought, and some are phrases to be recited aloud; the practitioner should take the sense well and use it, and need not recite all this text.
+
+This sentence tells us that this rite, from its author's own vantage, was never a how-to manual of "do such-and-such at this minute," but a model whose sense may be taken, whose parts may be added to or trimmed, into which generation after generation may walk afresh.
 
 The first six stages are the pillars of the whole scaffold, and every one of them is built of "phenomena."
 
-The first stage, "consecrating the arena," shows the most deliberate care. On the altar is placed only a copy of the *Lotus Sūtra*, with no other images mixed in; the practitioner is to bring out his own resources, to the utmost of his ability, in offering. Zhiyi says a hard thing here: if one cannot give up one's own resources to make offering to the Great Vehicle, then in the end one will never summon the worthies and move the sages; the grave sins will not be extinguished — and where then would the samādhi arise from? The remark sets "giving up" squarely on the causal chain of extinguishing offense and arousing concentration — the offering is not decoration at the gate; it is the first labor of phenomenal repentance.
+The first stage, "consecrating the arena," shows the most deliberate care. On the altar is placed only a copy of the *Lotus Sūtra*, with no other images mixed in; the practitioner is to bring out his own resources, to the utmost of his ability, in offering. Zhiyi says a hard thing here:
+
+> If one cannot give up one's own resources to make offering to the Great Vehicle, then in the end one will never summon the worthies and move the sages; the grave sins will not be extinguished, and how then could the samādhi arise?
+
+The remark sets "giving up" squarely on the causal chain of extinguishing offense and arousing concentration — the offering is not decoration at the gate; it is the first labor of phenomenal repentance.
 
 Then the second stage, purifying the body (bathing and changing one's robes); the third, the threefold-act offering (the body's homage, the mouth's praise, the mind's contemplation, all three set in motion together); the fourth, inviting the Three Jewels (Śākyamuni, Prabhūtaratna, and the emanation-body Buddhas of the ten directions, invited one by one into the arena); the fifth, praising the Three Jewels (praise voiced aloud in verse); the sixth, paying homage to the Buddhas (prostrating the five parts of the body to the ground, homage to each in turn).
 
 Stacked up, these six stages make a field that gathers inward layer by layer, from outer to inner: first the ground is purified, then the body; then, by the offerings, the assembly of sages, the mouth's praise, and the body's homage, the whole of body and mind is settled into a posture of "facing the Buddhas and the sages." By the time the practitioner opens his mouth to repent at the seventh stage, he is no longer a scattered person freshly pulled out of worldly affairs, but one whom the phenomenal acts have, step by step, subdued and set in place.
 
-There is a point here that cannot be slid past. The Lotus Samādhi has an explicitly designated "lord of repentance" — the bodhisattva Samantabhadra. The interlinear note in the liturgy says it clearly: the practitioner reverences Samantabhadra Bodhisattva with one mind; this bodhisattva is the lord of repentance of the Lotus; the practitioner is to kneel facing this bodhisattva to confess his sins, repent, and make his vows, while the other Buddhas and bodhisattvas all bear witness. What matters is this: Samantabhadra is the one revered, the one confided in, the one who witnesses — not an official who pronounces a pardon. The extinguishing of offense rests on the practitioner's own truthful disclosure in accord with the Dharma, together with the sustaining power of the Buddhas; no sage here brings down the stamp of "absolved." The line this book has held all along — being received is not the same as being absolved — still stands upright in this arena.
+There is a point here that cannot be slid past. The Lotus Samādhi has an explicitly designated "lord of repentance" — the bodhisattva Samantabhadra. The interlinear note in the liturgy says it clearly:
+
+> This bodhisattva is the lord of repentance of the Lotus; the practitioner is to set his own mind and, kneeling and facing this bodhisattva, confess his sins, repent, and make his vows, while the other Buddhas and bodhisattvas all bear witness.
+
+What matters is this: Samantabhadra is the one revered, the one confided in, the one who witnesses — not an official who pronounces a pardon. The extinguishing of offense rests on the practitioner's own truthful disclosure in accord with the Dharma, together with the sustaining power of the Buddhas; no sage here brings down the stamp of "absolved." The line this book has held all along — being received is not the same as being absolved — still stands upright in this arena.
 
 ### The Heart of the Repentance: The Six-Faculty Disclosure
 
-The seventh stage is where this rite truly beats. The moment it opens its mouth, it pins down a sentence: though the nature of karma is empty, its fruits are not lost; one who knows emptiness will not even do good, still less commit sin… and so the practitioner, precisely because he knows emptiness, gives rise to great remorse, burns incense, scatters flowers, and discloses and repents.
+The seventh stage is where this rite truly beats. The moment it opens its mouth, it pins down a sentence:
+
+> Though the nature of karma is empty, its fruits are not lost; one who knows emptiness will not even do good, still less commit sin… therefore, precisely because he knows emptiness, the practitioner gives rise to great remorse, burns incense, scatters flowers, and discloses and repents.
 
 The sentence is worth pausing on, because it is exceedingly easy to read backward.
 
 It is often misread as a climax of "emptiness" — as if Zhiyi meant, here, to dissolve sin into emptiness. The truth is exactly the opposite. This is a brake that Zhiyi presses down with his own hand at the very heart of the rite: emptiness is not grounds for skipping repentance; emptiness is, on the contrary, grounds for deeper repentance. "Though the nature of karma is empty, its fruits are not lost" — this is phenomenal repentance's understanding of itself; it is answering the question "then why, once things are empty, repent at all?", and the answer is: because the fruits are not lost, because remorse is the more keen. It runs in exactly the opposite direction from the repentance of non-arising in Part Seven, which lets repentance melt into emptiness. Here, phenomenal repentance is still the load-bearing wall.
 
-The main body of the repentance is the confession of the six faculties one by one: eye, ear, nose, tongue, body, mind — each faculty confessed in turn. Take the eye-faculty as the specimen and look at its texture: with utmost mind I repent; from countless lifetimes, the eye-faculty has coveted form after form… and now this sin of the eye is spoken out — "I dare not conceal it" — may the Buddhas and bodhisattvas wash it away with the dharma-water of the wisdom-eye, that all the grave sins of the eye-faculty be ultimately purified. The confession of each faculty closes on the same formula: "I confess this particular sin and dare not conceal it."
+The main body of the repentance is the confession of the six faculties one by one: eye, ear, nose, tongue, body, mind — each faculty confessed in turn. Take the eye-faculty as the specimen and look at its texture:
+
+> With utmost mind I repent. The monk so-and-so, together with all sentient beings of the dharma-realm, has from countless lifetimes, through the conditioning of the eye-faculty, coveted forms… I confess this sin of the eye and dare not conceal it; may the Buddhas and bodhisattvas wash it away with the dharma-water of the wisdom-eye, that all the grave sins of the eye-faculty be ultimately purified.
+
+The confession of each faculty closes on the same formula: "I confess this particular sin and dare not conceal it."
 
 Those four words — "dare not conceal it" — are the most critical place in this chapter.
 
@@ -52,7 +72,9 @@ The mind of repentance accomplished, the eighth stage — circumambulation — a
 
 As for the tenth stage — contemplating the one true reality, the seated contemplation of the real mark in correct vision — this chapter goes no further than the stage's name.
 
-Not out of evasion — Zhiyi himself draws a line here. He says: practicing this way through the six periods of day and night is for teaching "novice bodhisattvas" — those who cannot yet enter deep samādhi; for them, one first uses phenomenal practices to subdue the mind and break the grave sins that obstruct the Way, so that body and mind become pure and they taste the savor of Dharma-joy; but one who would single-mindedly abide in stillness and enter deep samādhi must then "discard the foregoing practice" and rely directly on the Course of Ease and Bliss, constantly delighting in seated meditation.
+Not out of evasion — Zhiyi himself draws a line here:
+
+> Those who practice through the six periods do so to teach novice bodhisattvas who cannot yet enter deep samādhi; for these, one first uses phenomenal practices to subdue the mind and break the grave sins that obstruct the Way, so that body and mind become pure and taste the savor of Dharma-joy; but one who would single-mindedly abide in stillness and enter deep samādhi must then discard the foregoing practice and rely directly on the Course of Ease and Bliss, constantly delighting in seated meditation.
 
 This passage is the spine of the whole rite, and the cleanest line between this chapter and Part Seven — and the line was drawn by Zhiyi's own hand.
 

@@ -2,7 +2,11 @@
 
 For someone who has never had any contact with Buddhist repentance liturgy, the least strenuous door into the Chinese tradition of repentance may well be a story that has been told for more than a thousand years.
 
-The story goes that the empress of Emperor Wu of Liang, Consort Chi, became a great serpent after her death, and one night took form and laid her plight before the emperor: in life I was jealous of the women of the harem; for this sin I was condemned to the body of a serpent… and so, lodged in this ugly shape, I lay it bare before you, begging one work of merit by which I might be delivered. The emperor went to consult the eminent monk Zhigong, and Zhigong said: nothing will serve but to pay homage to the Buddhas and wash it clean by repentance. So the emperor gathered the words of the Buddhas, struck out the idle phrases, and composed this repentance text for her; and afterward the serpent, by the merit the emperor had made, was reborn in the Trāyastriṃśa Heaven.
+The story goes that the empress of Emperor Wu of Liang, Consort Chi, became a great serpent after her death, and one night took form and laid her plight before the emperor:
+
+> In life I was jealous of the women of the harem… for this sin I was condemned to the body of a serpent… and so, lodged in this ugly shape, I lay myself bare before His Majesty, begging one work of merit by which I might be delivered.
+
+The emperor went to consult the eminent monk Zhigong, and Zhigong said: nothing will serve but to pay homage to the Buddhas and wash it clean by repentance. So the emperor gathered the words of the Buddhas, struck out the idle phrases, and composed this repentance text for her; and afterward the serpent, by the merit the emperor had made, was reborn in the Trāyastriṃśa Heaven.
 
 (Provenance first, plainly: this story is legend, not sober history. The current ten-fascicle version bears the byline "compiled by the great dharma-masters of Liang," not Emperor Wu's own authorship; even the *Account* inside the story admits that "several hundred years" already stand between it and the Liang — so the version we have was enlarged and reworked by later hands, and is not the sixth-century original. Wherever the text below says "the Liang Emperor's Jeweled Repentance," then, it carries the sense of "by tradition." The rite's proper name is in fact the *Repentance Rite of the Compassionate Ritual Arena* — where "ritual arena" means the altar of repentance.)
 
@@ -14,7 +18,9 @@ And Consort Chi's sin was jealousy. Jealousy is a mind that sorts people into "m
 
 ### Repentance Is the Untying of Bonds
 
-Before entering its outward structure, look first at how this text defines "repentance." It has one sentence that could almost serve as the program of the whole book: "In the ordinary person it is called bondage; in the sage it is called release."
+Before entering its outward structure, look first at how this text defines "repentance." It has one sentence that could almost serve as the program of the whole book:
+
+> In the ordinary person it is called bondage; in the sage it is called release. Bondage is the evil arisen from the three kinds of action; release is the good that is without obstruction.
 
 The definition is worth a pause. It does not cast repentance as "confessing to someone, begging someone's pardon," but as the untying of bondage — the loosening of the knots tied by the three actions of body, speech, and mind. Sin, here, is not a debt to be paid off but a knot that binds a person and leaves them unfree; repentance is the loosening of the binding.
 
@@ -30,15 +36,21 @@ The Lotus Samādhi's loss of self is inward: the "I" is dissolved into the real 
 
 First step: showing the karmic fruits — stretching the field of vision from "I" out to the six paths. The text first spends great stretches laying out the causes, effects, and forms of suffering across the six paths. This is not intimidation but an expansion of view: the practitioner first sees the sins of this one body, and is then led to see the measureless beings of the whole round of rebirth suffering alongside him. If the eye holds nothing but one body's gains and losses, no mind to repent for the six paths can arise.
 
-Second step: untying enmity and loosening the knot — dissolving the foe-and-kin that springs from the "I." This is the pivot of the whole chapter. The text names the root of enmity: because of inequality in the mind, "the I-and-mine mind" arises; the discrimination of "foe" and "kin" is born; and only then does enmity fill the six paths.
+Second step: untying enmity and loosening the knot — dissolving the foe-and-kin that springs from the "I." This is the pivot of the whole chapter. The text names the root of enmity:
 
-Look at the causal chain: first there is the view of "inequality"; only then does that "I" stand at the center, taking itself as the rule, measuring out who is near and who far, who lovable and who hateful — and only then do foe and kin stand up at all. So "untying enmity" is not "forgiving some particular enemy"; it is taking apart the measuring-rod itself. The remedy the text gives falls exactly here: with a heart of compassion, holding no thought of foe or kin, equal to the heart of all Buddhas, one with the vow of all Buddhas.
+> Because of inequality, the I-and-mine mind arises; thoughts of foe and kin are born; and so enmity fills the six paths.
+
+Look at the causal chain: first there is the view of "inequality"; only then does that "I" stand at the center, taking itself as the rule, measuring out who is near and who far, who lovable and who hateful — and only then do foe and kin stand up at all. So "untying enmity" is not "forgiving some particular enemy"; it is taking apart the measuring-rod itself. The remedy the text gives falls exactly here:
+
+> With a heart of compassion, holding no thought of foe or kin, equal to the heart of all Buddhas, one with the vow of all Buddhas.
 
 "Holding no thought of foe or kin" is not re-filing everyone under the single heading of "kin" — that is still discrimination, merely switched to the other side; it is to set down the whole pairing of "foe / kin" at once and return to the mind that does not discriminate. What is lost in that instant is exactly the "I" that stood in the middle taking the measure.
 
 That is why this is a "loss of self," and an outward one: the Lotus Samādhi loses the self by drawing it into the real mark; the Liang Emperor's loses it by laying it out into beings. One tends toward emptiness, one toward universal deliverance; the landing places differ, but the self that is lost is one and the same.
 
-Third step: dedication — and putting oneself last. After the loss of self, the most moving stroke of this rite is the order of its dedication. It makes plea, homage, and repentance for all beings of the six paths who have already suffered and who have not yet suffered, holding them as parents, teachers, and kin; and only at the very end does one's own turn come — "and also for ourselves, we make plea, homage, and repentance."
+Third step: dedication — and putting oneself last. After the loss of self, the most moving stroke of this rite is the order of its dedication. It makes plea, homage, and repentance for all beings of the six paths who have already suffered and who have not yet suffered, holding them as parents, teachers, and kin; and only at the very end does one's own turn come:
+
+> Universally, for those of the six paths who have already suffered and those who have not yet suffered, we make plea, homage, and repentance… and also for ourselves, we make plea, homage, and repentance.
 
 That single word "also" is the key to the whole economy of dedication: the self is not excluded but placed behind the six paths, the parents, the kin. This is the exact reverse of a prayer that begins from "first let me be saved" — it puts the self at the very end of the line. At the last, the whole text closes on the making of the great vow: that by the merit of this repentance and arousing of the mind, all be dedicated universally to every being to the ends of empty space.
 

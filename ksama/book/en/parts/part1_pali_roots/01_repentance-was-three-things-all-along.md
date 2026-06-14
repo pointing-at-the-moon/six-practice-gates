@@ -42,7 +42,11 @@ The core of disclosure the Vinaya states in one short phrase: *not daring to con
 
 Last, remorse. Remorse is an ingredient of the mind, and it has an unexpected property: it can be medicine, and it can be poison, depending entirely on where it lands.
 
-Down the poison road: the sūtras take that turning, chewing, never-resting regret, join it to the mind's agitation, and call the pair restlessness-and-remorse, listing it among the five hindrances that veil practice. In sitting meditation, this churning remorse is a thing to be set down, because it disturbs calm and insight. The *Saṃyukta Āgama* records its most poisonous face: at the end of life, when the evils of a lifetime crowd in at once, "the mind burns, the mind turns to remorse; and the mind, having given rise to remorse, gains no wholesome state" — a fire of remorse that burns the mind as it goes; the sūtra calls it the law of burning.
+Down the poison road: the sūtras take that turning, chewing, never-resting regret, join it to the mind's agitation, and call the pair restlessness-and-remorse, listing it among the five hindrances that veil practice. In sitting meditation, this churning remorse is a thing to be set down, because it disturbs calm and insight. The *Saṃyukta Āgama* records its most poisonous face: at the end of life, when the evils of a lifetime crowd in at once —
+
+> The mind burns, the mind is wracked with remorse; and the mind, having given rise to remorse, gains no wholesome state.
+
+A fire of remorse that burns the mind as it goes; the sūtra gives it a name — the law of burning.
 
 Down the medicine road lie the three beats we have already seen: see the offense, disclose it, guard against doing it again. The same remorse, once willing to walk the road of saying-out and guarding-thereafter, is a force that spurs a person forward; bottled in the heart and chewed day and night, it congeals into a hindrance and burns into a fire.
 
@@ -64,7 +68,21 @@ So this method was never, from the start, a person behind a closed door wrestlin
 
 Phenomenal repentance has its ceiling, and it is best seen clearly at the outset, lest expectation set off in the wrong direction.
 
-King Ajātaśatru of Magadha, goaded by an evil friend, killed his father Bimbisāra — a king who ruled by the Dhamma. On a full-moon fifteenth night, led by the royal physician Jīvaka, he came to see the Buddha in Jīvaka's mango grove outside Rājagaha. After hearing the Buddha teach, he rose, bowed, and begged the Buddha to receive his repentance, confessing himself "mad, foolish, deluded, and blind" — lost in the five desires when he killed his royal father. The Buddha confirmed it, and received his repentance. But after King Ajātaśatru had gone, the Buddha turned to the bhikkhus and said: this king's transgressions are reduced, the grave fault drawn out — yet had he not killed his father, he would this very day, on this very seat, have attained the pure Dhamma-eye. The repentance was real; the reduction was real; but *reduced*, in the end, is not *erased*. The father was already slain, and the Dhamma-eye of that seat was, in the end, missed.
+King Ajātaśatru of Magadha, goaded by an evil friend, killed his father Bimbisāra — a king who ruled by the Dhamma. On a full-moon fifteenth night, led by the royal physician Jīvaka, he came to see the Buddha in Jīvaka's mango grove outside Rājagaha. After hearing the Buddha teach, he rose from his seat, bowed his head to the Buddha's feet, and disclosed his offense:
+
+> May the World-Honored One receive my repentance. I was mad, foolish, benighted, and without understanding … deluded by the five desires, I truly killed my father the king. May the World-Honored One, in pity and compassion, receive my repentance.
+
+The Buddha received his repentance:
+
+> You are foolish and benighted, without understanding … one who can now repent the fault within the noble Dharma thereby benefits himself. Out of pity for you, I receive your repentance.
+
+But once King Ajātaśatru had bowed and gone, the Buddha turned to the bhikkhus seated before Him and said:
+
+> This King Ajātaśatru's offenses are lessened, the grave fault already drawn out. Had King Ajātaśatru not killed his father, he would have attained the pure Dharma-eye on this very seat; yet now, repenting the fault himself, his guilt is lessened, the grave fault already drawn out.
+
+Hear the two layers of this. The first is *lessened, the grave fault already drawn out* — repentance is genuinely of use; a karmic burden that heavy is truly lightened, loosened. But the other layer the Buddha states just as plainly: had he never harmed his father, he would, on hearing this one teaching, have attained the pure Dharma-eye on the spot; as it is, he has repented, his guilt is lessened — yet the Dharma-eye of that seat was, in the end, missed.
+
+*Lessened*, in the end, is not *erased*. The father was already slain — and that is the place phenomenal repentance cannot reach.
 
 This limit is exactly where the dignity of phenomenal repentance lies. It does not boast of striking every offense from the books at one stroke; it says, truthfully: say it out, guard it, walk on — the obstruction will lighten, and the road will open. As for the deeper layer, that waits for a deeper Dhamma to shine on it; this book, further along, will walk there of itself.
 

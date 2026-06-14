@@ -22,7 +22,11 @@ Yet for a real person, that surge is precisely what cuts closest.
 
 The fault is spoken; the procedure is complete; the person has been received — and still, in the dead of night, the thing rises to mind, and the chest tightens. That tightening — is it good, or bad? Some say: only one who feels the pain will mend; remorse is conscience, is medicine. Others are bitten by this remorse and cannot get free — the more they chew it, the deeper it goes; listless by day, sleepless by night — remorse become a second sickness. One word, two faces. Which is the true one?
 
-The Buddha drew distinctions here of the finest grain. He taught how remorse spurs a person forward — see the fault, disclose it, guard against its recurrence, grow the noble Dharma. And He taught how remorse burns — at the hour of death, "the mind burns, the mind is wracked with regret," a fire chasing a person as he goes. The same surge of remorse: when it is medicine and when it is poison; where the watershed lies; how to read the heat of the fire — all this He set out, point by point, in the sūtras.
+The Buddha drew distinctions here of the finest grain. He taught how remorse spurs a person forward — see the fault, disclose it, guard against its recurrence, grow the noble Dharma. And He taught how remorse burns. A person comes to the hour of death, and the evils of a lifetime surge up at once; the mind in that hour, He said, is this:
+
+> The mind burns, the mind is wracked with remorse.
+
+A fire chasing a person as he goes. The same surge of remorse: when it is medicine and when it is poison; where the watershed lies; how to read the heat of the fire — all this He set out, point by point, in the sūtras.
 
 What the language of Part One cannot handle is exactly this. The procedure tells you to speak it out; it does not tell you where the feeling is to be settled once it is spoken. It tells you that hiding compounds; it does not tell you how, once you hide no longer, that small burning in the heart is to be put out.
 

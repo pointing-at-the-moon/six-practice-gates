@@ -18,9 +18,13 @@ Set these side by side, and the moral weight of this man Ajātaśatru is utterly
 
 ### The Most Complete Remorse
 
-Later, led by the royal physician Jīvaka, on the full-moon night of the fifteenth, King Ajātaśatru went to see the Buddha in Jīvaka's mango grove outside Rājagṛha. After hearing the Buddha teach, he rose from his seat, bowed, and made a disclosure that held nothing back — declaring himself mad, foolish, benighted, deluded by the five desires; that he had truly killed his father the king — and begged the Buddha to receive his repentance.
+Later, led by the royal physician Jīvaka, on the full-moon night of the fifteenth, King Ajātaśatru went to see the Buddha in Jīvaka's mango grove outside Rājagṛha. After hearing the Buddha teach, he rose from his seat, bowed head and face to the Buddha's feet, and made a disclosure that held nothing back:
 
-And the Buddha received it. He said: that you can repent the fault within the noble Dharma is your own benefit gained; out of pity for you, I receive your repentance.
+> May the World-Honored One receive my repentance. I was mad, foolish, benighted, and without understanding … deluded by the five desires, I truly killed my father the king. May the World-Honored One, in pity and compassion, receive my repentance.
+
+And the Buddha received it:
+
+> One who can now repent the fault within the noble Dharma thereby benefits himself. Out of pity for you, I receive your repentance.
 
 Read the Buddha's wording closely — "one who can repent the fault thereby benefits himself." The benefit comes by way of the repenter himself handing the fault over in accordance with the Dharma; it is not a pardon-decree dropped from the Buddha's side. "Benefiting oneself" is not "being absolved by someone." This distinction is the hinge to which the rest of this chapter returns again and again.
 
@@ -32,7 +36,7 @@ This is the spine of the chapter.
 
 After King Ajātaśatru had taken his leave, the Buddha turned to the monks seated there and said one thing. That saying is the keystone of the whole affair:
 
-This king's offenses are lessened, the grave fault drawn out — and yet, had he not killed his father, he would have attained the pure Dharma-eye on this very seat; now, having repented, his offenses are lessened, the grave fault drawn out.
+> This King Ajātaśatru's offenses are lessened, the grave fault already drawn out. Had King Ajātaśatru not killed his father, he would have attained the pure Dharma-eye on this very seat; yet now, repenting the fault himself, his guilt is lessened, the grave fault already drawn out.
 
 Two things here must be held apart.
 
@@ -42,19 +46,29 @@ The other is that "had he not killed his father, he would have attained the pure
 
 The wording must be kept exact: the sūtra says "lessened," says "the grave fault drawn out" — not "fault extinguished," not "fault removed." To lessen is not to remove.
 
-What, then, was left to Ajātaśatru once the Dharma-eye was blocked? The sūtra keeps the account complete: though he could not realize the fruit, he still gained a great good fortune — a "rootless faith." Take care with this term: do not read it as "groundless faith," a faith with no reason behind it. It means faith, without a root — the patricide had severed the root of realization, and what remained was a conviction that had lost the support of the path-root and yet was still genuine. This is already the great good fortune a person of grave fault can reach; the Buddha even urges those who have done wrong by it: seek the means to accomplish this rootless faith. And yet it is not, for all that, the fruit that should have been his on that seat.
+What, then, was left to Ajātaśatru once the Dharma-eye was blocked? The sūtra keeps the account complete:
+
+> Had this King Ajātaśatru not killed his father, he should this very day have won the first fruit of recluseship … Yet even so, he has now gained great good fortune: he has gained rootless faith … Among my lay-followers, the one who has gained rootless faith — that is Ajātaśatru.
+
+Though he could not realize the fruit, he still gained a great good fortune — a "rootless faith." Take care with this term: do not read it as "groundless faith," a faith with no reason behind it. It means faith, without a root — the patricide had severed the root of realization, and what remained was a conviction that had lost the support of the path-root and yet was still genuine. This is already the great good fortune a person of grave fault can reach; the Buddha even urges those who have done wrong by it: seek the means to accomplish this rootless faith. And yet it is not, for all that, the fruit that should have been his on that seat.
 
 The lessening is real; so is the cost.
 
 ### The Salt Is Still in the Water
 
-Why can remorse "lessen," yet not "remove"? The Buddha once gave a superb simile.
+Why can remorse "lessen," yet not "remove"? The Buddha once gave a superb simile:
+
+> As when a man casts an ounce of salt into a little water, making it too salty to drink.
 
 Cast a handful of salt into a small cup of water, and it is too salty to drink; cast the same handful of salt into a great river, and no saltiness can be tasted. Where does the difference lie? Not in the salt — not one grain of it is gone; in the water. The water bearing the salt has grown great.
 
 The karma of the fault is that handful of salt. Repentance, together with the sustained practice that follows it, enlarges the river-like continuum that bears the karma. What it turns is always the karma's trajectory, never the deed already done. The salt is still in the water.
 
-And the Buddha drew a floor beneath all this: a deed done with intention must be experienced as its result — in this life, or in a later one. Intentional karma does not get away. Repentance can widen the bearing river, thin the saltiness to where it can be borne, turn a heavy ripening into a light experiencing — but it cannot make that handful of salt vanish into thin air.
+And the Buddha drew a floor beneath all this:
+
+> If one does a deed intentionally, I say one must experience its result — in this life or a later; if one does a deed unintentionally, I say one need not necessarily experience the result.
+
+A deed done with intention must be experienced as its result — in this life, or in a later one. Intentional karma does not get away. Repentance can widen the bearing river, thin the saltiness to where it can be borne, turn a heavy ripening into a light experiencing — but it cannot make that handful of salt vanish into thin air.
 
 This floor must be held, and held steadily. Phenomenal repentance can lessen, can redirect; it cannot erase.
 
@@ -62,7 +76,9 @@ This floor must be held, and held steadily. Phenomenal repentance can lessen, ca
 
 For this truth — it can lessen and redirect, it cannot erase — there is an example cleaner still: Devadatta himself, the one who goaded Ajātaśatru.
 
-He committed the five gravest evils, and at the end of his life the karma of his designs on the Buddha was still unsettled — he fell, in his present body, into the Avīci hell, to undergo it there for a kalpa. Not half a measure of the karma was erased. And yet at the very moment of death he raised one thought of gladness, setting out to utter "Namo Buddha" — and though he could not finish the phrase, that one thought planted a seed reaching far ahead: the sūtra says that when the kalpas have passed, he will in the end become a paccekabuddha, and his name will be Namo.
+> This was Devadatta's first committing of the five gravest evils … And because, at the very end, in the last moment of his life, Devadatta raised a mind of gladness and uttered "namo," he afterward became a paccekabuddha, named Namo.
+
+He committed the five gravest evils, and fell, in his present body, into the Avīci hell, to undergo it there for a kalpa. Not half a measure of the karma was erased. And yet at the very moment of death he raised one thought of gladness, setting out to utter "namo" — and that one thought planted a seed reaching far ahead: when the kalpas have passed, he will in the end become a paccekabuddha, and his name will be Namo.
 
 A kalpa in hell: the karma not erased. A paccekabuddha at the last: the destination turned. These two stand together in one and the same person — the plainest possible picture of "it can lessen and redirect; it cannot erase."
 
