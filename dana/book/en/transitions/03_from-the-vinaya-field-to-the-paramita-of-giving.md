@@ -10,8 +10,6 @@ Part One, inside one person's heart, loosened the hand clenched around "mine." P
 
 From the plainest letting-go of the Pāli, to the broad teaching on giving in the Āgamas, to the long-lasting field of merit in the Vinaya—along this road, "mine" has been loosened and loosened again, barred and barred again. What one person held in the hand has been let go; the wealth offered out has been barred by the Vinaya from ever becoming "mine"; even an empty hand, by keeping the precepts, can give others peace of mind.
 
-Is it enough?
-
 By the reckoning of the Āgamas and the Vinaya, it is already very thorough. A householder, a monastic, with this whole set in hand, has enough for a very long road.
 
 But down this whole road, one thing has never once been touched.
