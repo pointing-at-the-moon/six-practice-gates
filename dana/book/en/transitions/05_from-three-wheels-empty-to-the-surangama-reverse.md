@@ -10,10 +10,6 @@ Setting out from the letting-go of the Pāli, this book has loosened "mine" agai
 
 This road set out from how much to give, and arrived at even "I am giving" emptied out. You could say that, seen from the giving end, giving has been spoken all the way to its end.
 
-Is it enough?
-
-Seen from the giving end, yes.
-
 But the self-grasping that keeps a person turning round and round in birth and death has two faces.
 
 The five parts so far have kept their eyes on **one face** of it—the hand that clenches "mine" and cannot bear to let go. What this whole book has been doing, all along, is prying that hand open, finger by finger. Loosen "mine," give it away—this is loosening the "I" from the direction of giving.
