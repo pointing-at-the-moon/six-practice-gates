@@ -8,11 +8,7 @@ With Part Four done, this book, keeping company with giving, has stepped over a 
 
 From the letting-go of the Pāli, to the teaching on giving in the Āgamas, to the field of merit in the Vinaya—the first three parts loosened "mine" again and again. But standing in the middle there was still an "I who is giving." In Part Four the Mahāyāna went to work, and what it worked on was precisely this "I." It showed us that a gift, joined to that small wisdom which sees through, loosens the three wheels—I give, he receives, this is the gift—and crosses the river, becoming the *pāramitā* of giving that can carry people across. Through an eye given away, it woke us, painfully: even one who has given for sixty kalpas, if that "I" is not loosened through, will turn back at one small grievance. It pressed on us that empty does not mean nothing—the harder we work at the deed, the less the heart must clench. And at the last it drew a bottom line: however great the gift, it must never be conscripted to harm beings.
 
-This whole part loosened the "I who is giving" down to a very deep place.
-
-Is it enough?
-
-As far as reasoning goes, the case by now is very thorough.
+This whole part loosened the "I who is giving" down to a very deep place. As far as reasoning goes, the case by now is very thorough.
 
 But Part Four spoke of the three wheels empty mostly by way of treatises—the works of patriarchs like Nāgārjuna and Asaṅga. The strength of a treatise is to open the reasoning out, take it all the way through, set it in good order: what the three wheels are, why they are empty, how one can still give once they are empty, what the ten marks of pure giving are…item by item, laid out clean and clear. When you finish reading, your head understands.
 

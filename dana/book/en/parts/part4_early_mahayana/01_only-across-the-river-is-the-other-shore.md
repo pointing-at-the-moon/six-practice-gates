@@ -46,6 +46,12 @@ This one reversal wipes flat whatever height stood between giver and receiver. N
 
 And see—this too is loosening that "I": loosening the self-elevation of "I am the benefactor who confers favors on others." Even the faint, hidden satisfaction of "I am doing good, I am helping people" must be set down here.
 
+### The Last "I"
+
+The first three parts loosened "mine"—my wealth, my goods, my calculations. Here, what must loosen is the "I" behind "mine": the "I who is giving."
+
+This answers to the word the gate of giving faces. The *Heart Sūtra* says "crossing over all suffering and distress"; among the Six Practice Gates, the gate of giving corresponds to this "crossing." (This correspondence between the Six Practice Gates and the *Heart Sūtra* is a reading this book offers; the sūtra itself does not state it.) To cross over, to reach the other shore, is *pāramitā*. And to cross the river, to reach the far bank, depends not on piling the goods on this side higher, but on unloading the surplus "I" from the boat. When the hand is loosened to its very end, that is losing the "I"; and losing the "I" is where crossing begins.
+
 ### Walking On
 
 This chapter has made clear what the "promotion" is: a gift, with that one touch of seeing-through wisdom added—the three wheels loosened through—crosses the river, from ordinary giving into the *dāna-pāramitā* that can ferry people across.

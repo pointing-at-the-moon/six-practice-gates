@@ -14,9 +14,9 @@ And so he retreated from the bodhisattva path and turned back to work for his ow
 
 ### Sixty Kalpas—Why Still "Not at the Shore"?
 
-Sixty kalpas of practice, and even an eye could be given away—is that not enough?
+Sixty kalpas of the bodhisattva path, and he could gouge out his own eye to give away—this giving cannot be called small. And yet, at the very moment the man sniffed it, spat, and trampled it, Śāriputra's heart went cold, and he turned back.
 
-The *Mahāprajñāpāramitā Śāstra* says: not enough. It says that if giving carries the "three obstructions"—**"I give, that one receives, the thing given"**—then such giving "falls into Māra's realm," not yet free of the many troubles. Conversely, if a bodhisattva gives with the "three purifications," without these three obstacles, that is "reaching the other shore," the dāna-pāramitā praised by the buddhas.
+The *Mahāprajñāpāramitā Śāstra* says why. It says that if giving carries the "three obstructions"—**"I give, that one receives, the thing given"**—then such giving "falls into Māra's realm," not yet free of the many troubles. Conversely, if a bodhisattva gives with the "three purifications," without these three obstacles, that is "reaching the other shore," the dāna-pāramitā praised by the buddhas.
 
 Look at that one thought of Śāriputra's—"I gave you my eye, and you despise it, you trample it"—inside that thought, "I," "you," and "the eye" are all still rigidly there. Precisely because he was gripping "it was I who gave you this eye," the other man's desecration was more than his heart could get past, and he fell back.
 
