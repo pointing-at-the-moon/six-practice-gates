@@ -2,7 +2,7 @@
 
 The last three chapters spoke mostly of "loosening," "empty," "not gripping"—all of it from the dismantling side: setting down that tangle of "I, mine, my doing" in the mind.
 
-But dāna-pāramitā also has a side that is built up in the positive. Besides "empty out what should be emptied," there is "grow what should be grown." The *Yogācārabhūmi*—the great treatise on the stages of the practitioner's path—paints, from the front, a complete portrait of the bodhisattva's giving.
+But dāna-pāramitā also has a side that is built up in the positive. Besides "empty out what should be emptied," there is "grow what should be grown." The *Yogācārabhūmi*—the great treatise on the stages of the practitioner's path—paints, from the front, a complete portrait of the bodhisattva's giving. (The *Yogācārabhūmi* is a later treatise, not a sūtra spoken by the Buddha; it is borrowed here to make these two sides—the clean heart, and the line it must not cross—plain.)
 
 ### How a Gift Grows Up
 
@@ -18,23 +18,35 @@ Look at this road: from the heart, to the conduct, and back to the heart. It beg
 
 ### What Clean Giving Looks Like
 
-Then "purified giving," this washed-clean giving heart—what does it look like in the concrete? The *Yogācārabhūmi* lists ten items, and every one of them is a mirror you can hold your own mind up to. Here are a few that cut closest—
+Then "purified giving," this washed-clean giving heart—what does it look like in the concrete? The *Yogācārabhūmi* lists ten marks:
 
-Not lingering: given is given; the mind does not stick to the deed, turning it over and over to taste it again.
+> What is a bodhisattva's purified giving? Know that this giving has ten marks: giving without lingering, giving without grasping, giving without hoarding, giving without exalting oneself, giving without dependence, giving without flinching, giving without contempt, giving without partiality, giving without hope of thanks, giving without wishing for ripened reward.
 
-Not exalting oneself: not letting a little pride of "I am quite something" sprout just because you have given.
+Every one of them is a mirror you can hold your own giving-mind up to:
 
-Not looking down: not slighting or short-changing the receiver because he is lowly and humble.
+One, not lingering—when someone comes asking, give at once; do not put them off, do not delay.
 
-Not turning toward and away: not favoring this one and cold-shouldering that one according to who is close and who is distant.
+Two, not grasping—do not give while holding a wrong view, such as hearing "empty" as "nothing" and so giving carelessly, as if the gift bore no fruit.
 
-Not hoping for gratitude: not expecting the receiver to turn around and thank me, repay me.
+Three, not hoarding—give whenever you have something to give; do not stockpile, waiting to amass one grand sum, leaving the one before you waiting in vain.
 
-Not wishing for ripened reward: not counting on this gift to trade, someday, for any merit in return.
+Four, not exalting oneself—give from a low place; let no pride of "I am a great benefactor" sprout because you have given.
 
-Read these ten through (only six are given here) and you will find they all speak of one and the same thing, from different faces: **clearing out, corner by corner, the "I" that hides behind the giving.** No sticking, no pride, no slighting, no favoring, no angling for thanks, no fishing for reward—every item is a washing of that "I." This is "the three wheels empty" of the earlier chapters, landed in ten concrete places where you can set your hand, day after day.
+Five, no dependence—do not give for the sake of a good name, to hear a word of praise.
 
-### A Line That Can Never Be Crossed
+Six, not flinching—glad before the gift, clean in the moment of it, no regret after; and hearing that another has given more greatly, no shame, no shrinking back.
+
+Seven, no contempt—give the best; do not fob people off with the inferior, with what you did not want yourself.
+
+Eight, no partiality—do not favor this one and cold-shoulder that one by who is dear and who is resented; give to friend and foe alike, evenly.
+
+Nine, no hope of thanks—do not look for the receiver to turn around and thank you, repay you.
+
+Ten, no wishing for ripened reward—set down even the hope that "this gift will earn me merit by and by."
+
+Read the ten through and you find they all say one and the same thing, from ten faces: **clearing out, corner by corner, the "I" that hides behind the giving.** No sticking, no pride, no name-seeking, no partiality, no angling for thanks, no fishing for reward—every item is a washing of that "I." This is "the three wheels empty" of the earlier chapters, landed in ten concrete places where you can set your hand, day after day.
+
+### The First Line: Never Driven to Harm Others
 
 After all this talk of giving "at its greatest," "without edge"—a bodhisattva can give even eyes, even body, even life—the last and weightiest question arrives:
 
@@ -52,7 +64,21 @@ The second layer is the bottom line itself: and yet, **this giving must never be
 
 What this line guards is the original heart of giving. The original heart of giving is "loosen what is mine, benefit beings"; the moment it is conscripted and turned around to do harm, it is no longer giving at all—it is evil done in giving's name. So here the bodhisattva yields not an inch: body and life may be given up; this line may not be crossed.
 
-This is a very deep warning: any virtue, however noble—giving, devotion, sacrifice—once captured by power or by cunning, can become a blade that harms. So a truly clean giving keeps the mind loose (the three wheels empty), yet keeps beneath the hand one line cast in iron: never, at anyone's command, harm beings. Loose toward the "I"; hard against the harming. Both are required.
+### The Second Line: Do Not Destroy a Great Benefit for One Demand
+
+There is a second line, drawn right beside the first. The *Yogācārabhūmi* says:
+
+> If a bodhisattva's intention in giving is already pure, and a work of immeasurable benefit to beings stands present before him, then should someone come asking for a limb of his own body, he should not give it.
+
+Hear the reason for the "not." Maitreya is careful to spell it out: this is not because the bodhisattva's mind is still impure, still unwilling to let go, or because he is shrinking back and calculating "this I can give, that I cannot." Just the reverse—precisely because his intention is already pure, he must not, to satisfy this one demand before him, throw away the great work, present and ready, that could benefit beings beyond measure.
+
+The measure of this line is never "did you give enough, did you give fiercely enough," but "did this giving fulfill the benefit to beings, or destroy it." If giving up a limb means cutting off a work that could benefit countless people, then however heroic, it should not be done.
+
+As for those who come with a mind bent on disturbance, asking for the bodhisattva's limbs—Maitreya says these are Māra, or those Māra has sent, or beings of deranged and frantic mind—to them, too, he should not give his body in pieces. For that giving would only lead them to commit a grave sin and bring harm upon themselves. Even in the matter of "giving," one must weigh the true good and harm of the one who receives.
+
+### The Freer the Giving, the Steadier It Must Stand
+
+Gather the two lines together, and they are one and the same clear-sightedness. This is a deep warning: any virtue, however noble—giving, devotion, sacrifice—once captured by power or by cunning, can become a blade that harms. So a truly clean giving keeps the mind loose (the three wheels empty), yet keeps beneath the hand a line cast in iron: never, at anyone's command, harm beings; never, to satisfy one person's demand, destroy a great benefit to beings. To loosen the "I" is not to loosen yourself into a thing for anyone to wield; to give to the utmost is not to outdo others in how fiercely you can be maimed. The freest giving is not the most reckless giving; it is the most clear-sighted. Loose toward the "I"; hard against the harming. Both are required.
 
 ### Part Four, to This Point
 

@@ -30,15 +30,11 @@ The same passage continues, line after line, in exactly this key: "although they
 
 And please notice one thing: this sentence—"although they practice giving, they do not grasp at what is given"—was spoken by the Buddha Himself, in the sūtra. "The three wheels empty" is not some novelty a later patriarch dreamed up out of thin air—what the patriarchs did (Nāgārjuna, who composed the *Mahāprajñāpāramitā Śāstra*, among them) was to take this sentence of the Buddha's from the prajñā sūtras and open it out, carefully and thoroughly. The source is the Buddha's own lips.
 
-### Should You Still Choose Whom to Give To?
+### Empty Unbinds Giving
 
-At "the three wheels empty," someone will ask again: if the receiver too is "empty," and giving to anyone is equally empty, then was the "choosing of the field of merit" back in Part Two—picking out those worthy of offering—all said for nothing? If it is all empty anyway, why not just give to whoever happens by?
+So "empty" is by no means "nothing," still less "it makes no difference whether you give." Just the reverse: precisely because these three cannot be dead-gripped—because they are living things, gathering and scattering by conditions—the giver can open his hand and give freely, with nothing snagging him. If the three really were dead, solid, grippable, then that "I" could never be set down, and this river could never be crossed.
 
-This too is thinking gone crooked.
-
-"The three wheels empty" is **view**—the eye with which you see the matter, the non-clinging within the mind. "Choosing the field of merit" is **conduct**—the wisdom in the doing, the arrangement in the hand. These two not only do not quarrel; they must walk together. In the mind, no gripping of "I gave to someone magnificent"; in the hand, the gift still placed where it can truly bear benefit. Loose in the seeing, unmuddled in the doing.
-
-It is just as Kāḷigodhā said all those years ago: she shared "with those of virtue, those of goodness"—her mind was loose (no stinginess, no angling for return), and her hand was clear (giving to the right place). Loose does not mean muddled; empty does not mean anything-goes. One who truly understands "empty" acts, if anything, with more clarity than anyone—because the calculations of "I must look generous," "how much merit will this trade for" are gone from his mind, his eye sees truer, and his hand sets things down steadier.
+Empty does not strike giving from the books; empty **unbinds** giving—frees it from under the dead weight of "I am giving," so that it can cross the river light. To hear "empty" as "nothing" is to mistake a life-saving boat for a stone that drowns the one who clings to it.
 
 ### Falling Off at Neither End
 
