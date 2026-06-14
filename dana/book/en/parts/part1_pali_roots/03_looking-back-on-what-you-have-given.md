@@ -1,10 +1,20 @@
 ## 1.3 Looking Back on What You Have Given
 
-The Buddha left six things for His disciples to take up in recollection—recollection of the Buddha, of the Dhamma, of the Saṅgha, of virtue, of letting-go, of the deities. The first three recollect the Three Jewels; the middle two recollect one's own virtue and one's own letting-go; the last recollects the deities. Letting-go stands fifth.
+The last chapter said letting-go matters enough to serve as a mark of stream-entry. But to know it matters, with nowhere for the hand to take hold, is still to be unable to bring one's strength to bear. This chapter is about the very concrete, very workable method the Buddha left—turning around to look at what you have once given.
 
-The word "recollection" means returning to one object, along it, again and again. Not a thought that comes and passes—the mind is laid against the object, laid against it repeatedly, and as it adheres, the mind is turned by what it adheres to. Recollection of the Buddha lets the mind adhere, over and over, along the Buddha's qualities; recollection of letting-go lets the mind adhere, over and over, along the fact that you have once loosened your hand.
+### The Fifth: Recollection of Letting-Go
 
-This chapter is about this fifth one—how to take the letting-go of the last two chapters and make it a lesson that can be done every day.
+The Buddha left six things for His disciples to take up in recollection—recollection of the Buddha, of the Dhamma, of the Saṅgha, of virtue, of letting-go, of the deities. The first three recollect the Three Jewels; the middle two recollect one's own virtue and one's own letting-go; the last recollects the deities. Recollection of letting-go stands fifth.
+
+The word "recollection" means returning to one object, along it, again and again. Not a thought that comes and passes—the mind is laid against the object, laid against it repeatedly, and as it adheres, the mind is turned by what it adheres to.
+
+The Buddha's teaching of this fifth recollection is preserved in the *Aṅguttara Nikāya*; its Chinese rendering survives in the *Saṃyukta Āgama*. For the fifth position the object-formula runs:
+
+> "The noble disciple recollects their own letting-go: 'It is my gain, my great gain, that in a generation consumed by the stain of stinginess, I dwell at home with a mind freed from such stain, with letting-go loosened, with hand washed clean, delighting in relinquishment, responsive to those who request, delighting in giving and sharing.'"
+
+See what is recollected here. "Recollects their own letting-go"—looking back on one's own giving. And in the looking back, gladness rises of itself; what the gladness is over comes in the very next breath—"a mind freed from the stain of stinginess." The gladness is not over "me"; it is over the leaving of stinginess, over that one loosening.
+
+What follows is all a description of one's own loosened hand: letting-go loosened—released, unbound; delighting in relinquishment; responsive to those who ask; delighting in giving and sharing. And a mind that, at such a time, is not obsessed by greed, by hatred, by harm. The direction of this recollection the texts mark plainly: the mind, made thus straight, travels the straight road, directed toward Nibbāna. This recollection does not rest in the self-satisfaction of "I have done a good deed"; it moves, along that straight road, toward Nibbāna. We will return to this below, for it is exactly where the practice is most easily misunderstood.
 
 ### Of the Six, Only This One Is Something You Have Done
 
@@ -62,8 +72,8 @@ Letting-go sits exactly at this turn—at the end of the stretch that looks inwa
 
 With this, the three chapters of Part One have driven the root in firm.
 
-Chapter one made it clear: the real substance of giving lies in the loosening, not in the giving. Chapter two made it clear: this loosening matters enough to serve as a mark of stream-entry, ranked alongside virtue and wisdom. Chapter three made it clear: this loosening can be practiced—by looking back on what you have given, letting the mind soften along it, time after time.
+Chapter one made it clear: giving has three layers—the giving of the hand, the letting-go of the heart, the reverence of the offering—and its real substance lies in letting-go, in that loosening of the heart, not in how much was given. Chapter two made it clear: this letting-go matters enough to serve as a mark of stream-entry, ranked alongside virtue and wisdom; even a Sakyan laywoman, on this one item alone, could attest her own fruit to the Buddha. Chapter three made it clear: this letting-go can be practiced—by looking back on what you have given, letting the mind soften along it, time after time, growing the "I" a little fainter with each turn.
 
-This whole set is the earliest, plainest giving, handed by the Buddha in His own words to householders. It is complete, and it has roots. A householder busy with worldly affairs, holding this set in hand, can already set out on the road.
+This whole set is the earliest, plainest giving, handed by the Buddha in His own words to householders. It is complete, and it has roots. A householder busy with worldly affairs—like Mahānāma—holding this set in hand, can already set out on the road.
 
-But the road ahead is long. What we walk next is how this same letting-go grows up from this plainest root, layer by layer, and opens out—growing first into the wider world of the Āgamas.
+But the road ahead is long. What we walk next is how this same letting-go grows up from this plainest root, layer by layer, and opens out—first into the wider world of the Āgamas, to see how the Buddha drew, from one same hand, eight different minds.
