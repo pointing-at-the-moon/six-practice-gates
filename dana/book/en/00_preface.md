@@ -42,7 +42,7 @@ At the last, in the *Huayan*, it loosened until there was no edge—offerings fi
 
 From a small loosening in one person's heart to the offering of the whole dharma-realm—that is this road. One sentence says it all: **Giving is not a transaction of merit-making, of trading for blessings; it is the work of loosening, inch by inch, the hand that clenches "mine"—loosening "mine," and at the last loosening the "I" itself.**
 
-And this is the very word the gate of giving answers to, among the six gates of practice—"crossing over." The "crossing over" of "crossing over all suffering and distress" is nowhere else: it is right where that hand opens all the way. When the hand has loosened to the very end, the "I" is lost; and losing the "I" is crossing the river of suffering, swollen by self-grasping, to the other shore.
+And this is the very word the gate of giving answers to, among the six gates of practice—"crossing over." (This correspondence between the Six Practice Gates and the *Heart Sūtra* is a reading this book offers; the sūtra itself does not state it.) The "crossing over" of "crossing over all suffering and distress" is nowhere else: it is right where that hand opens all the way. When the hand has loosened to the very end, the "I" is lost; and losing the "I" is crossing the river of suffering, swollen by self-grasping, to the other shore.
 
 ## This Book Is Written for You
 

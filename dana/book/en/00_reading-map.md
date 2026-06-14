@@ -18,7 +18,7 @@ The middle five parts (Parts Four through Eight) follow the Mahāyāna and loose
 
 The last part (Part Nine) is the **coda**—bringing this long road back to the world we live in today, back into your hand.
 
-Nine stages, one through-line: the hand loosens, and loosens again, from a small stirring in one person's heart into the whole dharma-realm. This through-line answers to the word "crossing over" in the *Heart Sūtra*'s "crossing over all suffering and distress"—when the hand has loosened to the very end, the "I" is lost, and that is the crossing.
+Nine stages, one through-line: the hand loosens, and loosens again, from a small stirring in one person's heart into the whole dharma-realm. This through-line answers to the word "crossing over" in the *Heart Sūtra*'s "crossing over all suffering and distress"—when the hand has loosened to the very end, the "I" is lost, and that is the crossing. (This correspondence between the Six Practice Gates and the *Heart Sūtra* is a reading this book offers; the sūtra itself does not state it.)
 
 ## The Nine Stages, One by One
 
@@ -34,7 +34,7 @@ At the end of Part One, a transition carries you on toward the Āgamas.
 
 Part One spoke of the work within one person's heart; Part Two puts this hand back between person and person.
 
-The first chapter, "One Hand, Eight Minds," looks at one same act of giving and the eight minds, of different depths, hidden beneath it. The second chapter, "Eighty-Four Thousand, and One Finger-Snap," asks why a brahmin's gift of his entire fortune cannot match the work of a single moment of mind—this is the ceiling of giving. The third chapter, "Visible in This Very Life," looks at the fruits of giving that arrive at once, within this very life—this is the floor of giving. The fourth chapter, "A Robe Woven with Her Own Hands," looks at giving to an individual and giving to the Saṅgha, two different reckonings. The fifth chapter, "Giving, Virtue, Cultivation: Begin with the Hand," asks why giving is the first door of practice.
+The first chapter, "One Hand, Eight Minds," takes one complete act of giving apart into the eight it should have in place—one same act of giving, loosening in eight places. The second chapter, "Eighty-Four Thousand, and One Finger-Snap," asks why a brahmin's gift of his entire fortune cannot match the work of a single moment of mind—this is the ceiling of giving. The third chapter, "Visible in This Very Life," looks at the fruits of giving that arrive at once, within this very life—this is the floor of giving. The fourth chapter, "A Robe Woven with Her Own Hands," looks at giving to an individual and giving to the Saṅgha, two different reckonings. The fifth chapter, "Giving, Virtue, Cultivation: Begin with the Hand," asks why giving is the first door of practice.
 
 At the end of Part Two, a transition carries you on toward the Vinaya.
 
