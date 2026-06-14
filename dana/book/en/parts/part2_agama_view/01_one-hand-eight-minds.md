@@ -1,59 +1,43 @@
 ## 2.1 One Hand, Eight Minds
 
-Two people, at the same doorway, hand the same bag of rice to the same person begging. The motion is the same, the rice is the same, the receiver is the same. From the outside, there is no telling these two acts of giving apart.
+Part One spoke of how a single hand comes open. In Part Two, the Buddha speaks of this hand in finer detail—fine enough to take one good act of giving apart into eight.
 
-Yet the Buddha says that beneath these two gifts, the minds may be very far apart.
+Outside the city of Sāvatthī there was a grove, Jeta's Grove, Anāthapiṇḍika's Park—the place where the Buddha settled and taught for more rains-retreats than any other in his later years. Once, in this park, he laid the matter of giving out before the mendicants seated around him, item by item:
 
-Giving, seen from the outside, is one motion; inside it hides a mind. And minds have depths. The Buddha once sorted the minds with which people give into eight kinds, ranged from the murkiest all the way to the clearest. Walk through the eight once, and you will see how very different the things this one motion of "giving" can carry.
+> "If a son or daughter of good family gives gifts of material goods, they acquire eight kinds of merit. What are the eight? First, giving at the right time, not at the wrong time; second, giving what is fresh and pure, not what is foul and defiled; third, giving with one's own hand, not having another do it; fourth, giving with a clear vow, without pride or extravagance; fifth, giving out of liberation, not looking for return; sixth, giving aimed at cessation, not seeking rebirth in the heavens; seventh, seeking a worthy field for the giving, not giving to barren soil; eighth, then taking this merit and dedicating it to all beings, not keeping it for oneself."
 
-### Eight Minds, from Murky to Clear
+These words are preserved in the *Ekottarika Āgama*, in the "Chapter on the Eight Difficulties."
 
-The eight the Buddha named are these—
+Notice one thing first: of the eight the Buddha drew out, not one speaks of amount. He did not say the more you give the better, nor the costlier the better. All eight speak of *how* to give—of the shape the heart takes beneath one and the same outward motion. One hand, eight minds.
 
-The first is **giving because you are pressed to**. Someone urges you to your face, corners you to your face; you cannot hold your countenance, so you dig into your pocket. In that digging, the mind is shrinking—the gift is shoved out of you.
+### The Eight, One by One
 
-The second is **giving out of fear**. Fear of the person, fear of the consequences, fear of the trouble that not giving would bring. The giving is done to buy that fear off.
+The first, **giving at the right time, not at the wrong time**—give when the person actually needs it. A bowl of rice handed over when someone is hungry is food; brought once they are no longer hungry, it is only a bowl of rice gone cold. Whether the gift is timely shows whether your eye holds the other's difficulty at this moment, or only picks the hour that suits you.
 
-The third is **repaying a favor**—"he once gave to me," so I must return a share. This is settling an old account.
+The second, **giving what is fresh and pure, not what is foul and defiled**—give the clean thing, the thing fit to be offered. To push off on someone what you were about to throw out, the leftover, the soured, is not giving; it is disposing of waste in the costume of giving. If you would give, give the portion you would be willing to receive yourself.
 
-The fourth is **hoping for a return**—"I give to him now; one day he will give to me." This is opening a new account.
+The third, **giving with one's own hand, not having another do it**—the least conspicuous of the eight, and the bone of this whole book. The Buddha asks you to present the thing with your own hand, not by another's. Because the hand that is to loosen is your own. Send someone in your place, settle it with a written order, and the thing goes out, but your own hand, gripping "mine," never touches the loosening at all. In the instant you hand it over yourself, your own fingers opening, you are bodily present. To give "with discretion" is to weigh it yourself and let go yourself. Where giving truly does its work is in that instant, not on the ledger.
 
-The fifth is **giving because "giving is good"**—everyone says giving is wholesome, so I do as everyone does. This is already cleaner; there truly is an inclination toward the good in it—only the inclination is borrowed from the climate outside.
+The fourth, **giving with a clear vow, without pride or extravagance**—give with a reverent intention in the heart, free of that "I am bestowing this on you" hauteur. When a person gives, "I" most easily climbs up the back of the hand: I have more than you, I am helping you, you ought to remember my kindness. That risen "I" is pride. To give without pride is to keep "I" from riding on the back of this gift.
 
-The sixth is **giving because "one ought to share"**—"I have food to eat and he has none; how could I eat and look only to myself?" This is a plain decency, the kind that grows out of ordinary living.
+The fifth, **giving out of liberation, not looking for return**—the face of the gift turned away from repayment. To stretch out the hand while the eye is fixed on "what he will give back to me" is for the gift never really to leave: it is tied to an invisible cord, and the far end of the cord is still gripped in your own hand. Loosen the cord, and the giving is a "liberated" giving—out, and really out.
 
-The seventh is **giving for reputation**—"when I give like this, people will praise me as a generous man." Here the mind has grown quite fine—yet its eyes are still fixed on the eyes of others.
+The sixth, **giving aimed at cessation, not seeking rebirth in the heavens**—one layer deeper than the fifth. To give without seeking return is already rare; but if the heart still thinks "giving like this will earn me rebirth in the heavens, to enjoy their blessings," then the face of the gift still turns toward a finer "I." To aim at cessation is to turn the direction around: not to trade for a more dignified next life, but to let the grip on "mine" die down, little by little.
 
-The eighth, and the last, the Buddha says, is **giving to adorn one's own mind**.
+The seventh, **seeking a worthy field for the giving, not giving to barren soil**—place the thing where it can truly bear benefit. A good seed in soil that can grow it is not wasted; scattered where it will be taken up to harm, the gift passes empty, and may even add to evil. A worthy field does not mean picking "which recipient earns me the most blessing"—that only winds back onto the cord of the fifth—but seeing whether the thing, arriving there, can truly bring forth good.
 
-### The Eighth Is a Turn
+The eighth, **then taking this merit and dedicating it to all beings, not keeping it for oneself**—the giving done, do not grip even the merit it earned. The hand loosens once more at the very end: even the "I did a good thing" is not kept as one's own; it is turned over to all beings. The first seven loosen wealth, goods, the calculations of the heart; this last loosens "my own good"—the finest, and the final, loosening.
 
-Look closely at the first seven and you will find they share one thing: the eyes all face outward. Fixed on the person pressing you, on the consequences you fear; or on the old favor, the hoped-for return; or on the climate, on other people's praise. The mind is forever peering outward—at others, at outcomes, at reputation.
+### Loosened All the Way—Where Does It Lead
 
-Only in the eighth do the eyes turn inward.
+Read the eight from first to last and one through-line shows: not one of them reckons "how much was given"; what they all reckon is *how far "I" has loosened.* Timely—loosening your own convenience. Fresh—loosening your own reluctance to part with it. Your own hand—letting your own hand do the loosening in person. Without pride—loosening the risen "I." Without return, without heaven—loosening the cord tied to repayment. Worthy field—loosening the calculation of "blessing-for-me." Dedication—loosening even the good. Eight items: one hand loosening in eight places.
 
-"Giving to adorn one's own mind"—what this says is: I give, not to trade for anything, not for anyone to see, but only so that this mind of mine, through this one loosening of the hand, may grow a little cleaner, a little wider. Giving becomes a work of tending the mind. And at the moment the gift goes out, what loosens is nothing other than that "mine" of Part One.
+Having named the eight, the Buddha at once spoke a verse:
 
-So the eight are not eight options laid side by side; they are one slope running from murky to clear. The first seven still circle around the "I"—fear, accounts, face; only at the eighth does one step right into the mind, to loosen that "I." This last kind is the only one of the eight that truly walks toward the losing of "I."
+> "The wise give at the right time, / Without stinginess or greed; / Having already made their merit, / They turn it all to others. / This giving is most excellent, / Praised by all the Buddhas; / In this body they receive its fruit, / Beyond it they receive celestial blessings."
 
-Knowing this slope has one very practical use: it lets you see yourself clearly. The next time you are about to give, take one look inside—this gift: which of the eight am I on? Pressed into it? Repaying a favor? Saving face? Or do I truly just want to let the mind loosen a little? There is no need to feel ashamed of still being on the earlier kinds—ordinary human feeling moves up and down this slope as a matter of course. But to see clearly where you stand at this moment is, in itself, already one step moved toward the eighth.
+And at the close he marked where the eight lead: "Whoever seeks this result should practice these eight bases. Its recompense is measureless, beyond all reckoning; they obtain the jewel of the deathless and gradually come to extinction."
 
-### The Other Side: How to Give Well
+See where he lands—"gradually come to extinction." Do the eight completely, and what they open onto is not a thicker store of blessings, not a finer next life, but cessation, the place where the grip of self-clinging has loosened, inch by inch, all the way down. Giving sets out from these eight, and at the first step its face is already turned toward liberation.
 
-The mind is one side. The other side is whether the act itself is done fully.
-
-In the *Ekottara Āgama* of the Chinese canon, the Buddha spoke of the "eight merits" of giving—not eight minds this time, but one complete act of giving, taken apart into eight conditions that ought all to be in place:
-
-Give **at the right time**—when the person actually needs it, not at some moment beside the point. Give what is **clean and fresh**—something fit to offer, not something to fob a person off with. Give **with your own hand**—not through someone else; carry it up yourself. Give **with a vow in the heart**—reverent within, not condescending with the almsgiver's pride. Give **without looking for return**. Give **without aiming at rebirth in the heavens**—not trading it for the next life's blessings. Give to a **worthy field of merit**—to a place where the gift can truly be received and bear benefit. And last, when the giving is done, **dedicate the merit to all beings**, keeping none of it back for yourself alone.
-
-Look at the eight, and two of them carry the most weight—"without looking for return," "without aiming at rebirth in the heavens." These two write the direction of the last part plainly into "how to give well": the face of the gift should not be turned toward "what I can get back later." Hold these two, and the gift will not fall back into the old trap of storing up merit to trade for blessings.
-
-One side is the mind (the eight minds—seek the clearest of them); one side is the act (the eight merits—do one act of giving fully). Put the two sides together, and a gift is both clear and upright.
-
-### Walking On
-
-The depths of the mind are seen; the fullness of the act is known. But one question remains that neither Part One nor this chapter has touched—**does it matter who you give to?**
-
-Tucked quietly among those eight merits was one item: "give to a worthy field of merit." That lets a piece of news slip out: the same handful of rice, placed in different hands, seems to bear different fruit. A brahmin emptied his whole fortune into eighty-four thousand great gifts, and the Buddha said it still fell short of offering a meal to one true practitioner—how can that be?
-
-In the next chapter we follow that story to the other end of giving: how much the receiver matters—and how high this road of "who you give to" can climb.
+Part One said that beneath the visible giving hides an invisible letting-go. This chapter says, next: that letting-go is to be nurtured on all eight sides at once. The outward motion is only one, but for the hand to loosen clean, the heart must loosen in eight places together. This is how far the Āgamas carried the single word "giving."

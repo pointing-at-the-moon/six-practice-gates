@@ -1,8 +1,10 @@
 ## 2.2 Eighty-Four Thousand, and One Finger-Snap
 
-Long, long ago there was a brahmin named Velāma. He performed a great giving—how great?
+Again it is Jeta's Grove, Anāthapiṇḍika's Park, outside Sāvatthī. The great patron who had paved that park with gold to buy it and offer it to the Buddha—Anāthapiṇḍika himself—came before the Buddha, bowed at his feet, and sat to one side. The Buddha asked him a very homely question: does your household give? Anāthapiṇḍika answered plainly—"There is giving in my household, venerable sir, but only coarse, husked food, nothing fine." A man who could pave ground with gold, speaking of his household's everyday giving as plainly as that.
 
-The Buddha counted it out like this: eighty-four thousand golden bowls filled with silver; eighty-four thousand silver bowls filled with gold; eighty-four thousand copper bowls filled with gold; eighty-four thousand elephants draped in gold and silver; eighty-four thousand carriages; eighty-four thousand milch cows; eighty-four thousand maidens hung with jewels; eighty-four thousand couches; bolts of cloth past counting; and food and drink, flooding like a long river.
+The Buddha neither faulted him nor praised him. He turned the talk to a past life—to a brahmin named Velāma, who performed a great giving. How great?
+
+The Buddha counted it out: eighty-four thousand golden bowls filled with silver; eighty-four thousand silver bowls filled with gold; eighty-four thousand copper bowls filled with gold; eighty-four thousand elephants draped in gold and silver; eighty-four thousand carriages; eighty-four thousand milch cows; eighty-four thousand maidens hung with jewels; eighty-four thousand couches; bolts of cloth past counting; and food and drink, flooding like a long river.
 
 It was an almost unimaginable act of giving. One man gave all he had to give.
 
@@ -10,7 +12,9 @@ Then the Buddha said a "but."
 
 ### "A Pity—No One to Receive It"
 
-The Buddha said: yet in Velāma's great giving, **there was no one worthy of the offering, no one who could purify the gift**.
+The Buddha said: yet in Velāma's great giving,
+
+> "there was no one worthy of offering, no one who could purify the gift."
 
 This sentence is the turning point of the whole story. Velāma gave enough—staggeringly much. But where his gifts landed, there was no true field of merit. It was like scattering the finest seed on ground where nothing grows. However plentiful and fine the seed, if the ground is wrong, the harvest is small.
 
@@ -42,7 +46,9 @@ Reading this far, a thought comes easily: so Buddhism looks down on worldly gene
 
 That thought should be set down here.
 
-First: who was this Velāma of the eighty-four thousand? At the end of the story, the Buddha Himself lifted the veil: "Do not think that Velāma was someone else—that was I, in a past life of mine."
+First: who was this Velāma of the eighty-four thousand? At the end of the story, the Buddha Himself lifted the veil:
+
+> "Do not think that Velāma was someone else. I was the Velāma of that time."
 
 This turns the whole thing over. The Buddha is not standing on a height, belittling someone else's generosity. He takes the greatest act of giving He Himself ever performed in a past life as the foot of this ladder—and then lays out a road that even He, back then, had not yet climbed. This is not contempt for anyone. It is the Buddha drawing a map for those who come after, out of a road He has walked Himself.
 

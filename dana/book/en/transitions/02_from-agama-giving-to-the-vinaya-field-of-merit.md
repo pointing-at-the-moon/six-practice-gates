@@ -1,16 +1,10 @@
 ## Transition ② · From Giving in the Āgamas to the Vinaya's Field of Merit
 
-Part Two has walked up to the gate of a Saṅgha able to last a thousand autumns, and stopped. The page is about to turn.
-
-This middle page is a breath.
+Part Two has walked up to the gate of a Saṅgha able to last a thousand autumns, and stopped.
 
 With Part Two done, what you hold is much thicker than before. Part One watched the opening hand only inside one person's heart; Part Two put that hand back into the human world and saw clearly its many shapes between person and person: where the heart is at the moment of giving (the eight minds); whether it matters to whom you give (the ladder of receivers, the two reckonings of individual and Saṅgha); what this very life receives here and now (the four visible fruits); and how giving stands as the opening door of giving, virtue, and cultivation.
 
 A householder with this whole set in hand is well supplied. He knows how to give, whom to give to, why to give—and knows that the giving itself, here and now, is nourishing his heart.
-
-Is it enough?
-
-Seen from the giver's end, yes.
 
 But Part Two, from beginning to end, stood at the giving end—watching the giver's heart, the giver's hand, where the giver should place the gift. There is one end it never looked at: **the receiving end.**
 

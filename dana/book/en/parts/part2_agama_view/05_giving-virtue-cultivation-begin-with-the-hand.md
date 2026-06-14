@@ -2,7 +2,11 @@
 
 Part Two has asked its way down the road—why give, who to give to, what comes right now, whether to offer to the individual or the Saṅgha—and every question has been about this one thing, giving. But giving, within the whole of the Buddha's teaching, does not stand alone.
 
-The Buddha once gathered the whole of "doing the works of merit" into one very simple outline. He said: the deeds that give rise to merit come to three classes in all—**giving, virtue, cultivating the mind**.
+The Buddha once gathered the whole of "doing the works of merit" into one very simple outline:
+
+> "Bhikkhus, there are these three bases of meritorious activity. Which three? The base of meritorious activity consisting of giving, the base of meritorious activity consisting of virtue, the base of meritorious activity consisting of cultivation."
+
+The deeds that give rise to merit come to three classes in all—**giving, virtue, cultivating the mind**.
 
 The sūtras of the Chinese canon render these three as "giving-action, impartial-action, reflection-action." "Impartial-action" is virtue—and the rendering is a telling one: it does not present virtue as a string of prohibitions, "not this, not that," but as a positive practice of treating all people impartially, favoring none and harming none. "Reflection-action" is cultivating the mind—settling down, and tending one's own mind.
 

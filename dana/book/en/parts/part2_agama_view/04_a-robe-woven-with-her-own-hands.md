@@ -8,7 +8,9 @@ The Buddha did not accept it.
 
 He asked His aunt: offer this robe to the Saṅgha.
 
-His aunt asked again; the Buddha declined again. Three times over. The third time, the Buddha said something weighty: "Gotamī, give it to the Saṅgha. When you give to the Saṅgha, both I and the Saṅgha will be honored."
+His aunt asked again; the Buddha declined again. Three times over. The third time, the Buddha said something weighty:
+
+> "Gotamī, give it to the Saṅgha. When you give to the Saṅgha, both I and the Saṅgha will be honored."
 
 A mother, with a robe woven by her own hands, wishing to give it to the child she raised; and this child—now the Buddha, the Awakened One—again and again directing that devotion toward the Saṅgha. What is happening here?
 
@@ -20,7 +22,9 @@ One is **giving to individuals, one by one**. Giving to an ordinary person, to o
 
 The other is **offering to the Saṅgha as a whole**. This is called the saṅgha-bound gift. Its reckoning is different—it does not count by how far any one receiver has gone in practice, but by the fact that what you offer to is the Saṅgha as a whole.
 
-The Buddha then said something startling at first hearing: even in ages to come, when the Saṅgha has taken in some who wear the robe in name only, whose conduct is already broken—so long as you make the offering **for the sake of the Saṅgha**, its fruit is still immeasurable. And more—**no gift to any individual surpasses an offering to the Saṅgha**; not even when the individual receiving it is the Buddha Himself.
+The Buddha then said something startling at first hearing: even in ages to come, when the Saṅgha has taken in some who wear the robe in name only, whose conduct is already broken—so long as you make the offering **for the sake of the Saṅgha**, its fruit is still immeasurable. And more—**no gift to any individual surpasses an offering to the Saṅgha**; not even when the individual receiving it is the Buddha Himself:
+
+> "Ānanda, I do not in any way say that a personal gift is of greater fruit than a gift given to the Saṅgha."
 
 ### Not "the Saṅgha Outranks the Buddha"
 

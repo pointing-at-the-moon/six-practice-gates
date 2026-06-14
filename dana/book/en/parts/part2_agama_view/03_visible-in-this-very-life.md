@@ -4,7 +4,11 @@ The ladder of the last chapter climbed very high—up into the wisdom of a singl
 
 The Buddha put this matter very concretely, to a general.
 
-The general's name was Sīha, a man of Vesālī. He came to see the Buddha, and his very first question was blunt: "Blessed One, can you point out to me a fruit of giving **visible in this very life, right now**?"—not one for the life to come, but one that can be verified in this present life.
+The general's name was Sīha, a man of Vesālī. He came to see the Buddha, and his very first question was blunt:
+
+> "Venerable sir, is the Blessed One able to point out a fruit of giving visible in this very life?"
+
+Not a fruit for the life to come, but one that can be verified in this present life.
 
 The Buddha said: yes.
 
@@ -32,7 +36,9 @@ Blessed One, these first four you have spoken of—being dear to people, good pe
 
 Only the fifth—rebirth in heaven after death—of this he said: **this one I do not know; this one I accept on faith in you.**
 
-The Buddha heard him, and answered with a single sentence, spoken twice: "So it is, Sīha; so it is, Sīha."
+The Buddha heard him, and answered with a single sentence, spoken twice:
+
+> "So it is, Sīha; so it is, Sīha."
 
 ### A Very Clean Line
 

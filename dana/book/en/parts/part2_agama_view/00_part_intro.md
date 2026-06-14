@@ -1,15 +1,11 @@
 # Part Two · Giving in the Āgamas · Putting That Hand Back into the Human World
 
-The letting-go that Part One spoke of is one person's private work—inside your own mind, loosening the hand clenched around "mine." Mahānāma loosened it in his heart; Kāḷigodhā loosened it before the rice jar in her own home. That is the root, and it is planted deep and steady.
+The letting-go that Part One spoke of is one person's private work—inside your own mind, loosening the hand clenched around "mine." That is the root, planted deep in the soil of the heart, and planted steady.
 
-But a real act of giving never happens only at the "I" end. The thing must go out to someone; and at the moment it goes out, there is always a "why" hidden in the mind. Once this loosened hand reaches into the space between person and person, it draws out a whole string of questions that Part One never touched.
+But a real act of giving never happens only at the "I" end. The thing must go out to someone; and at the moment it goes out, there is always a reason hidden in the mind. Once this loosened hand reaches into the space between person and person, it draws out the very things Part One set aside.
 
-Part Two puts that hand back into the human world.
+Part Two puts that hand back into the human world. In the Āgamas, the Buddha no longer speaks to one person about how your mind loosens; He lays giving out on a larger stage and makes it plain, item by item.
 
-In the Āgamas, the Buddha is no longer speaking to one person about how your mind loosens. He lays the matter of giving out on a larger field, and goes through it point by point. Five chapters, following the questions down.
+The opening chapter is on how to give so that the giving is well done—the Buddha takes one complete act of giving apart into the eight it should have in place: timely, clean, with one's own hand, without looking for return, without aiming at the heavens. The next is on the rank of the receiver—how a great giving of eighty-four thousand can still fall short of a single thought in the space of a finger-snap; here hides the ceiling of giving. The next is on the fruit here and now—the echo of giving is mostly heard in this very life, this very body, without all of it waiting for a life to come. The next is on that field—a robe woven by hand, drawn from one person toward the Saṅgha that can carry the Dhamma forward. The last gathers it all into the Buddha's master outline: giving, virtue, cultivation, the three bases of merit—and giving stands always first.
 
-Chapter one asks why we give—beneath one and the same outstretched motion can hide eight minds of very different depths. Chapter two asks who we give to—why does a brahmin's great giving of eighty-four thousand fall short of a little work done within a single thought? Here hides the ceiling of giving. Chapter three asks what we can get now—giving is not a long-term investment redeemable only in the next life; in this very life, right now, it can be seen. Chapter four asks "who we give to" a second time—a robe woven with her own hands: should it be offered to the Buddha, or to the Saṅgha? Chapter five gathers all the foregoing questions into one master outline of the Buddha's: the three things—giving, virtue, cultivation—and giving always stands first.
-
-Ask and ask, and underneath it all is still the hand of Part One—only this time, we watch how it loosens between person and person, in which direction it loosens, and where the loosening leads.
-
-We begin with the first question: when you give, where, exactly, is the mind?
+In the end, underneath it all is still the hand of Part One. Only this time, we watch how it loosens between person and person, in which direction it loosens, and where, once let go, the loosening leads.
