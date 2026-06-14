@@ -6,7 +6,7 @@ In that city, two Sakyans fell into a quarrel. One was named Sāḷha, the other
 
 Mahānāma said: four—experiential confidence in the Buddha, experiential confidence in the Dharma and the Saṅgha, and accomplishment in the noble ethical conduct.
 
-Sāḷha said no, three: "Do not say so! Do not say that the Blessed One says the stream-enterer is accomplished in four factors. The stream-enterer is accomplished in three factors—experiential confidence in the Buddha, experiential confidence in the Dharma, experiential confidence in the Saṅgha."
+Sāḷha said no, three: "Do not say so! Do not say that the Blessed One says the stream-enterer is accomplished in four factors. The stream-enterer is accomplished in three factors. What are the three? Experiential confidence in the Buddha, experiential confidence in the Dharma, experiential confidence in the Saṅgha."
 
 "Experiential confidence"—the old Chinese rendering reads, literally, an indestructible purity—is faith that has seen all the way through, faith that cannot be broken. The three confidences—in the Buddha, the Dharma, the Saṅgha—both men accepted; the quarrel was over the fourth: does the precept count? One said three, one said four; back and forth three rounds, and neither could persuade the other. The thirty-third fascicle of the *Saṃyukta Āgama* records this dispute, and at this point in the record comes a most matter-of-fact line: Mahānāma could not bring Sāḷha to accept the four, Sāḷha could not bring Mahānāma to accept the three—"together they went to where the Buddha was." When talk fails, go find the teacher.
 
@@ -62,9 +62,7 @@ So that feature among the eight, not taken by others, hides a deeper sense: this
 
 Last, something warm needs saying: these four are not the monastic's private holding.
 
-The *Saṃyutta Nikāya* records a lay woman of the Sakyans named Kāḷigodhā. The Buddha taught her the four factors of entering the stream. When she had heard them, she declared then and there: these four factors of stream-entry that the Blessed One teaches—they are all present in me, and I see it plainly for myself. The Buddha confirmed her on the spot:
-
-> Excellent, Godhā! Fortunate indeed are you. You have declared the fruit of stream-entry.
+The *Saṃyutta Nikāya* records a lay woman of the Sakyans named Kāḷigodhā. The Buddha taught her the four factors of entering the stream. When she had heard them, she declared then and there: these four factors of stream-entry that the Blessed One teaches—they are all present in me, and I see it plainly for myself. The Buddha confirmed her on the spot, telling her that it was well, that Godhā was fortunate, and that she had herself proclaimed the fruit of stream-entry.
 
 A laywoman of the household, examining herself by herself; the Buddha only nodded and confirmed. The gate of the stream—and the accomplishment that stands as its fourth factor—is open to householder and renunciant, to men and to women, to everyone who practices as things truly are.
 

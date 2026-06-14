@@ -22,16 +22,25 @@ At the end, the Buddha closed with a verse. Of all the verses in the *Saṃyukta
 
 > Not the fragrance of root, stem, or flower
 > can travel against the wind to permeate;
-> only the good son's and good daughter's
-> fragrance of pure-precept-keeping
-> fills all directions with-and-against the wind,
-> is universally heard without exception.
-> …
-> the fragrance of virtue is foremost.
-> …
+> only the good man's and good woman's
+> pure fragrance of precept-keeping
+> fills every quarter, against the wind and with it,
+> heard everywhere without exception.
+> Tagara and sandalwood,
+> utpala and jasmine—
+> compared with all these fragrances,
+> the fragrance of precepts is the highest;
+> sandalwood and the other scents
+> permeate but a small, bounded measure.
+> Only the fragrance of precept-virtue
+> streams upward, rising to the heavens;
+> this fragrance of pure precepts
+> is heedfulness and right attainment.
+> Right knowledge, and liberation likewise—
+> the path of Māra cannot enter there.
 > This is named the path of peace, this is the path that is pure,
-> right-facing the marvelous concentration,
-> cutting the bonds and fetters of Māra.
+> turning straight toward the marvelous concentration,
+> cutting all the bonds and fetters of Māra.
 
 Sandalwood, aloeswood—however prized the fragrance, it drifts a stretch with the wind and is stopped where the wind turns. Only the person who keeps the precepts has a fragrance that fills all directions, with the wind and against it. Later generations came to call this discourse the *Sīla-gandha-sūtra*—the discourse on the fragrance of virtue.
 

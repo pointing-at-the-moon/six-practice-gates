@@ -38,7 +38,7 @@ In the Tang, the Vinaya master Daoxuan, commenting on the *Sifenlü*, never had 
 
 A little later came the Tripiṭaka master Yijing, who went further—he went in person. Yijing lived at Nālandā for more than twenty years, saw with his own eyes how the Saṅghas of India actually practiced the Vinaya, and came home to write the *Nanhai jigui neifa zhuan*, his record of the Dharma as he had seen it practiced in India and the southern seas. On the Vinaya scholarship of Chinese soil he left one very blunt verdict:
 
-> "On Chinese soil the *Vinaya*-holding schools pull on one another's recensions; the commentaries and excerpts have become entangled and disorderly."
+> "On Chinese soil the *Vinaya*-holding schools pull on one another's recensions, and so the houses of exposition and compilation have made their commentaries and excerpts entangled and disorderly."
 
 Chinese Vinaya practice, that is: the articles of the several schools tangling with one another, the annotations growing thicker by the year. What, then, is to be done? His remedy was a single sentence:
 

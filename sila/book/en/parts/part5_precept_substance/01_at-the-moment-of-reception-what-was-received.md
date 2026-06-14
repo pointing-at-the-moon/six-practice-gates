@@ -28,11 +28,7 @@ There is a solid, really existing thing, and its name is non-informative form—
 
 The *Satyasiddhi-śāstra* does not agree. It devotes a whole chapter, the "Chapter on the Non-Acting," to picking this thing gained at reception—it calls it "the non-acting"—out of both sides, form and mind alike.
 
-Not form. Why?
-
-> "Form is of the character of distress-and-decay; that character cannot be found in the non-acting; hence it is not of the nature of form."
-
-Whatever is form will distress and decay—it can spoil, it can be damaged; but in the non-acting no character of distress-and-decay can be found, so it is not form. Nor is it mind: mind is what cognizes, and the non-acting cognizes no object at all. Then what is it? The *Satyasiddhi* settles it in a third compartment: neither form nor mind, belonging to the "factors dissociated from thought"—a real dharma that is neither matter nor a thought of the mind.
+Not form. The *Satyasiddhi*'s reasoning runs thus: whatever is form bears the "character of distress-and-decay"—it can spoil, it can be damaged; but in this non-acting gained at reception, no character of distress-and-decay can be found anywhere, so it is judged not to enter the nature of form. Nor is it mind: mind is what cognizes, and the non-acting cognizes no object at all. Then what is it? This chapter settles it in a third compartment: neither form nor mind, belonging to the "factors dissociated from thought"—a real dharma that is neither matter nor a thought of the mind.
 
 This school's tie to China runs deepest of all: the home position of the *Sifenlü* school rests precisely on it.
 

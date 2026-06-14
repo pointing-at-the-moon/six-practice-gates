@@ -22,29 +22,37 @@ Look at the four layers in this one line: not killing (giving up killing, refrai
 
 The killing-precept's line is drawn at that innermost layer. Not "I have killed no one, so the precept is kept"—but the knife put down, the heart set straight, that tenderness grown. The last chapter said that keeping away from killing is the gift of fearlessness—and for fearlessness to be given out, there must first be this heart that cannot bear to harm a living thing.
 
-### The Stealing-Precept: A Line Between Given and Not Given
+### The Stealing-Precept: A Line at a Mind Free of Theft
 
 The second line:
 
-> He gives up stealing, refrains from stealing; takes only what has been given, takes nothing ungiven; and dwells constantly inclined to giving.
+> The recluse Gotama gives up taking what is not given, refrains from taking what is not given, and has no thieving mind.
 
-"Takes only what has been given, takes nothing ungiven"—take when it has been given; when it is not given, the hand does not reach out. The stealing-precept's line is drawn on the word "given": what is not mine, however near to hand, is not taken; what has been given me, only that is received in peace.
+"Gives up taking what is not given, refrains from taking what is not given"—the taking of what is not given is given up, extinguished; but the line does not stop at the hand. It gathers to its last three words: "has no thieving mind." The stealing-precept's line is drawn there. Not "the hand did not reach out, so the precept is kept"—but that in the heart, even the thought of wanting what one should not have is extinguished, clean.
 
-But the close of the line repays a second look: "dwells constantly inclined to giving." Beyond not-taking, he constantly gives. This plot of the stealing-precept runs from not-seizing at one end to delighting-in-giving at the other—guarding one's own cleanness, then turning around to give one's own away. A precept that looks negative, grown to its depth, has grown into giving.
+This plot of land has its line not at the hand but at the heart. The hand's not taking is only the surface; only at "no thieving mind" is the precept truly kept. One who, where no one sees, does not stir even a thought toward what is not his own—that cleanness of the mind-ground is the very ground the stealing-precept fences in.
 
 ### The Sexual-Misconduct Precept: Two Different Lines
 
 For this precept, the renunciant and the householder have their lines drawn in different places.
 
-The renunciant keeps the complete chaste-life—keeping away from sexual conduct entirely. The householder keeps abstention from sexual misconduct: guarding his own household, violating no one else's. The one is a whole field left behind; the other, a forbidden ground marked out.
+The renunciant keeps the complete chaste-life. The world's praise of the Buddha points to exactly this side:
 
-On the householder's line, the Āgamas speak briefly. It is the *Upāsaka-śīla-sūtra*, in Chinese translation, that draws the detail: no transgressing beyond one's own spouse; and not at the improper time, not in the improper place. And the same sūtra leaves one heavy sentence that belongs to this precept alone: this precept "cannot be self-recovered in a future life." Other habits—the conditions for them may never assemble again in the next life; but sexual desire is a deep root of affliction, and if it is not countered by one's own hand in this life, in the next it sprouts just the same. Of the five precepts, this one alone is given such a sentence—the weed with the deepest root must be pulled in this life.
+> The recluse Gotama has given up sexual desire, cultivates the chaste-life in purity, single-mindedly guards the precept, does not indulge in lust, and is pure in all he does.
+
+This is the renunciant's keeping-away—a whole field left behind. The householder keeps abstention from sexual misconduct: guarding his own household, violating no one else's. The one is a whole field left behind; the other, a forbidden ground marked out.
+
+On the householder's line the Āgamas speak briefly; it is the *Upāsaka-śīla-sūtra*, in Chinese translation, that draws the detail: no transgressing beyond one's own spouse, and not at the improper time, not in the improper place. And the same sūtra leaves one heavy sentence that belongs to this precept alone:
+
+> Of these five precepts, four in a future life complete the non-informative precept of themselves; this one alone cannot be completed, only because craving is hard to sever.
+
+The precepts against killing, stealing, false speech, and intoxicants can, in a future life, still complete of themselves that measure of non-informative precept-substance; this one alone cannot—only because "craving is hard to sever." Other habits—the conditions for them may never assemble again in the next life; but sexual desire is bound to the root of craving, the most deeply embedded of the afflictions, and if it is not countered by one's own hand in this life, in the next it sprouts just the same. Of the five precepts, this one alone is given such a sentence—the weed with the deepest root must be pulled in this life.
 
 ### The False-Speech Precept: A Line at a Mouth That Can Be Trusted
 
 The fourth line:
 
-> He gives up false speech; utterly sincere and undeceiving, he does not delude others.
+> The recluse Gotama gives up and abandons false speech; what he says is utterly sincere, what he speaks is true, and he does not deceive the people of the world.
 
 The false-speech precept guards a mouth, but its line is not done at "told no lies." The portrait's words are positive ones: utterly sincere, undeceiving, not deluding—he speaks what is true, his words hold together, he does not coax people with talk. Keep the false-speech precept all the way home, and what is grown is a mouth that others can trust. A man who will not tell a single lie—in time, when he opens his mouth, his words carry their own weight. That weight is not worked up by rhetoric; it is kept into being by the precept.
 

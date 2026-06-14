@@ -18,11 +18,11 @@ We do not need the Buddha, and we no longer need this Saṅgha—we will do our 
 
 ### Where the Storm Came From
 
-What were those "five things"? The story starts earlier. Devadatta had once come before the Buddha and asked Him to lay down five rules, to be observed by all bhikkhus for as long as life endures—the recensions differ slightly in the items they record, but the skeleton is the same: for as long as life endures, to dwell in the forest; for as long as life endures, to live on alms; for as long as life endures, to wear rag-robes; and so on—austerities, all of them. The Buddha's answer, the Pāli Vinaya records plainly:
+What were those "five things"? The story starts earlier. Devadatta proclaimed five dharmas in the Saṅgha, to be undertaken by every bhikkhu for as long as life endures. The *Shisonglü* records the five he proclaimed:
 
-> "I do not so speak. Let him who wishes be a forest-dweller; let him who wishes dwell in the village outskirts."
+> "A bhikkhu should, for as long as life endures, wear rag-robes; for as long as life endures, live on alms; for as long as life endures, eat but a single meal; for as long as life endures, dwell in the open; for as long as life endures, abstain from fish and meat."
 
-Look clearly at the crux: the Buddha was not opposing austerity—He had always praised fewness of wishes and contentment; these very *dhutaṅga* practices were observed lifelong by some in the Saṅgha, and the Buddha permitted it. What He struck down was the compulsion in the words "for as long as life endures." The precepts the Buddha laid down were a living law—laid down case by case, as offenses arose, its allowances kept open; what Devadatta wanted was a dead law, cut once and fixed forever. One permits; the other compels—there lies the root of the storm.
+Five items, each fronted by the same three words—*for as long as life endures*—this one life through, never once let slack. Look clearly at the crux: every one of these five is a good ascetic *dhutaṅga* practice. To wear rag-robes, to live always on alms, to sit in the open, to abstain from fish and meat—the Buddha had always praised fewness of wishes and contentment, and some in the Saṅgha did observe these lifelong; the Buddha permitted those who so wished to practice them. What He would not allow was the *compulsion* in those three words, "for as long as life endures": turning austerities that ought to follow each person's capacity, undertaken as an open allowance, into a dead decree binding everyone for life. The precepts the Buddha laid down were a living law—laid down case by case, as offenses arose, its allowances kept open; what Devadatta wanted was a dead law, cut once and fixed forever. One permits; the other compels—there lies the root of the storm.
 
 The banner of austerity is stirring. And so five hundred bhikkhus not yet deep in the Way took the sticks—they thought what they were following was a stricter practice.
 
@@ -42,7 +42,11 @@ The five hundred bhikkhus returned to the Buddha. Sāriputta asked: these five h
 
 No new ordination—the precepts they had received still counted; have them make one confession, and it is done. For five hundred who had followed the wrong man down the wrong road, the threshold of return was a single confession. However heavy the break, the door of return stayed open—always.
 
-The Tang Vinaya master Daoxuan later gave the breaking of the Saṅgha its classification: "The breaking of the Saṅgha is twofold: the first, establishing five dharmas to convert the world—this is called the breaking of the dharma-wheel *saṅgha*; the second, performing separate *saṅgha*-acts within the same boundary—this is called the breaking of the procedural *saṅgha*." To set up five rules of one's own and raise a rival wheel is the breaking of the dharma-wheel *saṅgha*—and Daoxuan says that in the whole of the Buddha's dispensation in this Jambudvīpa, the one who carried it through to the end was "Devadatta alone."
+Later Vinaya masters gave the breaking of the Saṅgha its classification. The Song-dynasty master Yuanzhao, in his *Zichi-ji*, set it out clearly:
+
+> "The breaking of the Saṅgha is twofold: the first, establishing five dharmas to convert the world, breaking the four reliances and the eightfold right path—this is called the breaking of the dharma-wheel *saṅgha*; the second, performing separate *saṅgha*-acts within the same boundary—this is called the breaking of the procedural *saṅgha*."
+
+To set up five rules of one's own and raise a rival wheel is the breaking of the dharma-wheel *saṅgha*; to perform one's own formal acts and recite one's own precepts within a single Saṅgha-boundary is the breaking of the procedural *saṅgha*. Devadatta committed both. Yuanzhao adds that in the whole of the Buddha's dispensation in this Jambudvīpa, the one who carried the breaking of the dharma-wheel *saṅgha* through to the very end was "Devadatta alone."
 
 ### A Hundred Years Later: Vesālī
 
@@ -62,9 +66,7 @@ One man, facing the monks of a whole city. Yasa knew that this dispute could not
 
 ### "Where Was It Laid Down?"
 
-Yasa went first to find the elder Revata—and a hard search it was: to the bank of the Vāhā River; not there. On to Kaṇṇakujja; not there. On to Aggaḷapura; again not there. At Saṅkassa, at last, he caught up with him. At midnight, carrying his sitting-cloth, he came to Revata's room and asked, matter by matter:
-
-> "Venerable elder! May one take food with two fingers?" "One may not." "Where was it laid down?" "At Sāvatthī—for eating without performing the leftover-food procedure; for that reason it was laid down."
+Yasa went first to find the elder Revata—and a hard search it was: to the bank of the Vāhā River; not there. On to Kaṇṇakujja; not there. On to Aggaḷapura; again not there. At Saṅkassa, at last, he caught up with him. At midnight, carrying his sitting-cloth, he came to Revata's room and asked, matter by matter. The first—taking food with two fingers: after one has eaten one's fill, may one scoop up leftover food with two fingers and eat it? Revata answered: "One may not." Yasa pressed at once: "Where was it laid down?"—this rule, where had the Buddha laid it down? Revata answered: at Sāvatthī, on account of eating without performing the leftover-food procedure, it was thereby laid down.
 
 Notice the shape of that question: "Where was it laid down?"—this rule, where did the Buddha lay it down? On whose account? Through all ten matters the questioning ran the same way: the salt matter—laid down at Sāvatthī, in the Medicine Khandhaka; the liquor matter—laid down at Kosambī, on account of the bhikkhu Sāgata; the gold-and-silver matter—laid down at Rājagaha, on account of Upananda the Sakyan… Each one went back, for its provenance, into that law of the last chapter—the law that remembers every name.
 
@@ -92,7 +94,7 @@ Seven hundred arahants were present. History calls it the Council of the Seven H
 
 Set the two storms side by side.
 
-Devadatta's was a breaking: five rules of his own, his own formal acts, monks drawn away—Daoxuan named it the breaking of the dharma-wheel *saṅgha*. The Vesālī storm was no smaller than the first—the ten practices touched the root, and the two sides held out against each other for a hundred days—yet it did not break. Why not? Because from the moment Yasa refused his share of the gold and silver, every step walked a procedure the Buddha had left behind: the formal motion, the *kamma*, the naming of adjudicators, the checking against sutta and Vinaya, the verdict pronounced before the assembly. The Buddha had been gone a hundred years, and the law He laid down was still running—it took its own dispute and settled it clean.
+Devadatta's was a breaking: five rules of his own, his own formal acts, monks drawn away—the Vinaya masters named it the breaking of the dharma-wheel *saṅgha*. The Vesālī storm was no smaller than the first—the ten practices touched the root, and the two sides held out against each other for a hundred days—yet it did not break. Why not? Because from the moment Yasa refused his share of the gold and silver, every step walked a procedure the Buddha had left behind: the formal motion, the *kamma*, the naming of adjudicators, the checking against sutta and Vinaya, the verdict pronounced before the assembly. The Buddha had been gone a hundred years, and the law He laid down was still running—it took its own dispute and settled it clean.
 
 This is the deepest layer of the Vinaya's craft. It is not merely a sheaf of rules; it had prepared in advance even the road for the day the rules themselves would be disputed. The tenth of the ten purposes—the long-enduring presence of the true Dharma—rests not on the articles never being challenged, but on there being, when they are challenged, a road to walk that accords with the Dhamma.
 
