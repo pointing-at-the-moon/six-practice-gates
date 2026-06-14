@@ -64,9 +64,7 @@ So this ladder, from bottom to top, is leading "giving" steadily into the mind. 
 
 ### Then Should We Still Do the Eighty-Four Thousand?
 
-Perhaps you will ask: if one thought of impermanence surpasses eighty-four thousand, why should I give at all? Why not go straight to that one thought?
-
-That thought, too, should be set down here.
+Here is a place easily misheard, to be careful of: if one thought of impermanence already surpasses the eighty-four thousand, does that mean one need not give at all, and may go straight to cultivating that one thought? It does not.
 
 This ladder is **layer resting upon layer**, not each layer abolishing the one below. The Buddha never said, "once you contemplate impermanence, you may stop giving and stop keeping the precepts." Quite the opposite—every rung above stands on the rungs beneath it. Without the ground of heart grown from giving and keeping precepts below, the so-called "thought of loving-kindness" or "thought of impermanence" is mostly a pretty concept turning in the head, landing nowhere. A person who says "I cultivate only impermanence; I have no need to give" has not yet so much as touched the door of the impermanence rung.
 

@@ -16,9 +16,7 @@ Look at where this road begins—not at prajñā, not at concentration, but at *
 
 This joins hands, across the distance, with what we saw earlier—giving, virtue, cultivation: begin with the hand. Giving is the door anyone can enter, the first step that most deserves to be taken first. The six hundred fascicles of the *Great Prajñāpāramitā Sūtra* spell out the weight of this first step in full.
 
-But notice how the passage ends. The Buddha goes straight on to say:
-
-> "This bodhisattva, though he can practice layer upon layer like this and climb step by step, has, toward all of it, 'no attainment.' Why? Because no dharma has a fixed self of its own."
+But notice how this same canon frames that climb. Even as the bodhisattva mounts it step by step, the sūtra holds throughout to "no attainment"—because no dharma has a fixed self of its own.
 
 The climbing, layer by layer, is real practice; and at the same time, "no attainment." It is not "practice enough first, then turn to emptiness." It is "practicing while staying loose—never clenching." Giving still given, precepts still kept, concentration still cultivated—but inside, the clench of "how much have I practiced, how much have I gained" is empty. This is what the six hundred fascicles say over and over: **giving is to be done "with no attainment as the expedient means."**
 
