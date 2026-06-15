@@ -18,7 +18,21 @@ Then the Buddha gave the passage that later ages would quote more than any other
 
 Find a quiet place. Set down the scattered mind. Do not go reaching after appearances. Tether the mind to one buddha, and with undivided focus call that buddha's name. Face the quarter where that buddha dwells, sit upright and straight, and on this one buddha let one recollection follow another without break. And as you recollect, within this very recollecting, you come to see all the buddhas of past, future, and present.
 
-Recollect one buddha — how does that become seeing all the buddhas of the three times? The Buddha said: "All ride on a single suchness." The merit of all the buddhas is from the first one and the same suchness, without distinction. So recollect one buddha all the way through, and you have gone through to all of them. This is no supernatural response; they were one body from the beginning, and it is simply so.
+Recollect one buddha — how does that become seeing all the buddhas of the three times? The Buddha set himself the question and answered it:
+
+> Why so? The merit of recollecting one buddha is measureless and boundless, and it is not-two with the merit of measureless buddhas; the inconceivable buddha-dharma is equal and without distinction — all riding on a single suchness, accomplishing the highest perfect awakening.
+
+The merit of recollecting a single buddha is measureless and boundless; and this measurelessness is "not-two" with the merit of all the buddhas of the ten directions — not the least bit apart. The inconceivable buddha-dharma of all the buddhas is, from the first, "equal and without distinction," riding one and the same suchness. So recollect one buddha all the way through, and you have gone through to all of them: this is no supernatural response, but the fact that they were one body from the beginning, and it is simply so.
+
+### Even Ānanda, Foremost in Hearing, Cannot Match It
+
+How great is this power of "recollect one, reach all"? The sūtra next sets one person beside it for contrast — Ānanda. Among the Buddha's disciples, Ānanda was "foremost in hearing": he had heard the most teachings, held them most firmly, and was the most eloquent. Yet the Buddha says that even Ānanda's vast hearing, set beside One-Practice Samādhi —
+
+> The buddha-dharma Ānanda has heard, his retention of recollection, his eloquence and wisdom — though foremost among the śrāvakas — still abide within number and measure, and so are bounded and obstructed. But one who attains One-Practice Samādhi discerns each and every dharma-gate of all the sūtras, knows them all completely, with certainty and without obstruction.
+
+However strong Ānanda's hearing, it still "abides within number and measure" — accumulated sūtra by sūtra, item by item; it is finite, and walled. But one who has gained One-Practice Samādhi does not hoard knowledge bit by bit like this; from the markless ground of "the one mark of the dharma-realm," he "discerns each and every" dharma-gate of all the sūtras and "knows them all completely." The Buddha carries the saying to its limit: set beside One-Practice Samādhi, Ānanda's hearing and eloquence "do not reach one part in a hundred thousand."
+
+This lays bare something most essential about buddha-recollection: what it asks of you was never to memorize the buddha's merits and the buddha's dharma-gates whole, item by item, and pile them up; it is to tether the mind to one buddha, and through that one buddha-name to fasten onto the ground beneath — "all ride on a single suchness." Once that ground is gone through, the ten thousand dharmas are of themselves within it. To go through beats to amass; to fasten on beats to hoard.
 
 ### Two Faces in a Single Saying
 
