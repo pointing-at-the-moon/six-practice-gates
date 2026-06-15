@@ -50,11 +50,11 @@ But it cannot enter the slot of the "causal condition." The principals of buddha
 
 Use the boat simile once more: the machine can find the ticket for you; it can point out where the boat is moored. But it cannot lift your foot onto the boat for you, still less become the water that carries you across the sea. The step aboard is yours. That turning back, that correspondence, is yours.
 
-### Do Not Be Afraid — In This Age You Can Recollect the Buddha Just the Same
+### In This Age You Can Recollect the Buddha Just the Same
 
-Having come this far, what this chapter really wants to say to you is a word of reassurance.
+Having come this far, what this chapter really means to make plain is this.
 
-Do not be afraid that this clever new age has turned buddha-recollection into something out of date — an antique.
+There is no need to worry that this clever new age will turn buddha-recollection into something out of date — an antique.
 
 However fast the machine, however many, however clever, it cannot do the one real thing of buddha-recollection: turning *your own* mind around and adhering it to the Buddha. And this turning, this adhering, you can do today exactly as Queen Vaidehī did in her prison; exactly as that person of lower-grade lower-birth on his deathbed, able only to call out ten times; exactly as the child in Mahāsthāmaprāpta's telling, turning back to remember his mother — the same, and not one bit less.
 

@@ -76,7 +76,7 @@ However vast the object grows, those four steps are the same; and the mind that 
 
 ### Buddha-Recollection Is Not a Transaction
 
-Here there is one thing that must be said to you in earnest.
+Here there is one thing that must be made plain.
 
 Buddha-recollection in the Chinese world came, in time, to be reckoned as a "transaction": recite one buddha-name, bank so much merit; recite so many times, trade it for such-and-such a grade of rebirth. This is not what buddha-recollection is really doing inside; it is an external "merit ledger."
 
