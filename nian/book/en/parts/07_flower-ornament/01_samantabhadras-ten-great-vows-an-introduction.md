@@ -58,4 +58,4 @@ In the end, the ten great vows do one thing: they stretch "buddha-recollection" 
 
 By the Flower Ornament, buddha-recollection is no longer only "I recollect my Buddha." It is: to reverence, praise, and make offerings to all Buddhas; to face one's own faults (repentance) and others' goodness (rejoicing); to ask for the Dharma and ask the Buddhas to remain; to follow the Buddha closely in study and to bend low before all sentient beings; and at the last, to pour every merit out toward the beings of the dharma-realm. Between you and all Buddhas, between you and all beings, woven layer upon layer, dedicated without end — and under every strand, those same four words: moment by moment continuous.
 
-The next four chapters walk the ten vows group by group. We begin with the first three — reverence, praise, and offerings — the threefold veneration of the Buddhas.
+The next ten chapters walk the ten vows one by one, a chapter to each. We begin with the first — reverence to all Buddhas — the threefold veneration of the Buddhas opening with the body's bow.
