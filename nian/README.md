@@ -9,6 +9,7 @@ A 31-paper volume tracing Buddhānussati from its Pāli origins through Chinese 
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
+- **Book**: [成書層 book/](./book/) — ZH gold standard + English mirror
 - **Status**: ✅ **Paper phase complete — 31/31 published (all 8 Parts sealed 2026-05-03)**
 - **Primary audience**: English-language Buddhist readers
 

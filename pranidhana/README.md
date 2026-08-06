@@ -9,6 +9,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1), [*The Practice of
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
+- **Book**: [成書層 book/](./book/) — ZH gold standard + English mirror
 - **Status**: 🟢 **Paper phase complete — Parts I–VIII 20/20 ✅.** This is the series' sealing volume. With the SAMĀDHI volume sealed, the gate on Part VIII was met and the two closing papers are now released: the three-times Buddhas' attainment of bodhi as the END of the sequence (P19), and the grand reveal — the six-gate ↔ Heart Sūtra mapping (觀／度／空／不／究竟／得菩提 = 念／施／懺／戒／定／願, five movements and one emptiness; repentance the one subtractive gate, the vow alone unsealing 得菩提) — as the series closer (P20). The loop of the whole six-gate sequence closes here, handed back to its sister series (on view and wisdom) and to the three trainings (śīla, samādhi, prajñā).
 
 ### Structure

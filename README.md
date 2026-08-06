@@ -35,6 +35,10 @@ The closing paper shows the six gates were one deepening of the Heart Sūtra all
 
 Every paper is bilingual — 中文 and English side by side. The six volumes can be read in order, or entered through any single gate: walking through one naturally engages the others. Per-paper detail lives in each volume's README.
 
+Beyond the papers, each gate has a **book layer** (成書層) — the volume stepped down into continuous reading, 中文 gold standard with an English mirror:
+
+[念 nian](./nian/book/) · [施 dāna](./dana/book/) · [懺 kṣamā](./ksama/book/) · [戒 sīla](./sila/book/) · [定 samādhi](./samadhi/book/) · [願 praṇidhāna](./pranidhana/book/)
+
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](./LICENSE)
 - **Companion axes** (指月 · 信解行證):

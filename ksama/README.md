@@ -11,6 +11,7 @@ Of the six gates, 懺 alone correlates not with a Heart Sūtra **verb** but with
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
+- **Book**: [成書層 book/](./book/) — ZH gold standard + English mirror
 - **Status**: ✅ **Paper phase complete — 20/20 (P01–P20, all 8 Parts sealed)**
 
 ### Structure
