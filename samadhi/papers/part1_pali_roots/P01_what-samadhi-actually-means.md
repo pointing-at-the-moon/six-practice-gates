@@ -239,7 +239,7 @@ But that is later. This chapter has done its work by loosening three words that 
 
 [^13]: *Prakaraṇapāda* (《阿毘達磨品類足論》), fascicle 8, the definition of the faculty of concentration, where "calming" (攝止), "even-holding" (等持), and "unification of mind upon one object" (心一境性) are set side by side as synonyms of the faculty of concentration, Taishō vol. 26, T1542, 0723b19; compare also fascicle 1 (0693a19): "What is concentration? It is the unification of the mind upon a single object."
 
-[^14]: *Fānyì míngyì jí* (《翻譯名義集》), the entries on *sānmèi*, *sānmódì*, *chánnà*, and *shēmótā*, compiled by Fǎyún, Southern Song, Taishō vol. 54, T2131. The precise fascicle number and CBETA line-locator remain to be supplied (待補); the wording cited here follows the strings retrieved by full-text CBETA search, with the exact fascicle reference to be verified before the volume's final edition.
+[^14]: *Fānyì míngyì jí* (《翻譯名義集》), the entries on *sānmèi*, *sānmódì*, *chánnà*, and *shēmótā*, compiled by Fǎyún, Southern Song, Taishō vol. 54, T2131. The precise fascicle number and CBETA line-locator are reserved for final collation; the wording cited here follows the strings retrieved by full-text CBETA search, with the exact fascicle reference to be verified before the volume's final edition.
 
 [^15]: *Platform Sūtra of the Sixth Patriarch* (《六祖大師法寶壇經》), the "Concentration and Wisdom" section, "concentration and wisdom are one substance, not two," Taishō vol. 48, T2008. Cited here as a forward reference only; the principal treatment of the Chan doctrine that concentration and wisdom are not two belongs to Volume VII (Part VII) of this series.
 

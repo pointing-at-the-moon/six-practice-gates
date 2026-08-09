@@ -259,7 +259,7 @@ Part II of the present volume opened at P05 with the categorical thesis of the t
 
 ### Cross-volume relations
 
-- **DĀNA volume** — the *mahā-dāna* (great gift) anchor at AN 8.39 is shared canonical material between the killing-precept's gift-of-fearlessness reading (the present paper §III.1) and the *dāna* foundation of the DĀNA volume. The present paper treats this internally as an architectural argument for the killing-precept's path-element status, rather than as a cross-volume polyphony anchor footnote (per the cross-volume polyphony discipline of RAG_BRIEF_SOP §11).
+- **DĀNA volume** — the *mahā-dāna* (great gift) anchor at AN 8.39 is shared canonical material between the killing-precept's gift-of-fearlessness reading (the present paper §III.1) and the *dāna* foundation of the DĀNA volume. The present paper treats this internally as an architectural argument for the killing-precept's path-element status, rather than as a cross-volume polyphony anchor footnote (per the series’ cross-volume polyphony discipline).
 - **SAMĀDHI volume forward** — the intoxicant-precept's *paññāya dubbalikaraṇī* ("weakening of wisdom") canonical phrase functions as an architectural bridge from SĪLA to SAMĀDHI: the lay-layer protection of the cognitive faculty of *paññā* prefigures the *kammaṭṭhāna* (meditation-object) operational layer of the next volume.
 
 ### Octalogy (sister series) relation
