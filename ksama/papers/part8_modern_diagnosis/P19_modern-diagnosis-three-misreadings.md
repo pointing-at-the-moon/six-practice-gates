@@ -199,3 +199,4 @@ How, then, once the spectacles are off, does repentance land in the life of one 
 *Textual Verification: CBETA (Chinese canon)*
 *Project: Point-to-the-moon · six-practice-gates (KṢAMĀ volume · Part VIII · Modern Diagnosis and Daily Use #1 · Modern Diagnosis: Three Misreadings · Walking Down from the Summit of Non-Arising)*
 *Repository: https://github.com/pointing-at-the-moon/six-practice-gates*
+*Author: Shi Huijing — the treasury of the true Dharma eye, not set up in words.*

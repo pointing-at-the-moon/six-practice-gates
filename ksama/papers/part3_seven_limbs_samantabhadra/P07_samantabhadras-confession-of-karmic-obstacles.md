@@ -207,3 +207,4 @@ This section gathers the boundaries scattered through the paper into a few expli
 *Textual Verification: CBETA (Taishō & Xuzangjing)*
 *Project: 指月 Point-to-the-moon · six-practice-gates (KṢAMĀ 懺 · Part III · P07)*
 *Repository: https://github.com/pointing-at-the-moon/six-practice-gates*
+*Author: 釋慧鏡 Shi Huijing — the treasury of the true dharma eye, not set up in words*

@@ -253,7 +253,7 @@ The forward-anchor to Part VIII, the Avataṃsaka Samantabhadra field, may thus 
 
 [^5]: Nāgārjuna T1509 vol. 96 explicitly defends body-giving by one who has not attained *avaivartika*. The closest firewall (vol. 98, 「諸小菩薩未得諸法實相，魔及惡人能壞」) is a gate on "who needs protection" not "who may attempt."
 
-[^6]: T34n1718, vol. 10B, p0143b17–19. Zhiyi's *Fahua Wenju* on "真法供養."
+[^6]: T34n1718, vol. 10B, p0143b18–19. Zhiyi's *Fahua Wenju* on "真法供養."
 
 [^7]: T34n1719, vol. 10B, p0354c05–08. Zhanran's double warning.
 

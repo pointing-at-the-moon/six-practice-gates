@@ -191,3 +191,4 @@ And the vow-gate awaits opening.
 *Textual Verification: CBETA Electronic Tripiṭaka (Chinese canon)*
 *Project: Point-to-the-moon · six-practice-gates (KṢAMĀ volume on repentance · Part VIII · Modern Diagnosis and Daily Use #2 · Returning to Daily Use · volume seal)*
 *Repository: https://github.com/pointing-at-the-moon/six-practice-gates*
+*Author: Shi Huijing (釋慧鏡) — the treasury of the true Dharma eye, not established in words*

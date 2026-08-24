@@ -276,7 +276,7 @@ T0784's object distribution (path, body, precepts, breath, death, impermanence) 
 
 [^1]: *Sūtra in Forty-Two Sections*, *Taishō* T17 No. 784. The authorship and dating of this sūtra are contested in modern scholarship: the traditional account is the joint translation of Kāśyapa Mātaṅga and Dharmaratna at the White Horse Monastery in Luoyang in the tenth year of the Yongping era of the Later Han (67 CE); modern scholarship (Tang Yongtong, Lü Cheng, Tsukamoto Zenryū, Zürcher, and others) partly supports an Eastern Jin date or a multi-stage compilation. This paper adopts the traditional account as the premise of its argument. Even on the latest estimate, T0784 remains within the earliest stratum of Chinese translation, and its argumentative value as a datapoint of early reception is unaffected.
 
-[^2]: The full-text grep was performed on the T0784 text (vault file: 阿含/早期漢譯_T0784_卷001.md, 3,177 CJK characters), with "念佛" as the query string: zero hits.
+[^2]: The full-text search was performed on the complete CBETA text of T0784 (3,177 CJK characters), with "念佛" as the query string: zero hits.
 
 [^3]: T0784 Chapters 14, 16, and 40. This paper uses "§14, §16, §40" to correspond to the traditional chapter numbering, for ease of cross-reference with the original text. Original passages are quoted at §3.1 above.
 

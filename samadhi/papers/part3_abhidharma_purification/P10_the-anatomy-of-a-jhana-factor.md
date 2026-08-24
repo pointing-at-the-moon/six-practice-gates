@@ -212,7 +212,23 @@ Set the two side by side: the *Kośa* judges "rapture is feeling, bliss is tranq
 
 Return to the verbs of falling-away, and the sequence of rapture and bliss too has its anatomical reason. Rapture (*pīti*) is the coarser elation — it carries a leaping vibration, and so falls first; bliss (whether judged a pleasant feeling or tranquillity) is the finer enjoyment, the more settled abiding, and so falls after; by the fourth jhāna even this fine peace is stilled, leaving only the pure equanimity and mindfulness. The "verbal movement" of applied and sustained thought, the "elation" of rapture, the "enjoyment" of bliss are three layers of "stirring" from coarse to subtle, subtracted layer by layer — the four jhānas are not the layer-by-layer addition of higher experiences but the layer-by-layer setting-down of finer stirrings.
 
-## VI. Middle-Way Corrections and Close
+## VI. In Dialogue with Modern Scholars, and the Closing of the Three Axes
+
+### 6.1 Three Readings
+
+With the three cuts laid out, we can answer three readings of the jhāna-factors in contemporary scholarship.
+
+**Martin Stuart-Fox**, in his essay on jhāna and Buddhist scholasticism, raises a forceful challenge: the list of jhāna-factors is neither stable nor consistent across discourses and treatises (the four-versus-five dispute, the co-existence of the awareness/examining bipartition with the three-concentration intermediate phase), and this is precisely scholastic systematization "papering over the vagueness of experience" — the treatise-masters merely imposing order on a description that was never precise to begin with.[^19]
+
+This challenge must first be granted its concession: **the list does vary.** The fourfold and fivefold reckonings genuinely co-exist; the *Madhyama*'s "without awareness, with little examining" does indeed stand beside the *Saṃyukta*'s bipartition. The variation is not invented. But the variation is **principled, not vague.** Different lists are interrogating **different axes of analysis** — whether to "count" how many mental events, or to "map" which transitional grounds (whether there is the awareness-ceased-examining-remaining rung). They are answers to different questions, not contradictory answers to one question. And the strongest counter-evidence is precisely the convergence of §IV: the Southern fivefold intermediate rung and the Northern intermediate dhyāna developed independently yet landed on one and the same fact. Two traditions tracking, independently, the same subtle transition — this is the signature of "a real phase being analyzed," not the trace of "vagueness systematized."
+
+**Rupert Gethin**, treating the path to awakening, reads the jhāna-factors as a coherent map of "the mind progressively coming to rest": each factor, and its withdrawal, marks a real and ordered stage.[^20] This chapter's position is close to his, and may be cited as one voice for sound systematization. But this chapter probes one level deeper on his map — where he asks "why the sequence of factors is as it is," this chapter asks "what the inside of the first factor to go actually is, and how exactly it goes" (applied-and-sustained thought = coarse cast plus fine continuation; the mechanism of its cessation = the verbal formation come to rest). This is a deepening of his map at one node, not a quarrel with it.
+
+**Johannes Bronkhorst**, treating two traditions of meditation in ancient India (the suppressive and the Buddhist), points out that certain descriptions of meditation conflict with one another, suggesting that the "absorbed" layer and the "still-observing" layer were not fused thoroughly.[^21] This much can be granted: applied and sustained thought genuinely will not fit into a purely suppressive model — a concentration that runs wholly on suppression ought not to retain the factor of "the investing and holding of attention." But this conflict is **dissolved** by the distinction "investment, not thinking," rather than revealed by it: applied and sustained thought are precisely the signature of the non-suppressive, attention-directed stream, marking the Buddhist line off from the suppressive line. The contemporary "light / deep" quarrel can thus be seen, historicized, as the continuation of this ancient inheritance, rather than a problem invented only recently.
+
+(A boundary must be added: there is a contemporary reading that takes *jhāna* directly to "be insight-wisdom"; this chapter is in dialogue with it but does not adopt it as a frame — concentration cannot be swallowed by wisdom, which is a baseline of this volume.)
+
+### 6.2 Middle-Way Corrections
 
 Following the method of this study, three deviations to be guarded against.
 
@@ -222,7 +238,7 @@ Following the method of this study, three deviations to be guarded against.
 
 ⚠️ **Mishearing applied thought's "investing of attention" as the mindfulness of *satipaṭṭhāna*.** Applied and sustained thought are the "aiming and holding" factors of the concentration track, belonging to a different track from the mindfulness (*sati*) of the four establishments of mindfulness. This chapter's "watching how that movement quiets" is an analytic description, not an instruction to "apply satipaṭṭhāna in jhāna" — a line drawn already above.
 
-### The Three-Layer Close
+### 6.3 The Three-Layer Close
 
 **The essence.** A jhāna-factor is not a checklist of sensations one passes or fails, but a doctrine of mental events that can be taken apart one factor at a time, each interrogated for what it is (feeling / tranquillity / a formation) and why it ceases (applied and sustained thought are the verbal formation, hence the second jhāna is silence). Two traditions share one and the same four-jhāna canonical floor, each cutting a single decisive stroke into "what this one factor is" — on the applied-and-sustained axis, the "verbal-formation → silence" mechanism; on the intermediate-phase axis, the "ground and reckoning" convergence of the two traditions; on the rapture-and-bliss axis, the "feeling and tranquillity" mirror.
 
@@ -272,6 +288,12 @@ To close, the whole chapter can be gathered into a single line. The four jhānas
 
 [^18]: *Abhidharmakośa-bhāṣya*, fascicle 28: "There is a view: there is no faculty of mental pleasure; where the three dhyānas speak of a bliss-factor, it is all the faculty of pleasure included under bodily feeling … and the fourth concentration, where tranquillity is redoubled, is not said to have a bliss-factor" — this is a counter-view Vasubandhu himself raises and rebuts (close to the Theravāda judgment), not the *Kośa*'s orthodox position. Tr. Xuanzang, Taishō vol. 29, No. 1558 (T1558).
 
+[^19]: Martin Stuart-Fox, "Jhāna and Buddhist Scholasticism," *Journal of the International Association of Buddhist Studies*, 1989. On the variation of the jhāna-factor list across discourses and treatises and the scholastic systematization of it.
+
+[^20]: Rupert Gethin, *The Buddhist Path to Awakening*, 1992. On the jhāna-factors as a coherent map of the mind progressively coming to rest.
+
+[^21]: Johannes Bronkhorst, *The Two Traditions of Meditation in Ancient India*, c.1986; cf. L. S. Cousins, "Buddhist Jhāna: Its Nature and Attainment according to the Pali Sources," *Religion*, 1973, on the precise treatment of *vitakka-vicāra* and of access / absorption.
+
 ---
 
 ## References
@@ -290,6 +312,15 @@ To close, the whole chapter can be gathered into a single line. The four jhānas
 > The Pāli texts below are cited as parallels; the body takes its doctrine from the Chinese, and embeds none of them verbatim except where marked CC0.
 
 - *Dīgha Nikāya* 22 (DN ii 290), the four-jhāna stock formula, CC0 (Mahāsaṅgīti / Sujato); *Dīgha Nikāya* 1, the *Brahmajāla-sutta*'s judgment of applied and sustained thought as "coarse" (*oḷārika*). The *Visuddhimagga*'s fourfold and fivefold reckonings and the *avitakka-vicāramatta* rung are named here only by paraphrase and embedded nowhere verbatim.
+
+### Modern Scholarship
+
+> Publication details for the works below await final verification; the body takes only the gist of each position and quotes none of them verbatim.
+
+- Bronkhorst, Johannes. *The Two Traditions of Meditation in Ancient India.* c.1986. (The suppressive versus the Buddhist stream; applied-and-sustained thought as the signature of the attention-directed line.)
+- Cousins, L. S. "Buddhist Jhāna: Its Nature and Attainment according to the Pali Sources." *Religion*, 1973. (The precise treatment of *vitakka-vicāra* and of access / absorption.)
+- Gethin, Rupert. *The Buddhist Path to Awakening.* 1992. (The jhāna-factors as a coherent map of the mind coming to rest.)
+- Stuart-Fox, Martin. "Jhāna and Buddhist Scholasticism." *Journal of the International Association of Buddhist Studies*, 1989. (The variation of the jhāna-factor list and its scholastic systematization.)
 
 ### Sūtra & Śāstra Index
 

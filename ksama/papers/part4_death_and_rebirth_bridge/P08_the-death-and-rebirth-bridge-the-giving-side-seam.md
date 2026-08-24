@@ -211,3 +211,4 @@ This section gathers the boundaries scattered through the foregoing into several
 *Textual Verification: CBETA Electronic Tripiṭaka Collection (Chinese translations)*
 *Project: Point-to-the-moon · six-practice-gates (KṢAMĀ vol. · Part IV, The Death-and-Rebirth Bridge: Giving → Repentance → Precept, #1 · entry-bridge · giving-side seam)*
 *Repository: https://github.com/pointing-at-the-moon/six-practice-gates*
+*Author: Shi Huijing — the treasury of the true dharma eye, not established on words*
