@@ -10,6 +10,19 @@ part: "Part IV · The Three Pure Land Sūtras"
 part_number: 4
 date: "2026-04-17"
 version: "1.0"
+canonical_source:
+  - "T09n0277"
+  - "T12n0360"
+  - "T12n0361"
+  - "T12n0365"
+  - "T12n0366"
+  - "T13n0418"
+  - "T15n0643"
+  - "T26n1524"
+  - "T37n1750"
+  - "T37n1753"
+  - "T46n1911"
+  - "T47n1962"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -272,7 +285,7 @@ A popular formulation — which includes part of the modern scholarly literature
 
 The four-fold "name-invocation / image-contemplation / thought-contemplation / reality-as-such" **does not appear anywhere in T1750** or in T1911. This four-fold division is a later (at latest, the Tang-Song transition) **simplified re-editing** of T1962's five-gate architecture — compressing gates three (all objects as mind-only) and four (mind and object mutually transcended) into "reality-as-such," and splitting "image-contemplation for sin-extinguishment" into "image-contemplation" and "thought-contemplation." Once crystallized, it circulated under the name "Zhiyi's four kinds of buddha-recollection," but this name is **not a term used by Zhiyi himself**.
 
-When P10 needs to cite such classifications, one should use Zhiyi's original T1750 terminology of "three-fold buddha-recollection (recollection of form-body / dharma-gates / reality-as-such)," or state explicitly that one is citing "a later simplified re-editing of T1962's five expedient gates of buddha-recollection." One should not retroactively attribute this four-fold division to Zhiyi himself. This philological clearing leaves clean ground for P22 (Shandao) and P23 (Zhiyi's buddha-recollection classification), and avoids extending the conflation into Part VI.
+Accordingly, this paper cites Zhiyi's original T1750 terminology of "three-fold buddha-recollection (recollection of form-body / dharma-gates / reality-as-such)," and identifies the four-fold division explicitly as "a later simplified re-editing of T1962's five expedient gates of buddha-recollection." The four-fold division is not retroactively attributed to Zhiyi himself. This philological clearing leaves clean ground for P22 (Shandao) and P23 (Zhiyi's buddha-recollection classification), and avoids extending the conflation into Part VI.
 
 ### ❌ Misreading 2: The Sixteen Contemplations as a Collection of *Dhyāna* Techniques
 
@@ -402,7 +415,7 @@ The question is not answered within P10's scope. The convergence-differentiation
 
 [^44]: T1911, fascicle 2, constant-walking-*samādhi* section, 0012a19–0013a23.
 
-[^45]: T1911 full-text grep yields no hits for "sixteen contemplations" or "*guān wúliàngshòu*"; T1750 full commentary cites no four *samādhi*s. Direct CBETA XML grep.
+[^45]: T1911 full-text search of the local CBETA XML finds no occurrences for "sixteen contemplations" or "*guān wúliàngshòu*"; T1750 full commentary cites no four *samādhi*s. This was checked against the full local CBETA XML text.
 
 [^46]: T0643, fascicle 10, "Observing the Buddha's Secret Practice" chapter, T15.696b22–29 (same as [^23]).
 
@@ -454,11 +467,11 @@ The question is not answered within P10's scope. The convergence-differentiation
 
 [^70]: T1750, 0192b10–18 (translation mine).
 
-[^71]: Mutual non-citation of T1750 and T1911: direct CBETA XML grep result (same as [^45]).
+[^71]: Mutual non-citation of T1750 and T1911: full-text search result from the local CBETA XML (same as [^45]).
 
 [^72]: T1911, 0012b24–29 (constant-walking-*samādhi* "recollecting the thirty-two marks in reverse and forward relation" passage) (translation mine).
 
-[^73]: Direct CBETA XML P5 grep result: none of T1750, T1911, or T1962 contains the term "four kinds of buddha-recollection."
+[^73]: Full-text search result from the local CBETA XML: none of T1750, T1911, or T1962 contains the term "four kinds of buddha-recollection."
 
 [^74]: T1750, 0187a24–27: "Recollecting one Buddha is equivalent to recollecting the Buddhas of the ten directions. … Recollecting the form-body, recollecting the dharma-gates, recollecting reality-as-such — the mindfulness ever running, there is no moment unminded; every thought, every thought, is awakening. This is named 'the contemplation-practice Buddha'" (translation mine).
 

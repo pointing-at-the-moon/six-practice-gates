@@ -3,6 +3,10 @@
 
 The English edition of **《懺——從律藏發露到無生之懺》** by 釋慧鏡 (Shi Huijing) — Volume 3 of the **Six Practice Gates** (六行門).
 
+**Author:** 釋慧鏡 (Shi Huijing)
+
+[Methodology and disclosure](https://waken.org/methodology/)
+
 > Repentance (*kṣama*) was never confession-and-pardon, and never the management of guilt. It begins in the Vinaya's plainest act — laying what was hidden out into the light, before others — and walks all the way to the repentance of non-arising: the seeing that the self that erred, and the transgression it committed, never had a thing in them to grasp. Among the six gates it is the one subtraction.
 
 This is the accessible *book* layer, rendered into English from the Chinese edition and term-anchored to the bilingual scholarly corpus in this repository (`ksama/papers/`, P01–P20). It lives here at `ksama/book/en/`, a part-for-part parallel of the Chinese book under `ksama/book/`.

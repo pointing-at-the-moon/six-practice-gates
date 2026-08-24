@@ -1,15 +1,22 @@
 ---
 title: "Chanda, Not Taṇhā: The Wholesome Orientation of Will"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 6 — PRAṆIDHĀNA: Aspiration and the Vow, from Pāli Roots to Samantabhadra · Part II · The Āgama View"
-series_short: PRAṆIDHĀNA
+series_short: "PRAṆIDHĀNA"
 volume: 6
-paper_id: PRANIDHANA-P04
+paper_id: "PRANIDHANA-P04"
 paper_number: 4
 part: Part II · The Āgama View
 part_number: 2
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T01n0001"
+  - "T01n0026"
+  - "T02n0099"
+  - "T25n1509"
+  - "T30n1579"
+  - "T31n1585"
 license: CC BY-NC-SA 4.0
 ---
 
@@ -143,7 +150,7 @@ A signpost is left. Once wholesome desire crystallizes into "first setting up th
 
 [^3]: *Yogācārabhūmi*, fascicle 21 (spoken by Maitreya; translated by Xuanzang, Tang; Taishō vol. 30, No. 1579, p. 397a). The definition of wholesome desire ("having heard the true Dharma… gains pure faith… toward wholesome states gives rise to such a desire") and the clause "it is precisely by the augmenting force of this superior wholesome desire… that this is called right going-forth" both stand in fascicle 21's "twelve gates of the lesser conditions," where wholesome desire is the third gate, and its "augmenting force" drives right going-forth and the subsequent gates. "Augmenting force" (*adhipati*) denotes a strong, predominant driving condition, the motive cause among the requisites of the path. The same fascicle also takes "craving for existence" (p. 398a–b) as one of the marks of the absence of [bodhisattva] lineage, forming with wholesome desire the two poles within one fascicle; see §VI.
 
-[^4]: The "leaning to seclusion, leaning to dispassion, leaning to relinquishment, leaning to cessation, tending toward release" of the "base of spiritual power that is concentration founded on desire together with the formations of striving" is found in *Saṃyuktāgama*, fascicle 21, discourse 561 (same source as note 2). The meditative / spiritual-power (*iddhi*) face of the four bases is not unfolded here, and is reserved for a neighboring study; only the "desire—orientation—desirelessness" structural face of the vow is taken here, distinguished from the volume on concentration's "concentration—face" treatment by cite-by-reference, and not restated.
+[^4]: The "leaning to seclusion, leaning to dispassion, leaning to relinquishment, leaning to cessation, tending toward release" of the "base of spiritual power that is concentration founded on desire together with the formations of striving" is found in *Saṃyuktāgama*, fascicle 21, discourse 561 (same source as note 2). The meditative / spiritual-power (*iddhi*) face of the four bases is not unfolded here, and is reserved for a neighboring study; only the "desire—orientation—desirelessness" structural face of the vow is taken here, while the concentration volume's treatment of the "concentration—face" is cross-referenced rather than restated.
 
 [^5]: *Madhyamāgama*, fascicle 28, "Discourse on the Root of Dhammas" (discourse 113; translated by Gautama Saṅghadeva, Eastern Jin; Taishō vol. 1, No. 26, p. 602c). "All dhammas are rooted in desire… mindfulness is their overseer… wisdom is their sovereign… nibbāna is their consummation" places desire at the beginning of the whole path and nibbāna at its end; this "desire" is wholesome desire (Pāli parallel *Aṅguttara Nikāya* 8.83 / 10.58, *mūlaka-pariyāya*). The same four characters "rooted in desire" in the *Madhyamāgama*'s "Mass of Suffering" (fascicle 25) and the *Saṃyuktāgama* fascicle 32 line refer instead to craving leading to suffering—the opposite direction—and may not be conflated in citation.
 
@@ -188,7 +195,7 @@ A signpost is left. Once wholesome desire crystallizes into "first setting up th
 - **Carrying forward P03** (*Adhiṭṭhāna and the Resolve of the Bodhisatta*, the sealing paper of Part I): this paper takes up the Pāli grounding of Part I's sealing paper and opens Part II. P01 §2.4 only set the boundary "vow ≠ craving"; the mental-factor mechanism of its wholesome desire (*chanda*) versus craving (*taṇhā*) is formally taken up and unfolded here.
 - **Signpost to P05** (*The Directed and the Undirected*, the sealing paper of Part II): the signpost of this paper's conclusion—once wholesome desire crystallizes into the force of the vow, the "petitionary → non-petitionary" spectrum of *paṇidhi* (the determined outpouring), from seeking rebirth in a good destination to turning toward nibbāna, is handled by the next paper.
 - **Signpost to Part III** (the vow as perfection): the crystallization of wholesome desire into the vow's force, drawn here in §VI from the *Mahāprajñāpāramitā-śāstra*'s "all dhammas have desire as their root, first set up the vow," and the *pāramitā* standing of its full *praṇidhāna* force, are reserved for Part III.
-- **Neighboring SAMĀDHI** (the volume on concentration): the meditative / spiritual-power face of the four bases (*iddhi*, marks of concentration, one-pointedness of mind) is the territory of the concentration volume; this paper takes only the "desire—orientation—desirelessness" structural face of the vow, handling the meditative face by cite-by-reference and not restating it.
+- **Neighboring SAMĀDHI** (the volume on concentration): the meditative / spiritual-power face of the four bases (*iddhi*, marks of concentration, one-pointedness of mind) is treated in the concentration volume; this paper takes only the "desire—orientation—desirelessness" structural face of the vow, handling the meditative face by cross-reference and not restating it.
 
 Relation to the *Eightfold Suite of Pointing at the Moon*: this paper's claim "the vow is not the projection of desire" shares a source with the wisdom series of the suite in its treatment of "non-attainment"—the self-empty face of wholesome desire's "having desirelessness as its object" is reserved for this volume's Part VII and the convergence with the *Prajñā* papers.
 

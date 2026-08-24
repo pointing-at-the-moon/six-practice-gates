@@ -1,15 +1,20 @@
 ---
 title: "Silent Illumination: Hongzhi's Default Samādhi"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part VII · Chan"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P24
+paper_id: "SAMADHI-P24"
 paper_number: 24
 part: Part VII · Chan
 part_number: 7
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T47n1986A"
+  - "T47n1998A"
+  - "T48n2001"
+  - "X68n1314"
 license: CC BY-NC-SA 4.0
 ---
 

@@ -10,6 +10,11 @@ part: "Part IV · The Early Mahāyāna Turn to Dāna-Pāramitā"
 part_number: 4
 date: "2026-05-09"
 version: "1.0"
+canonical_source:
+  - "T07n0220e"
+  - "T25n1509"
+  - "T30n1579"
+  - "T31n1604"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -277,51 +282,13 @@ T1579 constructs a complete Yogācāra theory of dāna-pāramitā through the ni
 
 T1579 and T1509 share the core insight — **the qualitative transformation of giving depends on the structure of the mind** — but T1509 cuts through emptiness, T1579 through characteristics. They are symmetric philosophically, complementary in practice.
 
-Handoff — next: the deep development of "non-abiding giving" in the prajñāpāramitā tradition. How does the principle of "abide nowhere yet give" in T0220e become the core of giving theory in later prajñāpāramitā sūtra?
+Transition — next: the deep development of "non-abiding giving" in the prajñāpāramitā tradition. How does the principle of "abide nowhere yet give" in T0220e become the core of giving theory in later prajñāpāramitā sūtra?
 
 ---
 
 ## Footnotes
 
-[^1]: T1579 vol 39, T30p0505a28-b01: "How does a bodhisattva accomplish the pāramitā of giving? The summary verse (*ūbhāya*) states: self-nature, all, difficulty, all-feature, good-person, all-mode, wish-fulfillment, this-and-next-life-happiness, purity — thus nine characteristics, briefly, is called giving."
-
-[^2]: See DANA-P13 "The Sources of Trilakṣaṇa-Śūnya" — traced the prajñāpāramitā sources of trilakṣaṇa-śūnya, established Nāgārjuna's madhyamaka path of processing the three wheels through emptiness.
-
-[^3]: T1579 vol 39 （施品 ch. 9), T30p0505a28 onwards.
-
-[^4]: T1579 vol 39, T30p0505b06-11: "What is a bodhisattva's self-nature giving? A bodhisattva, regarding self and possessions, harbors no reluctance, and can give all that ought to be given. Associated with non-aversion, the intention to give arises, along with the corporeal and verbal actions that are harmless gifts. Abiding in moral discipline, in the testimony of the āgamas, and in the conviction that meditation yields fruit — with whatever is sought, the bodhisattva gives it. This is named the bodhisattva's self-nature giving."
-
-[^5]: T1579 vol 39, T30p0505b12-13: "What is a bodhisattva's all-giving? All-giving has two categories: one, the inner gift; two, the outer gift."
-
-[^6]: T1579 vol 39, T30p0505b13-c10 (development of 一切施 inner/outer giving).
-
-[^7]: T1579 vol 39, T30p0509b27-c05: "What is a bodhisattva's difficult giving? This giving has three types. When a bodhisattva, with scarce wealth, endures poverty to give to others — this is the bodhisattva's first difficult giving. When a bodhisattva, regarding beloved objects — deeply attached by nature, long-practiced, of great grace, or of supreme excellence — lets go of deep obsession and gives to others — this is the bodhisattva's second difficult giving. When a bodhisattva gives to others wealth obtained through extreme hardship — this is the bodhisattva's third difficult giving."
-
-[^8]: T1579 vol 39, T30p0505c11-14: "Though a bodhisattva may, a hundred times, a thousand times, or a hundred thousand times, give up the body to benefit beings, [the bodhisattva] will never follow another's command, flatter their feelings, and thereby oppress, harm, or deceive beings through what is against dharma."
-
-[^9]: T1579 vol 39, T30p0509c06-10: "What is a bodhisattva's all-feature giving? This giving has four phases. A bodhisattva either gives one's own wealth, or wealth obtained by persuading others, or gives to relatives, parents, spouse, servants, assistants, good friends, ministers, kin and dependents, or again gives to those who come to ask. These four phases are named the bodhisattva's all-feature giving."
-
-[^10]: T1579 vol 39, T30p0509c11-14: "What is the giving named good-person giving — the conduct of one who is virtuous? This giving has five phases. A bodhisattva gives with pure faith, gives with reverence, gives with one's own hand, gives at the right time, and gives without causing distress to others. These five phases are named the giving of good-person conduct, the bodhisattva's good-person giving."
-
-[^11]: T1579 vol 39, T30p0509c15-20: "What is a bodhisattva's all-mode giving? This giving has thirteen phases: (1) non-reliance giving, (2) vast giving, (3) joyful giving, (4) repeated giving, (5) field-supporting giving, (6) non-field-supporting giving, (7) all-thing giving, (8) all-place giving, (9) all-time giving, (10) non-fault giving, (11) sentient-being-thing giving, (12) regional-thing giving, (13) wealth-grain giving."
-
-[^12]: T1579 vol 39, T30p0509c21-29: "What is a bodhisattva's wish-fulfillment giving? This giving has eight phases. A bodhisattva gives food to those lacking food who come to ask; gives transport to those lacking transport who come to ask; gives clothing to those lacking clothing who come to ask; gives adornments to those lacking adornments who come to ask; gives various life-supporting implements to those lacking such implements who come to ask; gives various perfumes and garlands to those lacking such who come to ask; gives houses to those lacking houses who come to ask; gives light to those lacking light who come to ask. These eight phases are named the bodhisattva's wish-fulfillment giving."
-
-[^13]: T1579 vol 39, T30p0510a01-10: "What is a bodhisattva's this-and-next-life-happiness giving? This giving has nine phases. Wealth-giving, fearlessness-giving, dharma-giving — collectively named as the giving that enables beings' this-life and next-life happiness. Wealth-giving: giving excellent, pure, dharma-consistent wealth. Subduing the defilement of stinginess and giving; subduing the defilement of hoarding and giving. Subduing the defilement of stinginess means relinquishing attachment to possessions. Subduing the defilement of hoarding means relinquishing attachment to consumption. Fearlessness-giving: rescuing beings from the fears of lions, tigers, wolves, and ghosts; rescuing from the fears of kings and thieves; rescuing from the fears of water and fire. Dharma-giving: teaching without distortion, teaching in accordance with reality, exhorting to practice the trainings. All these together are stated as the nine phases, named the bodhisattva's giving that enables beings' this-life and next-life happiness."
-
-[^14]: T1579 vol 39, T30p0510a13: "What is purified giving? It is ten phases of purity."
-
-[^15]: T1579 vol 39, T30p0510a14-25 (the ten phases of pure giving, full elaboration).
-
-[^16]: T1579 vol 39, T30p0510b04-06: "Just as the nine-characteristic dāna-pāramitā, so too the nine-characteristic sīla-pāramitā, ... and so on through prajñā-pāramitā — known to be likewise." Establishes the universal application of the nine-fold structure across the six perfections.
-
 [^17]: T1604 vol 7, T31p0629b08-13: "The six perfections have six meanings respectively: (1) self-nature, (2) cause, (3) result, (4) function, (5) concomitance, (6) category." The specific application to dāna-pāramitā follows at T31p0629b13-23.
-
-[^18]: T1604 vol 7, T31p0630b13-14: "Dāna departs from seven graspings — therefore 'non-attaching' is spoken as seven types. Know that the remaining five perfections similarly have seven obstructions and their antidotes."
-
-[^19]: T1604 vol 7, T31p0629a18-19: "The three wheels purified — this purification comes from non-conceptual wisdom as the means."
-
-[^20]: T1579 vol 39 (transition: end of 施品 → opening of 戒品）， T30p0510b25-c08.
 
 ---
 
@@ -330,7 +297,7 @@ Handoff — next: the deep development of "non-abiding giving" in the prajñāp�
 ### Primary Sources
 
 - T1579 = *Yogābhūmi*, Maitreya/Asaṅga, trans. Xuanzang
-- T1604 = *Mahāyānasūtrālaṃkāra*, Asaṅga, trans. Bodhiruci
+- T1604 = *Mahāyānasūtrālaṃkāra*, Asaṅga, trans. Prabhākaramitra
 - T1509 = *Mahāprajñāpāramitā-śāstra*, Nāgārjuna, trans. Kumārajīva
 - T0220e = *Mahāprajñāpāramitā-sūtra* (second recension), trans. Xuanzang
 

@@ -4,14 +4,18 @@ title_en: "Concentration in the Age of AI"
 author: "釋慧鏡 (Shi Huijing)"
 series: "指月 Point-to-the-moon"
 series_short: "SAMĀDHI"
-paper_id: "SAMĀDHI-P30"
-volume: "SAMĀDHI 定（卷五）"
+paper_id: "SAMADHI-P30"
+volume: 5
 volume_number: 5
 part: "第九部 · 現代診斷與回歸般若（第二篇）"
 part_number: 9
 register: "doctrinal"
+paper_number: 30
 date: "2026-06"
 version: "1.0"
+canonical_source:
+  - "T30n1579"
+  - "T31n1585"
 license: "CC BY-NC-SA 4.0"
 ---
 

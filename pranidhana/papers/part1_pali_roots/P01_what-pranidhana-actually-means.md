@@ -1,15 +1,22 @@
 ---
 title: "What Praṇidhāna Actually Means: Vow, Pledge, and Transference"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 6 — PRAṆIDHĀNA: Aspiration and the Vow, from Pāli Roots to Samantabhadra · Part I · Pāli Roots"
-series_short: PRAṆIDHĀNA
+series_short: "PRAṆIDHĀNA"
 volume: 6
-paper_id: PRANIDHANA-P01
+paper_id: "PRANIDHANA-P01"
 paper_number: 1
 part: Part I · Pāli Roots
 part_number: 1
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T02n0099"
+  - "T02n0125"
+  - "T10n0279"
+  - "T12n0360"
+  - "T24n1488"
+  - "T25n1509"
 license: CC BY-NC-SA 4.0
 ---
 

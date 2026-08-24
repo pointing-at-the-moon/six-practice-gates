@@ -3,12 +3,16 @@ title: "The Precept as Teacher"
 subtitle: "Sīla as Daily Art"
 title_zh: 以戒為師
 subtitle_zh: 戒之日用
-volume: 戒門 SĪLA
-paper_id: SILA-P30
-paper_number: P30
+volume: 4
+paper_id: "SILA-P30"
+paper_number: 30
 language: en
+series_short: "SĪLA"
+part_number: 9
 date: 2026-06
-author: 釋慧鏡 Shi Huijing
+author: "釋慧鏡 (Shi Huijing)"
+canonical_source:
+  - "T12n0389"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷四 戒
@@ -188,7 +192,7 @@ Here the sealing closes. The doctrine of the precept is exhausted; what remains 
 
 [^18]: Saba Mahmood, *Politics of Piety: The Islamic Revival and the Feminist Subject* (Princeton: Princeton University Press, 2005).
 
-[^19]: The sequence of the Six Practice Gates is mindfulness, giving, repentance, the precept, concentration, vow. The precept receives from above the new precept-substance cleansed by the gate of repentance (the purification of karmic obstructions is treated in detail in the gate of repentance), and opens below toward the gate of concentration. The sealing paper here marks only the precept's place in the order and does not unfold the remaining gates; the sister volume on *Samādhi* is drafting in parallel, and this volume does not cross-cite its papers.
+[^19]: The sequence of the Six Practice Gates is mindfulness, giving, repentance, the precept, concentration, vow. The precept receives from above the new precept-substance cleansed by the gate of repentance (the purification of karmic obstructions is treated in detail in the gate of repentance), and opens below toward the gate of concentration. The sealing paper here marks only the precept's place in the order and does not unfold the remaining gates; the sister volume on *Samādhi* treats those questions separately, and this volume does not cross-cite its papers.
 
 [^20]: See, respectively, T12n0389 p. 1111a03 (the line on the precept giving rise to the concentrations, its mechanism pointing back to P24) and p. 1111a20 (the line "restrain it to one point").
 

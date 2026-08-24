@@ -3,6 +3,10 @@
 
 The English edition of **《願——從巴利誓願到普賢行願》** by 釋慧鏡 (Shi Huijing)—Volume 6, the final volume, of the **Six Practice Gates** (六行門).
 
+**Author:** 釋慧鏡 (Shi Huijing)
+
+[Methodology and disclosure](https://waken.org/methodology/)
+
 > A wish asks outward for a thing; a vow turns the whole person's direction around. This book follows that turning from the spread of hair before Dīpaṃkara, through the wholesome desire of the Āgamas, the driver behind the ox of merit, the four great vows in everyone's mouth, the forty-eight clauses that burned into a land, and Samantabhadra's conduct-vows—into the deep stretch where the vow meets emptiness, and out at the Heart Sūtra's last word: *attain*.
 
 This is the accessible *book* layer, rendered into English from the Chinese edition and term-anchored to the bilingual scholarly corpus in this repository (`pranidhana/papers/`, P01–P20). It lives here at `pranidhana/book/en/`, a part-for-part parallel of the Chinese book under `pranidhana/book/`.

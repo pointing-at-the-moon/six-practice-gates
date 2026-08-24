@@ -10,6 +10,13 @@ part: "Part VI · Chinese Repentance Rites"
 part_number: 6
 date: "2026-06"
 version: "1.0"
+canonical_source:
+  - "T16n0663"
+  - "T45n1909"
+  - "T46n1911"
+  - "T46n1934"
+  - "T46n1941"
+  - "T46n1950"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -86,7 +93,7 @@ It is worth first making clear the distinction between the two characters *chan*
 
 *Chan* is to lay one's past wrongdoing openly out, to disclose it; *hui* is to reform the past and turn toward the future. One looks backward, the other walks forward; only together do they make the complete turning-around.
 
-The last four of the five — entreaty, rejoicing, dedication, vow — were not conjured out of nothing by Chinese repentance liturgy. The series has already treated the provenance and function of rejoicing, dedication, and entreaty in detail in its discussion of the sevenfold worship, and there is no need to retrace that ground here; we need only note that Chinese repentance liturgy gathered these items into the core of repentance, so that "repentance" is not merely the settling of old accounts but carries an outward orientation — rejoicing in others' good, dedicating merit outward, vowing forward. As for the last of the five, "the making of vows," its full unfolding into an independent discipline of practice belongs to the later part on the gate of vows; this paper sets down only a signpost — that repentance ends by opening onto vow — without cross-referencing a text not yet written.
+The last four of the five — entreaty, rejoicing, dedication, vow — were not conjured out of nothing by Chinese repentance liturgy. The series has already treated the provenance and function of rejoicing, dedication, and entreaty in detail in its discussion of the sevenfold worship, and there is no need to retrace that ground here; we need only note that Chinese repentance liturgy gathered these items into the core of repentance, so that "repentance" is not merely the settling of old accounts but carries an outward orientation — rejoicing in others' good, dedicating merit outward, vowing forward. As for the last of the five, "the making of vows," its full unfolding into an independent discipline of practice belongs to the later part on the gate of vows; this paper sets down only a signpost — that repentance ends by opening onto vow — without pre-empting the separate treatment in the volume on vows.
 
 Now the question arises. If the deepest, most ultimate face of repentance is the inner repentance of principle, that single thought of correct vision into the real mark — then why make it into so elaborate a rite, ten steps long, to be walked through again and again over three-times-seven days, six periods of day and night? Is this not winding a direct inner transformation into a heap of ceremonial fuss?
 
@@ -198,8 +205,8 @@ With this, the shape of the genre may be counted as set. The chapters that follo
 - Paper I: the parsing of three terms (*chan* / *hui* / disclosure), continued here in the distinction "disclosing past evil / reforming toward the future."
 - Part III: the repentance member of the sevenfold worship, continued here in the provenance of rejoicing, dedication, and entreaty within the fivefold repentance.
 - Part V: the threefold ladder of repentance and sign-taking repentance, continued here in the institutional face of "seeing an auspicious sign" woven into the rite.
-- Part VII (forthcoming): the deepest layer of correct vision into the real mark, and the repentance of non-arising — kept by this paper outside the door.
-- The gate of vows (forthcoming): the vow-making of the fivefold repentance, marked here by a signpost only.
+- Part VII: the deepest layer of correct vision into the real mark, and the repentance of non-arising — kept by this paper outside the door.
+- The gate of vows: the vow-making of the fivefold repentance, marked here by a signpost only.
 
 ---
 

@@ -10,6 +10,29 @@ part: "Part VII · The Flower Ornament Vision"
 part_number: 7
 date: "2026-05-03"
 version: "1.0"
+canonical_source:
+  - "T01n0001"
+  - "T01n0007"
+  - "T01n0026"
+  - "T02n0099"
+  - "T09n0262"
+  - "T09n0278"
+  - "T10n0293"
+  - "T14n0475"
+  - "T22n1421"
+  - "T25n1509"
+  - "T29n1558"
+  - "T30n1564"
+  - "T31n1585"
+  - "T31n1593"
+  - "T32n1666"
+  - "T37n1762"
+  - "T46n1941"
+  - "T47n1980"
+  - "T48n2016"
+  - "X05n0227"
+  - "X05n0229"
+  - "X22n0424"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -66,7 +89,7 @@ The textual sources for this paper extend across four strata: the canonical-orig
 
 The **canonical-original layer** is T0293 *Mahāvaipulya-buddhāvataṃsaka-sūtra: The Practice-and-Vow Chapter of Samantabhadra Entering the Inconceivable Liberation Realm* (henceforth the *Practice-and-Vow Chapter*), fascicle forty, translated by Prajña (般若, c. 734 – c. 810) at Chang'an in 798 CE. Vow six's main exposition, closure formula, and verse-couplet; vow seven's main exposition, closure formula, and verse-couplet[^1]; and the thirty-second stanza of the verse-section that internally reverses the two vows in a single line (*"requesting the buddhas to abide and turn the dharma-wheel"* — vow seven first, vow six second), all furnish the principal text used here.[^2]
 
-The **early-Buddhist Chinese-canonical layer** for the request-narratives is double-stranded. The *Brahmā Sahampati* invitation strand is preserved in the *Saṃyukta-āgama* fascicle forty-four discourse 1188 (T0099, the Chinese parallel to SN 6.1 *Āyācanasutta*); the *Dīrgha-āgama* fascicle one *Mahāpadāna* chapter (T0001, with the *Vipassi* archetype-narrative paralleling DN 14); and the *Pañcavargika-vinaya* *Mahāvagga* I.5 fascicle (T1421, whose verse *"From within the heavenly halls I have witnessed every former buddha…"* establishes the trans-buddha framing). The *Madhyama-āgama* fascicle fifty-six *Lomaka-bhāradvāja* discourse (T0026, the Chinese parallel to MN 26 *Ariyapariyesanā-sutta*) is held aside for §V's philological caveat: it preserves no *Brahmā* invitation segment, and the Anālayo strand of comparative scholarship treats the Chinese-canonical recension as the earlier stratum, leaving open the possibility that the *Brahmā* invitation narrative is a later expansion within the Pāli stream. The *Cāpāla cetiya* failed-invitation strand is preserved in the *Dīrgha-āgama* fascicle two-to-three *Mahāparinirvāṇa* chapter (T0001, the Chinese parallel to DN 16 *Mahāparinibbāna-sutta*) and the short-recension *Sūtra of the Final Nirvāṇa* (T0007), the latter of which contains the strongest single-line anchor for the present paper's thesis: *"the gate of inviting" / "opening the gate of request"* (可請之門 / 開勸請門).[^3] The Pāli sources require second-pass verification on SuttaCentral or in the PTS edition; the Chinese parallels are *verbatim* and serve as the primary footnote anchors.
+The **early-Buddhist Chinese-canonical layer** for the request-narratives is double-stranded. The *Brahmā Sahampati* invitation strand is preserved in the *Saṃyukta-āgama* fascicle forty-four discourse 1188 (T0099); the *Dīrgha-āgama* fascicle one *Mahāpadāna* chapter (T0001, with the *Vipassi* archetype-narrative); and the *Pañcavargika-vinaya* *Mahāvagga* I.5 fascicle (T1421, whose verse *"From within the heavenly halls I have witnessed every former buddha…"* establishes the trans-buddha framing). The *Madhyama-āgama* fascicle fifty-six *Lomaka-bhāradvāja* discourse (T0026) is held aside for §V's philological caveat: it preserves no *Brahmā* invitation segment, and the Anālayo strand of comparative scholarship treats the Chinese-canonical recension as the earlier stratum, leaving open the possibility that the *Brahmā* invitation narrative is a later expansion within the Pāli stream. The *Cāpāla cetiya* failed-invitation strand is preserved in the *Dīrgha-āgama* fascicle two-to-three *Mahāparinirvāṇa* chapter (T0001) and the short-recension *Sūtra of the Final Nirvāṇa* (T0007), the latter of which contains the strongest single-line anchor for the present paper's thesis: *"the gate of inviting" / "opening the gate of request"* (可請之門 / 開勸請門).[^3] These verbatim Chinese witnesses serve as the primary footnote anchors.
 
 The **Mahāyāna doctrinal layer** for vow seven's grounding is consolidated through several texts. The *Lotus Sūtra*'s *Tathāgata's Lifespan* chapter, fascicle five (T0262), supplies the *locus classicus* — *"The time since I attained buddhahood is exceedingly long, immeasurably long; the lifespan is unbounded asaṃkhyeya kalpas, ever-abiding and not extinguishing."*[^4] The *Lotus Sūtra*'s *Spiritual Powers* chapter, fascicle six, delivers the single-line internal evidence for the unity of vows six and seven: *"This very place is the platform of awakening; here the buddhas attain unsurpassed perfect enlightenment, here the buddhas turn the dharma-wheel, here the buddhas enter parinirvāṇa."*[^5] The *Vimalakīrti-nirdeśa*'s *Beholding Buddha Akṣobhya* chapter (T0475) — *"the body of all the tathāgatas is the dharma-body"* — supplies a one-line cross-reference. The *Avataṃsaka*'s *Manifestation-Origination of the Tathāgata as Jewel-King* chapter (T0278 / corresponding fascicles in T0293) — *"not in any single buddha-world does the tathāgata manifest parinirvāṇa, by way of finally being extinguished"* — supplies a second one-line cross-reference. On the doctrinal-treatise side: the *Mahāyāna-saṃgraha* fascicle three (T1593) contributes the *trikāya* definition together with the cardinal verse on *non-abiding nirvāṇa* (*apratiṣṭhita-nirvāṇa*) — *"because all hindrances are gone, one-sidedly nirvāṇa; because what is to be done is not yet completed, not one-sidedly nirvāṇa"*; the *Mahāprajñāpāramitā-śāstra* fascicle nine (T1509) supplies the line *"the dharma-body always emits light, always teaches the dharma"*; the *Mūlamadhyamakakārikā Examination of Nirvāṇa* chapter, fascicle four (T1564) supplies the cardinal couplet *"between nirvāṇa and saṃsāra there is not the slightest difference"*; the *Cheng weishi lun* (*Vijñaptimātratā-siddhi*) fascicle ten (T1585) supplies the *trikāya* cardinal definition; and the *Awakening of Faith in the Mahāyāna* (T1666) supplies the alternative two-fold body schema (*dharma-kāya* + *saṃbhoga-kāya/nirmāṇa-kāya*) — held to a vocabulary-discipline footnote in §V (the present paper uses the Yogācāra three-body vocabulary as primary).
 
@@ -308,7 +331,7 @@ A further open question is offered to the reader: does the *twin-mirror narrativ
 
 [^2]: T10n0293 fascicle forty, CBETA approximations: T10.0845b region (vow six main exposition); T10.0845b16-25 (vow six closure formula); T10.0848a (vow six verse-couplet); T10.0845b region (vow seven main exposition); T10.0845b26-c04 (vow seven closure formula); T10.0848a (vow seven verse-couplet); T10.0848a, the thirty-second stanza of the verse-section, internally pairing vows six and seven in a single line (vow seven first, vow six second — the internal-adjustability marker).
 
-[^3]: T0007 *Sūtra of the Final Nirvāṇa* (translator unrecorded); the Chinese parallel to DN 16 *Mahāparinibbāna-sutta* is T0001 *Dīrgha-āgama* fascicles two-to-three *Mahāparinirvāṇa* chapter (translated by Buddhayaśas and Zhu Fonian). The phrase *"the gate of inviting" / "opening the gate of request"* (可請之門 / 開勸請門) is the early-narrative reverse-anchor for vow seven's preemptive-correction structure. Pāli verification awaits second-pass on SuttaCentral or in the PTS edition.
+[^3]: T0007 *Mahāparinirvāṇa Sūtra* (大般涅槃經, three-fascicle recension), translated by Faxian; compare T0001 *Dīrgha-āgama* fascicles two-to-three *Mahāparinirvāṇa* chapter, translated by Buddhayaśas and Zhu Fonian. The phrase *"the gate of inviting" / "opening the gate of request"* (可請之門 / 開勸請門) is the early-narrative reverse-anchor for vow seven's preemptive-correction structure.
 
 [^4]: T0262 *Saddharmapuṇḍarīka-sūtra* fascicle five *Tathāgata's Lifespan* chapter (translated by Kumārajīva, T09n0262, 0042b16). *"Ever-abiding and not extinguishing"* is the first of three textual confirmations of vow seven's doctrinal grounding; the *dharma-kāya*'s ever-abiding is vow seven's doctrinal ground.
 
@@ -326,17 +349,17 @@ A further open question is offered to the reader: does the *twin-mirror narrativ
 
 [^11]: T10n0293, 0848a. Vow six's verse-couplet. The phrase *"those who have just attained enlightenment"* is the textual evidence for the event mode — vow six locks onto the dynamic event-instant of the dharma's being-set-in-motion, not the static fact that the dharma already turns.
 
-[^12]: T0099 *Saṃyukta-āgama* fascicle forty-four, discourse 1188 (translated by Guṇabhadra). The Chinese parallel to SN 6.1 *Āyācanasutta*; T0001 *Dīrgha-āgama* fascicle one *Mahāpadāna* chapter (parallel to DN 14, with the *Vipassi* archetype-narrative) bears the same narrative structure. Pāli verification awaits second-pass on SuttaCentral or in the PTS edition.
+[^12]: T0099 *Saṃyukta-āgama* fascicle forty-four, discourse 1188, translated by Guṇabhadra; T0001 *Dīrgha-āgama* fascicle one *Mahāpadāna* chapter, with the *Vipassi* archetype-narrative, bears the same narrative structure.
 
-[^13]: T1421 *Pañcavargika-vinaya* *Mahāvagga* I.5 (translated by Buddhajīva). The verse line *"From within the heavenly halls I have witnessed every former buddha teach"* is the trans-buddha-witnessing anchor — the textual evidence for the trans-buddha generalising structure that vow six further universalises to a trans-world, trans-temporal cosmic event.
+[^13]: T1421 *Pañcavargika-vinaya* *Mahāvagga* I.5 (translated by Buddhajīva together with Zhu Daosheng and others). The verse line *"From within the heavenly halls I have witnessed every former buddha teach"* is the trans-buddha-witnessing anchor — the textual evidence for the trans-buddha generalising structure that vow six further universalises to a trans-world, trans-temporal cosmic event.
 
-[^14]: T0026 *Madhyama-āgama* fascicle fifty-six *Lomaka-bhāradvāja* discourse (translated by Saṅghadeva), the Chinese parallel to MN 26 *Ariyapariyesanā-sutta*, preserves no *Brahmā* invitation segment; the Anālayo strand of comparative *āgama*-and-*nikāya* scholarship treats the Chinese-canonical recension as the earlier stratum (cf. Anālayo, *A Comparative Study of the Majjhima-nikāya*, Dharma Drum 2011), leaving the *Brahmā* invitation possibly a later expansion within the Pāli stream. The present paper's §III.2 carries this caveat explicitly; the caveat does not, however, undercut vow six's generalising structure (the *Mahāvagga* I.5 *verbatim* line establishes the trans-buddha grammar's textual foundation independently).
+[^14]: T0026 *Madhyama-āgama* fascicle fifty-six *Lomaka-bhāradvāja* discourse, translated by Saṅghadeva, preserves no *Brahmā* invitation segment; the Anālayo strand of comparative *āgama*-and-*nikāya* scholarship treats the Chinese-canonical recension as the earlier stratum (cf. Anālayo, *A Comparative Study of the Majjhima-nikāya*, Dharma Drum 2011), leaving the *Brahmā* invitation possibly a later expansion within the Pāli stream. The present paper's §III.2 carries this caveat explicitly; the caveat does not, however, undercut vow six's generalising structure (the *Mahāvagga* I.5 *verbatim* line establishes the trans-buddha grammar's textual foundation independently).
 
 [^15]: T10n0293, 0845b. Vow seven's main exposition. The addressee is locked onto buddhas *who are about to manifest parinirvāṇa* (the terminating instant); the addressee-tier is enlarged through five layers (buddhas + bodhisattvas + *śrāvakas* and *pratyekabuddhas* + those with-and-without-further-training + all good spiritual friends).
 
 [^16]: T10n0293, 0848a. Vow seven's verse-couplet. The verse's character *"manifest"* (*shì* 示) confirms the *nirmāṇa-kāya* (*nirmāṇa-kāya*) lifespan as the direct textual referent: what is manifested is the *nirmāṇa-kāya*'s entry into extinction; what is *already-the-case* is the *dharma-kāya*'s ever-abiding.
 
-[^17]: T0007 *Sūtra of the Final Nirvāṇa* (translator unrecorded); the corresponding fuller narrative is in T0001 *Dīrgha-āgama* fascicles two-to-three *Mahāparinirvāṇa* chapter (translated by Buddhayaśas and Zhu Fonian). The phrase *"the gate of inviting" / "opening the gate of request"* (可請之門 / 開勸請門) is the early-narrative reverse-anchor for the present paper's thesis — vow seven's preemptive-correction operates against this *failure of request*.
+[^17]: T0007 *Mahāparinirvāṇa Sūtra* (大般涅槃經, three-fascicle recension), translated by Faxian; the corresponding fuller narrative is in T0001 *Dīrgha-āgama* fascicles two-to-three *Mahāparinirvāṇa* chapter (translated by Buddhayaśas and Zhu Fonian). The phrase *"the gate of inviting" / "opening the gate of request"* (可請之門 / 開勸請門) is the early-narrative reverse-anchor for the present paper's thesis — vow seven's preemptive-correction operates against this *failure of request*.
 
 [^18]: Zongmi, *Detailed Sub-Commentary on the Practice-and-Vow Chapter*, X05n0229 line approximately 5450 region. The single line *"requesting the buddhas equals the purification of one's own mind"* is the principal textual anchor for the practitioner-side reframe of vows six and seven; it states without circumlocution that *requesting* and *purifying one's own mind* are two articulations of the same ritual gesture.
 
@@ -350,7 +373,7 @@ A further open question is offered to the reader: does the *twin-mirror narrativ
 
 [^23]: The four-register *trikāya* exposition: *dharma-kāya* (*dharma-kāya*) following T1585 *Cheng weishi lun* fascicle ten and T1593 *Mahāyāna-saṃgraha* fascicle three as principal anchor; *self-enjoyment saṃbhoga-kāya* per T1593 fascicle three; *nirmāṇa-kāya*'s parinirvāṇa as expedient-manifestation per the *Mahāyāna-saṃgraha*'s six-causes scheme together with the *Lotus Sūtra*'s expedient-means meaning; the Madhyamaka ultimate truth per the *Mūlamadhyamakakārikā Examination of Nirvāṇa* chapter, fascicle four (T1564). The *Awakening of Faith*'s two-fold body-system (T1666) is a distinct terminological system held to vocabulary-discipline footnote (see §V and note 27 below). The line *"the dharma-body always emits light, always teaches the dharma"* (T1509 *Mahāprajñāpāramitā-śāstra* fascicle nine) is internal evidence for the *dharma-kāya*'s presence-and-teaching.
 
-[^24]: T1593 *Mahāyāna-saṃgraha* fascicle three (Asaṅga's text, Vasubandhu's commentary, translated by Xuanzang). The verse *"because all hindrances are gone, one-sidedly nirvāṇa; because what is to be done is not yet completed, not one-sidedly nirvāṇa"* is the canonical-treatise articulation of *non-abiding nirvāṇa*. *"Not abiding in saṃsāra and nirvāṇa, benefiting sentient beings to the end of future time, in operation while ever still"* lines up directly with vow seven's closure clause *"so as to bring weal and benefit to every sentient being."*
+[^24]: T1593 *Mahāyāna-saṃgraha* fascicle three (composed by Asaṅga, translated by Paramārtha). The verse *"because all hindrances are gone, one-sidedly nirvāṇa; because what is to be done is not yet completed, not one-sidedly nirvāṇa"* is the canonical-treatise articulation of *non-abiding nirvāṇa*. *"Not abiding in saṃsāra and nirvāṇa, benefiting sentient beings to the end of future time, in operation while ever still"* lines up directly with vow seven's closure clause *"so as to bring weal and benefit to every sentient being."*
 
 [^25]: T46n1941 *Lotus Samādhi Repentance Liturgy* (composed by Zhiyi). The fourth section, *Inviting the Three Jewels*, is the codified mother-text for the Chinese repentance-liturgy tradition; *requesting / inviting* is here pulled out from generalised reverencing and established as a distinct ritual hinge in its own right — the pivot from self-cultivation to Three-Jewel-engaged practice. Inherited by all subsequent Chinese repentance, reverence-and-praise, and buddha-recitation systems.
 
@@ -368,7 +391,7 @@ A further open question is offered to the reader: does the *twin-mirror narrativ
 
 T0001. *Dīrgha-āgama* (*Cháng āhán jīng*). Translated by Buddhayaśas and Zhu Fonian. *Taishō Tripiṭaka* vol. 1.
 
-T0007. *Sūtra of the Final Nirvāṇa* (*Bān nèhuán jīng*, short recension). Translator unrecorded. *Taishō Tripiṭaka* vol. 1.
+T0007. *Mahāparinirvāṇa Sūtra* (*Dà bān nièpán jīng* 大般涅槃經, three-fascicle recension). Translated by Faxian. *Taishō Tripiṭaka* vol. 1.
 
 T0026. *Madhyama-āgama* (*Zhōng āhán jīng*). Translated by Saṅghadeva. *Taishō Tripiṭaka* vol. 1.
 
@@ -380,7 +403,7 @@ T0293. *Mahāvaipulya-buddhāvataṃsaka-sūtra: The Practice-and-Vow Chapter of
 
 T0475. *Vimalakīrti-nirdeśa* (the *Vimalakīrti Sūtra*). Translated by Kumārajīva. *Taishō Tripiṭaka* vol. 14.
 
-T1421. *Pañcavargika-vinaya* (*Wǔfēn lǜ*). Translated by Buddhajīva. *Taishō Tripiṭaka* vol. 22.
+T1421. *Pañcavargika-vinaya* (*Wǔfēn lǜ*). Translated by Buddhajīva together with Zhu Daosheng and others. *Taishō Tripiṭaka* vol. 22.
 
 T1509. *Mahāprajñāpāramitā-śāstra* (*Dà zhìdù lùn*). Composed by Nāgārjuna; translated by Kumārajīva. *Taishō Tripiṭaka* vol. 25.
 
@@ -390,7 +413,7 @@ T1564. *Mūlamadhyamakakārikā* (the *Madhyamaka-śāstra*). Composed by Nāgā
 
 T1585. *Cheng weishi lun* (*Vijñaptimātratā-siddhi*). Composed by Dharmapāla and others; translated by Xuanzang. *Taishō Tripiṭaka* vol. 31.
 
-T1593. *Mahāyāna-saṃgraha* (*Shè dàshèng lùn*). Composed by Asaṅga; commentary by Vasubandhu; translated by Xuanzang. *Taishō Tripiṭaka* vol. 31.
+T1593. *Mahāyāna-saṃgraha* (*Shè dàshèng lùn*). Composed by Asaṅga; translated by Paramārtha. *Taishō Tripiṭaka* vol. 31.
 
 T1666. *Awakening of Faith in the Mahāyāna* (*Dà shèng qǐxìn lùn*). Attributed to Aśvaghoṣa; translated by Paramārtha. *Taishō Tripiṭaka* vol. 32.
 
@@ -400,21 +423,13 @@ T1941. *Lotus Samādhi Repentance Liturgy*. Composed by Zhiyi. *Taishō Tripiṭ
 
 T1980. *Verses for the Six Times of Reverence-Praise*. Composed by Shandao. *Taishō Tripiṭaka* vol. 47.
 
-T2016. *Mirror of the Source-Record* (*Zōng jìng lù*). Composed by Yongming Yanshou. *Taishō Tripiṭaka* vol. 48.
+T2016. *Mirror of the Source-Record* (*Zōng jìng lù*). Compiled by Yongming Yanshou. *Taishō Tripiṭaka* vol. 48.
 
 X05n0227. *Practice-and-Vow Chapter Commentary*. Composed by Chengguan. *Wàn xùzàng* vol. 5.
 
 X05n0229. *Detailed Sub-Commentary on the Practice-and-Vow Chapter* (also known as *Bie-xing-shu chao* 別行疏鈔). Composed by Zongmi. *Wàn xùzàng* vol. 5.
 
 X22n0424. *Sub-Commentary on the Amitābha Sūtra*. Composed by Yunqi Zhuhong. *Wàn xùzàng* vol. 22.
-
-SN 6.1. *Āyācanasutta*. Pali Text Society edition. Pending second-pass verification.
-
-DN 14. *Mahāpadāna-sutta*. Pali Text Society edition. Pending second-pass verification.
-
-DN 16. *Mahāparinibbāna-sutta*. Pali Text Society edition. Pending second-pass verification.
-
-MN 26. *Ariyapariyesanā-sutta*. Pali Text Society edition. Pending second-pass verification.
 
 ### II. Patriarchal Commentaries
 
@@ -438,7 +453,7 @@ Schopen, Gregory. *Bones, Stones, and Buddhist Monks: Collected Papers on the Ar
 
 ### IV. Cross-Reference to Series Papers
 
-- P25 *Samantabhadra's Ten Great Vows: An Introduction*: the vow-king structural operator;愿王整体化;愿王 as the收攝 mechanism.
+- P25 *Samantabhadra's Ten Great Vows: An Introduction*: the vow-king structural operator;the Vow-King’s totalizing function; the Vow-King as the integrating mechanism.
 - P26 *Reverencing Buddhas, Praising Tathāgatas, Cultivating Offerings*:愿1-3 as the body-speech-mind triad.
 - P27 *Repenting Karmic Obstructions, Rejoicing in Merit*:愿4-5 as karma's twin wings (減損/增益).
 - P29 *Constantly Following the Buddha, Accommodating Sentient Beings, Universal Dedication*:愿8-10 as the upward-downward + dedication triad.
@@ -457,7 +472,7 @@ Schopen, Gregory. *Bones, Stones, and Buddhist Monks: Collected Papers on the Ar
 | 維摩詰經 | 《維摩詰所說經》 | 鳩摩羅什譯 | T0475 | 14 |
 | 大智度論 | 《大智度論》 | 龍樹造、鳩摩羅什譯 | T1509 | 25 |
 | 成唯識論 | 《成唯識論》 | 護法等造、玄奘譯 | T1585 | 31 |
-| 攝大乘論 | 《攝大乘論釋》 | 世親造、玄奘譯 | T1593 | 31 |
+| 攝大乘論 | 《攝大乘論》 | 無著造、陳真諦譯 | T1593 | 31 |
 | 起信論 | 《大乘起信論》 | 傳馬鳴造、真諦譯 | T1666 | 32 |
 | 阿弥陀經要解 | 《阿彌陀經要解》 | 蕅益智旭撰 | T1762 | 37 |
 | 法華懺儀 | 《法華三昧懺儀》 | 智顗撰 | T1941 | 46 |
@@ -478,7 +493,7 @@ Schopen, Gregory. *Bones, Stones, and Buddhist Monks: Collected Papers on the Ar
 | 維摩詰所 | 維摩詰所說經 | unknown | T0475 |
 | 大智度論 | 大智度論 | unknown | T1509 |
 | 成唯識論 | 成唯識論 | unknown | T1585 |
-| 攝大乘論 | 攝大乘論釋 | unknown | T1593 |
+| 攝大乘論 | 攝大乘論 | 無著造、陳真諦譯 | T1593 |
 | 大乘起信 | 大乘起信論 | unknown | T1666 |
 | 阿彌陀經 | 阿彌陀經要解 | unknown | T1762 |
 | 法華三昧 | 法華三昧懺儀 | unknown | T1941 |

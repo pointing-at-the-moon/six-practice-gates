@@ -10,6 +10,13 @@ part: Part III · Abhidharma and the Path of Purification
 part_number: 3
 date: 2026-06-01
 version: "1.0"
+canonical_source:
+  - "T02n0099"
+  - "T27n1545"
+  - "T29n1558"
+  - "T32n1646"
+  - "T32n1648"
+  - "MN10"
 license: CC BY-NC-SA 4.0
 ---
 
@@ -134,15 +141,7 @@ The "five gateways for stilling the mind" so familiar in later Chinese Buddhism 
 
 A last word is owed. This chapter sets the Southern temperament-grid and the Northern two-gateways side by side and compares them, but this comparison is the chapter's own synthetic work, not a unified statement ready-made in any single treatise. There is no treatise in the world that says "concentration has a Southern and a Northern method of matching to the person." The Southern "by-person" is from the Vimuttimagga; the Northern two-gateways are from the *Kośa* and the *Mahāvibhāṣā*; each has its own source. The chapter sets them side by side to show that two traditions arrived, independently, at the same structural insight — *matching the object to the currently-dominant defilement*. Set side by side and compared, not ranked, with no judgment of higher and lower: this is the consistent discipline the series keeps in handling material from more than one tradition.
 
-## VI. Modern Dialogue and Conclusion
-
-Three scholars' work is worth being in dialogue with as this system is set into the coordinates of modern research.
-
-P. V. Bapat's comparative study of the *Vimuttimagga* and the *Visuddhimagga* is the foundation for the Southern-internal comparison. He set the two meditation manuals against each other item by item, recording the structural divergences — the six versus fourteen temperaments, the thirty-eight versus forty objects — and read both as two recensions of one tradition (the *Vimuttimagga* the *Path of Freedom* preserved in Chinese, the *Visuddhimagga* the standard text of the Mahāvihāra). This chapter's footing — "two Southern recensions set side by side, so the divergence is data, not error" — rests precisely on his philological work. Bapat's project, however, is textual-comparative (who said what, where they differ); this chapter's is doctrinal-functional (why the matching system is as it is — the counteraction of defilement). For this chapter, those numerical divergences are just what shows that the stable core is the *logic of the matching*, not any exact list. And his account is confined to the two Southern texts; the Northern arm — the two gateways — lies outside its frame. (Specific pages and edition await verification.)
-
-Sarah Shaw's work on Buddhist meditation reads the objects and the temperament-matching as a pastoral, pedagogical system: the object is something a teacher *gives* to an individual student, and the forty objects are a teacher's repertoire of methods, not a self-service menu the student draws from. Her emphasis on the relational, pedagogical dimension is this chapter's strongest ally — it is the very opposite of the app's self-administered quiz. But this chapter must hold the doctrinal-structural side: the matching is finally governed by the analysis of defilement (which defilement dominates), not by a teacher's individual intuition alone. An over-pastoral reading slides, without noticing, back into the very "find what suits you" frame this chapter criticizes; so the chapter accepts the relational character of the matching with one hand and re-anchors it in the analysis of defilement with the other — what is matched is the antidote aimed at a defilement, not an expedient for building therapeutic rapport. (Specific pages and edition await verification.)
-
-K. L. Dhammajoti's systematic study of Sarvāstivāda Abhidharma gives a clear English ordering of the Northern two gateways and the logic of "object-as-antidote." Without such a Northern scholarly voice, this chapter's side-by-side comparison would have only the Southern half and would lose the Northern arm. But it should be said that what he orders is a *description* of the Northern system; this chapter's contribution is the cross-traditional synthesis — the observation that South and North arrived independently at the one insight, *matching the object to the dominant defilement* — and that synthesis is the chapter's own, built on his work rather than framed by it. (Specific pages and edition await verification.)
+## VI. Conclusion
 
 Return to the inversion of the opening. Modern personalized practice takes self-expression for its premise: the type is an identity to be affirmed, and choosing a method is like picking an agreeable product. The temperament system in the treatise literature understood "matching to the person" more than a thousand years before this line of thought — but the "person" it matched to is "which defilement dominates," not "who you are"; and what it matched is the antidote aimed at that poison, not the product that flatters the customer. This is the clinching of the two redlines: temperament is not a personality type for self-diagnosis and self-identification, and the matching is not a preference-procedure for the picking — it is the one fitting medicine the physician takes from the cabinet, against the patient's presenting illness right now.
 
@@ -206,18 +205,6 @@ Return to the inversion of the opening. Modern personalized practice takes self-
 
 - The Pāli parallel to the Vaggumudā episode is the Third Pārājika origin story (Vin 3.68–71, tr. Bhikkhu Brahmali, SuttaCentral CC0); mindfulness of breathing there as "peaceful and sublime, an unadulterated blissful abiding" (corresponding to discourse 807's "noble abiding, divine abiding, holy abiding"). *Majjhima Nikāya* 10 (the thirty-two-parts section) CC0 (Mahāsaṅgīti / Sujato). The Visuddhimagga's temperament-grid and matching-table are named here only in paraphrase and embedded nowhere verbatim.
 
-### Modern Scholarship
-
-> Publication details for the works below await final verification; the body takes only the gist of each position and quotes none of them verbatim.
-
-- Bapat, P. V. *Vimuttimagga and Visuddhimagga: A Comparative Study.* 1937. (The Southern-internal comparison — six versus fourteen, thirty-eight versus forty as two recensions, data not error; pages and edition to be verified.)
-- Shaw, Sarah. *Buddhist Meditation: An Anthology of Texts from the Pāli Canon.* Routledge, 2006. (The objects as given by a teacher, not self-selected; pages to be verified.)
-- Shaw, Sarah. *The Spirit of Buddhist Meditation.* Yale University Press, 2014. (Pages to be verified.)
-- Dhammajoti, K. L. *Sarvāstivāda Abhidharma.* Centre of Buddhist Studies, University of Hong Kong. (The two gateways and object-as-antidote / *pratipakṣa*; pages and edition to be verified.)
-- Gethin, Rupert. *The Foundations of Buddhism.* Oxford University Press, 1998. (Used here only for the practitioner-classification layer; the object-list-as-systematization point belongs to P05 and is not re-run here; pages to be verified.)
-- Cousins, L. S. Studies on the sources of *samatha* / jhāna (support for "mindfulness is not concentration").
-- Anālayo, Bhikkhu. Comparative study of the Vaggumudā episode and mindfulness of breathing (taken for episode-sourcing, without the *satipaṭṭhāna* frame).
-
 ### Sūtra & Śāstra Index
 
 | Short name | Full title / fascicle | Taishō no. | Composer / translator | Use in this chapter |
@@ -243,9 +230,9 @@ Return to the inversion of the opening. Modern personalized practice takes self-
 - **P06, *Right Concentration as the Eighth Factor of the Path*:** right concentration's place as a path-factor — presupposed by this chapter's "by-person" matching.
 - **P07, *The Concentration Factor among the Seven Awakening-Factors*:** how concentration arises in the sequence of the awakening-factors.
 - **P08, *The Five Hindrances and What Jhāna Clears*:** jhāna-factor against hindrance (suppression ≠ severance); this chapter's antidote is "object against temperament," a different axis, and does not re-walk the per-hindrance scheme.
-- **P10 (forthcoming):** the internal anatomy of the jhāna-factors' coming-to-rest (the stilling of applied and sustained thought, the arising of tranquillity and equanimity) — teed at this chapter's close.
-- **P11 (forthcoming):** the two-recension comparison of the nature of absorption.
-- **The volume's closing chapter (forthcoming):** concentration suppresses, only wisdom severs; temperament reduces to the three poisons, and the final severing of the three poisons awaits the direct seeing of wisdom — a faint gesture made here.
+- **P10:** the internal anatomy of the jhāna-factors' coming-to-rest (the stilling of applied and sustained thought, the arising of tranquillity and equanimity) — teed at this chapter's close.
+- **P11:** the two-recension comparison of the nature of absorption.
+- **The volume's closing chapter:** concentration suppresses, only wisdom severs; temperament reduces to the three poisons, and the final severing of the three poisons awaits the direct seeing of wisdom — a faint gesture made here.
 
 ---
 

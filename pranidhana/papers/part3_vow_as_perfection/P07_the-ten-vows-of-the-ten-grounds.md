@@ -1,16 +1,21 @@
 ---
 title: "The Ten Vows of the Ten Grounds"
 title_en: "The Ten Vows of the Ten Grounds"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 6 — PRAṆIDHĀNA: Aspiration and the Vow, from Pāli Roots to Samantabhadra · Part III · Vow as a Perfection"
-series_short: PRAṆIDHĀNA
+series_short: "PRAṆIDHĀNA"
 volume: 6
-paper_id: PRANIDHANA-P07
+paper_id: "PRANIDHANA-P07"
 paper_number: 7
 part: Part III · Vow as a Perfection
 part_number: 3
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T09n0278"
+  - "T10n0279"
+  - "T26n1522"
+  - "T35n1735"
 license: CC BY-NC-SA 4.0
 ---
 

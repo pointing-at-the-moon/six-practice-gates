@@ -10,6 +10,19 @@ part: "Part VI · The Śūraṅgama Reverse"
 part_number: 6
 date: "2026-05-10"
 version: "1.0"
+canonical_source:
+  - "T01n0026"
+  - "T08n0235"
+  - "T19n0945"
+  - "T22n1428"
+  - "T24n1484"
+  - "T24n1488"
+  - "T25n1509"
+  - "T30n1579"
+  - "X11n0270"
+  - "X12n0275"
+  - "X12n0279"
+  - "X13n0285"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -27,7 +40,7 @@ This paper examines the third of the *Śūraṅgama Sūtra*'s Four Pure Precepts
 
 **Core finding:** The deepest meaning of the third precept's "abandoning theft" is not the sharpening of a moral prohibition but the transformation of "not-taking" from possession to donation—using one's own body as mahā-dāna. Reverse-giving is not the *Śūraṅgama*'s creation but its internalization and sharpening of existing Mahāyāna ethical logic.
 
-**Keywords:** reverse-giving (反向施論), precept against not-taking (不盜誨), third decision pure precept (第三決定清淨明誨), stealing-mind (偷心), practicing giving (捨施), four giving against four poisons (四捨對治四毒), Jiehuan, Hanshan, Ouyi, Zhenjian, *Mahāprajñāpāramitā-śāstra*, *Yogācārabhūmi*, *Upāsakaśīla Sūtra*, Mañjuśrī's discriminating wisdom (文殊揀別智), three unattainabilities (三事不可得), pure object (物淨), body-flesh-blood with sentient beings (身肉骨血與眾生共), exploiting Tathāgata (裨販如來), dharma-theft (法盜)
+**Keywords:** reverse-giving (反向施論), precept against not-taking (不盜誨), third decision pure precept (第三決定清淨明誨), stealing-mind (偷心), practicing giving (捨施), four giving against four poisons (四捨對治四毒), Jiehuan, Hanshan, Ouyi, Zhenjian, *Mahāprajñāpāramitā-śāstra*, *Yogācārabhūmi*, *Upāsakaśīla Sūtra*, Mañjuśrī's discriminating wisdom (文殊揀別智), three unattainabilities (三事不可得), pure object (物淨), body-flesh-blood with sentient beings (身肉骨血與眾生共), exploiting Tathāgata (裨販如來; CBETA CB01140), dharma-theft (法盜)
 
 ---
 
@@ -246,7 +259,7 @@ The thread from precept-body flowing to giving-body is planted in Mañjuśrī's 
 
 ## Notes
 
-[^1]: *Śūraṅgama Sūtra*, ch.6, T19n0945, p0132b01–b21.
+[^1]: *Śūraṅgama Sūtra*, ch.6, T19n0945, p0132b01–b21. At this locus CBETA encodes gaiji CB01140; its XML `charDecl` gives the normalized form 裨 (U+7986). The Chinese quotation therefore displays CBETA's normalized form rather than the private-use glyph.
 
 [^2]: Ibid., p0132b22–b28.
 
@@ -308,7 +321,7 @@ The thread from precept-body flowing to giving-body is planted in Mañjuśrī's 
 
 [^31]: Ibid., p153b23.
 
-[^32]: This inference follows from Nāgārjuna's metaphor structure, not explicit statement—see fabrication-risk note in §C.
+[^32]: This inference follows from Nāgārjuna's metaphorical structure; it is not an explicit statement in the source.
 
 [^33]: *Yogācārabhūmi* T1579 bodhisattvabhūmi Dāna chapter (ch.39) → Śīla chapter (ch.40) adjacent.
 
@@ -328,7 +341,7 @@ The thread from precept-body flowing to giving-body is planted in Mañjuśrī's 
 
 [^41]: This is Mañjuśrī's great wisdom's distinctive feature.2.
 
-[^42]: Western readers often misread the four precepts as moralistic restriction—correction in §E §IV interlocutor dialogue.
+[^42]: Western readers often misread the four precepts as moralistic restriction; the interlocutor discussion in §IV addresses this reading.
 
 [^43]: Mañjuśrī's selection and the Four Precepts' discrimination are two faces of the same great wisdom.1.
 
@@ -366,11 +379,11 @@ The thread from precept-body flowing to giving-body is planted in Mañjuśrī's 
 
 - *Śūraṅgama Sūtra* (T0945), trans. Pramiti, Tang dynasty, *Taishō Tripiṭaka* vol.19, No.945.
 - *Madhyama Āgama* (T0026), trans. Saṅghadeva, *Taishō Tripiṭaka* vol.1, No.26.
-- *Dharmaguptaka Vinaya* (T1428), trans. Dharmākṣa & Buddhayaśas, *Taishō Tripiṭaka* vol.22, No.1428.
+- *Dharmaguptaka Vinaya* (T1428), trans. Buddhayaśas with Zhu Fonian and others, *Taishō Tripiṭaka* vol.22, No.1428.
 - *Mahāprajñāpāramitā-śāstra* (T1509), by Nāgārjuna, trans. Kumārajīva, *Taishō Tripiṭaka* vol.25, No.1509.
 - *Yogācārabhūmi* (T1579), heard by Maitreya, trans. Xuanzang, *Taishō Tripiṭaka* vol.30, No.1579.
-- *Brahmajāla Sūtra* (T1484), translator unknown, *Taishō Tripiṭaka* vol.24, No.1484.
-- *Upāsakaśīla Sūtra* (T1488), trans. Dharmakṣa, *Taishō Tripiṭaka* vol.24, No.1488.
+- *Brahmajāla Sūtra* (T1484), trans. Kumārajīva, *Taishō Tripiṭaka* vol.24, No.1484.
+- *Upāsakaśīla Sūtra* (T1488), trans. Dharmakṣema, *Taishō Tripiṭaka* vol.24, No.1488.
 - Zhenjian, *Lengyan Jing Zhengmai Shu* (X0275), Ming dynasty, *Wanxin Zuan Dazang Jing* vol.57.
 - Hanshan Deqing, *Lengyan Jing Tongyi* (X12n0279), Ming dynasty, *Wanxin Zuan Dazang Jing* vol.59.
 - Ouyi Zhixu, *Lengyan Jing Wenju* (X13n0285), late Ming–early Qing, *Wanxin Zuan Dazang Jing* vol.60.
@@ -388,11 +401,11 @@ The thread from precept-body flowing to giving-body is planted in Mañjuśrī's 
 |-------|------|- --|-- -----|
 | 楞嚴經 | Śūraṅgama Sūtra | T0945 | Pramiti, trans. |
 | 中阿含 | Madhyama Āgama | T0026 | Saṅghadeva, trans. |
-| 四分律 | Dharmaguptaka Vinaya | T1428 | Dharmākṣa & Buddhayaśas, trans. |
-| 大wisdom度論 | Mahāprajñāpāramitā-śāstra | T1509 | Nāgārjuna, Kumārajīva, trans. |
+| 四分律 | Dharmaguptaka Vinaya | T1428 | Buddhayaśas with Zhu Fonian and others, trans. |
+| 大智度論 | Mahāprajñāpāramitā-śāstra | T1509 | Nāgārjuna, Kumārajīva, trans. |
 | 瑜伽師地論 | Yogācārabhūmi | T1579 | Maitreya, Xuanzang, trans. |
-| 梵網經 | Brahmajāla Sūtra | T1484 | Translator unknown |
-| 優婆塞戒經 | Upāsakaśīla Sūtra | T1488 | Dharmakṣa, trans. |
+| 梵網經 | Brahmajāla Sūtra | T1484 | Kumārajīva, trans. |
+| 優婆塞戒經 | Upāsakaśīla Sūtra | T1488 | Dharmakṣema, trans. |
 | 正脉疏 | Zhengmai Shu on the Śūraṅgama | X0275 | Zhenjian |
 | 通議 | Tongyi on the Śūraṅgama | X12n0279 | Hanshan Deqing |
 | 文句 | Wenju on the Śūraṅgama | X13n0285 | Ouyi Zhixu |

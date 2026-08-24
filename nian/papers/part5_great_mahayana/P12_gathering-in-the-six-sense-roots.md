@@ -10,6 +10,14 @@ part: "Part V · Recollection in the Great Mahāyāna Sūtras"
 part_number: 5
 date: "2026-04-18"
 version: "1.0"
+canonical_source:
+  - "T12n0366"
+  - "T12n0367"
+  - "T19n0945"
+  - "T37n1762"
+  - "X12n0275"
+  - "X13n0285"
+  - "X22n0424"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -207,7 +215,7 @@ The three-layered argument closes: the spatial axis (deepening from single actio
 
 ## IV. Lianchi ↔ Jiaoguang ↔ Zhixu: Three Readings from the Late-Ming *Śūraṅgama* Commentators
 
-§IV of P11 already presented the two parallel late-Ming Pure Land commentarial perspectives of Lianchi's *Commentary and Notes* (X0424, 1595) and Zhixu's *Essential Explanation* (T1762, 1647) on T0366. Entering T0945, all three late-Ming figures simultaneously bear a complete commentarial tradition on the Mahāsthāmaprāpta chapter: Lianchi's position is primarily seen in X0424's gloss of "holding" and its extensions, and in the scattered *Śūraṅgama*-related pieces of his *Yunqi Collected Dharma* (*Yúnqī Fǎhuì* 雲棲法彙); Jiaoguang Zhenjian's *Straight Vein Commentary* (X0275, 1594–1596) is the most comprehensive single work of late-Ming *Śūraṅgama* exegesis; Zhixu authored *Lines and Verses of the Śūraṅgama* (*Léngyán Jīng Wénjù* 楞嚴經文句) and his *Profound Meaning* (*Xuányì* 玄義) in 1651.[^19] The three commentators give three irreducible readings of the Mahāsthāmaprāpta chapter's core operational sentence "gathering in the six sense-roots, with pure recollection uninterrupted."
+§IV of P11 already presented the two parallel late-Ming Pure Land commentarial perspectives of Lianchi's *Commentary and Notes* (X0424, 1595) and Zhixu's *Essential Explanation* (T1762, 1647) on T0366. Entering T0945, all three late-Ming figures simultaneously bear a complete commentarial tradition on the Mahāsthāmaprāpta chapter: Lianchi's position is primarily seen in X0424's gloss of "holding" and its extensions, and in the scattered *Śūraṅgama*-related pieces of his *Yunqi Collected Dharma* (*Yúnqī Fǎhuì* 雲棲法彙); Jiaoguang Zhenjian's *Straight Vein Commentary* (X0275, 1594–1596) is the most comprehensive single work of late-Ming *Śūraṅgama* exegesis; Zhixu authored *Lines and Verses of the Śūraṅgama* (*Léngyán Jīng Wénjù* 楞嚴經文句, X13n0285) and his *Profound Meaning* (*Xuányì* 玄義) in 1651.[^19] The three commentators give three irreducible readings of the Mahāsthāmaprāpta chapter's core operational sentence "gathering in the six sense-roots, with pure recollection uninterrupted."
 
 ### 4.1 Three Ways of Partitioning the Verb *Recollection*
 
@@ -360,7 +368,7 @@ The eight sūtras each enter distinctively — neither a single-line derivation 
 - Jiaoguang Zhenjian. *Dà Fódǐng Shǒuléngyán Jīng Zhèngmài Shū* 大佛頂首楞嚴經正脈疏 (*Commentary on the Straight Vein of the Great-Buddha-Crown Śūraṅgama Sūtra*), ten fascicles. *Manji zokuzōkyō* vols. 18–19, No. X0275 (Ming, Wanli 22–24, 1594–1596).
 - Yunqi Zhuhong. *Fóshuō Āmítuó Jīng Shūchāo* 佛說阿彌陀經疏鈔 (*Commentary and Notes on the Amitābha Sūtra*), four fascicles. *Manji zokuzōkyō* vol. 22, No. X0424 (Ming, Wanli 23, 1595).
 - Ouyi Zhixu. *Fóshuō Āmítuó Jīng Yàojiě* 佛說阿彌陀經要解 (*Essential Explanation of the Amitābha Sūtra*), one fascicle. *Taishō* vol. 37, No. T1762 (Qing, Shunzhi 4, 1647).
-- Ouyi Zhixu. *Léngyán Jīng Wénjù* 楞嚴經文句 (*Lines and Verses of the Śūraṅgama*) and *Xuányì* 玄義 (*Profound Meaning*), Qing, Shunzhi 8 (1651), included in *Complete Works of Master Ouyi*.
+- Ouyi Zhixu. *Léngyán Jīng Wénjù* 楞嚴經文句 (*Lines and Verses of the Śūraṅgama*), X13n0285, and *Xuányì* 玄義 (*Profound Meaning*), Qing, Shunzhi 8 (1651), included in *Complete Works of Master Ouyi*.
 
 ### III. Modern Scholarship
 

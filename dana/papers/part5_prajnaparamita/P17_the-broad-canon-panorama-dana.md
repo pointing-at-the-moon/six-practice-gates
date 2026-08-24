@@ -10,6 +10,28 @@ part: "Part V · Non-Abiding Giving in the Prajñāpāramitā Tradition"
 part_number: 5
 date: "2026-05-10"
 version: "1.0"
+canonical_source:
+  - "T05n0220a"
+  - "T07n0220c"
+  - "T07n0220d"
+  - "T07n0220e"
+  - "T07n0220f"
+  - "T07n0220g"
+  - "T07n0220h"
+  - "T07n0220i"
+  - "T07n0220j"
+  - "T07n0220k"
+  - "T07n0220l"
+  - "T07n0220m"
+  - "T07n0220n"
+  - "T07n0220o"
+  - "T08n0235"
+  - "T08n0251"
+  - "T25n1509"
+  - "T33n1710"
+  - "T33n1711"
+  - "T33n1712"
+  - "T33n1713"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -31,9 +53,9 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-This paper examines the *Mahāprajñāpāramitā Sūtra*'s (T0220, 600 chapters) discourse on dāna-pāramitā, arguing that the "broad canon" (廣本) and the *Heart Sūtra*'s "abbreviated canon" (略本) are not contradictory but the same prajñāpāramitā principle manifesting through different adaptive contexts. Using CBETA primary sources, the analysis examines: (1) the dāna→śīla→dhyāna→prajñā gradual arc in chapter 528; (2) the "no attainment + giving" structural formula co-occurring across 196 chapters (~299 passages); (3) the density of 68 "should practice giving" commands in chapters 162–165; and (4) Fazang's (法藏) "廣略隨緣" (broad and abbreviated adapting to context) hermeneutical framework.
+This paper examines the *Mahāprajñāpāramitā Sūtra*'s (T0220, 600 fascicles) discourse on dāna-pāramitā, arguing that the "broad canon" (廣本) and the *Heart Sūtra*'s "abbreviated canon" (略本) are not contradictory but the same prajñāpāramitā principle manifesting through different adaptive contexts. Using CBETA primary sources, the analysis examines: (1) the dāna→śīla→dhyāna→prajñā gradual arc in fascicle 528; (2) the extensively recurring "no attainment + giving" structural formula; (3) 68 exact occurrences of "應修布施波羅蜜多" across fascicles 162–165; and (4) Fazang's (法藏) "廣略隨緣" (broad and abbreviated adapting to context) hermeneutical framework.
 
-**Findings:** (1) Chapter 528's "妙相品" (Auspicious Marks Chapter) provides the broad canon's unique gradual arc from dāna through śīla, dhyāna, prajñā, vimukti, and vimukti-jñāna-darśana — a complete cultivation arc from giving to all-knowledge (一切智智); (2) "以無所得而為方便，修行布施波羅蜜多" (with non-attainment as the expedient means, practicing the pāramitā of giving) is a structural formula spanning from the first division to the third, with ~299 co-occurring passages across 196 chapters — emptiness language is not the negation of giving but the epistemological condition enabling giving to "perfect all six pāramitās"; (3) Chapters 162–165 densely repeat "should practice giving," proving the broad canon is not silent — it specifies through exhaustive repetition how to correctly practice dāna; (4) Fazang's framework shows the broad canon and the *Heart Sūtra* as the same prajñāpāramitā principle responding to different contexts, with the *Heart Sūtra*'s silence on dāna stemming from its function as abbreviated canon dedicated to "revealing dharmatā-śūnyatā."
+**Findings:** (1) Fascicle 528's "妙相品" (Auspicious Marks Chapter) provides the broad canon's unique gradual arc from dāna through śīla, dhyāna, prajñā, vimukti, and vimukti-jñāna-darśana — a complete cultivation arc from giving to all-knowledge (一切智智); (2) "以無所得而為方便，修行布施波羅蜜多" (with non-attainment as the expedient means, practicing the pāramitā of giving) recurs extensively from the first division into the second and third divisions — emptiness language is not the negation of giving but the epistemological condition enabling giving to "perfect all six pāramitās"; (3) Fascicles 162–165 densely repeat "should practice giving," proving the broad canon is not silent — it specifies through exhaustive repetition how to correctly practice dāna; (4) Fazang's framework shows the broad canon and the *Heart Sūtra* as the same prajñāpāramitā principle responding to different contexts, with the *Heart Sūtra*'s silence on dāna stemming from its function as abbreviated canon dedicated to "revealing dharmatā-śūnyatā."
 
 **Core finding:** The broad canon unfolds the complete discourse on dāna and the six pāramitās within emptiness's protection (護持), offering a perspective the *Heart Sūtra* cannot provide — seeing the necessity of giving within emptiness, and seeing the practice of emptiness within giving.
 
@@ -42,9 +64,9 @@ This paper examines the *Mahāprajñāpāramitā Sūtra*'s (T0220, 600 chapters)
 ---
 
 > 「是菩薩摩訶薩由布施故，受持戒蘊，生天人中，得大尊貴；由施、戒故，復得定蘊；由施、戒、定故，復得慧蘊；由施、戒、定、慧故，復得解脫蘊；由施、戒、定、慧、解脫故，復得解脫智見蘊；由施、戒、定、慧、解脫、解脫智見蘊圓滿故，超諸聲聞、獨覺等地，證入菩薩正性離生……而於一切都無所得。何以故？以一切法無自性故。」
-> — *Mahāprajñāpāramitā Sūtra*, chapter 528, 妙相品第二十八之一, Xuanzang trans., T0220c
+> — *Mahāprajñāpāramitā Sūtra*, fascicle 528, 妙相品第二十八之一, Xuanzang trans., CBETA T07n0220c
 
-These six layers of gradual accumulation — from dāna through śīla and dhyāna, prajñā, vimukti, and vimukti-jñāna-darśana — form the central skeleton of every pāramitā chapter in the 600-chapter broad canon. Chapter 528's "妙相品" maps a complete path from worldly wholesome action to otherworldly wisdom, from conditioned giving to unconditioned prajñā.
+These six layers of gradual accumulation — from dāna through śīla and dhyāna, prajñā, vimukti, and vimukti-jñāna-darśana — organize the six-pāramitā passage within fascicle 528's "妙相品." In that bounded passage, the text maps a path from worldly wholesome action to otherworldly wisdom, from conditioned giving to unconditioned prajñā.
 
 Notably, the first item on this arc is not "prajñā" or "emptiness" but "dāna" (giving). This carries profound significance within the Mahāyāna Buddhist context — the starting point of prajñāpāramitā is not abstract theoretical insight but concrete giving practice. Without dāna as foundation, prajñā remains an ungrounded abstraction.
 
@@ -52,9 +74,9 @@ But the Heart Sūtra does not contain this arc. Not an omission — it would be 
 
 Paper 16 established a profound insight through the Heart Sūtra's silence: dāna, along with all six pāramitās, is "compressed" (總合說) within the single phrase "no knowledge and no attainment" (無智亦無得). Silence is not passive absence but active containment.
 
-Paper 17 now asks: if the Heart Sūtra is "abbreviated," what does the 600-chapter "broad canon" display?
+Paper 17 now asks: if the Heart Sūtra is "abbreviated," what does the 600-fascicle "broad canon" display?
 
-The answer is more profound than "an expanded Heart Sūtra." The Mahāprajñāpāramitā broad canon does not merely confirm the Heart Sūtra's emptiness language — it presents a path of practice that the Heart Sūtra cannot unfold but cannot omit: a gradual accumulation arc starting from dāna, a "no attainment + giving" structural formula spanning 196 chapters, and the extreme command density of 68 "should practice giving" in chapters 162–165.
+The answer is more profound than "an expanded Heart Sūtra." The Mahāprajñāpāramitā broad canon does not merely confirm the Heart Sūtra's emptiness language — it presents a path of practice that the Heart Sūtra cannot unfold but cannot omit: a gradual accumulation arc starting from dāna, an extensively recurring "no attainment + giving" structural formula, and 68 exact occurrences of "應修布施波羅蜜多" across fascicles 162–165.
 
 The broad canon is not an expansion of the abbreviated canon. It is its unfolding; the abbreviated canon is its compression. Both are complete manifestations of the same prajñāpāramitā principle in different adaptive contexts.
 
@@ -76,9 +98,9 @@ But this compression carries an inevitable consequence: readers will ask "If all
 
 The broad canon answers. In an unexpected way — not with a parallel list of six pāramitās, but with a gradual accumulation arc starting from dāna.
 
-### 1.2 Chapter 528's Sixfold Gradual Arc: From Dāna to All-Knowledge
+### 1.2 Fascicle 528's Sixfold Gradual Arc: From Dāna to All-Knowledge
 
-Chapter 528's "妙相品第二十八之一" presents the broad canon's most complete six-fold gradual arc. The text's core structure is progressively cumulative:
+Fascicle 528's "妙相品第二十八之一" presents the broad canon's most complete six-fold gradual arc. The text's core structure is progressively cumulative:
 
 > 「是菩薩摩訶薩由布施故，受持戒蘊，生天人中，得大尊貴；由施、戒故，復得定蘊；由施、戒、定故，復得慧蘊；由施、戒、定、慧故，復得解脫蘊；由施、戒、定、慧、解脫故，復得解脫智見蘊。」[^1]
 
@@ -92,7 +114,7 @@ Gradual accumulation and non-attainment are presented together — not "accumula
 
 ### 1.3 Structural Significance of the Arc
 
-The dāna→śīla→dhyāna→prajñā gradual arc in chapter 528 holds structural significance across the 600 chapters. It appears once in each of the six pāramitā chapters — the dāna chapter presents it most completely, the others abbreviate with "既行施已" — forming the architecture of the entire section.[^2]
+The dāna→śīla→dhyāna→prajñā gradual arc has a clear structural role in fascicle 528. Within the same passage of the "妙相品," six consecutive paragraphs take the six pāramitās in turn: the dāna paragraph presents the cumulative sequence most fully, while the following paragraphs return to giving with "既行施已" before continuing through the remaining aggregates.[^2]
 
 This is not random repetition. It is the main pillar of the broad canon's theory of the six pāramitās: the six pāramitās are not parallel options but an inevitable unfolding starting from dāna. Each pāramitā is the natural extension of the preceding — giving's natural extension is śīla (the giver must have pure conduct), śīla's natural extension is dhyāna (pure conduct's natural extension is mental concentration), dhyāna's natural extension is prajñā (concentrated mind's natural extension is wisdom).
 
@@ -106,9 +128,9 @@ Notably, the first item of this arc is "dāna" — not "prajñā," not "śīla,"
 
 ### 2.1 The Structural Formula of "No Attainment + Giving"
 
-The most striking feature of the 600-chapter broad canon is the ultra-high-frequency co-occurrence of "no attainment" (無所得) and "giving" (布施). In the T0220a (chapters 1–200, first division) and T0220c (chapters 401–537, third division) sections, these two concepts co-occur in the same paragraph across 196 chapters, totaling approximately 299 passages.[^3]
+One striking feature of the 600-fascicle broad canon is the extensive recurrence of "no attainment" (無所得) together with "giving" (布施). T05n0220a contains the first division (fascicles 1–200), while T07n0220c contains the second division (401–478) and third division (479–537); the formula recurs across these divisions. A direct example occurs in fascicle 48 at T05p0268c27.[^3]
 
-The highest density appears in chapter 048 — within fewer than 10 chapters, 11 passages simultaneously contain both "無所得" and "布施." The core formula repeats:
+A direct instance appears in fascicle 48. The core formula repeats:
 
 > 「若菩薩摩訶薩以無所得而為方便，修行布施波羅蜜多，了達一切施者、受者及所施物皆不可得，如是布施方便善巧，能滿布施、淨戒、安忍、精進、靜慮、般若波羅蜜多。」[^4]
 
@@ -126,7 +148,7 @@ The character "滿" (complete/perfect) is crucial — dāna is already dāna; it
 
 The most difficult aspect of the broad canon's emptiness language is that it simultaneously does two seemingly contradictory things: thoroughly deconstructing all dharmas while actively exhorting all wholesome actions.
 
-Chapter 044 provides the most concise expression:
+Fascicle 44 provides the most concise expression:
 
 > 「雖說修布施波羅蜜多法不可得，說修淨戒、安忍、精進、靜慮、般若波羅蜜多法不可得，而勸依此法勤修善根，不令迴向聲聞、獨覺，唯令證得一切智智。」[^6]
 
@@ -134,15 +156,15 @@ Chapter 044 provides the most concise expression:
 
 There is a deeper doctrinal mechanism here: the broad canon's emptiness language is not passive negation but active liberation. If dharmas were inherently existent, giving would be a limited wholesome act — limited giver, limited receiver, limited gift, limited merit. But because dharmas are unattainable, giving's limitations are liberated — giving is no longer bounded by any fixed boundary, becoming limitless merit.[^29]
 
-This is not passive "emptiness" (空有) but active "true emptiness, wondrous existence" (真空妙有). Emptiness is not negation of giving but liberation of giving — transforming it from finite to limitless, from worldly to otherworldly, from conditioned to unconditioned.
+In the later East Asian interpretive idiom, this can be described as "true emptiness, wondrous existence" (真空妙有); the phrase itself is not wording from T0220. Here emptiness is not negation of giving but liberation of giving — transforming it from finite to limitless, from worldly to otherworldly, from conditioned to unconditioned.
 
 ### 2.3 Original Terminology: "Three Wheels Purified" (三輪清淨)
 
-In discussing the broad canon's discourse on dāna, an important philological warning must be clarified first: the original texts of T0220a and T1509 do not use the fixed term "三輪體空."
+In discussing the broad canon's discourse on dāna, an important philological warning must be clarified first: the original texts of CBETA T05n0220a and T1509 do not use the fixed term "三輪體空."
 
-T0220a chapter 048's original text says "不見施者、受者、施物，三輪清淨而行布施" — the three wheels are "清淨" (purified), not "體空" (inherently empty).[^8]
+CBETA T05n0220a fascicle 48's original text says "不見施者、受者、施物，三輪清淨而行布施" — the three wheels are "清淨" (purified), not "體空" (inherently empty).[^8]
 
-T1509 chapter 012's original text says "三事不可得" (the three things — wealth, giver, receiver — are unattainable).[^9]
+T1509 fascicle 12's original text says "三事不可得" (the three things — wealth, giver, receiver — are unattainable).[^9]
 
 "三輪體空" as a fixed term was later established in Tiantai Zhiyi's (*天台智顗*) *Mohe Zhiguan* (《摩訶止觀》) and subsequent tradition. When discussing the broad canon, one should use the original wording (原文措辭), noting in parentheses "later called 三輪體空." This is not merely philological precision — the original wording itself carries doctrinal information: "三輪清淨" emphasizes purification rather than nullification; "三事不可得" emphasizes unattainability rather than non-existence.
 
@@ -154,41 +176,41 @@ T1509 chapter 012's original text says "三事不可得" (the three things — w
 
 If the broad canon truly deconstructs all dharmas through emptiness, why repeatedly command bodhisattvas to "should practice giving"?
 
-The answer is found in chapters 162–165, the "真正布施波羅蜜多品" (Genuine Pāramitā of Giving Chapter). This text uses a framework of dialogue between Indra (帝釋天, king of the gods) and the Buddha, where the Buddha repeatedly proclaims through the template "汝善男子應修布施波羅蜜多，不應觀……" (you good person should practice the pāramitā of giving, should not view...), extending from the five aggregates to the twelve āyatanas, eighteen dhātus, six pāramitās, and all-knowledge.[^10]
+The answer is found in fascicles 162–165, the "真正布施波羅蜜多品" (Genuine Pāramitā of Giving Chapter). This text uses a framework of dialogue between Indra (帝釋天, king of the gods) and the Buddha, where the Buddha repeatedly proclaims through the template "汝善男子應修布施波羅蜜多，不應觀……" (you good person should practice the pāramitā of giving, should not view...), extending from the five aggregates to the twelve āyatanas, eighteen dhātus, six pāramitās, and all-knowledge.[^10]
 
-The extreme density of at least 68 commands is not a casual proclamation but a systematic construction. Each round of command contains two parts: positive command (should practice giving) and negative exclusion (should not view the five aggregates, etc.). It is precisely this dual structure of affirmation and negation that precisely defines "真正的布施波羅蜜多" (genuine pāramitā of giving) — not ordinary giving, but giving practiced under emptiness-view.[^10]
+The 68 exact occurrences of "應修布施波羅蜜多" across fascicles 162–165 are not a casual proclamation but a systematic construction. Each round of command contains two parts: positive command (should practice giving) and negative exclusion (should not view the five aggregates, etc.). It is precisely this dual structure of affirmation and negation that defines "真正的布施波羅蜜多" (genuine pāramitā of giving) — not ordinary giving, but giving practiced under emptiness-view.[^10]
 
 The word "真正" (genuine) should not be taken lightly. The broad canon explicitly distinguishes two types of giving: ordinary giving (世間施, worldly giving) and genuine pāramitā of giving (出世施, otherworldly giving). The distinguishing criterion is not external behavior — both may appear as the same wealth-giving, the same Dharma-teaching, the same fearlessness-giving — but internal cognition: whether it is held by emptiness-view.
 
-### 3.2 Chapter 581's Ten-Direction World Scene
+### 3.2 Fascicle 581's Ten-Direction World Scene
 
-Extreme density is not limited to chapters 162–165. Chapters 581–581 repeat "菩薩求大菩提，皆應如是修行布施" (bodhisattvas seeking great bodhi should all practice giving thus) 14 times within a ten-direction world scene.[^11]
+Dense repetition is not limited to fascicles 162–165. In T07n0220j fascicle 581, the exact phrase "應如是修行布施" occurs 15 times across escalating eastern-world scales and the remaining directions; 13 of those occurrences include "皆應".[^11]
 
-These are not redundant dogmas. Within the context of Buddhist cultivation, repeated command itself is doctrine — when a practice is repeatedly commanded over a hundred times, each repetition deepens a core message: giving is not an optional add-on but a necessary component of the bodhi path.
+These are not redundant dogmas. Within the context of Buddhist cultivation, repeated command itself carries doctrinal force: each repetition deepens a core message that giving is not an optional add-on but a necessary component of the bodhi path.
 
 ### 3.3 Prajñā as Guide of the Six Pāramitās: Three Metaphors
 
-The *Mahāprajñāpāramitā-śāstra* (大智度論) provides the key to understanding the broad canon's discourse on dāna — prajñā is not one among the six pāramitās but their guiding principle.
+The *Mahāprajñāpāramitā-śāstra* (大智度論) provides the key to understanding the broad canon's discourse on dāna: prajñā is the sixth pāramitā and guides the other five.
 
-Nāgārjuna (*龍樹*) establishes this argument in chapter 34 with three metaphors:
+Nāgārjuna (*龍樹*) establishes this argument in fascicle 34 with three metaphors:
 
 > 「五波羅蜜如盲，般若波羅蜜如眼；五波羅蜜如坏瓶盛水，般若波羅蜜如盛熟瓶；五波羅蜜如鳥無兩翼，般若波羅蜜如有翼之鳥。如是等種種因緣故，般若波羅蜜能成大事。」[^12]
 
-The common direction of these three metaphors: the first five (dāna, śīla, kṣānti, vīrya, dhyāna) are "like blind," "like cracked vessels holding water," "like birds without wings" without prajñā. Prajñā is not the fifth item but the transformative condition enabling the first five to become *pāramitās*.[^13]
+The common direction of these three metaphors: the first five (dāna, śīla, kṣānti, vīrya, dhyāna) are "like blind," "like cracked vessels holding water," "like birds without wings" without prajñā. Prajñā is the sixth, and it is also the transformative condition enabling the first five to become *pāramitās*.[^13]
 
-Each metaphor carries distinct emphasis: the first (blind and eye) emphasizes directionality — the first five need prajñā to guide their direction; the second (cracked jar and fired jar) emphasizes capacity — the first five need prajñā to contain limitless merit; the third (bird and wings) emphasizes transcendence — the first five need prajñā to transcend worldly limitations. Together, prajñā is not one among the six pāramitās but the fundamental condition for the six to become the six.
+Each metaphor carries distinct emphasis: the first (blind and eye) emphasizes directionality — the first five need prajñā to guide their direction; the second (cracked jar and fired jar) emphasizes capacity — the first five need prajñā to contain limitless merit; the third (bird and wings) emphasizes transcendence — the first five need prajñā to transcend worldly limitations. Together, the sixth pāramitā, prajñā, is not merely a coordinate member but the guiding condition through which the first five become pāramitās.
 
-This means the dāna→śīla→dhyāna→prajñā gradual arc in chapter 528 — not independent worldly merit accumulation, but a cultivation path held within prajñā's guidance. Dāna can serve as starting point not because it is already complete, but because it is held by prajñā, transformed from "worldly karma with finite results" to "bodhi provisions reaching the other shore."[^14]
+This means the dāna→śīla→dhyāna→prajñā gradual arc in fascicle 528 — not independent worldly merit accumulation, but a cultivation path held within prajñā's guidance. Dāna can serve as starting point not because it is already complete, but because it is held by prajñā, transformed from "worldly karma with finite results" to "bodhi provisions reaching the other shore."[^14]
 
 ### 3.4 The Primary–Secondary Structure of Dāna's Merit
 
-The *Mahāprajñāpāramitā-śāstra* chapter 012 further unfolds the framework of dāna's merit:
+The *Mahāprajñāpāramitā-śāstra* fascicle 12 further unfolds the framework of dāna's merit:
 
 > 「三事因緣生檀：一者、信心清淨，二者、財物，三者、福田。……第一從心，如四等心、念佛三昧……是名為從心大得功德。」[^15]
 
 The ordering here is crucial: "第一從心，次從福田，次從妙物" (first from the mind, second from the field of merit, third from the exquisite gift). The primary cause of merit is the giver's mind (pure faith), not the receiver's field of merit or the quality of the gift. This establishes the core of Mahāyāna's doctrine of dāna's merit: giving's merit lies not in external conditions but in the inner purity of the giver's mind.
 
-This complements chapter 528's gradual arc: the arc shows from the "action" level the path from dāna to all-knowledge; the three conditions of merit reveal from the "mind" level the root of dāna's merit. Together, they form the complete picture of the broad canon's discourse on dāna.[^33]
+This complements fascicle 528's gradual arc: the arc shows from the "action" level the path from dāna to all-knowledge; the three conditions of merit reveal from the "mind" level the root of dāna's merit. Together, they form the complete picture of the broad canon's discourse on dāna.[^33]
 
 Furthermore, the *śāstra*'s merit theory and the broad canon's gradual arc jointly point to a core principle: dāna is not a virtue independent of prajñā but an otherworldly practice with prajñā as its core. The root of merit lies not in external field of merit or exquisite gift but in inner pure mind — this pure mind itself is grounded in prajñā's emptiness-view.
 
@@ -202,7 +224,7 @@ Fazang (*法藏*) provides the most direct Tang-dynasty hermeneutical resource i
 
 > 「若歷事備陳，言過二十萬頌，若撮其樞要，理盡一十四行，是知詮真之教，乍廣略而隨緣，超言之宗，性圓通而俱現。」[^16]
 
-The core here is "廣略隨緣" (broad and abbreviated adapting to context) — the broad canon (600 chapters, 200,000 verses) and the abbreviated canon (14 lines, the Heart Sūtra) are not opposing texts but manifestations of the same prajñāpāramitā principle in different contexts. The broad canon is "歷事備陳" (systematic exposition of each matter in detail); the abbreviated canon is "撮其樞要" (extraction of core principles).[^16]
+The core here is "廣略隨緣" (broad and abbreviated adapting to context) — the broad canon (600 fascicles, 200,000 verses) and the abbreviated canon (14 lines, the Heart Sūtra) are not opposing texts but manifestations of the same prajñāpāramitā principle in different contexts. The broad canon is "歷事備陳" (systematic exposition of each matter in detail); the abbreviated canon is "撮其樞要" (extraction of core principles).[^16]
 
 "Twenty thousand verses" versus "fourteen lines" — these two numbers themselves are a profound contrast. The broad canon's 200,000 verses are not arbitrarily extended verbose exposition but a systematic construction of "歷事備陳"; the abbreviated canon's 14 lines are not hasty compression but "理盡" (complete exhaustion of principle). Fazang uses "性圓通而俱現" (nature perfectly complete and mutually manifesting) to describe them — both are equally complete and perfectly accomplished on the level of śūnyatā.
 
@@ -228,11 +250,11 @@ This distinction is crucial: the Heart Sūtra did not "forget" dāna — its tas
 
 Modern scholars' understanding of the relationship between the broad canon and the Heart Sūtra provides another dimension of dialogue.
 
-Edward Conze, in his English translation of the broad canon, tends toward a prajñā-centric theory of the six pāramitās — prajñā's position almost overshadows the other five, to the point where "dāna" becomes almost subsidiary in Conze's interpretation of the broad canon.[^35] Conze's position has textual support — T0220a chapter 049 "修行般若波羅蜜多時" (when practicing the pāramitā of prajñā) as the overarching framework does show prajñā's unifying role.
+Edward Conze, in his English translation of the broad canon, tends toward a prajñā-centric theory of the six pāramitās — prajñā's position almost overshadows the other five, to the point where "dāna" becomes almost subsidiary in Conze's interpretation of the broad canon.[^35] Conze's position has textual support — CBETA T05n0220a fascicle 49 "修行般若波羅蜜多時" (when practicing the pāramitā of prajñā) as the overarching framework does show prajñā's unifying role.
 
-But Conze underestimates the independent narrative force of dāna discourse in the broad canon. Chapter 528's dāna→śīla→dhyāna→prajñā gradual arc is structurally a complete arc starting from dāna and ending in all-knowledge, not "subsidiary items under prajñā's command"; chapters 162–165's "Genuine Pāramitā of Giving Chapter" unfolds pure dāna discourse at extreme density, and Conze's prajñā-centric view cannot explain this independent chapter's existence.
+But Conze underestimates the independent narrative force of dāna discourse in the broad canon. Fascicle 528's dāna→śīla→dhyāna→prajñā gradual arc is structurally a complete arc starting from dāna and ending in all-knowledge, not "subsidiary items under prajñā's command"; fascicles 162–165's "Genuine Pāramitā of Giving Chapter" unfolds pure dāna discourse at extreme density, and Conze's prajñā-centric view cannot explain this independent chapter's existence.
 
-Étienne Lamotte, through his French translation of the *Mahāprajñāpāramitā-śāstra*, established the framework of dāna's merit within Mahāyāna commentary — "三事因緣生檀" (the three conditions generating dāna: pure faith, wealth, field of merit) — and particularly emphasized the purity of the giver's mind as the primary cause of merit.[^36] Lamotte's framework provides precise Yogācāra-Madhyamaka context for dāna's merit theory, but he did not sufficiently connect T0220's main text (正文) dāna→śīla→dhyāna→prajñā gradual arc (chapter 528); the broad canon is not only dāna's merit theory but also dāna's complete gradual narrative as the foundation of the bodhisattva path.
+Étienne Lamotte, through his French translation of the *Mahāprajñāpāramitā-śāstra*, established the framework of dāna's merit within Mahāyāna commentary — "三事因緣生檀" (the three conditions generating dāna: pure faith, wealth, field of merit) — and particularly emphasized the purity of the giver's mind as the primary cause of merit.[^36] Lamotte's framework provides precise Yogācāra-Madhyamaka context for dāna's merit theory, but he did not sufficiently connect T0220's main text (正文) dāna→śīla→dhyāna→prajñā gradual arc (fascicle 528); the broad canon is not only dāna's merit theory but also dāna's complete gradual narrative as the foundation of the bodhisattva path.
 
 ### 4.5 The Same Prajñāpāramitā in Broad and Abbreviated Canons
 
@@ -250,7 +272,7 @@ Dāna, under prajñā's guidance, becomes a *pāramitā*; prajñā, within dāna
 
 ### 5.1 Preventing Overextension: The Broad Canon Is Not Gradual Merit-ism
 
-The most likely misreading of chapter 528's gradual arc is: dāna is merely worldly merit accumulation, ultimately to be transcended by prajñā. This is the misreading of "gradual merit-ism."
+The most likely misreading of fascicle 528's gradual arc is: dāna is merely worldly merit accumulation, ultimately to be transcended by prajñā. This is the misreading of "gradual merit-ism."
 
 The end of the gradual arc explicitly denies this reading:
 
@@ -280,7 +302,7 @@ The Heart Sūtra's silence is not negation of the broad canon but compression of
 
 Part V's three papers — P15 *Diamond Sūtra*, P16 *Heart Sūtra*, P17 *Mahāprajñāpāramitā* — form a complete triangular dialogue:[^23]
 
-The Diamond Sūtra reveals the mental ground of giving through "應無所住行於布施" (abide nowhere while practicing giving) — dāna's merit lies not in external appearance but in non-abiding mind-state. The Heart Sūtra reveals dāna's emptiness foundation through thorough silence — dāna, under prajñā's gaze, is contained and needs no text. The broad canon confirms dāna's broad unfolding through 600 chapters of detailed discourse — with no attainment as expedient means, practicing the pāramitā of giving, a complete path from dāna to all-knowledge.[^24]
+The Diamond Sūtra reveals the mental ground of giving through "應無所住行於布施" (abide nowhere while practicing giving) — dāna's merit lies not in external appearance but in non-abiding mind-state. The Heart Sūtra reveals dāna's emptiness foundation through thorough silence — dāna, under prajñā's gaze, is contained and needs no text. The broad canon confirms dāna's broad unfolding through 600 fascicles of detailed discourse — with no attainment as expedient means, practicing the pāramitā of giving, a complete path from dāna to all-knowledge.[^24]
 
 These are not competing interpretations but three faces of the same truth: the Diamond provides the practice principle of non-abiding (無住); the Heart Sūtra provides the ontological foundation (śūnyatā); the broad canon provides complete practical unfolding (the gradual arc).[^25]
 
@@ -288,7 +310,7 @@ These are not competing interpretations but three faces of the same truth: the D
 
 P17's core findings can be summarized in three points:
 
-First, the 600-chapter broad canon not only confirms the Heart Sūtra's emptiness language but simultaneously unfolds what the Heart Sūtra omits: the dāna→śīla→dhyāna→prajñā gradual arc, the no attainment + giving formula across 196 chapters, 68 commands of "should practice giving."
+First, the 600-fascicle broad canon not only confirms the Heart Sūtra's emptiness language but simultaneously unfolds what the Heart Sūtra omits: the dāna→śīla→dhyāna→prajñā gradual arc, the extensively recurring no attainment + giving formula, and 68 exact occurrences of "應修布施波羅蜜多" across fascicles 162–165.
 
 Second, emptiness and dāna are not opposed. Emptiness is not the reason to abandon dāna but the condition enabling dāna to become a *pāramitā*. Dāna is not a worldly dharma transcended by emptiness but an otherworldly practice held within emptiness's protection (護持).
 
@@ -302,7 +324,7 @@ The implication for daily practice is profound: dāna is not a "preliminary" vir
 
 More concretely, the broad canon's discourse on dāna provides a two-way cultivation path: from dāna to prajñā (starting from dāna, ending in prajñā), and from prajñā to dāna (with prajñā as expedient means, practicing giving). These two paths are not opposed — they ultimately unify in "no attainment." The path from dāna to prajñā suits those starting from concrete practice; the path from prajñā to dāna suits those starting from theoretical insight.[^31]
 
-Dāna is prajñā's starting point; prajñā is dāna's protection (護持). They unify in no attainment — this is the profound meaning of the broad canon's 600 chapters: seeing the necessity of dāna within emptiness, and seeing the practice of emptiness within dāna.
+Dāna is prajñā's starting point; prajñā is dāna's protection (護持). They unify in no attainment — this is the profound meaning the paper draws from the broad canon's 600 fascicles: seeing the necessity of dāna within emptiness, and seeing the practice of emptiness within dāna.
 
 Part V's three papers complete a full cycle here: the Diamond teaches "how to give" (non-abiding), the Heart Sūtra teaches "why to give" (emptiness), the broad canon teaches "where giving leads" (all-knowledge). All three are indispensable — without non-abiding, giving becomes conditioned merit; without emptiness, giving becomes attachment; without reaching the other shore, giving becomes worldly wholesome action.
 
@@ -312,35 +334,35 @@ This cycle's completion is not an endpoint but a new beginning. The core questio
 
 ## Footnotes
 
-[^1]: *Mahāprajñāpāramitā Sūtra* (大般若波羅蜜多經), chapter 528, 妙相品第二十八之一, Xuanzang trans., *Tripiṭaka of the Great Tang* (大正藏), vol. 7, No. T0220c. Quote verified against CBETA: T07n0220c · T07p0709b04–15
+[^1]: *Mahāprajñāpāramitā Sūtra* (大般若波羅蜜多經), fascicle 528, 妙相品第二十八之一, Xuanzang trans., *Tripiṭaka of the Great Tang* (大正藏), vol. 7, No. 0220; CBETA T07n0220c. Quote verified against CBETA: T07n0220c · T07p0709b04–15
 
-[^2]: Ibid. The gradual structure of all six pāramitā chapters using dāna as starting point is the architectural pillar of chapter 528, forming the core textual evidence of Part V.
+[^2]: Ibid. Within fascicle 528's "妙相品," six consecutive paragraphs address the six pāramitās in turn. The dāna paragraph gives the cumulative sequence in full; the following paragraphs return to giving with "既行施已." This bounded six-paragraph structure is the textual evidence used here; it is not asserted as the skeleton of every pāramitā chapter in the 600-fascicle work.
 
-[^3]: Highest density in chapter 048 (11 passages); see raw/03_wusuode_dana_cooccurrence.md. T0220a (chapters 1–200, first division) and T0220c (chapters 401–537, third division) co-occur in ~299 passages.
+[^3]: Direct XML locus: T05n0220a, fascicle 48, T05p0268c27. T05n0220a contains the first division (fascicles 1–200). In T07n0220c, the second division runs through fascicles 401–478 and the third through 479–537. The qualitative recurrence claim is source-verifiable; no numerical corpus total is asserted here because the former counting contract is not present in the repository.
 
-[^4]: *Mahāprajñāpāramitā Sūtra*, chapter 3, Xuanzang trans., *大正藏* vol. 7, No. T0220a. Verified against CBETA (vault T0220a chapter 003)
+[^4]: *Mahāprajñāpāramitā Sūtra*, fascicle 3, Xuanzang trans., *大正藏* vol. 5, No. 0220; CBETA T05n0220a. Verified against CBETA XML (T05n0220a, fascicle 003)
 
-[^5]: *Mahāprajñāpāramitā Sūtra*, chapter 48, Xuanzang trans., *大正藏* vol. 7, No. T0220a; *Mahāprajñāpāramitā-śāstra* (大智度論), chapter 12, Nāgārjuna, Kumārajīva trans., *大正藏* vol. 25, No. T1509. Original terminology is "三輪清淨" (T0220a) and "三事不可得" (T1509), not the later fixed term "三輪體空."
+[^5]: *Mahāprajñāpāramitā Sūtra*, fascicle 48, Xuanzang trans., *大正藏* vol. 5, No. 0220; CBETA T05n0220a; *Mahāprajñāpāramitā-śāstra* (大智度論), fascicle 12, Nāgārjuna, Kumārajīva trans., *大正藏* vol. 25, No. T1509. Original terminology is "三輪清淨" (CBETA T05n0220a) and "三事不可得" (T1509), not the later fixed term "三輪體空."
 
-[^6]: *Mahāprajñāpāramitā Sūtra*, chapter 44, Xuanzang trans., *大正藏* vol. 7, No. T0220a. Verified against CBETA (vault T0220a chapter 044)
+[^6]: *Mahāprajñāpāramitā Sūtra*, fascicle 44, Xuanzang trans., *大正藏* vol. 5, No. 0220; CBETA T05n0220a. Verified against CBETA XML (T05n0220a, fascicle 044)
 
 [^7]: Cf. Lamotte, Étienne. *Le traité de la grande vertu de sagesse parfaite* (MMB, vol. II). Paris: Éditions du CYC, 1944. The dichotomy framework of merit group vs. wisdom group.
 
-[^8]: *Mahāprajñāpāramitā Sūtra*, chapter 48, Xuanzang trans., *大正藏* vol. 7, No. T0220a. "三輪清淨" not "三輪體空" — the latter term was fixed by Tiantai Zhiyi's *Mohe Zhiguan* (摩訶止觀).
+[^8]: *Mahāprajñāpāramitā Sūtra*, fascicle 48, Xuanzang trans., *大正藏* vol. 5, No. 0220; CBETA T05n0220a. "三輪清淨" not "三輪體空" — the latter term was fixed by Tiantai Zhiyi's *Mohe Zhiguan* (摩訶止觀).
 
-[^9]: *Mahāprajñāpāramitā-śāstra*, chapter 12, Nāgārjuna, Kumārajīva trans., *大正藏* vol. 25, No. T1509. Original: "財、施、受者，三事不可得。"
+[^9]: *Mahāprajñāpāramitā-śāstra*, fascicle 12, Nāgārjuna, Kumārajīva trans., *大正藏* vol. 25, No. T1509. Original: "財、施、受者，三事不可得。"
 
-[^10]: *Mahāprajñāpāramitā Sūtra*, chapters 162–165, 真正布施波羅蜜多品, Xuanzang trans., *大正藏* vol. 7, No. T0220a. Density of 68 commands; see raw/05_practice_commands_dana.md.
+[^10]: *Mahāprajñāpāramitā Sūtra*, fascicles 162–165, 真正布施波羅蜜多品, Xuanzang trans., *大正藏* vol. 5, No. 0220; CBETA T05n0220a, T05p0871a08–T05p0891c01. Counting the exact string "應修布施波羅蜜多" within each `<cb:juan>` boundary in the raw XML gives 16, 18, 23, and 11 occurrences respectively, totaling 68.
 
-[^11]: *Mahāprajñāpāramitā Sūtra*, chapter 581, Xuanzang trans., *大正藏* vol. 7, No. T0220c. Fourteen repetitions in the ten-direction world scene.
+[^11]: *Mahāprajñāpāramitā Sūtra*, fascicle 581, Xuanzang trans., *大正藏* vol. 7, No. 0220; CBETA T07n0220j, T07p1004b11–T07p1008a06. The raw XML contains 15 occurrences of the exact string "應如是修行布施"; 13 of these include "皆應".
 
-[^12]: *Mahāprajñāpāramitā-śāstra*, chapter 34, Nāgārjuna, Kumārajīva trans., *大正藏* vol. 25, No. T1509. Verified against CBETA: T25n1509 · T25p0314b13–16
+[^12]: *Mahāprajñāpāramitā-śāstra*, fascicle 34, Nāgārjuna, Kumārajīva trans., *大正藏* vol. 25, No. T1509. Verified against CBETA: T25n1509 · T25p0314b13–16
 
 [^13]: Cf. Conze, Edward. *The Perfection of Wisdom in Early Buddhism*. London: Routledge, 1973. Prajñā's unifying role in the theory of the six pāramitās.
 
-[^14]: *Mahāprajñāpāramitā-śāstra*, chapter 12, Nāgārjuna, Kumārajīva trans., *大正藏* vol. 25, No. T1509. Verified against CBETA (vault T1509 chapter 012)
+[^14]: *Mahāprajñāpāramitā-śāstra*, fascicle 12, Nāgārjuna, Kumārajīva trans., *大正藏* vol. 25, No. T1509. Verified against CBETA XML (T1509, fascicle 012)
 
-[^15]: *Mahāprajñāpāramitā-śāstra*, chapter 12, Nāgārjuna, Kumārajīva trans., *大正藏* vol. 25, No. T1509. Verified against CBETA (vault T1509 chapter 012)
+[^15]: *Mahāprajñāpāramitā-śāstra*, fascicle 12, Nāgārjuna, Kumārajīva trans., *大正藏* vol. 25, No. T1509. Verified against CBETA XML (T1509, fascicle 012)
 
 [^16]: *Prajñāpāramitā-hṛdaya-sūtra-nidāna-vyākhyā-bhāṣyālaṅkāra* (般若波羅蜜多心經略疏), Fazang, 702 CE, *大正藏* vol. 33, No. T1712. Verified against CBETA: T33n1712 · T33p0552a20–22
 
@@ -356,9 +378,9 @@ This cycle's completion is not an endpoint but a new beginning. The core questio
 
 [^22]: Cf. Fazang's *Prajñāpāramitā-hṛdaya-sūtra-nidāna-vyākhyā-bhāṣyālaṅkāra* T1712 preface. Original basis for the 廣略隨緣 framework.
 
-[^23]: P15 *Diamond Sūtra dāna discourse* (金剛般若波羅蜜經施論), Xuanzang trans., T0235; P16 *Heart Sūtra Silence dāna discourse* (心經靜默施論), Shi Huijing, CC BY-NC-SA 4.0.
+[^23]: P15 *Diamond Sūtra dāna discourse* (金剛般若波羅蜜經施論), Kumārajīva trans., T0235; P16 *Heart Sūtra Silence dāna discourse* (心經靜默施論), Shi Huijing, CC BY-NC-SA 4.0.
 
-[^24]: Cf. Conze, Edward. *The Prajñāpāramitā Literature*. The Hague: Mouton, 1978. The broad-abbreviated分流 of prajñāpāramitā literature.
+[^24]: Cf. Conze, Edward. *The Prajñāpāramitā Literature*. The Hague: Mouton, 1978. The broad-versus-abbreviated division of prajñāpāramitā literature.
 
 [^25]: Cf. Wŏnch'ŭk's *Prajñāpāramitā-hṛdaya-sūtra-stotra* T1711. The Heart Sūtra's positioning as "為顯法空遣智、斷門."
 
@@ -392,14 +414,14 @@ This cycle's completion is not an endpoint but a new beginning. The core questio
 
 ### I. Primary Buddhist Sources
 
-- *Mahāprajñāpāramitā Sūtra* (大般若波羅蜜多經), Xuanzang trans., *大正藏* vol. 7, No. T0220 (chapters 1–200, first division; chapters 401–537, third division)
-- *Mahāprajñāpāramitā Sūtra*, chapter 528, 妙相品, Xuanzang trans., *大正藏* vol. 7, No. T0220c
-- *Mahāprajñāpāramitā Sūtra*, chapters 162–165, 真正布施波羅蜜多品, Xuanzang trans., *大正藏* vol. 7, No. T0220a
+- *Mahāprajñāpāramitā Sūtra* (大般若波羅蜜多經), Xuanzang trans.: CBETA T05n0220a contains the first division, fascicles 1–200; the CBETA T07n0220c–o shard family contains fascicles 401–600. This paper uses T07n0220c's second division, fascicles 401–478, and third division, fascicles 479–537.
+- *Mahāprajñāpāramitā Sūtra*, fascicle 528, 妙相品, Xuanzang trans., *大正藏* vol. 7, No. 0220; CBETA T07n0220c
+- *Mahāprajñāpāramitā Sūtra*, fascicles 162–165, 真正布施波羅蜜多品, Xuanzang trans., *大正藏* vol. 5, No. 0220; CBETA T05n0220a
 - *Mahāprajñāpāramitā-śāstra* (大智度論), Nāgārjuna, Kumārajīva trans., *大正藏* vol. 25, No. T1509
 - *Prajñāpāramitā-hṛdaya-sūtra-nidāna-vyākhyā-bhāṣyālaṅkāra* (般若波羅蜜多心經略疏), Fazang, *大正藏* vol. 33, No. T1712
 - *Prajñāpāramitā-hṛdaya-sūtra-nidāna-sphuṭa-vyākhyā-laṅkāra-sambandha* (般若心經略疏連珠記), Shihui, *大正藏* vol. 33, No. T1713
 - *Prajñāpāramitā-hṛdaya-sūtra-stotra* (般若波羅蜜多心經贊), Wŏnch'ŭk, *大正藏* vol. 33, No. T1711
-- *Vajracchedikā-prajñāpāramitā-sūtra* (金剛般若波羅蜜經), Xuanzang trans., *大正藏* vol. 8, No. T0235
+- *Vajracchedikā-prajñāpāramitā-sūtra* (金剛般若波羅蜜經), Kumārajīva trans., *大正藏* vol. 8, No. T0235
 - *Prajñāpāramitā-hṛdaya-sūtra* (般若波羅蜜多心經), Xuanzang trans., *大正藏* vol. 8, No. T0251
 
 ### II. Modern Scholarship
@@ -415,14 +437,14 @@ This cycle's completion is not an endpoint but a new beginning. The core questio
 
 | Abbrev. | Full Name | T-number | Author/Translator | Date |
 |---|---|---|---|---|
-| 大般若 | Mahāprajñāpāramitā Sūtra (600 chapters) | T0220 | Xuanzang trans. | 659–663 CE |
-| 大般若 ch.528 | Mahāprajñāpāramitā ch.528 · 妙相品 | T0220c | Xuanzang trans. | 659–663 CE |
-| 大般若 ch.162-165 | Mahāprajñāpāramitā ch.162-165 · 真正布施波羅蜜多品 | T0220a | Xuanzang trans. | 659–663 CE |
-| 大智度論 | Mahāprajñāpāramitā-śāstra (100 chapters) | T1509 | Nāgārjuna · Kumārajīva trans. | 402–405 CE |
+| 大般若 | Mahāprajñāpāramitā Sūtra (600 fascicles) | T0220 | Xuanzang trans. | 659–663 CE |
+| 大般若 fasc. 528 | Mahāprajñāpāramitā fasc. 528 · 妙相品 | CBETA T07n0220c | Xuanzang trans. | 659–663 CE |
+| 大般若 fascs. 162–165 | Mahāprajñāpāramitā fascs. 162–165 · 真正布施波羅蜜多品 | CBETA T05n0220a | Xuanzang trans. | 659–663 CE |
+| 大智度論 | Mahāprajñāpāramitā-śāstra (100 fascicles) | T1509 | Nāgārjuna · Kumārajīva trans. | 402–405 CE |
 | 心經略疏 | Prajñāpāramitā-hṛdaya-sūtra-nidāna-vyākhyā-bhāṣyālaṅkāra | T1712 | Fazang | 702 CE |
 | 連珠記 | Prajñāpāramitā-hṛdaya-sūtra-nidāna-sphuṭa-vyākhyā-laṅkāra-sambandha | T1713 | Shihui | Song dynasty |
 | 心經贊 | Prajñāpāramitā-hṛdaya-sūtra-stotra | T1711 | Wŏnch'ŭk | Tang dynasty |
-| 金剛經 | Vajracchedikā-prajñāpāramitā-sūtra | T0235 | Xuanzang trans. | 663 CE |
+| 金剛經 | Vajracchedikā-prajñāpāramitā-sūtra | T0235 | Kumārajīva trans. | 402 CE |
 | 心經 | Prajñāpāramitā-hṛdaya-sūtra | T0251 | Xuanzang trans. | 663 CE |
 
 ---

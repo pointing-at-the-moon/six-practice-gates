@@ -1,15 +1,20 @@
 ---
 title: "The Directed and the Undirected: Paṇidhi in the Nikāyas"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 6 — PRAṆIDHĀNA: Aspiration and the Vow, from Pāli Roots to Samantabhadra · Part II · The Āgama View"
-series_short: PRAṆIDHĀNA
+series_short: "PRAṆIDHĀNA"
 volume: 6
-paper_id: PRANIDHANA-P05
+paper_id: "PRANIDHANA-P05"
 paper_number: 5
 part: Part II · The Āgama View
 part_number: 2
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T01n0026"
+  - "T02n0099"
+  - "T02n0125"
+  - "T25n1509"
 license: CC BY-NC-SA 4.0
 ---
 

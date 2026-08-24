@@ -10,6 +10,12 @@ part: Part I · Pāli Roots
 part_number: 1
 date: 2026-05-31
 version: "1.0"
+canonical_source:
+  - "T01n0026"
+  - "T02n0099"
+  - "T03n0184"
+  - "T03n0189"
+  - "T29n1558"
 license: CC BY-NC-SA 4.0
 ---
 
@@ -127,17 +133,9 @@ With this, the volume's thesis is sown. In setting the formless attainments down
 
 ---
 
-## VI. The End of Concentration, the Start of Wisdom — *Modern Dialogue and the Volume Thesis*
+## VI. The End of Concentration, the Start of Wisdom — *Conclusion*
 
-The two-teachers narrative is not only an old biography; it remains a subject of serious argument in contemporary scholarship. The point of setting several scholars' positions side by side is not to judge who is right, but to let this wall — *right concentration ≠ the formless absolute* — show its weight under a modern eye. (The attributions and dates that follow all await item-by-item checking against the originals; they are offered here for doctrinal dialogue, not as a settled verdict.)
-
-Alexander Wynne, in *The Origin of Buddhist Meditation*, argues that the two-teachers narrative is authentic early history, and that the formless meditation taught by Āḷāra and Uddaka can be traced back to a Brāhmaṇical–early-Upaniṣadic soil, the formless attainments having entered Buddhism out of that milieu. The reading deserves to be taken seriously — it treats the two teachers as real historical figures, not later literary invention. What is open to question is its tendency to reconstruct the "original meditation" in too much concrete detail, and to read the continuity with the Brāhmaṇical tradition as a kind of direct genetic descent, which inevitably carries a measure of speculation.
-
-Johannes Bronkhorst, in *The Two Traditions of Meditation in Ancient India*, proposes his "two traditions" thesis: the mainstream meditation of that India (including the formless states and the suppression-style austerities) was not a Buddhist creation but belonged to the Jain and *śramaṇa* lineage; the four *jhānas* were the genuine Buddhist innovation. This sharpens exactly the line this chapter sets — that the formless is not right concentration. What is open to question is that the dichotomy may cut too cleanly: the later canon did, after all, *incorporate* the four formless attainments into the ladder of the nine progressive attainments, rather than expelling them out the door. Buddhism's stance toward the formless is "take it in and judge it inadequate," not "refuse it and drive it out."
-
-Tilmann Vetter, in *The Ideas and Meditative Practices of Early Buddhism*, emphasizes that the four *jhānas* are the original core of the path, and examines closely the relation of stratum between concentration and the wisdom of liberation. This supports the judgment that "the *jhāna* is the heart of Buddhism." What is open to question is that his chronological stratification of concentration and wisdom is itself a hypothesis — one may take the conclusion (the four *jhānas* at the core) without taking the dating wholesale.
-
-Set the three together, and one finds they are arguing different sides of the same matter: just how deep is the entanglement of what Buddhism calls "concentration" with the Indic meditative tradition it inherited, and at which point does it break away and set up a new meaning of its own? The answer this chapter gives is clear — the point of breaking-away is precisely the wall that the rose-apple tree and the door of the two teachers jointly mark: the value of concentration lies not in being pushed to the formless extreme, but in whether it is turned back toward wisdom.
+This paper does not adjudicate a historical genealogy for the two teachers or claim that the four *jhānas* were a uniquely Buddhist invention. Its conclusion is narrower and textual: the *Discourse on Rāma* / MN 26 says that the two teachers' attainments do not lead to disillusionment, cessation, awakening, or *nibbāna*; the *Discourse on the Analysis of the Dhamma* treats even the summit of formless attainment as conditioned, impermanent, and suffering; and the *Discourse on the Noble Path* / MN 117 defines right concentration by the four *jhānas*. The value of concentration therefore lies not in being pushed to the formless extreme, but in its place within a path directed to liberation through wisdom.
 
 Finally, the red line that runs through the whole chapter, restated: everything spoken of here is *concentration* (the inward gathering), not *mindfulness* (the recollective ground-floor). The childhood "recollection of the first *jhāna*" under the rose-apple tree is the recollection and re-evaluation *of a concentration*, and must not slide back into the cultivation of mindfulness; and the concentration of the two teachers, however deep, remains always a matter of concentration, and cannot be underwritten by an achievement of wisdom. Mindfulness and concentration differ in stratum; concentration and wisdom differ in function — hold both distinctions, and one can read why the Buddha rose and left at the very summit.
 

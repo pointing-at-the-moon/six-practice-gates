@@ -10,6 +10,16 @@ part: "Part VI · Two Streams"
 part_number: 6
 date: "2026-04-21"
 version: "1.0"
+canonical_source:
+  - "T12n0360"
+  - "T12n0365"
+  - "T12n0366"
+  - "T13n0397"
+  - "T26n1521"
+  - "T26n1524"
+  - "T40n1819"
+  - "T47n1958"
+  - "T50n2060"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -154,7 +164,7 @@ Where this paper goes beyond Sharf is in the claim that the anti-projection move
 
 Charles Jones, in *Chinese Pure Land Buddhism: Understanding a Tradition of Practice* (Hawaiʻi, 2019) and the subsequent *Pure Land: History, Tradition, and Practice* (Shambhala, 2021), has argued that there was no organizational Pure Land "school" (宗) in Tang China in the sectarian sense the term implies when it is used of Japanese Jōdo-shū or Jōdo Shinshū. The Pure Land *tradition*, Jones holds, is better understood as a trans-sectarian body of devotional and meditative practice shared across Tiantai, Huayan, Chan, and doctrinal specialists. The patriarch-lineage Tanluan → Daochuo → Shandao, as a *school-lineage*, is a Japanese-sectarian reconstruction imported back into Chinese material. Jones's argument is well-documented and widely accepted in current Anglophone Chinese Buddhist studies.
 
-This paper concedes Jones's argument against *organizational* Pure Land school-formation. Nothing in the philological evidence adduced above requires that Tanluan, Daochuo, and Shandao belonged to a religious institution with shared property, liturgical offices, or hierarchies of authority. The evidence requires only that specific texts be read by specific readers in ways that preserve specific vocabulary, arguments, and self-understandings — and that is a weaker and more accurate claim than school-membership. The *Anle Ji* reads Tanluan's *Wangsheng lun zhu*; Shandao's *Guan wuliangshou fojing shu* (觀無量壽佛經疏, T1753) reads Daochuo's *Anle Ji*. These are textual relations, not institutional ones. Jones's critique correctly refuses to let such textual relations be dressed up as institutional membership.
+This paper concedes Jones's argument against *organizational* Pure Land school-formation. Nothing in the philological evidence adduced above requires that Tanluan and Daochuo belonged to a religious institution with shared property, liturgical offices, or hierarchies of authority. The evidence requires only that specific texts be read by specific readers in ways that preserve specific vocabulary, arguments, and self-understandings — and that is a weaker and more accurate claim than school-membership. The *Anle Ji* reads Tanluan's *Wangsheng lun zhu*. This is a textual relation, not an institutional one. Jones's critique correctly refuses to let such textual relations be dressed up as institutional membership.
 
 Where this paper presses further is in noting that Jones's critique, though correct against the institutional reading, does not license the opposite over-correction — reading the textual relations as *merely* coincidental. Three concrete textual bridges were documented in §3.3: a lineage name-list, a preserved self-description, and a liturgical fragment. Each is specific, verifiable, and situated in an identifiable locus within *Anle Ji*. Together they rule out the reading that Tanluan and Daochuo's proximity is an accident of topic; the reading is specific. What they support is the intermediate thesis this paper has argued for: a *textual inheritance* that is stronger than shared topic but weaker than school-membership. The Chinese Buddhist category that most closely matches this textual inheritance is *宗* in its non-institutional, lineage-of-teaching sense — a sense that Chan historiography has preserved more self-consciously than Pure Land historiography has. Jones's thesis sharpens the argument here: what Tanluan and Daochuo shared is not an institution but a *teaching-lineage* in the weaker sense, and that sense is sufficient for the philological and anthropological claims made in §§3.1 and 3.2 to be intelligible as claims about a connected intellectual tradition rather than accidental convergence.
 
@@ -212,7 +222,7 @@ The open question that follows from P20 is the question P21 will take up. If the
 
 [^13]: *Amituo jing* (阿彌陀經), T0366 卷001, closing frame. The passage enumerates the five turbidities (五濁) — 劫濁、見濁、煩惱濁、眾生濁、命濁 — as the conditions of the age in which the teaching of name-holding (執持名號) is given. The 五濁惡世 framing binds the Pure Land anthropology to the cosmological condition; Tanluan and Daochuo inherit this binding in their difficult-practice analyses.
 
-[^14]: Northern Zhou emperor Wu (北周武帝, 宇文邕, r. 560–578) issued the Buddhist persecution edict in 574 CE, closing approximately forty thousand Buddhist institutions in the north-Chinese kingdom under his control and laicizing an estimated several hundred thousand monks and nuns. Daochuo was born in 562 and was twelve years old at the time of the edict. On the documentary record, see Weinstein, *Buddhism under the T'ang* (Cambridge, 1987), ch. 1, and the standard account in the *Xu gaoseng zhuan* (續高僧傳, T2060). The persecution ended with Emperor Wu's death in 578; institutional recovery was underway by the 580s under the Sui founding.
+[^14]: Northern Zhou emperor Wu (北周武帝, 宇文邕, r. 560–578) issued the Buddhist persecution edict in 574 CE, closing approximately forty thousand Buddhist institutions in the north-Chinese kingdom under his control and laicizing an estimated several hundred thousand monks and nuns. Daochuo was born in 562 and was twelve years old at the time of the edict. The institutional estimates here follow Weinstein, *Buddhism under the T'ang* (Cambridge, 1987), ch. 1. The canonical historical record in the *Xu gaoseng zhuan* (續高僧傳, T50n2060, p.490a23–b05) directly supports the edict, destruction of scriptures and images, and forced return of monastics to lay status; it is not cited for those numerical estimates. The persecution ended with Emperor Wu's death in 578; institutional recovery was underway by the 580s under the Sui founding.
 
 ## References
 
@@ -236,9 +246,7 @@ The open question that follows from P20 is the question P21 will take up. If the
 
 *Anle ji* 安樂集, Daochuo 道綹 (562–645), ca. 609–645 CE. *Taishō* vol. 47, no. 1958.
 
-*Guan wuliangshou fojing shu* 觀無量壽佛經疏, Shandao 善導 (613–681), ca. 660–681 CE. *Taishō* vol. 37, no. 1753.
-
-*Xu gaoseng zhuan* 續高僧傳, Daoxuan 道宣 (596–667), 645 CE with later additions. *Taishō* vol. 50, no. 2060.
+*Xu gaoseng zhuan* 續高僧傳, Daoxuan 道宣 (596–667), 645 CE with later additions. *Taishō* vol. 50, no. 2060, p. 490a23–b05.
 
 ### III. Modern Scholarship
 
@@ -270,7 +278,6 @@ Weinstein, Stanley. *Buddhism under the T'ang*. Cambridge: Cambridge University 
 | *Daji jing Yue-zang fen* | 大集經月藏分 / *Mahāsaṃnipāta*, *Candragarbha* | Narendrayaśas trans. | T0397 |
 | *Shizhu piposha lun* | 十住毗婆沙論 / *Daśabhūmika-vibhāṣā* | Nāgārjuna / Kumārajīva trans. | T1521 |
 | *Wangsheng lun* | 往生論 (無量壽經優婆提舍願生偁) | Vasubandhu / Bodhiruci trans. | T1524 |
-| *Guan wuliangshou fojing shu* | 觀無量壽佛經疏 | Shandao | T1753 |
 | *Wangsheng lun zhu* | 往生論註 | Tanluan | T1819 |
 | *Anle ji* | 安樂集 | Daochuo | T1958 |
 | *Xu gaoseng zhuan* | 續高僧傳 | Daoxuan | T2060 |
@@ -286,7 +293,7 @@ Weinstein, Stanley. *Buddhism under the T'ang*. Cambridge: Cambridge University 
 **Forward references (Part VI):**
 
 - P21 *The Chan Position: Turning the Name Inward* (Daoxin, Huineng, Zongmi): the counter-move to P20's documentation. Chan does not dispute either the invented vocabulary or the 凡夫 subject; it proposes that the name, once invoked, be heard inwardly as the recognition of the already-present buddha-mind rather than outwardly as an address to a buddha in another direction. P21's methodological radicalism is legible precisely against P20's subject-fixing.
-- P22 *The Pure Land Patriarchs II: Shandao's Settling of the Name* (T1753): the institutional and liturgical completion of the Tanluan-Daochuo architecture. Shandao inherits the 凡夫 subject (from Tanluan-Daochuo) and the nine-grade anthropology (from T0365) and assembles the practice-system (*guannian famen*) that would carry Pure Land practice into the Song and beyond. P20 lays the doctrinal foundation Shandao builds upon.
+- P22 *The Pure Land Patriarchs II: Shandao's Settling of the Name*: the institutional and liturgical completion of the Tanluan-Daochuo architecture. Shandao inherits the 凡夫 subject (from Tanluan-Daochuo) and the nine-grade anthropology (from T0365) and assembles the practice-system (*guannian famen*) that would carry Pure Land practice into the Song and beyond. P20 lays the doctrinal foundation Shandao builds upon.
 - P23 (*Tiantai's Four Kinds of Recollection*) and P24 (*From Yongming to the Late Ming Masters*) extend the cross-sectarian conversation P20 opens: Tiantai systematizes the 凡夫's contemplative itinerary in its four *samādhis*, and the Ming-dynasty confluence assembles Chan, Pure Land, and doctrinal elements for the same subject. All four later papers depend on P20's subject-fixing to be narratable as a single conversation.
 
 

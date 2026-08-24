@@ -10,6 +10,20 @@ part: "Part I · Pāli Roots"
 part_number: 1
 date: "2026-04-16"
 version: "1.0"
+canonical_source:
+  - "T02n0099"
+  - "T30n1579"
+  - "AN11.11"
+  - "AN6.25"
+  - "AN8.31"
+  - "AN8.36"
+  - "SN55.21"
+  - "SN55.22"
+  - "SN55.31"
+  - "SN55.32"
+  - "SN55.33"
+  - "SN55.39"
+  - "SN55.40"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -34,7 +48,7 @@ The word "merit" carries a faint discomfort for many Western Buddhist readers �
 
 ## Keywords
 
-*cāga*, four limbs of stream-entry (*sotāpattiyaṅga*), *sotāpatti*, *muttacāga*, *macchera*, *aveccappasāda*, *puññābhisanda*, Kāḷigodhā, *appamāda*, triple rotation, faculty of path, mine-making (*mamattā*), Pāli–Chinese dual-track, NIAN-A
+*cāga*, four limbs of stream-entry (*sotāpattiyaṅga*), *sotāpatti*, *muttacāga*, *macchera*, *aveccappasāda*, *puññābhisanda*, Kāḷigodhā, *appamāda*, triple rotation, faculty of path, mine-making (*mamattā*), Pāli–Chinese dual-track, Pāli–Chinese dual-source citation convention
 
 ---
 
@@ -58,7 +72,7 @@ Read this way, the word "merit" does not need to be defended — it simply reloc
 
 ## II. Canonical Foundation
 
-The evidence runs in two registers. Register A is the discourse layer (the *sutta* material), presented in four groups corresponding to the four strata of argument. Register B is the commentarial layer, anchored in the *Visuddhimagga*'s *Cāgānussati-niddesa*. In keeping with the NIAN-A discipline of this volume, every Pāli citation is paired with the corresponding Chinese canonical reference where one exists, so that readers can see the different shapes the *cāga* teaching took in the two traditions.
+The evidence runs in two registers. Register A is the discourse layer (the *sutta* material), presented in four groups corresponding to the four strata of argument. Register B is the commentarial layer, anchored in the *Visuddhimagga*'s *Cāgānussati-niddesa*. In keeping with the Pāli–Chinese dual-source citation convention of this volume, every Pāli citation is paired with the corresponding Chinese canonical reference where one exists, so that readers can see the different shapes the *cāga* teaching took in the two traditions.
 
 ### 2.1 Register A: Discourses (Pāli with Chinese parallels)
 
@@ -98,7 +112,7 @@ Synthesizing these three suttas: the triple rotation in the fourth limb (*sīla*
 
 **Group 4: The systematic softening in the Chinese**
 
-NIAN-A dual-track discipline requires a parallel reading of the Chinese canonical material. The *Saṃyuktāgama* (*Zá Āhán Jīng*, T0099), translated by Guṇabhadra (劉宋求那跋陀羅) in the mid-fifth century CE, is the Chinese counterpart closest in structure to the *Saṃyutta Nikāya*'s Book 55. Its fascicle 33 contains the Mahānāma dialogue cluster (sūtras 927–936, ten suttas) covering material corresponding to SN 55.21, 55.22, 55.31–33, 55.37, 55.39, and 55.40 — but on the question of the *cāga* track, the Chinese shows a systematic divergence from the Pāli.
+the Pāli–Chinese dual-source citation convention requires a parallel reading of the Chinese canonical material. The *Saṃyuktāgama* (*Zá Āhán Jīng*, T0099), translated by Guṇabhadra (劉宋求那跋陀羅) in the mid-fifth century CE, is the Chinese counterpart closest in structure to the *Saṃyutta Nikāya*'s Book 55. Its fascicle 33 contains the Mahānāma dialogue cluster (sūtras 927–936, ten suttas) covering material corresponding to SN 55.21, 55.22, 55.31–33, 55.37, 55.39, and 55.40 — but on the question of the *cāga* track, the Chinese shows a systematic divergence from the Pāli.
 
 - **T0099 sūtra 935[^9]**: a Sakyan named Shatou (釋氏沙陀) and Mahānāma dispute over how many qualities constitute stream-entry. Shatou says three (the three unshakable confidences); Mahānāma says four (the three plus "accomplishment in noble ethical conduct"). They take the question to the Buddha, who rules in Mahānāma's favor: 「是故當知四法成就須陀洹：於佛不壞淨、於法不壞淨、於僧不壞淨、聖戒成就。如是受持。」("Therefore you should know: stream-entry is accomplished by these four qualities — unshakable faith in the Buddha, unshakable faith in the Dhamma, unshakable faith in the Saṅgha, and accomplishment in noble ethical conduct. Thus you should uphold it.") This is the Chinese tradition's *definitive ruling* on the four limbs, and it takes *only the sīla track*. The Chinese tradition contains no parallel to SN 55.32 or SN 55.39 in which the fourth limb appears as *cāga*.
 

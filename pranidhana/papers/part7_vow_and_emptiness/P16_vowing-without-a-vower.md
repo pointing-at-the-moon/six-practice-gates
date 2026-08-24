@@ -1,16 +1,20 @@
 ---
 title: "Vowing without a Vower: Aspiration in the Light of Non-Attainment"
 title_en: "Vowing without a Vower: Aspiration in the Light of Non-Attainment"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 6 — PRAṆIDHĀNA: Aspiration and the Vow, from Pāli Roots to Samantabhadra · Part VII · Vow and Emptiness"
-series_short: PRAṆIDHĀNA
+series_short: "PRAṆIDHĀNA"
 volume: 6
-paper_id: PRANIDHANA-P16
+paper_id: "PRANIDHANA-P16"
 paper_number: 16
 part: Part VII · Vow and Emptiness
 part_number: 7
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T07n0220c"
+  - "T08n0235"
+  - "T25n1509"
 license: CC BY-NC-SA 4.0
 ---
 
@@ -114,7 +118,7 @@ The proposition "there is no vower, yet the vow is inexhaustible" is hardest for
 
 This section marks out the four misreadings most easily slipped into—using ❌ for a doctrinal deviation and ⚠️ for a textual or terminological trap—as boundary stakes for holding to the middle way.
 
-**❌ Non-attainment is not nihilism, not annihilation.** The most dangerous misreading is to hear "vowing in non-attainment" as "since all is empty, then nothing is needed, nothing need be vowed." This mistakes "non-attainment" for "nothing, don't," and mistakes ultimate emptiness for annihilationist emptiness. Section II has already, following Nāgārjuna, closed this road: if emptiness could let one "not vow," then emptiness has become a functioning, real obstacle—a self-contradiction. Non-attainment is "the unattainable" (ultimate emptiness, no own-nature), not "non-existence"; the emptiness of the vow's nature is precisely the guarantee that the vow is not reified, and therefore not exhausted—not a pretext for abolishing it. Wherever a draft or a line of thought slips into the tone of "since it is empty, there is no need to vow," the direction has been reversed, and must be corrected on the spot.
+**❌ Non-attainment is not nihilism, not annihilation.** The most dangerous misreading is to hear "vowing in non-attainment" as "since all is empty, then nothing is needed, nothing need be vowed." This mistakes "non-attainment" for "nothing, don't," and mistakes ultimate emptiness for annihilationist emptiness. Section II has already, following Nāgārjuna, closed this road: if emptiness could let one "not vow," then emptiness has become a functioning, real obstacle—a self-contradiction. Non-attainment is "the unattainable" (ultimate emptiness, no own-nature), not "non-existence"; the emptiness of the vow's nature is precisely the guarantee that the vow is not reified, and therefore not exhausted—not a pretext for abolishing it. Wherever an interpretation slips into the claim "since it is empty, there is no need to vow," the direction has been reversed and must be corrected.
 
 **❌ The vow-side three spheres are a structural projection, not a scriptural quotation.** As this paper has repeatedly stressed: in the prajñā sūtras and treatises, the *verbatim* formula of "the emptiness of the three spheres" is found only on the giving face (giver / receiver / gift). The vow-side triad of "vower / vowed-for / vow" is an *explicit projection* this paper makes by analogy with the giving face, supported by the two hard canonical proofs of the *Vajracchedikā*—"no being is really liberated" and "no dharma whatever arouses bodhicitta." It is never a quotation that runs "the sūtra says the vower is unattainable." Readers, and those who cite this paper later, must not mis-transmit this contemplation as a scriptural proof that does not exist. A projection is a legitimate doctrinal extension; a pseudo-citation is a breach of scholarly integrity; the two must be kept strictly apart.
 
@@ -166,7 +170,7 @@ This section marks out the four misreadings most easily slipped into—using ❌
 
 - *Vajracchedikā-prajñāpāramitā-sūtra* (Diamond Sūtra); trans. Kumārajīva (Later Qin), Taishō vol. 8, No. 235.
 - *Mahāprajñāpāramitā-śāstra* (Commentary on the Great Perfection of Wisdom), by Nāgārjuna; trans. Kumārajīva (Later Qin), Taishō vol. 25, No. 1509.
-- *Mahāprajñāpāramitā-sūtra* (passages on arousing the mind and non-attainment); trans. Xuanzang (Tang), Taishō vols. 5–7, No. 220. (The formula "taking non-attainment as skillful means" for arousing bodhicitta is drawn upon by sense, not embedded verbatim.)
+- *Mahāprajñāpāramitā-sūtra* (passage on arousing the mind and non-attainment); trans. Xuanzang (Tang), T07n0220c, fascicle 498, Taishō vol. 7, p. 0533a01–04. (The formula "taking non-attainment as skillful means" for arousing bodhicitta is drawn upon by sense, not embedded verbatim.)
 
 ### Modern Scholarship
 
@@ -180,7 +184,7 @@ This section marks out the four misreadings most easily slipped into—using ❌
 |------|------|-----------|---------|
 | Vajracchedikā | Vajracchedikā-prajñāpāramitā-sūtra | T0235 (vol. 8) | trans. Kumārajīva |
 | Mahāprajñāpāramitā-śāstra | Mahāprajñāpāramitā-śāstra | T1509 (vol. 25) | Nāgārjuna; trans. Kumārajīva |
-| Mahāprajñāpāramitā-sūtra | Mahāprajñāpāramitā-sūtra | T0220 (vols. 5–7) | trans. Xuanzang |
+| Mahāprajñāpāramitā-sūtra | Mahāprajñāpāramitā-sūtra | T07n0220c (vol. 7, fasc. 498) | trans. Xuanzang |
 
 ## Cross-References
 
@@ -191,5 +195,5 @@ This paper opens Part VII (Vow and Emptiness) of this volume, taking up the clos
 *Paper:* PRANIDHANA-P16 · Vowing without a Vower · **PRAṆIDHĀNA · Part VII · Vow and Emptiness**
 *Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates （六行門）
 *License:* CC BY-NC-SA 4.0
-*CBETA collation:* Citations verified against the CBETA edition (Vajracchedikā T0235, pp. 751a / 749c; Mahāprajñāpāramitā-śāstra T1509, fasc. 61, p. 668c). The threefold emptiness of the vow (vower / vowed-for / vow) is a structural projection from the giving-triad, not a verbatim scriptural formula, as stated in §3.1 and §5.
+*CBETA collation:* Citations verified against the CBETA edition (Vajracchedikā T0235, pp. 751a / 749c; Mahāprajñāpāramitā-śāstra T1509, fasc. 61, p. 668c; Mahāprajñāpāramitā-sūtra T07n0220c, fasc. 498, p. 0533a01–04). The threefold emptiness of the vow (vower / vowed-for / vow) is a structural projection from the giving-triad, not a verbatim scriptural formula, as stated in §3.1 and §5.
 *Repository:* https://github.com/pointing-at-the-moon/six-practice-gates

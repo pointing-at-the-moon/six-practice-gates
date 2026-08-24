@@ -10,6 +10,9 @@ part: "Part VIII · Modern Diagnosis and Daily Use"
 part_number: 8
 date: "2026-06-02"
 version: "1.0"
+canonical_source:
+  - "T26n1521"
+  - "T32n1666"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -118,7 +121,7 @@ The seam toward vow was in fact already laid in the second chapter. In the text 
 
 So repentance finally passes the baton to vow: repenting karmic obstacles and making vows, practiced together, handed to the vow-gate.
 
-As for what comes after this step — how "the attainment of *anuttarā-samyak-saṃbodhi*" is consummated within dedication-and-vow, how the bodhisattva's ultimate *nirvāṇa* turns into the attainment of bodhi by the buddhas of the three times — that is the proper province of the vow-gate's closing volume, belonging to the very last volume of the whole series. Here this paper only sets a signpost and does not unfold it: at this point the repentance gate is responsible only for passing the baton cleanly, letting the water reach its channel of itself, drawing no advance on text not yet written. What repentance can do is to carry this continuous line all the way to the door of the vow-gate and point out the direction of that door; to push it open is the business of another volume. In other words, repentance has here done its part: it has carried the person from a single disclosure, through the continuity of daily use, through the seeing of emptiness, and set him at last before the door of the vow-gate — and from there on, it is for vow to speak.
+As for what comes after this step — how "the attainment of *anuttarā-samyak-saṃbodhi*" is consummated within dedication-and-vow, how the bodhisattva's ultimate *nirvāṇa* turns into the attainment of bodhi by the buddhas of the three times — that is the proper province of the vow-gate's closing volume, belonging to the very last volume of the whole series. Here this paper only sets a signpost and does not unfold it: at this point the repentance gate is responsible only for passing the baton cleanly, letting the water reach its channel of itself, drawing no advance on the separate treatment in the volume on vows. What repentance can do is to carry this continuous line all the way to the door of the vow-gate and point out the direction of that door; to push it open is the business of another volume. In other words, repentance has here done its part: it has carried the person from a single disclosure, through the continuity of daily use, through the seeing of emptiness, and set him at last before the door of the vow-gate — and from there on, it is for vow to speak.
 
 ## VI. Volume Close — Summiting Does Not Dismantle the Stairs; the Repentance Gate Seals
 
@@ -188,4 +191,3 @@ And the vow-gate awaits opening.
 *Textual Verification: CBETA Electronic Tripiṭaka (Chinese canon)*
 *Project: Point-to-the-moon · six-practice-gates (KṢAMĀ volume on repentance · Part VIII · Modern Diagnosis and Daily Use #2 · Returning to Daily Use · volume seal)*
 *Repository: https://github.com/pointing-at-the-moon/six-practice-gates*
-*Author: Shi Huijing (釋慧鏡) — the treasury of the true Dharma eye, not established in words*

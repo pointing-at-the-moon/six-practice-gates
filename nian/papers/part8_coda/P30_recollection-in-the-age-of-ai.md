@@ -10,6 +10,35 @@ part: "Part VIII · Coda"
 part_number: 8
 date: "2026-05-04"
 version: "1.0"
+canonical_source:
+  - "T02n0099"
+  - "T12n0365"
+  - "T12n0374"
+  - "T13n0397"
+  - "T25n1509"
+  - "T26n1521"
+  - "T29n1558"
+  - "T31n1585"
+  - "T31n1586"
+  - "T31n1593"
+  - "T31n1597"
+  - "T31n1604"
+  - "T31n1612"
+  - "T31n1614"
+  - "T32n1666"
+  - "T37n1753"
+  - "T37n1762"
+  - "T46n1932"
+  - "T47n1958"
+  - "T48n2005"
+  - "T48n2015"
+  - "T48n2016"
+  - "T48n2017"
+  - "X05n0229"
+  - "X22n0424"
+  - "X73n1453"
+  - "X73n1456"
+  - "X74n1464"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -46,7 +75,7 @@ The genealogy of *Mindful of the Buddha*, traced across thirty papers from Pāli
 
 The public framing of this question already exists. On 28 March 2026, an "iron snail" video (*Chrysomallon squamiferum*, 鐵殼蝸牛) was published on @PointingattheMoon under the title "The Iron Snail and the Strongest AI — Who Drew That Line?" Its closing was deliberately left open: "I'm not giving you an answer today.… Because the power of this question lies precisely in its being open." That public posture this paper honours in full — where the line is drawn, this paper does not answer. What this paper answers is internal to NIAN alone: in that single-flash correspondence between recollector and recollected, where does AI stand?
 
-The paper's reception posture must be declared at the outset. The S4 octalogy ("Into the Unknown") has already laid down several handoff points. S4-P05, *Manas as Projection*, has detailed *manas*'s bidirectional projection mechanism (the *Cheng weishi lun* line "what it directly cognises is what it has itself transformed," 親所了者，謂自所變); this paper does not re-elaborate, and cites only one sentence in continuation. S4-P06, *How the Buddha Would Use AI*, has carefully distinguished *adhipati-pratyaya* (增上緣, contributory condition) from *hetu-pratyaya* (因緣, causal condition); this paper inherits that distinction directly without re-derivation. S4-P07, *The Living Eye*, has established the negative-space frame of "hearing the sound from another" (從他聞音) — AI does not constitute such a hearing-anchor; this paper's increment is to add "*buddhānusmṛti*'s one-thought correspondence" to that cannot-give list. Three cross-series cross-references, one sentence each — the home court is not here.
+The paper's reception posture must be declared at the outset. The S4 octalogy ("Into the Unknown") has already laid down several transition points. S4-P05, *Manas as Projection*, has detailed *manas*'s bidirectional projection mechanism (the *Cheng weishi lun* line "what it directly cognises is what it has itself transformed," 親所了者，謂自所變); this paper does not re-elaborate, and cites only one sentence in continuation. S4-P06, *How the Buddha Would Use AI*, has carefully distinguished *adhipati-pratyaya* (增上緣, contributory condition) from *hetu-pratyaya* (因緣, causal condition); this paper inherits that distinction directly without re-derivation. S4-P07, *The Living Eye*, has established the negative-space frame of "hearing the sound from another" (從他聞音) — AI does not constitute such a hearing-anchor; this paper's increment is to add "*buddhānusmṛti*'s one-thought correspondence" to that cannot-give list. Three cross-series cross-references, one sentence each — the home court is not here.
 
 P30 is the thirtieth of *Mindful of the Buddha*'s thirty-one papers, and the opener of the Part VIII Coda; P31 *The Internal Steps of Buddha-Recollection* is the closer, where the whole-volume retrospective, the clarification of *buddhānusmṛti*'s internal structure, and the reader's hands-on entry-point properly belong. This paper does not bear that load. This paper does only one thing: in the age of AI, restate the doctrinal-operative mechanism of *buddhānusmṛti* once more, so that it is not absorbed by — and meaning-thinned within — the vocabulary of "attention training," "consciousness testing," or "Spirituality 2.0."
 
@@ -72,7 +101,7 @@ The doctrinal structure of *manas* is laid out plainly in *Triṃśikākārikā*
 
 "Depending on it, turning toward it" — *manas* takes *ālaya* as its support and *ālaya* as its object, continually and discerningly taking measure. Its operative mechanism does not depend on the kind of object (whether stone, bodily flesh, or characters on a screen), nor on the stage of civilisation (agricultural, industrial, AI-mediated). So long as *ālaya* is operating and has not yet undergone *parāvṛtti* (turning), *manas*, accompanied by the four afflictions, appropriates the self-mark in the obscured-yet-indeterminate mode.
 
-S4-P05 has detailed how *manas*'s bidirectional projection constitutes the continuous illusion of a "self" (the pineapple analogy; "what it directly cognises is what it has itself transformed"); this paper does not re-elaborate. But P30's claim requires here a more precise lockdown: in the age of AI, *manas* has not disappeared, has not been upgraded, has not become defunct. *Manas* simply continues to do, in the face of a new class of objects (AI's outputs, prompts, replies, hallucinations), what it has always done. When the user faces a dialogue model's reply, the continual and discerning appropriation of "is the question I posed being understood" and "is the answer I obtained truly mine" — that is *manas* still at work.
+S4-P05 has detailed how *manas*'s bidirectional projection constitutes the continuous illusion of a "self" (the pineapple analogy; "what it directly cognises is what it has itself transformed"); this paper does not re-elaborate. But P30's claim requires here a more precise statement: in the age of AI, *manas* has not disappeared, has not been upgraded, has not become defunct. *Manas* simply continues to do, in the face of a new class of objects (AI's outputs, prompts, replies, hallucinations), what it has always done. When the user faces a dialogue model's reply, the continual and discerning appropriation of "is the question I posed being understood" and "is the answer I obtained truly mine" — that is *manas* still at work.
 
 The thesis-line of *Cheng weishi lun* fascicle 4 states this most clearly:
 
@@ -278,7 +307,7 @@ NIAN's coda business stops here. *Buddhānusmṛti* is still *buddhānusmṛti*.
 
 [^8]: *Cheng weishi lun*, fascicle 10, T1585, T31, lines 222–229 and surrounding. Configuration of the four-knowledge sets within *āśraya-parāvṛtti*.
 
-[^9]: *Mahāyānasaṃgraha* (Asaṅga, trans. Xuanzang), fascicle 3, T1593, T31, lines 517–537. The seven-mark recollection-of-buddha-as-*dharmakāya*, positioned between the chapter on the fruits of practice and quiescence and the chapter on the differentiation of wisdoms.
+[^9]: *Mahāyānasaṃgraha* (Asaṅga, trans. Paramārtha), fascicle 3, T1593, T31, lines 517–537. The seven-mark recollection-of-buddha-as-*dharmakāya*, positioned between the chapter on the fruits of practice and quiescence and the chapter on the differentiation of wisdoms.
 
 [^10]: *Mahāyānasaṃgrahabhāṣya* (Vasubandhu, trans. Xuanzang), fascicle 9, T1597, T31, lines 100–101. The phenomenology of *buddhānusmṛti*-as-manifestation.
 
@@ -325,7 +354,7 @@ NIAN's coda business stops here. *Buddhānusmṛti* is still *buddhānusmṛti*.
 - *Abhidharmakośabhāṣya* (Vasubandhu, trans. Xuanzang), T1558.
 - *Cheng weishi lun* (Dharmapāla et al., trans. Xuanzang), T1585.
 - *Triṃśikākārikā* (Vasubandhu, trans. Xuanzang), T1586.
-- *Mahāyānasaṃgraha* (Asaṅga, trans. Xuanzang), T1593.
+- *Mahāyānasaṃgraha* (Asaṅga, trans. Paramārtha), T1593.
 - *Mahāyānasaṃgrahabhāṣya* (Vasubandhu, trans. Xuanzang), T1597.
 - *Mahāyānasūtrālaṃkāra* (Asaṅga, trans. Prabhākaramitra), T1604.
 - *Pañcaskandhaka* (Vasubandhu, trans. Xuanzang), T1612.
@@ -370,7 +399,7 @@ NIAN's coda business stops here. *Buddhānusmṛti* is still *buddhānusmṛti*.
 | *Kośa* | *Abhidharmakośabhāṣya* | Vasubandhu, trans. Xuanzang | T1558 |
 | *CWSL* | *Cheng weishi lun* | Dharmapāla et al., trans. Xuanzang | T1585 |
 | *Triṃśikā* | *Triṃśikākārikā* | Vasubandhu, trans. Xuanzang | T1586 |
-| *Saṃgraha* | *Mahāyānasaṃgraha* | Asaṅga, trans. Xuanzang | T1593 |
+| *Saṃgraha* | *Mahāyānasaṃgraha* | Asaṅga, trans. Paramārtha | T1593 |
 | *Saṃgrahabhāṣya* | *Mahāyānasaṃgrahabhāṣya* | Vasubandhu, trans. Xuanzang | T1597 |
 | *Sūtrālaṃkāra* | *Mahāyānasūtrālaṃkāra* | Asaṅga, trans. Prabhākaramitra | T1604 |
 | *Pañcaskandhaka* | *Pañcaskandhaka* | Vasubandhu, trans. Xuanzang | T1612 |

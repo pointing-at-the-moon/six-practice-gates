@@ -10,6 +10,11 @@ part: Part VI · The Śūraṅgama
 part_number: 6
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T01n0026"
+  - "T15n0642"
+  - "T19n0945"
+  - "AN11.1"
 license: CC BY-NC-SA 4.0
 ---
 

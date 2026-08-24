@@ -1,15 +1,21 @@
 ---
 title: "The Ocean-Seal Samādhi of the Avataṃsaka"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part VIII · Lotus and Huayan"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P28
+paper_id: "SAMADHI-P28"
 paper_number: 28
 part: Part VIII · Lotus and Huayan
 part_number: 8
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T10n0279"
+  - "T35n1733"
+  - "T35n1735"
+  - "T45n1866"
+  - "T45n1876"
 license: CC BY-NC-SA 4.0
 ---
 

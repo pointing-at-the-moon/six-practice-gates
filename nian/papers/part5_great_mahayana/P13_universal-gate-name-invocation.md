@@ -10,6 +10,19 @@ part: "Part V · Recollection in the Great Mahāyāna Sūtras"
 part_number: 5
 date: "2026-04-18"
 version: "1.0"
+canonical_source:
+  - "T09n0262"
+  - "T09n0263"
+  - "T12n0360"
+  - "T12n0365"
+  - "T12n0366"
+  - "T19n0945"
+  - "T34n1718"
+  - "T34n1726"
+  - "T34n1728"
+  - "T37n1750"
+  - "T37n1762"
+  - "X22n0424"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -338,7 +351,7 @@ The Lotus self-sufficiently presents the name-invocation spectrum through its si
 
 [^21]: T1718, Fascicle 10, Universal Gate Chapter exegesis, T34.0145c24–29, middle-way ultimate-reality exegesis of the "gate" character.
 
-[^22]: The "holding the name" passage of T0263 is in the name-invocation merit-comparison section of Fascicle 10 (verified line-by-line against the vault), 114 years earlier than Kumārajīva's T0366. Tanluan (c. 476–542), Daochuo (562–645), and Shandao (613–681) are the three patriarchs of the formal establishment of Chinese Pure Land Buddhism; for details see NIAN Part VI, P20–P22.
+[^22]: The "holding the name" passage of T0263 is in the name-invocation merit-comparison section of Fascicle 10 (checked line by line against CBETA XML), 114 years earlier than Kumārajīva's T0366. Tanluan (c. 476–542), Daochuo (562–645), and Shandao (613–681) are the three patriarchs of the formal establishment of Chinese Pure Land Buddhism; for details see NIAN Part VI, P20–P22.
 
 [^23]: For the three-sūtra parallel argument, see P11 "Holding the Name," §3.3.
 

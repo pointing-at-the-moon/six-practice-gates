@@ -1,15 +1,18 @@
 ---
 title: "Concentration in the Age of AI"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part IX · Modern Diagnosis and the Return to Prajñā"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P30
+paper_id: "SAMADHI-P30"
 paper_number: 30
 part: Part IX · Modern Diagnosis and the Return to Prajñā
 part_number: 9
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T30n1579"
+  - "T31n1585"
 license: CC BY-NC-SA 4.0
 ---
 

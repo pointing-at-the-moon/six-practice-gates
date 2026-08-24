@@ -10,6 +10,19 @@ part: "Part V · Recollection in the Great Mahāyāna Sūtras"
 part_number: 5
 date: "2026-04-20"
 version: "1.0"
+canonical_source:
+  - "T16n0663"
+  - "T16n0664"
+  - "T16n0665"
+  - "T17n0842"
+  - "T24n1484"
+  - "T39n1783"
+  - "T39n1784"
+  - "T39n1785"
+  - "T39n1786"
+  - "T39n1787"
+  - "T46n1946"
+  - "T49n2035"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -257,7 +270,7 @@ The next paper, P17 on the *Laṅkāvatāra Sūtra*, will take up this suspended
 3. Jizang, *Jīn guāngmíng jīng shū* 金光明經疏 (*Commentary on the Golden Light Sūtra*), 1 fascicle, Taishō Volume 39, No. T1787. Sui. Source of §4.2's Sanlun-school divergent perspective on the Five Repentances as counter-inversions of the Five Evil Roots and the three obstructions comprising cause, time, and place.
 4. Zhili, *Jīn guāngmíng jīng xuányì shíyí jì* 金光明經玄義拾遺記 (*Record of Gleanings on the Profound Meaning of the Golden Light Sūtra*), 6 fascicles, Taishō Volume 39, No. T1784. Northern Song, around the Tianxi reign year 5 (1021 CE). One principal source for the philosophical deepening of phenomenal and noumenal repentance in §4.3.
 5. Zhili, *Jīn guāngmíng jīng wénjù jì* 金光明經文句記 (*Record of the Text-Lines of the Golden Light Sūtra*), 6 fascicles, Taishō Volume 39, No. T1786. Northern Song. The second principal source for §4.3's philosophical deepening of phenomenal and noumenal repentance; the fascicle-3 a/b gloss on the *Chapter of Repentance* is the *locus classicus* of Zhili's parallel-operation doctrine.
-6. Zhili (comp.), *Jīn guāngmíng zuì-shèng chànyí* 金光明最勝懺儀 (*Supreme Liturgy of the Golden Light Repentance*), 1 fascicle, Manji Shinsan Xuzangjing Volume 74, No. X1502. Northern Song. The liturgical template for §4.5's Song-dynasty state repentance liturgy.
+6. Zhili (comp.), *Jīn guāngmíng zuì-shèng chànyí* 金光明最勝懺儀 (*Supreme Liturgy of the Golden Light Repentance*), 1 fascicle, *Taishō* Volume 46, No. T1946. Northern Song. The liturgical template for §4.5's Song-dynasty state repentance liturgy.
 7. Zhipan, *Fózǔ tǒngjì* 佛祖統紀, Song Xianchun 5 (1269 CE); Taishō Volume 49, No. T2035. The historical source for §4.5's Song-dynasty state practice of the Golden Light Repentance.
 
 ### III. Modern Scholarship
@@ -295,7 +308,7 @@ The next paper, P17 on the *Laṅkāvatāra Sūtra*, will take up this suspended
 | T1786 | *Jīn guāngmíng jīng wénjù jì* 金光明經文句記 | Zhili | Northern Song (P16 §4.3 principal commentary) |
 | T1787 | *Jīn guāngmíng jīng shū* 金光明經疏 | Jizang | Sui (P16 §4.2 Sanlun-school divergent perspective) |
 | T2035 | *Fózǔ tǒngjì* 佛祖統紀 | Zhipan | Song Xianchun 5, 1269 CE |
-| X1502 | *Jīn guāngmíng zuì-shèng chànyí* 金光明最勝懺儀 | Zhili (comp.) | Northern Song |
+| T1946 | *Jīn guāngmíng zuì-shèng chànyí* 金光明最勝懺儀 | Zhili (comp.) | Northern Song |
 | AN 5.196 | *Mahāsupina Sutta* | — | *Aṅguttara-nikāya*, PTS edition (§4.4 dual-track contrast) |
 
 ---

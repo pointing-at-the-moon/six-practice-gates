@@ -10,6 +10,16 @@ part: "Part VII · The Lotus and the Gift of Body"
 part_number: 7
 date: "2026-05-12"
 version: "1.0"
+canonical_source:
+  - "T09n0262"
+  - "T09n0263"
+  - "T09n0264"
+  - "T10n0293"
+  - "T25n1509"
+  - "T33n1716"
+  - "T34n1718"
+  - "T34n1719"
+  - "T34n1721"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -239,7 +249,7 @@ The five dharma-teacher lines (reception, reading, recitation, explanation, copy
 
 Part VI closes on the "map of inverted giving" — the Śūraṅgama's fifty skandha-māras as **negative inversion**. Part VII opens on "five modes of the dharma-body's presence through the bearer" — from "one ought not offer thus" toward "how the dharma-body manifests through the bearer."[^48]
 
-The Dharma-Teacher Chapter's closing verse reads: "Whoever nears a dharma-teacher swiftly attains the bodhisattva path; following this teacher's learning, one sees innumerable Buddhas."[^49] Nearing the dharma-teacher *is* swiftly attaining the bodhisattva path — the teacher is not a tool toward the bodhisattva path; the teacher *is* the bodhisattva path's vehicle. The Ever-Disparaging Bodhisattva Chapter's bodily prostration will continue this thread, but in the form of **prasāda-dāna** (信心之供養).[50]
+The Dharma-Teacher Chapter's closing verse reads: "Whoever nears a dharma-teacher swiftly attains the bodhisattva path; following this teacher's learning, one sees innumerable Buddhas."[^49] Nearing the dharma-teacher *is* swiftly attaining the bodhisattva path — the teacher is not a tool toward the bodhisattva path; the teacher *is* the bodhisattva path's vehicle. The Ever-Disparaging Bodhisattva Chapter's bodily prostration will continue this thread, but in the form of **prasāda-dāna** (信心之供養).[^50]
 
 ---
 
@@ -309,7 +319,7 @@ The Dharma-Teacher Chapter, the Ever-Disparaging Chapter, and the Bhaiṣajyarā
 
 [^28]: Zhiyi *Miaofa Lianhua Jing Xuan yi* (妙法蓮華經玄義) citing Sengzhao's *Zhu Weimo Jing* (注維摩) vol. 10, "From the Buddha-land chapter to the dharma-offering chapter, all indicate the inconceivable," *Taishō* vol. 33, No. T1716.
 
-[^29]: "Dharma-offering" falls within the "Third: Function" section of the fivefold profound meaning. It is the Lotus's dynamic reach toward the world, not its core (實相). See SA3 B2.2.
+[^29]: "Dharma-offering" falls within the "Third: Function" section of the fivefold profound meaning. In this architecture it names the Lotus's activity toward the world, not the core designated as true aspect (實相).
 
 [^30]: Zhiyi *Wenju* vol. 8下部, "Both generated body and dharma body have whole and fragment forms, both interpretable," *Taishō* vol. 34, No. T1718.
 
@@ -325,11 +335,10 @@ The Dharma-Teacher Chapter, the Ever-Disparaging Chapter, and the Bhaiṣajyarā
 
 [^36]: Zhanran *Wenju Ji* vol. 8之三, "Jiaxiang also said…… now the opening-meaning is good, but establishing two deviates from the teaching," *Taishō* vol. 34, No. T1719.
 
-[^37]: Zhanran's by-name critique of Jiaxiang (Jizang) is a documented historical exchange, see T1719 vol. 8之三 vault lines 395–400.
+[^37]: Zhanran's by-name critique of Jiaxiang (Jizang) is a documented historical exchange; see T1719 vol. 8之三. The exact CBETA page-line locus was not independently checked for publication.
 
 [^38]: *Mahāprajñāpāramitā-śāstra* vol. 11, "Why? The fruit of material giving lies in the desire-realm; the fruit of dharma-giving may lie in the three realms or beyond them…… Therefore, know that dharma-giving is extremely difficult!" *Taishō* vol. 25, No. T1509.
 
-[^39]: The Dharma-Teacher Chapter's substitution-move vs. T1509/T0293's ranking-move contrast, see SA5 C1.
 
 [^40]: *Avataṃsaka Sūtra* vol. 40, "Good man! Of all offerings, dharma-offering is supreme. Namely: offering of practice according to the teaching, offering of benefiting beings, offering of receiving beings, offering of suffering for beings, offering of diligent wholesome roots, offering of not abandoning bodhisattva practice, offering of not departing from bodhicitta," *Taishō* vol. 10, No. T0293.
 
@@ -337,23 +346,24 @@ The Dharma-Teacher Chapter, the Ever-Disparaging Chapter, and the Bhaiṣajyarā
 
 [^42]: Donald S. Lopez Jr., *The Lotus Sūtra: A Biography* (Princeton: Princeton University Press, 2016).
 
-[^43]: Lopez framework重在 sūtra-as-object; but five dharma-teacher lines are not "five modes of offering to the sūtra scroll" but "five modes of becoming the dharma-body's extension.".1 push-back.
+[^43]: Lopez's framework centers on the sūtra as object. The present paper instead reads the five dharma-teacher practices as five modes through which the text-bearer becomes an extension of the dharma-body; this is the paper's analytic extension, not Lopez's own claim.
 
 [^44]: Michael Pye, *Skilful Means: A Concept in Mahāyāna Buddhism* (Routledge 2nd ed. 2003).
 
-[^45]: Pye's framework nearly entirely resides at the doctrinal hermeneutics level, handling almost none of the ritual/somatic dimension of offering.2 push-back.
+[^45]: Pye's framework works mainly at the level of doctrinal hermeneutics. The ritual and somatic dimension of offering is the present paper's supplement, not a claim attributed to Pye.
 
 [^46]: Jacqueline I. Stone, *Original Enlightenment and the Transformation of Medieval Japanese Buddhism* (Honolulu: University of Hawaiʻi Press, 1999).
 
-[^47]: Stone's primary research domain is medieval Japanese Lotus Buddhism, with little engagement of Han-Chinese frameworks.3 push-back.
+[^47]: Stone's primary research domain is medieval Japanese Lotus Buddhism. The present paper therefore does not attribute her conclusions directly to the Han-Chinese canonical sources.
 
 [^48]: The voice transition from Part VI negative inversion to Part VII positive incarnation.
 
 [^49]: *Lotus Sūtra* vol. 4 closing verse, "Whoever nears a dharma-teacher swiftly attains the bodhisattva path; following this teacher's learning, one sees innumerable Buddhas," *Taishō* vol. 9, No. T0262.
 
-[^50]: The Ever-Disparaging Bodhisattva Chapter's bodily prostration will appear as *prasāda-dāna*. See DANA_NEXT forward note.
+[^50]: The Ever-Disparaging Bodhisattva Chapter's bodily prostration is taken up in P22 under the analytic category *prasāda-dāna* (the offering of confidence).
 
-[^51]: Strict W6 firewall: this paper discusses "burning" and "illumination" terminology, explicitly marking "the lamp-burning here is not Bhaiṣajyarāja's self-immolation (P23 will address)"; the self-immolation topic is never engaged throughout.
+
+[^51]: This paper distinguishes the Dharma-Teacher Chapter's lamp-offering from the Bhaiṣajyarāja Chapter's offering by burning the body. The latter's hermeneutic problem belongs to P23 and is outside this paper's argument.
 
 ---
 

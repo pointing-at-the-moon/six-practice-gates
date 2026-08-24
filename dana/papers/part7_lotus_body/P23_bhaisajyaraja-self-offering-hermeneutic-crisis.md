@@ -10,6 +10,18 @@ part: "Part VII · The Lotus and the Gift of Body"
 part_number: 7
 date: "2026-05-13"
 version: "1.0"
+canonical_source:
+  - "T03n0152"
+  - "T04n0202"
+  - "T09n0262"
+  - "T09n0263"
+  - "T09n0264"
+  - "T10n0293"
+  - "T16n0665"
+  - "T25n1509"
+  - "T34n1718"
+  - "T34n1719"
+  - "T34n1721"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -243,27 +255,27 @@ The forward-anchor to Part VIII, the Avataṃsaka Samantabhadra field, may thus 
 
 [^6]: T34n1718, vol. 10B, p0143b17–19. Zhiyi's *Fahua Wenju* on "真法供養."
 
-[^7]: T34n1719, vol. 10B, p349a. Zhanran's double warning.
+[^7]: T34n1719, vol. 10B, p0354c05–08. Zhanran's double warning.
 
-[^8]: T34n1721, vol. 11. Jizang's three-karma grid normalizing auto-immolation.
+[^8]: T34n1721, vol. 11, p0620c10–12. Jizang's three-karma grid normalizing auto-immolation.
 
-[^9]: T09n0263. 「用一心故無有苦患」 — pain-free state under samādhi. This phrase completely disappears in Kumārajīva's version.
+[^9]: T09n0263, p0125b25. 「用一心故無有苦患」 — pain-free state under samādhi. This phrase completely disappears in Kumārajīva's version.
 
-[^10]: T09n0263. 「以身為燈，為一切故」 — bodhisattva vow. This explicit vow is absent from T0262.
+[^10]: T09n0263, p0125b16–17. 「以身為燈，為一切故」 — bodhisattva vow. This explicit vow is absent from T0262.
 
-[^11]: T09n0263. 「斷絕五穀專食眾香」 — Daoist-cognate cultivation term. Completely omitted in T0262.
+[^11]: T09n0263, p0125b13–14. 「斷絕五穀專食眾香」 — Daoist-cognate cultivation term. Completely omitted in T0262.
 
 [^12]: T09n0263, p125b20. 「斯真供養如來經典」 — *zhēn* modifies *gōngyǎng*, *rúlái jīngdiǎn* is object. Not a four-character compound.
 
 [^13]: T0262, p0053b11–12. Kumārajīva's four-character coinage, shifting offering-object from sūtra to Tathāgata.
 
-[^14]: Dharmarakṣa's 「以身施者乃成法施」 (ascending arrow: body-giving → dharma-giving); Kumārajīva's 「以法供養諸如來故」 (descending arrow: dharma-offering → body-giving). The causal-arrow reversal is the doctrinal pivot of P23 §II.
+[^14]: Dharmarakṣa's 「以身施者乃成法施」 (T0263, p0125b23; ascending arrow: body-giving → dharma-giving); Kumārajīva's 「以法供養諸如來故」 (descending arrow: dharma-offering → body-giving). The causal-arrow reversal is the doctrinal pivot of P23 §II.
 
 [^15]: 「諸供養中法供養為最」 does not appear in T0262 §23. T0262's frame is ranking of dānas (諸施) not pujās (諸供養).
 
 [^16]: T0262, p0053b15–16.
 
-[^17]: T0293 *Avataṃsaka Sūtra* vol. 40, Samantabhadra chapter. True source of the ten-character formula. P21's Dharma-Teacher chapter field.
+[^17]: T0293 *Avataṃsaka Sūtra* vol. 40, Samantabhadra chapter, p0845a04–05. True source of the ten-character formula. P21's Dharma-Teacher chapter field.
 
 [^18]: T25n1509, vol. 12, p0150b16. Nāgārjuna verbatim cites the Lotus Bhaiṣajyarāja as paradigm of supreme dāna. Cross-canonical doctrinal bridge.
 
@@ -271,43 +283,43 @@ The forward-anchor to Part VIII, the Avataṃsaka Samantabhadra field, may thus 
 
 [^20]: T25n1509, vol. 12, p0146c04. 「阿羅漢法中，都無此心，當知此為法身菩薩。」 Dehadāna is not universal religiosity, soteriologically specific to the bodhisattva path.
 
-[^21]: T34n1718, vol. 10B, p0143b17–19. Zhiyi's load-bearing definition of "真法供養."
+[^21]: T34n1718, vol. 10B, p0143b17–21. Zhiyi's load-bearing definition of "真法供養."
 
 [^22]: Inner-verification replacing external conduct — the endogenously Chinese firewall.
 
-[^23]: T34n1718, vol. 10B, p0143b21. Prajñā deconstruction applied to auto-immolation scene.
+[^23]: T34n1718, vol. 10B, p0143b19–21. Prajñā deconstruction applied to auto-immolation scene.
 
 [^24]: Zhiyi grafts Bhaiṣajyarāja onto Prajñāpāramitā contemplation, raising body-giving from material act to Prajñāpāramitā three-wheel emptiness exemplar.
 
-[^25]: T34n1718. 「〈藥王〉以苦行乘乘」 — asceticism as vehicle (工具) not destination.
+[^25]: T34n1718, p0143b03. 「〈藥王〉以苦行乘乘」 — asceticism as vehicle (工具) not destination.
 
-[^26]: T34n1718, vol. 9, p137b09–11. Zhiyi's structural reading of Bhaiṣajyarāja following the Entrustment Chapter.
+[^26]: T34n1718, vol. 9, p0137b10–11. Zhiyi's structural reading of Bhaiṣajyarāja following the Entrustment Chapter.
 
 [^27]: 「棄身存道」 — "abandon body to preserve the Way" — the Way's ontological priority (道 > 身) not literal self-destruction.
 
 [^28]: Jizang's *Fahua Yishu* vol. 11. Sanlun signature: normalization not transcendentalization.
 
-[^29]: T34n1721, vol. 11. Jizang's three-karma grid.
+[^29]: T34n1721, vol. 11, p0620c10–12. Jizang's three-karma grid.
 
-[^30]: T34n1721, p625a. Jizang's conclusion: auto-immolation fulfills all ten offerings.
+[^30]: T34n1721, p0621b05. Jizang's conclusion: auto-immolation fulfills all ten offerings.
 
-[^31]: T34n1721. Jizang handles the vinaya objection via lay bodhisattva exemption.
+[^31]: T34n1721, p0620c26–29. Jizang handles the vinaya objection via lay bodhisattva exemption.
 
 [^32]: Sanlun does not take the high Madhyamaka ontological deduction (演繹); no citation of Nāgārjuna's three-wheel emptiness in this passage. Foundation in grid, not ontology.
 
-[^33]: T34n1719, vol. 10B. Zhanran's most compressed statement of the nature-inclusion reading.
+[^33]: T34n1719, vol. 10B, p0354b23–24. Zhanran's most compressed statement of the nature-inclusion reading.
 
-[^34]: T34n1719. Progression to being-emptiness (pudgala-śūnyatā).
+[^34]: T34n1719, p0354b28–29. Progression to being-emptiness (pudgala-śūnyatā).
 
-[^35]: T34n1719, vol. 10B, p349a. The corollary of nature-inclusion reading: suffering is dharmadhātu-full.
+[^35]: T34n1719, vol. 10B, p0354c03–05. The corollary of nature-inclusion reading: suffering is dharmadhātu-full.
 
 [^36]: Zhanran's advance on Zhiyi: not merely "inner-verification" but "suffering is dharmadhātu-full."
 
-[^37]: T34n1719, vol. 10B, p349a. The heaviest anchor of the entire paper.
+[^37]: T34n1719, vol. 10B, p0354c05–08. The heaviest anchor of the entire paper.
 
 [^38]: Zhanran's explicit warning: auto-immolation without inner principle-observation is useless asceticism.
 
-[^39]: T34n1719, vol. 10B. Zhanran reverses the vinaya via the Brahmajāla Sūtra.
+[^39]: T34n1719, vol. 10B, p0354c11–14. Zhanran reverses the vinaya via the Brahmajāla Sūtra.
 
 [^40]: Jizang (A.7) disables the precept (lay exemption); Zhanran (B.10) reverses it (non-burning = not monastic bodhisattva). Same question, opposite answers.
 
@@ -347,7 +359,7 @@ The forward-anchor to Part VIII, the Avataṃsaka Samantabhadra field, may thus 
 
 [^56]: Condition is "deep contemplation of Prajñāpāramitā" — view-based, not stage-based.
 
-[^57]: Nāgārjuna T1509 vol. 32 p0302a15–24. The technical definition of wisdom-convenience (慧方便) is three-events-unobtainable.
+[^57]: Nāgārjuna T1509 vol. 32 p0302a17–18. The technical definition of wisdom-convenience (慧方便) is three-events-unobtainable.
 
 [^58]: T25n1509, vol. 12, p0147b05. Verbatim formula of three-wheel emptiness.
 
@@ -367,7 +379,7 @@ The forward-anchor to Part VIII, the Avataṃsaka Samantabhadra field, may thus 
 
 [^66]: The sūtra's own supremacy-chain redirects the awe-narrative toward text-practice. The sūtra itself already foresees over-literal reading and provides textual antidote.
 
-[^67]: T0293 Samantabhadra chapter. Samantabhadra's offering infinitude transcends auto-immolation's finitude — not negation, but completion.
+[^67]: T0293 Samantabhadra chapter, p0844c24–p0845a17. Samantabhadra's offering infinitude transcends auto-immolation's finitude — not negation, but completion.
 
 ---
 
@@ -375,12 +387,12 @@ The forward-anchor to Part VIII, the Avataṃsaka Samantabhadra field, may thus 
 
 | T# | Sūtra / Śāstra | Translator / Author | Vol./Chapter | Page/Column/Line | P23 Citation # |
 |----|--------|--------|--------|--------|-|
-| T0262 | *Saddharma puṇḍarīka Sūtra* (妙法蓮華經) | Kumārajīva (406 CE) | vol. 6, Chapter 23 (Bhaiṣajyarāja) | p0053a04–p0055a08 | §I opening B.1 · §II B.5, B.6, B.7, B.19 · §V B.14 |
-| T0263 | *Zhengfa Hua Jing* (正法華經) | Dharmarakṣa (286 CE) | vol. 9, "Xi-jian Bodhisattva Chapter" | p0099–0100 | §II B.9, B.10, B.11 |
-| T0264 | *Tianpin Miaofa Lianhua Sūtra* (添品妙法蓮華經) | Jñānagupta + Dharmagupta (601 CE) | vol. 7, Bhaiṣajyarāja Chapter | (collation reference) | §II collation |
+| T0262 | *Saddharma puṇḍarīka Sūtra* (妙法蓮華經) | Kumārajīva (406 CE) | vol. 6, Chapter 23 (Bhaiṣajyarāja) | p0053a04–p0055a15 | §I opening B.1 · §II B.5, B.6, B.7, B.19 · §V B.14 |
+| T0263 | *Zhengfa Hua Jing* (正法華經) | Dharmarakṣa (286 CE) | Chapter 21 (Bhaiṣajyarāja) | p0125a08–p0127a16 | §II B.9, B.10, B.11 |
+| T0264 | *Tianpin Miaofa Lianhua Sūtra* (添品妙法蓮華經) | Jñānagupta + Dharmagupta (601 CE) | vol. 7, Chapter 22 (Bhaiṣajyarāja) | p0187c13–p0190a12 | §II collation |
 | T1718 | *Fahua Wenju* (法華文句) | Zhiyi (538–597) | vol. 10B | T34 p0143b17–21 | §III B.1, B.2, B.4, B.6, B.8, B.16 |
-| T1719 | *Fahua Wenju Ji* (法華文句記) | Zhanran (711–782) | vol. 10B | T34 p349a | §III B.3, B.7, B.8, B.10 |
-| T1721 | *Fahua Yishu* (法華義疏) | Jizang (549–623) | vol. 11 | T34 lines 1033–1230 | §III B.5, B.7, B.8, B.10 |
+| T1719 | *Fahua Wenju Ji* (法華文句記) | Zhanran (711–782) | vol. 10B | T34 p0354b21–p0354c26 | §III B.3, B.7, B.8, B.10 |
+| T1721 | *Fahua Yishu* (法華義疏) | Jizang (549–623) | vol. 11 | T34 p0620c10–p0621b05 | §III B.5, B.7, B.8, B.10 |
 | T1509 | *Mahāprajñāpāramitāupadeśa* (大智度論) | Nāgārjuna (~2c, Kumārajīva trans. ~402–405) | vol. 11 / 12 / 32 / 96 / 98 | T25.0143c / 0147b / 0150b / 0732a / 0742a | §II B.22, B.23, B.24, B.25 · §V B.12, B.13 |
 
 ---

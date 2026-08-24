@@ -10,6 +10,10 @@ part: Part IV · The Mahāyāna Turn
 part_number: 4
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T16n0676"
+  - "T30n1579"
+  - "DN22"
 license: CC BY-NC-SA 4.0
 ---
 

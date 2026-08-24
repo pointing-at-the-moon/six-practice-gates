@@ -10,6 +10,21 @@ part: "Part V · Recollection in the Great Mahāyāna Sūtras"
 part_number: 5
 date: "2026-04-18"
 version: "1.0"
+canonical_source:
+  - "T09n0262"
+  - "T12n0360"
+  - "T12n0365"
+  - "T12n0366"
+  - "T17n0842"
+  - "T19n0945"
+  - "T24n1484"
+  - "T34n1718"
+  - "T37n1762"
+  - "X09n0243"
+  - "X09n0248"
+  - "X12n0275"
+  - "X22n0424"
+  - "X74n1475"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -413,7 +428,7 @@ P14's answer: the action-rhythm of final-age buddha-recollection is jointly defi
 
 [^19]: The progression "severing → leaving → binding" is this paper's structural extraction for §III; the sūtra itself does not explicitly line up these three characters. The three are drawn respectively from the core verbs of the three chapters — "severing the root of craving" (Maitreya), "leaving the four diseases" (Universal-Awakening), and "binding the three periods" (Perfect-Enlightenment) — and are this paper's original synthetic reading.
 
-[^20]: Guifeng Zongmi, *Yuánjué jīng lüèshū zhī chāo* 圓覺經略疏之鈔, 20 fascicles, *Wanxu Zangjing* (*Xuzangjing*) Volume 9, No. X09n0248. The figure "20 fascicles" is the result of direct CBETA XML counting, correcting an earlier internal note of "4 fascicles." This work is Zongmi's own subcommentary in abridged-excerpt form (*jié-chāo* 節鈔) on his own *Great Commentary* (*Yuánjué jīng dàshū* 圓覺經大疏, X09n0243), and is better suited to the argumentative aim of P14 than the Great Commentary.
+[^20]: Guifeng Zongmi, *Yuánjué jīng lüèshū zhī chāo* 圓覺經略疏之鈔, 20 fascicles, *Wanxu Zangjing* (*Xuzangjing*) Volume 9, No. X09n0248. The twenty-fascicle extent was confirmed directly against the local CBETA XML. This work is Zongmi's own subcommentary in abridged-excerpt form (*jié-chāo* 節鈔) on his own *Great Commentary* (*Yuánjué jīng dàshū* 圓覺經大疏, X09n0243), and is better suited to the argumentative aim of P14 than the Great Commentary.
 
 [^21]: X09n0248, Fascicle 8, exegesis of the Maitreya chapter's "first sever the root of beginningless cyclic existence"; the "thinking of the Buddha is also a samsaric mind" sentence is within the range of *Xuzangjing* p.0921b08–b24.
 

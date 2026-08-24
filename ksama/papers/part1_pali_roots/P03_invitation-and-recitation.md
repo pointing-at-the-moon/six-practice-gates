@@ -10,6 +10,14 @@ part: "Part I · Pāli Roots"
 part_number: 1
 date: "2026-05"
 version: "1.0"
+canonical_source:
+  - "T01n0026"
+  - "T01n0087"
+  - "T02n0099"
+  - "T22n1421"
+  - "T22n1425"
+  - "T22n1428"
+  - "T23n1435"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -132,7 +140,7 @@ And all of this is still only the *gate* of phenomenal repentance, not its summi
 
 [^5]: *Mahīśāsaka Vinaya* (《五分律》), fascicle 19, Taishō Tripiṭaka vol. 22, no. 1421 ("if you have seen my offense, if you have heard my offense, if you suspect my offense, out of compassion speak the invitation," said three times); *Mahāsāṃghika Vinaya* (《摩訶僧祇律》), fascicle 27, no. 1425 ("offense seen, heard, suspected … out of compassion"); *Sarvāstivāda Vinaya* (《十誦律》), fascicle 23, no. 1435 ("by three matters one asks another to speak the invitation: offense seen, heard, or suspected").
 
-[^6]: Mv IV *Pavāraṇākkhandhaka*, SuttaCentral `pli-tv-kd4:1.14`, Mahāsaṅgīti edition (CC0) / Brahmali English translation (CC0). The Pāli falls at approximately Vin i 155–177 (PTS range; to be verified).
+[^6]: Mv IV *Pavāraṇākkhandhaka*, SuttaCentral `pli-tv-kd4:1.14`, Mahāsaṅgīti edition (CC0) / Brahmali English translation (CC0).
 
 [^7]: *Dharmaguptaka Vinaya*, Taishō Tripiṭaka vol. 22, no. 1428 ("to invite is to consent. There are two kinds of invitation by monks: by act, and by spoken word").
 
@@ -144,7 +152,7 @@ And all of this is still only the *gate* of phenomenal repentance, not its summi
 
 [^11]: *Dharmaguptaka Vinaya*, fascicles 35 and 58, no. 1428 ("recite on the *uposatha* day"; "the fourteenth, the fifteenth, the first of the month"; "the fortnightly recitation"); *Sarvāstivāda Vinaya*, fascicle 35, no. 1435 ("fortnight by fortnight the Pātimokkha is to be recited").
 
-[^12]: Mv II *Uposathakkhandhaka*, SuttaCentral `pli-tv-kd2`; the Pāli falls at approximately Vin i 101–136 (PTS range; to be verified).
+[^12]: Mv II *Uposathakkhandhaka*, SuttaCentral `pli-tv-kd2`.
 
 [^13]: *Dharmaguptaka Vinaya*, fascicle 36, Taishō Tripiṭaka vol. 22, no. 1428.
 
@@ -171,7 +179,7 @@ And all of this is still only the *gate* of phenomenal repentance, not its summi
 | *Saṃyukta-āgama* | 雜阿含經 | fasc. 45, SĀ 1212 (Invitation Sūtra) | T0099 (vol. 2) | §I the Buddha's own invitation |
 | *Sūtra on the Fast* | 佛說齋經 (trans. Zhi Qian, Wu) | fasc. 1 | T0087 (vol. 1) | §V lay six-day, eight-precept fast |
 | *Madhyama-āgama* | 中阿含經·持齋經 | fasc. 55 (noble eight-factored fast) | T0026 (vol. 1) | §V lay eight-factored fast |
-| Theravāda *Vinaya, Mahāvagga* | 銅鍱律·大品 | Pavāraṇā-khandhaka (IV) · Uposatha-khandhaka (II) | Mahāsaṅgīti edition (CC0); PTS Vin i ≈ 101–177 (range, to be verified) | §II / §III Pāli parallels — invitation and recitation |
+| Theravāda *Vinaya, Mahāvagga* | 銅鍱律·大品 | Pavāraṇā-khandhaka (IV) · Uposatha-khandhaka (II) | Mahāsaṅgīti edition (CC0) | §II / §III Pāli parallels — invitation and recitation |
 | *Saṃyutta Nikāya* | 相應部 | SN 8.7 *Pavāraṇā Sutta* | Mahāsaṅgīti edition (CC0) | §I the Buddha's own invitation (Pāli) |
 | *Aṅguttara Nikāya* | 增支部 | AN 8.20 *Uposatha Sutta* | Mahāsaṅgīti edition (CC0) | §III the impure assembly, the Buddha not reciting |
 
@@ -180,5 +188,5 @@ And all of this is still only the *gate* of phenomenal repentance, not its summi
 *Paper:* KSAMA-P03 · *Invitation and Recitation* · **KṢAMĀ · Part I · Pāli Roots · #3 · the phenomenal-repentance (事懺) floor**
 *Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates （六行門） · KṢAMĀ · Part I · #3
 *License:* CC BY-NC-SA 4.0
-*CBETA collation:* Citations from the *Dharmaguptaka Vinaya* (T1428 fasc. 35–36 recitation khandhaka / fasc. 37–38 pavāraṇā khandhaka / fasc. 58 Vinaya-uttara), the *Mahīśāsaka Vinaya* (T1421 fasc. 19), the *Mahāsāṃghika Vinaya* (T1425 fasc. 27), the *Sarvāstivāda Vinaya* (T1435 fasc. 23, 35), the *Saṃyukta-āgama* (T0099 fasc. 45, SĀ 1212), the *Sūtra on the Fast* (T0087), and the *Madhyama-āgama* Fasting Sūtra (T0026 fasc. 55) verified against the CBETA Electronic Tripiṭaka 2024 edition. Pāli follows the Mahāsaṅgīti Tipiṭaka (CC0) + Bhikkhu Brahmali / Bhikkhu Sujato (CC0): *Mahāvagga* Pavāraṇā-khandhaka (Mv IV, Kd 4) + Uposatha-khandhaka (Mv II, Kd 2), SN 8.7, AN 8.20, PTS Vin i ≈ 101–177 (range, to be verified).
+*CBETA collation:* Citations from the *Dharmaguptaka Vinaya* (T1428 fasc. 35–36 recitation khandhaka / fasc. 37–38 pavāraṇā khandhaka / fasc. 58 Vinaya-uttara), the *Mahīśāsaka Vinaya* (T1421 fasc. 19), the *Mahāsāṃghika Vinaya* (T1425 fasc. 27), the *Sarvāstivāda Vinaya* (T1435 fasc. 23, 35), the *Saṃyukta-āgama* (T0099 fasc. 45, SĀ 1212), the *Sūtra on the Fast* (T0087), and the *Madhyama-āgama* Fasting Sūtra (T0026 fasc. 55) verified against the CBETA Electronic Tripiṭaka 2024 edition. Pāli follows the Mahāsaṅgīti Tipiṭaka (CC0) + Bhikkhu Brahmali / Bhikkhu Sujato (CC0): *Mahāvagga* Pavāraṇā-khandhaka (Mv IV, Kd 4) + Uposatha-khandhaka (Mv II, Kd 2), SN 8.7, AN 8.20.
 *Repository:* https://github.com/pointing-at-the-moon/six-practice-gates

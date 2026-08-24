@@ -3,12 +3,22 @@ title: "Speech Without a Speaker"
 subtitle: "Sīla of Speech in the Age of AI"
 title_zh: 去思留言
 subtitle_zh: 妄語戒在 AI 時代
-volume: 戒門 SĪLA
-paper_id: SILA-P29
-paper_number: P29
+volume: 4
+paper_id: "SILA-P29"
+paper_number: 29
 language: en
+series_short: "SĪLA"
+part_number: 9
 date: 2026-06
-author: 釋慧鏡 Shi Huijing
+author: "釋慧鏡 (Shi Huijing)"
+canonical_source:
+  - "T15n0600"
+  - "T22n1428"
+  - "T23n1442"
+  - "T25n1509"
+  - "T29n1558"
+  - "T29n1559"
+  - "T30n1579"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷四 戒
@@ -151,7 +161,7 @@ What this paper can do ends here: to point out for others the joint that has bee
 
 [^11]: The virtue accomplished by abstaining from false speech—down to "when one later becomes a Buddha, one attains the true speech of the Tathāgata"—see the *Daśakuśalakarmapatha-sūtra* (*Shi shan ye dao jing*), fascicle 1, Taishō vol. 15, no. T0600, p0158a–b (the passage on abstaining from false speech begins at 0158a; the line "attains the true speech of the Tathāgata" is at 0158b).
 
-[^12]: The daily-life self-discernment, the gathering-up of this volume's whole doctrine, the synthesis of the round precept through the three scriptures, and the handoff from precept to concentration, all belong to this volume's sealing paper (P30); this paper does not set up their account in advance.
+[^12]: The daily-life self-discernment, the gathering-up of this volume's whole doctrine, the synthesis of the round precept through the three scriptures, and the transition from precept to concentration, all belong to this volume's sealing paper (P30); this paper does not set up their account in advance.
 
 ---
 

@@ -8,9 +8,10 @@
 A companion to [*Mindful of the Buddha*](../nian/) (Volume 1), [*The Practice of Giving*](../dana/) (Volume 2), and [*Repentance*](../ksama/) (Volume 3). Where NIAN establishes continuous awareness and DĀNA loosens the grip of "mine" through outward action, SĪLA returns action to its own structure — character (*sīla*), sense-restraint (*saṃvara*), and the casuistic textual system (*vinaya*).
 
 - **Author**: 釋慧鏡 (Shi Huijing)
+- **Methodology**: [Waken scholarship methodology](https://waken.org/methodology/)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
 - **Book**: [成書層 book/](./book/) — ZH gold standard + English mirror
-- **Status**: ✅ **Paper phase sealed 2026-06-03 — 30/30 (all 9 Parts complete)** · Part IX 現代診斷與日用 3/3 (封卷 P30 以戒為師／*The Precept as Teacher* landed 2026-06-03)
+- **Status**: Corpus inventory complete — 30/30 papers are present on disk across all 9 Parts. This count does not claim teacher/translator ratification, quotation-by-quotation scholarly closure, or live-site publication.
 
 ### Structure
 
@@ -23,7 +24,7 @@ Nine parts, ~30 papers:
 - **Part V** The 戒體 Question — Daoxuan / Zhiyi / Yogācāra three-school dialogue on the nature of precept-substance (East Asian doctrinal innovation)
 - **Part VI** Bhaiṣajyaguru: Support Conditions for *Sīla* — the twelve vows as material and institutional ground for ethical conduct
 - **Part VII** Prajñā: Sign-less Precepts — Diamond Sūtra / Vimalakīrti / three-circle emptiness applied to *sīla*
-- **Part VIII** Śūraṅgama, Lotus, Huayan: The Complete Precept — four pure precepts → SAMĀDHI handoff
+- **Part VIII** Śūraṅgama, Lotus, Huayan: The Complete Precept — four pure precepts → transition to SAMĀDHI
 - **Part IX** Modern Diagnosis and Living Sīla — therapeutic anxiety vs legalism · *sīla* of speech in the age of AI · *sīla* as daily art
 
 ### Published Papers

@@ -10,6 +10,11 @@ part: "Part V · The Three Repentances"
 part_number: 5
 date: "2026-06"
 version: "1.0"
+canonical_source:
+  - "T25n1509"
+  - "T32n1668"
+  - "T40n1805"
+  - "T46n1916"
 license: "CC BY-NC-SA 4.0"
 ---
 

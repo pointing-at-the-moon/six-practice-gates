@@ -1,15 +1,21 @@
 ---
 title: "The Lotus's Peaceful-Practice Samādhi"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part VIII · Lotus and Huayan"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P27
+paper_id: "SAMADHI-P27"
 paper_number: 27
 part: Part VIII · Lotus and Huayan
 part_number: 8
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T09n0262"
+  - "T34n1718"
+  - "T46n1911"
+  - "T46n1926"
+  - "T46n1941"
 license: CC BY-NC-SA 4.0
 ---
 

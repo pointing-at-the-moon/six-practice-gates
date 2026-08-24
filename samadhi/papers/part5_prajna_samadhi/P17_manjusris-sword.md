@@ -10,6 +10,13 @@ part: Part V · Prajñā and Concentration
 part_number: 5
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T02n0099"
+  - "T08n0232"
+  - "T08n0233"
+  - "T12n0342"
+  - "T15n0650"
+  - "T25n1509"
 license: CC BY-NC-SA 4.0
 ---
 
@@ -105,7 +112,7 @@ And at the end of this road lies the **dharma-attachment** set down in the secti
 
 ## V. The Third Target: The Residue of Rule-and-Ritual Clinging within Concentration — "I Am Pure, Others Defiled"
 
-The third target is an explicit handoff between this volume and the preceding one, the *SĪLA* volume. In treating precept-keeping, the *SĪLA* volume already pointed out that there remain, within the keeping of precepts, various exceedingly subtle clingings — the most stubborn of which is the conceit of the precept-pure, "I am pure, others are defiled"; and the *SĪLA* volume stated plainly that the fine treatment of this layer must await the *SAMĀDHI* gate, to be cut by the prajñā within concentration. This paper directly receives that consignment: **precept treats its gross form; the prajñā within concentration treats this fine form.**
+The third target is an explicit transition between this volume and the preceding one, the *SĪLA* volume. In treating precept-keeping, the *SĪLA* volume already pointed out that there remain, within the keeping of precepts, various exceedingly subtle clingings — the most stubborn of which is the conceit of the precept-pure, "I am pure, others are defiled"; and the *SĪLA* volume stated plainly that the fine treatment of this layer must await the *SAMĀDHI* gate, to be cut by the prajñā within concentration. This paper directly receives that consignment: **precept treats its gross form; the prajñā within concentration treats this fine form.**
 
 The doctrinal name of this clinging is **clinging to rules-and-observances** (*sīlabbata-parāmāsa*, 戒禁取見).[^15] It means mistaking "the keeping of precepts, the keeping of some observance," in itself, for the sufficient condition of liberation. In the early teaching it is one of the *three fetters* — identity-view, clinging to rules-and-observances, and doubt — the three fetters cut through which, one is then called a stream-enterer (*sotāpanna*).[^16] In its residual form upon the meditator, it becomes the conceit of precept-keeping: a subtle conceit arising from one's own precept-purity, and, born of it, a contempt for those who break the precepts.
 

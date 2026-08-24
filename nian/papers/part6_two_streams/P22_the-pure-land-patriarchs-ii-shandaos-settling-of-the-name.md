@@ -10,6 +10,20 @@ part: "Part VI · Two Streams"
 part_number: 6
 date: "2026-04-29"
 version: "1.0"
+canonical_source:
+  - "T08n0232"
+  - "T12n0360"
+  - "T12n0365"
+  - "T12n0366"
+  - "T37n1753"
+  - "T40n1819"
+  - "T47n1957"
+  - "T47n1958"
+  - "T47n1959"
+  - "T47n1979"
+  - "T47n1980"
+  - "T47n1981"
+  - "T85n2837"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -17,7 +31,7 @@ license: "CC BY-NC-SA 4.0"
 
 **Shandao's Settling of the Name**
 
-**From the Doctrinal Anchor of "Ordinary Beings Entering the Recompense Land" to the Institutionalization of "Single-Hearted Recitation" in the *Guanjing Sitie Shu* — Part VI's Third Paper on the Two Streams**
+*From the Doctrinal Anchor of "Ordinary Beings Entering the Recompense Land" to the Institutionalization of "Single-Hearted Recitation" in the *Guanjing Sitie Shu* — Part VI's Third Paper on the Two Streams*
 
 *中文主題：淨土祖師之二：善導對名號的安立*
 

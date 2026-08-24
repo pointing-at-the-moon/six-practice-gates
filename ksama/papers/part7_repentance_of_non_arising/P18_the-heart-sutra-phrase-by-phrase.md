@@ -10,6 +10,11 @@ part: "Part VII · The Repentance of Non-Arising as Emptiness"
 part_number: 7
 date: "2026-06-02"
 version: "1.0"
+canonical_source:
+  - "T08n0251"
+  - "T09n0277"
+  - "T14n0475"
+  - "T46n1916"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -174,7 +179,7 @@ The map, phrase by phrase, is now laid down. A *Heart Sūtra* of barely two hund
 
 [^11]: The mapping of the Six Practice Gates onto the *Heart Sūtra*'s "five verbs and one emptiness" (seeing / crossing / emptiness / no / ultimate / attainment, set against recollection / giving / repentance / the precepts / concentration / vow) is this series' own reading; see the master plan of the whole work. Only the point that the "emptiness" answering to repentance falls on this section of the sūtra is marked here; the other five gates each take a single neighbouring sentence, and the six-gate synopsis is not opened out.
 
-[^12]: *Sūtra on the Contemplation of the Practice of Samantabhadra*, trans. attrib. Dharmamitra (Tanwumiduo), Liu Song, per the Taishō record. Taishō vol. 9, No. 277, p. 392c (T09n0277_p0392c24).
+[^12]: *Sūtra on the Contemplation of the Practice of Samantabhadra*, trans. attrib. Dharmamitra (Tanwumiduo), Liu Song; the XML byline reads 宋元嘉年曇無蜜多於楊州譯, while the translator and place of composition remain debated in scholarship. Taishō vol. 9, No. 277, p. 392c (T09n0277_p0392c24).
 
 [^13]: *Stages of the Perfection of Dhyāna* (*Shi chan boluomi cidi famen*), expounded by Zhiyi, Sui. Taishō vol. 46, No. 1916, p. 486b (T46n1916_p0486b10).
 
@@ -214,7 +219,7 @@ The map, phrase by phrase, is now laid down. A *Heart Sūtra* of barely two hund
 |-------------|-----------|-----------|------------------------|-----|
 | Heart Sūtra | Heart of the Prajñāpāramitā Sūtra | Taishō vol. 8, No. 251 | trans. Xuanzang, Tang | primary source · walked phrase by phrase, pp. 848b–c |
 | Stages of the Perfection of Dhyāna | Shi chan boluomi cidi famen | Taishō vol. 46, No. 1916 | expounded by Zhiyi, Sui | contemplating that transgression does not arise, p. 486b |
-| Samantabhadra Contemplation Sūtra | Sūtra on the Contemplation of the Practice of Samantabhadra | Taishō vol. 9, No. 277 | trans. attrib. Dharmamitra (Tanwumiduo), Liu Song (so recorded in the Taishō; translator and provenance remain debated in scholarship, and the work is cited here per the Taishō record) | transgression and merit have no owner · repentance without the mark of transgression, p. 392c; real-mark repentance verse, p. 393b |
+| Samantabhadra Contemplation Sūtra | Sūtra on the Contemplation of the Practice of Samantabhadra | Taishō vol. 9, No. 277 | trans. attrib. Dharmamitra (Tanwumiduo), Liu Song (the XML byline reads 宋元嘉年曇無蜜多於楊州譯; translator and provenance remain debated in scholarship, and the work is cited here according to that byline) | transgression and merit have no owner · repentance without the mark of transgression, p. 392c; real-mark repentance verse, p. 393b |
 | Vimalakīrti Sūtra | Vimalakīrti-nirdeśa | Taishō vol. 14, No. 475 | trans. Kumārajīva, Yao Qin | transgression has no own-being (cross-reference) |
 
 ## Series Cross-References

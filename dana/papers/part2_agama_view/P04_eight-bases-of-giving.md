@@ -10,6 +10,13 @@ part: "Part II · The Āgama View on Giving"
 part_number: 2
 date: "2026-04-19"
 version: "1.0"
+canonical_source:
+  - "T02n0099"
+  - "T02n0125"
+  - "AN8.31"
+  - "AN8.32"
+  - "AN8.36"
+  - "AN9.20"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -32,7 +39,7 @@ license: "CC BY-NC-SA 4.0"
 
 Contemporary research on philanthropic behavior has developed a refined taxonomy of donor motivation — Andreoni's *warm glow*, Bénabou–Tirole's *identity signaling*, the fMRI neural-reward models of Harbaugh and colleagues — yet within these frameworks every downstream reward mechanism operates strictly within the welfare economy of this present life, structurally lacking any liberation-directed filter; early Buddhism, by contrast, treated precisely this filter as the structural backbone of its *dāna* taxonomy as far back as the fifth century BCE. This paper argues that early Buddhism's eight-fold classification of giving is not a single fixed structure but a *dual-axis independent development* — Pāli AN 8.31 takes a spectrum of motivational purity as its axis (from *āsajja* [external compulsion], *bhayā* [fear], transactional giving, cultural conformity, and reputation, culminating in *cittālaṅkāra-cittaparikkhāra* as the inward motivation of adorning and equipping the mind), while the Chinese *Ekottara Āgama juan* 37, "Chapter on the Eight Difficulties," sūtra 9 takes a quality-configuration recipe as its axis (with the seven conditions of timeliness, freshness, personal hand, vow-framing, liberation-orientation, aim-at-cessation, worthy field, and dedication rendering *dāna* complete as *puñña-kriyā*); the two axes are not translation equivalents but parallel contributions by two independent lineages to the structural analysis of *dāna*, converging above the container of AN 8.36's three bases of meritorious action and within the faculty-to-object chain established across P02 and P03, supplying a dual criterion for what counts as an event fit to serve as an object of recollection. The analysis proceeds in three layers: the motivation axis's spectrum from the outward to the inward, grouped structurally into five clusters (with the real categorical watershed running between positions 7 and 8); the quality axis's seven-condition recipe with its compound structure (and positions 5–6 — liberation and cessation — functioning as the operative layer where the liberation-directed filter is embedded); and the convergence of the two axes above AN 8.36's orthogonal matrix (supplying the motivation-generation layer that had been missing between the faculty of P02 and the object of P03). Once this dual-axis taxonomy is read clearly, two opposed contemporary misreadings — the reading of Chinese-tradition giving as "merit-transaction accumulation," and the reading of the Chinese emphasis on quality as "soulless ritualization" — can both be structurally refuted; likewise, AN 8.31's eighth position *cittālaṅkāra* can be kept from being downgraded into a form of MBSR-style mindful charity. The present paper occupies, within Part I's faculty-to-object chain, the motivation-generation layer, and opens Part II *The Āgama View* by initiating the systematic treatment of the Āgama exposition of *dāna*.
 
-**Keywords**: AN 8.31, eight kinds of giving, motivational purity spectrum, *cittālaṅkāra-cittaparikkhāra*, T0125 *juan* 37, eight bases of giving, quality-configuration recipe, dual-axis taxonomy, AN 8.36, three bases of meritorious action, container gloss, orthogonal matrix, *warm glow*, *identity signaling*, welfare optimization, liberation-directed filter, *puñña-kriyā* completeness, merit-accumulation misreading, mindful-charity caution, Part II *The Āgama View*, NIAN-A dual track, attribution discipline, AN 8.33 vault gap
+**Keywords**: AN 8.31, eight kinds of giving, motivational purity spectrum, *cittālaṅkāra-cittaparikkhāra*, T0125 *juan* 37, eight bases of giving, quality-configuration recipe, dual-axis taxonomy, AN 8.36, three bases of meritorious action, container gloss, orthogonal matrix, *warm glow*, *identity signaling*, welfare optimization, liberation-directed filter, *puñña-kriyā* completeness, merit-accumulation misreading, mindful-charity caution, Part II *The Āgama View*, Pāli–Chinese dual-source citation convention, attribution discipline
 
 ---
 
@@ -54,7 +61,7 @@ The dual-axis route simultaneously answers two default expectations held by West
 
 ## II. Canonical Basis
 
-This section's citations are organized along two axes: axis one is sūtra material (A), containing two primary sources (AN 8.31's motivation axis, T0125 *juan* 37's quality axis), one complement (AN 8.32 as supplementary gāthā), one adjacent reference (T0125 position axis), and one absence declaration (AN 8.33, vault gap). Axis two is commentarial material (B), with AN 8.36's three bases of meritorious action serving as the container above both axes. In keeping with NIAN-A dual-track discipline, Nikāya material is cited by PTS edition, Chinese material by Taishō volume and sūtra number.
+This section's citations are organized along two axes: axis one is sūtra material (A), containing two primary sources (AN 8.31's motivation axis, T0125 *juan* 37's quality axis), one complement (AN 8.32 as supplementary gāthā), and one adjacent reference (T0125 position axis). Axis two is commentarial material (B), with AN 8.36's three bases of meritorious action serving as the container above both axes. In keeping with the Pāli–Chinese dual-source citation convention, Nikāya material is cited by PTS edition, Chinese material by Taishō volume and sūtra number.
 
 ### 2.1 A · Sūtra
 
@@ -85,15 +92,13 @@ The sūtra closes with a gāthā: "The wise give at the right time, / Without st
 
 The axis of the eight items is clear: timing, substance, mode, resolve, orientation (split into two layers, liberation and cessation), recipient, and the final handling (dedication). These eight **do not translationally correspond** to AN 8.31's eight — AN is a motivation axis, T0125 a quality axis; the two analytical dimensions are fundamentally different. The structural relation is developed in §3.1–3.2.
 
-**Group 3: AN 8.32 as supplementary gāthā, and the absence of AN 8.33**
+**Group 3: AN 8.32 as supplementary gāthā**
 
 *Aṅguttara Nikāya* 8.32, the *Dutiyadānasutta*[^3], stands adjacent to 8.31 and in past scholarship has often been presumed to be the eight-item parallel or doctrinal extension of AN 8.31. This presumption requires correction: AN 8.32 is not an enumeration of eight items but a four-line *gāthā*:
 
 > *Saddhā hiriyaṁ kusalañca dānaṁ, dhammā ete sappurisānuyātā; etañhi maggaṁ diviyaṁ vadanti, etena hi gacchati devalokan*ti.
 
 Rendered: "Faith, conscience, and wholesome giving — these qualities are followed by the virtuous; this is called the heavenly path by the Buddha, and by this one goes to the world of devas" (translation mine). The three virtues (*saddhā* / *hiri* / *kusala dāna*) point toward the *devaloka*. The relation between this *gāthā* and AN 8.31 is **complementary, not correspondent** — AN 8.31 is a descriptive taxonomy, AN 8.32 a normative *gāthā* compressed to the upper end of the motivational spectrum; the explicit overlap between them amounts only to the shared root *kusala* between AN 8.31's position 5 *sāhu dānaṁ* and AN 8.32's *kusala dāna*. The two further virtues named in the *gāthā*, *saddhā* and *hiri*, are **not** in AN 8.31's eight-item list — they belong to the *devatānussati* pentad of virtues (faith / virtue / learning / letting-go / wisdom), not to the *dāna* taxonomy itself. This paper's citation of AN 8.32 strictly observes the attribution discipline: it does **not** call AN 8.32 a correspondent or extended version of AN 8.31.
-
-According to Bhikkhu Bodhi's AN translation index, the sūtra that actually presents an eight-base doctrinal expansion is AN 8.33, the *Dānavatthusutta*; however, this sūtra is not included in the current state of the collection[^4]. The present paper does not cite AN 8.33, does not cross-check it online, and does not reconstruct it from memory — its formal handling is deferred to a future vault remediation. The absence of AN 8.33 does not damage the main argument: AN 8.31's eight-item spectrum is already self-sufficiently complete.
 
 **Group 4: T0125 *juan* 37, sūtra 8 — The position axis, mentioned for reference**
 
@@ -258,8 +263,6 @@ Both axes together serve the *cāgānussati* established in P03 — a *dāna* ev
 [^2]: *Ekottara Āgama* (增一阿含經) *juan* 37, "Chapter on the Eight Difficulties" (〈八難品第四十二之二〉), sūtra 9; translated by Gautama Saṅghadeva (東晉瞿曇僧伽提婆), Eastern Jin dynasty. Taishō vol. 2, No. 0125. The sūtra's format is a four-segment structure — "mendicants request the teaching — Buddha answers — *gāthā* — concluding exhortation" — and is structurally distinct from AN 8.31's two-segment format of "enumeration — conclusion": the Chinese text adds the *gāthā* segment and the explicit soteriological closing "they obtain the jewel of the deathless and gradually come to extinction," placing "the most excellent giving" more clearly on a nirvāṇa-directed trajectory than the AN. This is an independent doctrinal overlay developed within the Chinese Āgama tradition, not a translation of the Pāli.
 
 [^3]: AN 8.32 *Dutiyadānasutta*, *Aṅguttara Nikāya*. PTS edition iv.237. A four-line *gāthā*, not an eight-item parallel to AN 8.31. The *saddhā* and *hiri* named in the *gāthā* belong to the *devatānussati* pentad (faith / virtue / learning / letting-go / wisdom), not to the eight motivations of AN 8.31. Attribution discipline: this paper cites AN 8.32 strictly marked as a "supplementary *gāthā*," and does not call it a parallel to AN 8.31. This discipline is detailed in §2.1 Group 3.
-
-[^4]: AN 8.33 *Dānavatthusutta* (《增支部》8.33《施基經》), per Bhikkhu Bodhi's AN translation index, should be an eight-base doctrinal expansion; however the current state of the collection (as of 2026-04-19) does not include this sūtra file. This paper observes this series' sourcing discipline: it does not cross-check SuttaCentral online and does not reconstruct the content from memory; formal handling is deferred to a future vault remediation. The absence of AN 8.33 does not damage the paper's main argument — AN 8.31's eight-position spectrum is already self-sufficient; even if AN 8.33 were available, it would likely be a reframing or rephrasing expansion of AN 8.31 and would not alter the structural fact of an eight-limbed motivation axis.
 
 [^5]: *Ekottara Āgama* (增一阿含經) *juan* 37, "Chapter on the Eight Difficulties" (〈八難品第四十二之二〉), sūtra 8 (the segment with Elder Anāthapiṇḍika's "eight positions of giving"); translated by Gautama Saṅghadeva (東晉瞿曇僧伽提婆), Eastern Jin dynasty. Taishō vol. 2, No. 0125. Placed next to sūtra 9's quality-axis eight-bases within the same *juan*, together constituting T0125's juxtaposition of an eight-fold multi-axial analysis of *dāna* in a single *juan* — position axis (sūtra 8) + quality axis (sūtra 9). This paper uses it only as a structural observation and does not enter it into the main argument; the extension from the position axis to the recipient axis is treated by P05.
 

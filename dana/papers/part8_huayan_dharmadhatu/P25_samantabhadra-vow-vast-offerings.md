@@ -10,6 +10,18 @@ part: "Part VIII · The Huayan Dharmadhātu"
 part_number: 8
 date: "2026-05-14"
 version: "1.0"
+canonical_source:
+  - "T09n0278"
+  - "T10n0279"
+  - "T10n0293"
+  - "T10n0297"
+  - "T26n1521"
+  - "T26n1522"
+  - "T35n1733"
+  - "T35n1735"
+  - "T36n1736"
+  - "X05n0227"
+  - "X05n0229"
 license: "CC BY-NC-SA 4.0"
 ---
 

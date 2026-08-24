@@ -10,6 +10,12 @@ part: Part I · Pāli Roots
 part_number: 1
 date: 2026-06-01
 version: "1.0"
+canonical_source:
+  - "T01n0026"
+  - "T02n0099"
+  - "T26n1537"
+  - "T29n1558"
+  - "DN22"
 license: CC BY-NC-SA 4.0
 ---
 
@@ -130,13 +136,13 @@ This answers, too, the anchoring of right concentration from the previous chapte
 
 Over recent decades Western scholarship has discussed at length the "layer-by-layer shedding of jhāna-factors." Here three representative scholars are chosen, to see how each reads this structure — the focus falling on the shedding itself, not on the priority-of-calm-or-insight dispute already handled in the previous chapter. (What follows gives the gist of each position; exact titles and page numbers should be checked against the originals.)
 
-The first is Richard Shankman (*The Experience of Samādhi*). He observes that reading jhāna by way of the discourses (the Nikāyas) and reading it by way of the *Visuddhimagga* draw the line differently on "how completely the shedding must go before it counts": the commentarial reading requires that *vitakka* and *vicāra* stop entirely and the five sense-doors close before the second jhāna is reached, whereas the discourse reading allows a lighter "diminishing," compatible with a kind of awareness. This dispute over the threshold does have textual footing — the Nikāya formula for the four jhānas does not state to what degree *vitakka* and *vicāra* must disappear, and the commentarial refinement is filling a gap the discourses left, not inventing from nothing. Yet wherever the line is drawn, the *items and order* of the shedding (*vitakka*-and-*vicāra* → rapture → ease) are the text's own native shape, not the creation of either side. This chapter argues at the level of that shedding-structure; the threshold dispute does not interfere at that level.
+The first is Richard Shankman (*The Experience of Samādhi*), who juxtaposes discourse- and *Visuddhimagga*-based approaches to jhāna and surveys their differing interpretations. That comparative frame is useful, but this chapter makes the narrower claim supported directly by the canonical formula: whatever threshold an interpreter adopts, the *items and order* of the shedding (*vitakka*-and-*vicāra* → rapture → ease) are the transmitted text's own shape. This chapter argues at the level of that shedding-structure and does not adjudicate the experiential threshold dispute.
 
 The second is Keren Arbel (*Early Buddhist Meditation: The Four Jhānas …*). She argues forcefully against reading the shedding as "the senses shutting off, a trance sinking ever deeper." For her, the four jhānas are cognitively rich, ethically saturated states; the shedding is a structural purification — the coarser factors that obstruct clarity are unloaded, and a finer awareness is left standing; equanimity and mindfulness remain present through the third and fourth jhānas, and do not vanish. This correction matters greatly, because "deeper means more entranced" is a real and common misreading, and the equanimity and mindfulness written plainly into the four-jhāna formula are her strong counter-evidence. This chapter gladly takes up her anti-trance side. One point only must be gently narrowed: if her thesis that "insight is already operating within jhāna" were read as "jhāna is itself wisdom, with no need to set up a separate practice of insight," that would step past this volume's scope. The volume holds throughout to one boundary — concentration (calm) provides the platform for wisdom, but concentration is not itself wisdom (the system of wisdom belongs to a separate series of work). **Concentration is not a trance, but concentration is not yet wisdom either.** This is a friendly narrowing, not an opposition.
 
-The third is Rupert Gethin's functional reading of the jhāna-factors. He holds that the jhāna-factors are functional indicators describing a state of mind, not a checklist threshold for adjudicating "whether one has entered jhāna": the first jhāna's "*vitakka* and *vicāra*" describes the mind's initial application to its object (*vitakka*) and its sustained contact with it (*vicāra*); at the second jhāna these two functions recede because one-pointedness has deepened to the point of no longer needing active effort — each layer's shedding is a natural result of the mind's integration deepening, not a deliberate "switching off" of something. This reading captures the verbal sense of the texts exactly: the texts use "stilled" and "faded" (settling, withdrawal), not "is not" (absence), pointing to a process rather than a binary on-off switch. It is well taken. One line need only be added: if the functional frame is used too loosely, it can blur the *order-structure* — which factor sheds first, which after, which is necessarily present at a given jhāna — and these are exactly what the texts fix. This chapter's position is: accept the shedding as the fruit of deepening integration, and at the same time insist that the order-structure be set out clearly, rung by rung; the two are not in conflict, but **order takes priority.**
+The canonical formula can also be read functionally: *vitakka* and *vicāra* in the first jhāna name initial application to the object and sustained attention to it; their subsiding in the second jhāna marks a change in the work those factors perform. This is an authorial reading of the formula, not an additional canonical quotation. Used too loosely, however, a functional frame can blur the *order-structure* — which factor subsides first, which later, and which is present in a given jhāna. This chapter therefore holds the functional reading together with the sequence explicitly transmitted by the texts: **the sequence remains the controlling boundary.**
 
-Each of the three holds one face of the matter, and through them the three lines may be restated: shedding is not dullness (what is unloaded is interference, not clarity); the mindfulness within concentration is not the mindfulness of the foundations (the fourth jhāna's "purity of mindfulness" is the mindfulness of a concentration-state, not the pervasive, all-illuminating awareness of the four foundations of mindfulness); deeper concentration does not mean nearer to liberation (a deeper calibration is not a nearer terminus). Hold these three lines and the scale stands firm.
+Together, these readings allow three boundaries to be restated: shedding is not dullness (what is unloaded is interference, not clarity); the mindfulness within concentration is not thereby identical with the four foundations of mindfulness; and deeper concentration does not by itself mean nearer to liberation. Hold these three lines and the scale stands firm.
 
 With this, the spine of the volume is set up: from the first jhāna to the fourth, *vitakka*-and-*vicāra*, rapture and ease shed layer by layer, clearer layer by layer; then from the fourth jhāna up into the four formless, the perceptions of form, of space, of consciousness, of nothingness transcended layer by layer; until the ninth rung, the attainment of cessation, where the track of calm hands the baton to wisdom. This is a vertical axis running from the scattered mind to pure equanimity — and every later section of the volume will return to this axis and, from its own angle, re-illuminate one place along it.
 
@@ -148,7 +154,7 @@ As for where this vertical axis ends — even when one has climbed to neither-pe
 
 ## Notes
 
-[^1]: This methodological self-restraint echoes Robert Sharf's caution regarding "Buddhist modernism and the rhetoric of meditative experience": the set descriptions of jhāna should not be read off as transparent first-person reports of experience; they may at once be a schema of training, a marker of attainment, or a normative statement within debate. (Sharf's relevant essays were published in the 1990s; the exact venue is to be verified against the original.)
+[^1]: This methodological self-restraint is consonant with Robert H. Sharf's critique of treating Buddhist contemplative discourse as transparent access to private experience. Robert H. Sharf, “Buddhist Modernism and the Rhetoric of Meditative Experience,” *Numen* 42, no. 3 (1995): 228–283. The application to the jhāna formulas here is the present author's methodological inference.
 [^2]: *Madhyama Āgama*, the *Discourse on the City-Simile*, Taishō vol. 1, No. T0026, fascicle 3; translated by Gautama Saṅghadeva (Eastern Jin).
 
 [^3]: The Pāli counterpart is found in the passage defining right concentration in the *Discourse on the Foundations of Mindfulness* (the *Mahāsatipaṭṭhāna-sutta*, DN 22) and elsewhere. The "with / without *vitakka*-and-*vicāra*" of the formula renders 覺 and 觀; these equal the new renderings 尋 and 伺, on which see the next section. *Vitakka* and *vicāra* should not be flattened into "thought" and "examination," which would import the later sutta-versus-*Visuddhimagga* debate this chapter deliberately brackets.
@@ -200,9 +206,10 @@ As for where this vertical axis ends — even when one has climbed to neither-pe
 
 ### Modern Scholarship
 
-> Publication details for the Western works below await final verification; the body takes only the gist of each position and quotes none of them verbatim.
-
-- Arbel, Keren. *Early Buddhist Meditation: The Four Jhānas as the Actualization of the Path*. Routledge, 2017. (Subtitle to be verified.)- Gethin, Rupert. On the functional reading of the jhāna-factors; and *The Foundations of Buddhism* (Oxford University Press, 1998). (Specific essay title to be verified.)- Shankman, Richard. *The Experience of Samādhi*.- Sharf, Robert. "Buddhist Modernism and the Rhetoric of Meditative Experience." (Venue to be verified; 1990s.)- (Corroborating cross-references, not unfolded: Polak, Grzegorz, *Reexamining Jhāna*; on the pre-Buddhist provenance of the formless attainments, see the previous chapter of this volume.)
+- Arbel, Keren. *Early Buddhist Meditation: The Four Jhānas as the Actualization of Insight*. Routledge, 2017.
+- Shankman, Richard. *The Experience of Samādhi: An In-depth Exploration of Buddhist Meditation*. Shambhala, 2008.
+- Sharf, Robert H. “Buddhist Modernism and the Rhetoric of Meditative Experience.” *Numen* 42, no. 3 (1995): 228–283.
+- (Corroborating cross-references, not unfolded: Polak, Grzegorz, *Reexamining Jhāna*; on the pre-Buddhist provenance of the formless attainments, see the previous chapter of this volume.)
 
 ---
 

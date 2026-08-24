@@ -1,15 +1,21 @@
 ---
 title: "Bodhidharma's Wall-Gazing and the Birth of Chan"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part VII · Chan"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P22
+paper_id: "SAMADHI-P22"
 paper_number: 22
 part: Part VII · Chan
 part_number: 7
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T48n2009"
+  - "T48n2015"
+  - "T50n2060"
+  - "T51n2076"
+  - "T85n2837"
 license: CC BY-NC-SA 4.0
 ---
 

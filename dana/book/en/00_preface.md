@@ -38,7 +38,7 @@ In the prajñā sūtras it loosened to "not abiding in marks," loosened to the *
 
 In the *Lotus* it was pushed to the limit—even the body can be given in offering; and that fire burned not the body, but the "I."
 
-At the last, in the *Huayan*, it loosened until there was no edge—offerings filling the whole dharma-realm, thought after thought without interruption, until the bodhisattva Samantabhadra said it outright: the Dharma itself is giving. The hand that clenched "mine" loosened and loosened along the whole road, until at the end it loosened beyond all trace—loosened into the whole dharma-realm.
+At the last, in the *Huayan*, it loosened until there was no edge—offerings filling the whole dharma-realm, thought after thought without interruption. Samantabhadra traces every letter and phrase of his ocean of dharma to relinquishing; reading this together with Fazang's teaching on mutual inclusion, this book condenses the relation as "the Dharma itself is giving." The hand that clenched "mine" loosened and loosened along the whole road, until at the end it loosened beyond all trace—loosened into the whole dharma-realm.
 
 From a small loosening in one person's heart to the offering of the whole dharma-realm—that is this road. One sentence says it all: **Giving is not a transaction of merit-making, of trading for blessings; it is the work of loosening, inch by inch, the hand that clenches "mine"—loosening "mine," and at the last loosening the "I" itself.**
 

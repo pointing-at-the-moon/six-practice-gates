@@ -93,7 +93,7 @@ The reader who wants to know how a term is written in the original, and what it 
 - **Sadāparibhūta, "Never Disrespectful"** — 常不輕 — *Sadāparibhūta* — The bodhisattva who bowed to everyone he met, saying, "You all shall become Buddhas."
 - **Bhaiṣajyarāja / Sarvasattvapriyadarśana** — 藥王／一切眾生喜見 — *Bhaiṣajyarāja* / *Sarvasattvapriyadarśana* — The bodhisattva who burned his body as an offering to the Buddha—what that fire was burning was "I."
 - **Sudhana** — 善財 — *Sudhana* — The youth who visited fifty-three spiritual friends and walked into the dharma-realm.
-- **Samantabhadra** — 普賢 — *Samantabhadra* — The protagonist of the ten great vows, "the vast cultivation of offerings" among them; that the Dharma itself is giving was spoken plainly from his own lips.
+- **Samantabhadra** — 普賢 — *Samantabhadra* — The protagonist of the ten great vows, "the vast cultivation of offerings" among them; he traces his ocean of dharma to relinquishing, which this book reads with Fazang as "the Dharma itself is giving."
 - **Mañjuśrī** — 文殊 — *Mañjuśrī* — The bodhisattva of wisdom who set Sudhana on the road, and met him again at its end.
 - **Maitreya** — 彌勒 — *Maitreya* — Sudhana's fifty-second spiritual friend.
 
@@ -104,7 +104,8 @@ The reader who wants to know how a term is written in the original, and what it 
 - **Asaṅga** — 無著 — *Asaṅga* — Author of the *Ornament of the Mahāyāna Sūtras* and the *Compendium of the Mahāyāna*.
 - **Buddhaghosa** — 覺音 — *Buddhaghosa* — Author of the *Visuddhimagga*; the great commentator of the southern tradition.
 - **Zhiyi** — 智顗 — (Tiantai school, Sui) — "The Dharma may serve as the norm, but it does not carry itself abroad"; the true dharma-offering is wisdom-contemplation turned within.
-- **Fazang** — 法藏 — (Huayan school, Tang) — "The single practice of giving gathers in all practices"; "vast or brief, according to conditions."
+- **Fazang** — 法藏 — (Huayan school, Tang) — "One practice is all practices"; uses giving to explain the mutual inclusion of pure and mixed practice; "vast or brief, according to conditions."
+- **Chengqian** — 承遷 — (Huayan commentator, Song) — Annotator of the *Treatise on the Golden Lion*; uses "one act of giving gathers all practices" to show how one practice includes the many.
 - **Chengguan** — 澄觀 — (Huayan school, Tang) — "If the gift of wealth accords with the Dharma, it is all dharma-offering"; "the two sages contain each other."
 - **Zongmi** — 宗密 — (Huayan and Chan, Tang) — Commentator on the chapter of Samantabhadra's practices and vows; joined the teachings and Chan through "thought after thought continuing without interruption."
 - **Jizang** — 吉藏 — (Sanlun school, Sui–Tang) — In his Lotus commentary: "reverence to the body is reverence to the Buddha to come."

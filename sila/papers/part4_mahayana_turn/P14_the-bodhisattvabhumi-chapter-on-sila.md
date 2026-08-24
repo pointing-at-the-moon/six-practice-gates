@@ -3,12 +3,21 @@ title: "The Bodhisattvabhūmi Chapter on Sīla"
 subtitle: "The Nine-fold Taxonomy as the Master-Architecture of Bodhisattva Precepts"
 title_zh: 九種戒相
 subtitle_zh: 九種為主、三聚為內節——論菩薩戒的雙向巢套
-volume: 戒門 SĪLA
+volume: 4
 paper_id: "SILA-P14"
-paper_number: P14
+paper_number: 14
 language: en
+series_short: "SĪLA"
+part_number: 4
 date: 2026-05-28
 author: "釋慧鏡 (Shi Huijing)"
+canonical_source:
+  - "T25n1509"
+  - "T30n1579"
+  - "T30n1581"
+  - "T30n1582"
+  - "T31n1605"
+  - "T31n1606"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷四 戒
@@ -265,7 +274,7 @@ A closing image. The tenth mode of *pariśuddhi-śīla*, "no loss of what was fi
 - **SILA-P12** *The Three-Body Architecture of Bodhisattva Sīla* — the three-cluster is P12's home subject; the present paper shows it as the nested module of the nine's second member, *sarva-śīla*, and shares the very same hinge sentence (T1581 p0918b01–06). The three-cluster's content and its mapping onto Zhiyi's three bodies are treated there and not restated here.
 - **SILA-P13** *Nāgārjuna on Śīla-Pāramitā* — direct predecessor; P13's *prajñā* deconstruction (the emptying of the marks through *anupalabdhi*) and the present paper's Yogācāra construction (the enumeration of the marks through the nine-fold) form a contrastive axis. P13 uses Kumārajīva's abbreviated 「尸羅波羅蜜」; the present paper uses Xuanzang's full 「戒波羅蜜多」.
 
-### Within Volume IV SĪLA, forthcoming
+### Within Volume IV SĪLA
 
 - **SILA-P15** *The Yingluo Sūtra and the East Asian Receiving-Architecture* — direct successor; how the nine-fold / three-cluster lands in China as the prototype of an ordination liturgy (the open question on which the present paper closes).
 - **SILA-P16–P18** *The Precept-Substance Studies* — the precept-substance (戒體) dimension of *svabhāva-śīla*'s "reception from another" is deliberately *not* opened in the present paper; it is reserved for these dedicated papers.

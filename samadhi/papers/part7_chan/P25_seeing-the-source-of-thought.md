@@ -1,15 +1,22 @@
 ---
 title: "Kàn Huàtóu: Turning the Light Back upon the Source of Thought"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part VII · Chan"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P25
+paper_id: "SAMADHI-P25"
 paper_number: 25
 part: Part VII · Chan
 part_number: 7
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T47n1998A"
+  - "T48n2003"
+  - "T48n2005"
+  - "X68n1314"
+  - "X70n1401"
+  - "X70n1402"
 license: CC BY-NC-SA 4.0
 ---
 
@@ -199,7 +206,7 @@ This series embeds its primary-source locators in the footnotes and the CBETA-co
 *Paper:* SAMADHI-P25 · *Watching the Head of Speech* · **SAMĀDHI · Part VII · Chan**
 *Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates (六行門)
 *License:* CC BY-NC-SA 4.0
-*CBETA collation:* Citations from Dahui Zonggao's *Record of Chan Master Dahui Pujue* (T1998A), Gaofeng Yuanmiao's *Essentials of Chan* (X1401), and Wumen Huikai's *Gateless Barrier* (T2005, case one) are verified against the CBETA Electronic Tripiṭaka; volume and page follow the Taishō and the Zokuzōkyō. The *huatou* is not the "critical phrase" as a contentless object but the head of speech — the moment before a single thought arises; to watch it is to turn the light back upon the one that originates thought, and is so marked throughout. Silent Illumination and the *huatou* are presented side by side and are not ranked: Dahui's polemic against "the heretical Chan of silent illumination" is cited by reference only, never endorsed nor turned into a counter-attack; the reported burning of the *Blue Cliff Record*'s blocks (T2003) is marked as semi-legendary. Gaofeng's *Essentials of Chan* is X1401 alone, not to be confused with the Zokuzōkyō *Recorded Sayings of the Ancient Worthies* (X1314) or Zhongfeng's *Extensive Record* (X1402). The modern Chan master's summation of "the moment before a thought arises / turning the light back upon the original face" is acknowledged as a formulation-locus and, out of respect for twentieth-century copyright, taken in tribute only, not reproduced verbatim. Buswell, Levering, and the social-historical scholarship are cited by paraphrase only, for contrast, not doctrinal equation.
+*CBETA collation:* Citations from Dahui Zonggao's *Record of Chan Master Dahui Pujue* (T1998A), Gaofeng Yuanmiao's *Essentials of Chan* (X1401), and Wumen Huikai's *Gateless Barrier* (T2005, case one) are verified against the CBETA Electronic Tripiṭaka; volume and page follow the Taishō and the Zokuzōkyō. The *huatou* is not the "critical phrase" as a contentless object but the head of speech — the moment before a single thought arises; to watch it is to turn the light back upon the one that originates thought, and is so marked throughout. Silent Illumination and the *huatou* are presented side by side and are not ranked: Dahui's polemic against "the heretical Chan of silent illumination" is cited by reference only, never endorsed nor turned into a counter-attack; the reported burning of the *Blue Cliff Record*'s blocks (T2003) is marked as semi-legendary. Gaofeng's *Essentials of Chan* is X1401 alone, not to be confused with the Zokuzōkyō *Recorded Sayings of the Ancient Worthies* (X1314) or the *Miscellaneous Records of Chan Master Mingben of Tianmu* (X1402). The modern Chan master's summation of "the moment before a thought arises / turning the light back upon the original face" is acknowledged as a formulation-locus and, out of respect for twentieth-century copyright, taken in tribute only, not reproduced verbatim. Buswell, Levering, and the social-historical scholarship are cited by paraphrase only, for contrast, not doctrinal equation.
 *Repository:* https://github.com/pointing-at-the-moon/six-practice-gates
 
 ---

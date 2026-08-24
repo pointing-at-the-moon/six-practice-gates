@@ -10,6 +10,15 @@ part: "Part VIII · Modern Diagnosis and Daily Use"
 part_number: 8
 date: "2026-06-02"
 version: "1.0"
+canonical_source:
+  - "T08n0251"
+  - "T09n0277"
+  - "T10n0293"
+  - "T14n0475"
+  - "T38n1775"
+  - "T45n1909"
+  - "T46n1911"
+  - "T46n1941"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -190,4 +199,3 @@ How, then, once the spectacles are off, does repentance land in the life of one 
 *Textual Verification: CBETA (Chinese canon)*
 *Project: Point-to-the-moon · six-practice-gates (KṢAMĀ volume · Part VIII · Modern Diagnosis and Daily Use #1 · Modern Diagnosis: Three Misreadings · Walking Down from the Summit of Non-Arising)*
 *Repository: https://github.com/pointing-at-the-moon/six-practice-gates*
-*Author: Shi Huijing — the treasury of the true Dharma eye, not set up in words.*

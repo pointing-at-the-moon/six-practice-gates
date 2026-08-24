@@ -3,12 +3,26 @@ title: "Three-Circle Emptiness Applied to Sīla"
 subtitle: "When Keeper, Precept, and Protected Being Are All Unfindable"
 title_zh: 三輪體空於戒
 subtitle_zh: 能持、所持、所護皆不可得，何以「如是持戒則是起罪因緣」
-volume: 戒門 SĪLA
+volume: 4
 paper_id: "SILA-P23"
-paper_number: P23
+paper_number: 23
 language: en
+series_short: "SĪLA"
+part_number: 7
 date: 2026-05-30
 author: "釋慧鏡 (Shi Huijing)"
+canonical_source:
+  - "T05n0220a"
+  - "T07n0220e"
+  - "T08n0223"
+  - "T25n1509"
+  - "T34n1718"
+  - "T35n1735"
+  - "T36n1736"
+  - "T40n1811"
+  - "T48n2008"
+  - "T48n2009"
+  - "T48n2012A"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷四 戒
@@ -209,7 +223,7 @@ The three wheels of the precept—the agent who keeps (transgresses), the precep
 
 In practice, three-circle emptiness applied to the precept does not hand one a loosening but holds up a stricter mirror. What it counters is the precept-keeper's most hidden and least noticeable thought—taking the precept as a thing to preen over, as a stick to look down on others with, as a way to court reward. Whenever, at the sight of a breaker, contempt arises in the mind, or at the sight of a keeper, fondness arises, one should know that this is exactly Nāgārjuna's "cause that gives rise to offence" come to the fore, and dissolve it then and there with the sign-less contemplation: who is the one who keeps? what is the precept kept? who is the one affected? The three sought and not found, contempt and fondness, having nothing to rest on, subside of themselves. So kept, the act of keeping does not turn back into bondage. This runs along one line, too, with this series' treatment of "principial repentance" (contemplating that the nature of the offence is intrinsically empty)—the three-circle emptiness of the precept is precisely the extension into the gate of the precept of the contemplation that "uses emptiness to dispel the mark"; contemplating the emptiness of the offence-mark to repent, contemplating the emptiness of the precept's three wheels to keep, are one and the same prajñā.[^19]
 
-### 6.3 Open Questions and the Handoff
+### 6.3 Open Questions and the Transition
 
 Prajñā's work of breaking the mark on the precept is now complete; yet the precept does not stop at its own completeness. The precept, as precept, has never been only for the sake of "being kept purely"; it is to be turned over, further, into *the basis for concentration*—sign-less keeping makes the mind no longer moved by grasping at marks, and this "unmoved" is precisely the preliminary to entering concentration. A new question thereby surfaces: how does the sign-less precept turn from "the completeness of breaking the mark" into "the preliminary to entering concentration"? The three wheels of the precept being empty, how is this still-and-empty mind taken up and turned into meditative concentration?
 

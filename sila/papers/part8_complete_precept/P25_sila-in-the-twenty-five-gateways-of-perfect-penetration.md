@@ -3,12 +3,17 @@ title: "Sīla in the Twenty-Five Gateways of Perfect Penetration"
 subtitle: "The Precept-Face of the Śūraṅgama Roster"
 title_zh: 戒亦圓通門
 subtitle_zh: 楞嚴二十五圓通章中的戒面
-volume: 戒門 SĪLA
+volume: 4
 paper_id: "SILA-P25"
-paper_number: P25
+paper_number: 25
 language: en
+series_short: "SĪLA"
+part_number: 8
 date: 2026-06
 author: "釋慧鏡 (Shi Huijing)"
+canonical_source:
+  - "T10n0293"
+  - "T19n0945"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷四 戒
@@ -231,9 +236,9 @@ Yet here a new question arises, left for the next paper. If the precept can be a
 ## Series Cross-References
 
 - **Continuing from — SĪLA P24 *Ethics as the Ground of Samādhi*** — §I takes up its forward-point (once the precept is the ground of concentration, is the precept itself also a door?), but corrects the fascicle order: P25 turns *back* to the earlier Twenty-Five Gateways chapter, not forward.
-- **Read alongside — DĀNA P19 *The Giving-Face in the Twenty-Five Gateways*** — the same chapter read from the dāna angle; the precept-fire is *not* the fire-giving of that paper (cite-by-reference, no re-derivation).
+- **Read alongside — DĀNA P19 *The Giving-Face in the Twenty-Five Gateways*** — the same chapter read from the dāna angle; the precept-fire is *not* the fire-giving of that paper (cross-reference only, no re-derivation).
 - **Pointing ahead (within Part VIII) — SĪLA P26 (Lotus, *Chapter on Peaceful Practices*)** — the practice-precept (行門之戒) versus the restriction-precept (限禁之戒): direction only, no pre-emption.
-- **The volume's close — SĪLA P30** — the full SĪLA→SAMĀDHI handoff is borne there; P25 only tees one station onward.
+- **The volume's close — SĪLA P30** — the full SĪLA→SAMĀDHI transition is completed there; P25 only points one step onward.
 - **Toward the next volume — the SAMĀDHI volume** — the meditative interior behind the gate; P25 stops at the threshold.
 
 ---

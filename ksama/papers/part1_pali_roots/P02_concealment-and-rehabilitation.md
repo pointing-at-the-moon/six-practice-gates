@@ -10,6 +10,12 @@ part: "Part I · Pāli Roots"
 part_number: 1
 date: "2026-05"
 version: "1.0"
+canonical_source:
+  - "T22n1421"
+  - "T22n1425"
+  - "T22n1428"
+  - "T22n1429"
+  - "T23n1435"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -252,7 +258,7 @@ By this study's custom, three boundaries to be corrected are marked before the c
 
 **⚠️ Glossing *mānatta* as "gladdening the assembly's mind" or "subduing pride" belongs to the commentarial layer, not the root Vinaya.** Construing *mānatta* as "making the Saṅgha glad," or parsing the etymology as "pride–self" (the subduing of conceit), comes from the commentarial tradition (e.g. the *Samantapāsādikā*), not the root text of the four *Vinaya*s. Wherever this paper touches that sense (as in §IV), it is treated as a *commentarial gloss*, not invented as the root text's own meaning. And the days of *mānatta*: the root Vinaya gives **six nights** (*chāratta*, literally "six nights") — not four or five days, and not stretching with the days concealed — a point §II already established.
 
-**❌ One must not overstep to enumerate "which acts are *saṅghādisesa*," nor cite Pāli one has not secured.** First, this paper keeps a firewall against the domain of the precepts: it treats only the *procedure* (how concealment lengthens the treatment, how probation restores standing), and never unfolds the *content of the precepts* (which acts constitute *saṅghādisesa*) — that belongs to a dedicated chapter on the precepts. Every offense-example here (the Udāyī case, etc.) serves only as scaffolding for the procedure, summarized uniformly as "a *saṅghādisesa* offense," with no account of its substance. Second, on the statutory quorum for rehabilitation, this paper argues from the Chinese "Saṅgha of twenty / assembly short of twenty" (T1428, fascicle 44); the verbatim Pāli string for "an assembly of twenty" was not secured this round, so it is not quoted — better to mark the gap honestly here than to invent from memory. As for the precise page numbers of the Pali Text Society edition, this paper marks only the *khandhaka* range (the *Pārivāsika-kkhandhaka* twelfth, the *Samuccaya-kkhandhaka* thirteenth), without segment-precise page citation, pending verification.
+This paper treats the restoration procedure rather than enumerating the offences classified as *saṅghādisesa*. Its quorum argument rests on the verified Chinese wording in T1428, fascicle 44; no unverified Pāli wording or page-level citation is used.
 
 ## VI. Conclusion: The Hidden Obstructs, the Disclosed Is Restored
 
@@ -303,12 +309,12 @@ By this study's custom, three boundaries to be corrected are marked before the c
 | *Mahīśāsaka Vinaya* | fasc. 23 (one night concealed → one night probation) | vol. 22 No. 1421 | §II day-for-day (one) |
 | *Mahāsāṃghika Vinaya* | fasc. 26 (ten nights → ten nights) | vol. 22 No. 1425 | §II day-for-day (ten) |
 | *Sarvāstivāda Vinaya* | (the source of the calque "別住") | vol. 23 No. 1435 | §II the term "probation" |
-| Theravāda *Vinaya, Cullavagga* | *Pārivāsika-kkhandhaka* (12) · *Samuccaya-kkhandhaka* (13) | Mahāsaṅgīti edition (CC0); PTS Vin ii ≈ 31–70 (range, to be verified) | §II / §III Pāli parallels — day-for-day, discipline of probation, reset, rehabilitation |
+| Theravāda *Vinaya, Cullavagga* | *Pārivāsika-kkhandhaka* (12) · *Samuccaya-kkhandhaka* (13) | Mahāsaṅgīti edition (CC0) | §II / §III Pāli parallels — day-for-day, discipline of probation, reset, rehabilitation |
 
 ---
 
 *Paper:* KSAMA-P02 · *Concealment and Rehabilitation* · **KṢAMĀ · Part I · Pāli Roots · #2 · the phenomenal-repentance (事懺) floor**
 *Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates (六行門) · KṢAMĀ · Part I · #2
 *License:* CC BY-NC-SA 4.0
-*CBETA collation:* Citations from the *Dharmaguptaka Vinaya* (T1428 fasc. 44 quorum / fasc. 45 the whole machinery / fasc. 46 Concealment *khandhaka* discipline of probation), the *Dharmaguptaka Bhikṣu Prātimokṣa* (T1429 fasc. 1), the *Mahīśāsaka Vinaya* (T1421 fasc. 23), the *Mahāsāṃghika Vinaya* (T1425 fasc. 26), and the *Sarvāstivāda Vinaya* (T1435) verified against the CBETA Electronic Tripiṭaka 2024 edition. Pāli follows the Mahāsaṅgīti Tipiṭaka edition (CC0) + Bhikkhu Brahmali (CC0): *Cullavagga Pārivāsika-kkhandhaka* (Kd 12) + *Samuccaya-kkhandhaka* (Kd 13), PTS Vin ii ≈ 31–70 (range, to be verified).
+*CBETA collation:* Citations from the *Dharmaguptaka Vinaya* (T1428 fasc. 44 quorum / fasc. 45 the whole machinery / fasc. 46 Concealment *khandhaka* discipline of probation), the *Dharmaguptaka Bhikṣu Prātimokṣa* (T1429 fasc. 1), the *Mahīśāsaka Vinaya* (T1421 fasc. 23), the *Mahāsāṃghika Vinaya* (T1425 fasc. 26), and the *Sarvāstivāda Vinaya* (T1435) verified against the CBETA Electronic Tripiṭaka 2024 edition. Pāli follows the Mahāsaṅgīti Tipiṭaka edition (CC0) + Bhikkhu Brahmali (CC0): *Cullavagga Pārivāsika-kkhandhaka* (Kd 12) + *Samuccaya-kkhandhaka* (Kd 13).
 *Repository:* https://github.com/pointing-at-the-moon/six-practice-gates

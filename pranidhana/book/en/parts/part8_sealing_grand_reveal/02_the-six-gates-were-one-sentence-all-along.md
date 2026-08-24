@@ -32,7 +32,7 @@ The third segment—the scripture suddenly stops, and speaks one whole passage o
 
 > "Form is not other than emptiness, emptiness not other than form; form is itself emptiness, emptiness itself form… such is the empty mark of all dharmas: neither arising nor ceasing, neither defiled nor pure, neither increasing nor decreasing."
 
-Notice: this segment has no verb to perform. It teaches no doing—it cancels. If the one who crosses and those crossed are each grasped as real, the crossing becomes a new binding; so this segment empties out the "I" that even giving must be emptied of, together with the karma he carries on his back. This is the gate of **repentance**: repentance at its deepest contemplates the nature of wrongdoing as originally empty—emptying the I of "I made the karma, I carry the debt."
+Notice: this segment has no verb to perform. It teaches no doing—it cancels. If the one who crosses and those crossed are each grasped as real, the crossing becomes a new binding; so this segment empties out the "I" that even giving must be emptied of, together with his grasping at the karma he carries as real. This is the gate of **repentance**: repentance at its deepest contemplates the nature of wrongdoing as originally empty—emptying the I of "I made the karma, I carry the debt."
 
 The fourth segment is a long file of "no" and "neither":
 
@@ -106,7 +106,7 @@ Seeing is not annexing. Seeing is prajñā.
 
 Last, return what is owed.
 
-The six gates were never outside the oldest skeleton of the Dharma—discipline, concentration, wisdom: the three trainings without taint. The four gates of recollection, giving, repentance, and discipline are the training in discipline, unfolded at different depths; ultimate nirvāṇa is the training in concentration; and what runs the whole length, completing itself in the attaining of bodhi, is the training in wisdom. Keeping discipline gives rise to meditative concentration; concentration gives rise to real wisdom—this ancient chain, the six gates have only walked finer, and longer. Where the six volumes close, they fold back into the three words discipline, concentration, wisdom—and everything is returned to its owner.
+The six gates were never outside the oldest skeleton of the Dharma—discipline, concentration, wisdom: the three trainings without taint. The four gates of recollection, giving, repentance, and discipline are the training in discipline, unfolded at different depths; ultimate nirvāṇa stands at the station of the training in concentration; and what runs the whole length, completing itself in the attaining of bodhi, is the training in wisdom. Keeping discipline gives rise to meditative concentration; concentration gives rise to real wisdom—this ancient chain, the six gates have only walked finer, and longer. Where the six volumes close, they fold back into the three words discipline, concentration, wisdom—and everything is returned to its owner.
 
 And the terminus the six gates arrive at is the Heart Sūtra's own last sentence: the buddhas of the three periods, relying on the prajñā-pāramitā, attain anuttarā-samyak-saṃbodhi. All the awakened of the three periods, without exception, came to full awakening by this road—the road truly goes through. And at the close of its body, the Heart Sūtra passes its own verdict on this road:
 

@@ -3,12 +3,20 @@ title: "Ethics as the Ground of Samādhi"
 subtitle: "The Four Pure Precepts in the Śūraṅgama, and Why They Are the Decisive Sense for Entering Samādhi"
 title_zh: 戒為定基
 subtitle_zh: 楞嚴四種清淨明誨何以是入三摩地之決定義
-volume: 戒門 SĪLA
+volume: 4
 paper_id: "SILA-P24"
-paper_number: P24
+paper_number: 24
 language: en
+series_short: "SĪLA"
+part_number: 8
 date: 2026-05-31
 author: "釋慧鏡 (Shi Huijing)"
+canonical_source:
+  - "T01n0026"
+  - "T19n0945"
+  - "T39n1799"
+  - "X12n0275"
+  - "AN11.1"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷四 戒
@@ -35,7 +43,7 @@ order_in_series: 84
 
 ## Abstract
 
-The four pure and clear instructions on purity (四種清淨明誨) set out in the sixth fascicle of the *Śūraṅgama Sūtra*—cutting off lust, killing, stealing, and the great lie—have long been read either as four items in a precept-keeper's handbook or as a stretch of moral preparation to be completed before meditation begins. The present paper argues otherwise: within the threefold framework the sūtra itself raises—"gathering in the mind is the precept; from the precept concentration is born; from concentration wisdom is unveiled" (攝心為戒、因戒生定、因定發慧)—the four instructions are neither an optional cultivation of more or fewer items nor a preliminary rinse, but the **load-bearing interface** by which the precept passes into concentration. The sūtra states each instruction in the same public form—"if the (such-and-such) mind is not removed, the dust cannot get out"—and pairs it with one of four metaphors of *material impossibility*: steaming sand to make rice, stopping one's ears and shouting, pouring water into a leaking vessel, carving excrement into sandalwood. Together they say one thing: an uncut mind makes the accumulation of samādhi structurally impossible. Even where "the three deeds are already complete" (三行已圓), the lack of the single instruction against the great lie leaves samādhi impure—so the four are the **decisive sense** (決定義) for entering concentration, to be upheld as a *complete set*, not passed by majority. This precept-as-basis is no innovation of the *Śūraṅgama*: the Madhyama-āgama *Heyi-jing* ("from upholding the precepts one gains non-remorse … from joy, concentration") and the parallel eleven-link chain of the Aṅguttara already join the precept to concentration in a causal sequence in which concentration is a **hinge, not a terminus**. Two strata of East Asian commentary (Song-dynasty Zixuan, Ming-dynasty Zhenjian) show further that the precept-as-basis carries two faces at once—a *gradual* face (the staged sequence) and a *perfect* face (each instruction governing the mind, the later necessarily subsuming the former)—so that "arising" (生) is not external causation but **subsumption**. Taking up the question its predecessor left open, this paper lays the four instructions as the first interface brick joining the SĪLA volume to the SAMĀDHI volume—opening the handoff only, not closing it.
+The four pure and clear instructions on purity (四種清淨明誨) set out in the sixth fascicle of the *Śūraṅgama Sūtra*—cutting off lust, killing, stealing, and the great lie—have long been read either as four items in a precept-keeper's handbook or as a stretch of moral preparation to be completed before meditation begins. The present paper argues otherwise: within the threefold framework the sūtra itself raises—"gathering in the mind is the precept; from the precept concentration is born; from concentration wisdom is unveiled" (攝心為戒、因戒生定、因定發慧)—the four instructions are neither an optional cultivation of more or fewer items nor a preliminary rinse, but the **load-bearing interface** by which the precept passes into concentration. The sūtra states each instruction in the same public form—"if the (such-and-such) mind is not removed, the dust cannot get out"—and pairs it with one of four metaphors of *material impossibility*: steaming sand to make rice, stopping one's ears and shouting, pouring water into a leaking vessel, carving excrement into sandalwood. Together they say one thing: an uncut mind makes the accumulation of samādhi structurally impossible. Even where "the three deeds are already complete" (三行已圓), the lack of the single instruction against the great lie leaves samādhi impure—so the four are the **decisive sense** (決定義) for entering concentration, to be upheld as a *complete set*, not passed by majority. This precept-as-basis is no innovation of the *Śūraṅgama*: the Madhyama-āgama *Heyi-jing* ("from upholding the precepts one gains non-remorse … from joy, concentration") and the parallel eleven-link chain of the Aṅguttara already join the precept to concentration in a causal sequence in which concentration is a **hinge, not a terminus**. Two strata of East Asian commentary (Song-dynasty Zixuan, Ming-dynasty Zhenjian) show further that the precept-as-basis carries two faces at once—a *gradual* face (the staged sequence) and a *perfect* face (each instruction governing the mind, the later necessarily subsuming the former)—so that "arising" (生) is not external causation but **subsumption**. Taking up the question its predecessor left open, this paper lays the four instructions as the first interface brick joining the SĪLA volume to the SAMĀDHI volume—opening the transition only, not closing it.
 
 ## Keywords
 
@@ -239,7 +247,7 @@ This volume's treatment of the precept has been written, all the way from the co
 
 [^24]: The third instruction, "cutting off stealing" ("if the stealing mind is not removed, the dust cannot get out," T19n0945 fasc. 6 p0132b), was read in this series' DĀNA volume (DĀNA P18, *The Reverse-Giving Hidden in Not-Taking*) from the opposite face, as a discourse on giving; this paper takes it only as one of the four instructions, set under the sequence from precept to concentration, and does not restate that reverse-giving discourse. This note marks the boundary only.
 
-[^25]: Per this series' plan, the full close of this volume is borne by a dedicated paper (SĪLA P30); this paper, P24, is the opener of Part VIII and makes only the *opening* of the precept-to-concentration handoff, not the volume's whole close. Further: the twenty-five gateways of perfect penetration (the latter part of *Śūraṅgama* fasc. 6) are the home ground of the next paper (P25); this paper stays with the four pure and clear instructions (the former part of fasc. 6) and does not enter the gateways chapter.
+[^25]: Per this series' plan, the full close of this volume is borne by a dedicated paper (SĪLA P30); this paper, P24, is the opener of Part VIII and makes only the *opening* of the precept-to-concentration transition, not the volume's whole close. Further: the twenty-five gateways of perfect penetration (the latter part of *Śūraṅgama* fasc. 6) are the home ground of the next paper (P25); this paper stays with the four pure and clear instructions (the former part of fasc. 6) and does not enter the gateways chapter.
 
 ---
 
@@ -281,9 +289,9 @@ This volume's treatment of the precept has been written, all the way from the co
 ## Series Cross-References
 
 - **Continuing from — SĪLA P23 *Three-Circle Emptiness Applied to Sīla*** — P24 §I takes up, verbatim, P23's closing forward-pointer (once the three wheels are empty, how does the "unmoved" quiescent mind become the prerequisite for entering concentration?) and answers with the *Śūraṅgama*'s "gathering in the mind is the precept; from the precept concentration is born."
-- **Read alongside — DĀNA P18 *The Reverse-Giving Hidden in Not-Taking*** — the third instruction (cutting off stealing) was read there from the reverse-giving (dāna) angle; P24 carries the same passage only as *one of four instructions* under the precept→concentration frame, not as reverse-giving (cite-by-reference, no re-derivation).
+- **Read alongside — DĀNA P18 *The Reverse-Giving Hidden in Not-Taking*** — the third instruction (cutting off stealing) was read there from the reverse-giving (dāna) angle; P24 carries the same passage only as *one of four instructions* under the precept→concentration frame, not as reverse-giving (cross-reference only, no re-derivation).
 - **Pointing ahead (within Part VIII) — SĪLA P25 *Sīla in the Twenty-Five Gateways of Perfect Penetration*** — the latter half of *Śūraṅgama* fascicle 6 (the twenty-five gateways); P24 stays in the *former* half (the four pure instructions) and does not enter the gateways chapter.
-- **The volume's close — SĪLA P30** — the full SĪLA→SAMĀDHI handoff is closed there; P24, as Part VIII's opener, only *opens* the handoff (direction only), it does not close the volume.
+- **The volume's close — SĪLA P30** — the full SĪLA→SAMĀDHI transition is completed there; P24, as Part VIII's opener, only *opens* that transition (direction only), it does not close the volume.
 - **Toward the next volume — the SAMĀDHI volume** — once the precept is the basis, how the subsumed precept becomes present within concentration, and how the subtle clingings within precept-keeping are finely treated inside the gate of concentration; P24 stops at the threshold, naming the direction only.
 
 ---

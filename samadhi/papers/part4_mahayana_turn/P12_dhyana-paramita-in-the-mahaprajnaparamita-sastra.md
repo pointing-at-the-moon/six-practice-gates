@@ -10,6 +10,13 @@ part: Part IV · The Mahāyāna Turn
 part_number: 4
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T02n0125"
+  - "T03n0152"
+  - "T08n0223"
+  - "T14n0475"
+  - "T25n1509"
+  - "AN11.1"
 license: CC BY-NC-SA 4.0
 ---
 
@@ -245,8 +252,8 @@ Ride dhyāna without dwelling in dhyāna.
 - **The volume's spine and jhāna-factor chapters:** the ladder of the four dhyānas, the four immeasurables, and the four formless attainments, and the layer-by-layer falling-away of the jhāna-factors, are taken here as ground and not re-walked.
 - **The opening of the volume (the Buddha's right concentration):** the boundary by which the Buddha set aside the formless, absolute absorption and did not take it as ultimate is cashed out here into the bodhisattva's refusal to take rebirth by the power of dhyāna.
 - **The DĀNA volume (from giving to the perfection of giving) and the SĪLA volume (Nāgārjuna on the perfection of moral discipline):** each transforms a practice into a perfection by the same prajñā operator of the *Mahāprajñāpāramitā-śāstra* — giving runs through "the three things unfindable," moral discipline through "wrongdoing and non-wrongdoing unfindable," and this chapter through "the mark of dhyāna too is empty, the absorption and its factors of one mark." The three mechanisms differ.
-- **Part IV, the next chapter (forthcoming):** the śamatha-vipaśyanā and the nine stages of mental abiding of the *Yogācārabhūmi* — how another tradition models "concentration."
-- **The volume's closing chapter (forthcoming):** the long line of concentration returning to prajñā, of which this chapter has given the first syllable.
+- **Part IV, the next chapter:** the śamatha-vipaśyanā and the nine stages of mental abiding of the *Yogācārabhūmi* — how another tradition models "concentration."
+- **The volume's closing chapter:** the long line of concentration returning to prajñā, of which this chapter has given the first syllable.
 
 ---
 

@@ -10,6 +10,17 @@ part: Part III · Abhidharma and the Path of Purification
 part_number: 3
 date: 2026-06-01
 version: "1.0"
+canonical_source:
+  - "T01n0026"
+  - "T02n0099"
+  - "T26n1537"
+  - "T26n1542"
+  - "T27n1545"
+  - "T29n1558"
+  - "T29n1562"
+  - "T32n1646"
+  - "AN11.1"
+  - "DN22"
 license: CC BY-NC-SA 4.0
 ---
 
@@ -368,7 +379,7 @@ And the scalpel will be whetted once more. Part IV turns to the Mahāyāna: when
 - **P10, *The Anatomy of a Jhāna-Factor* (the axis of the jhāna-factor):** of what concentration is built — the layer-by-layer falling-away of the jhāna-factors, the mechanism by which applied and sustained thought come to rest. This chapter takes up the three questions left at its close (the substance of absorption, the three absorptions, the three terms).
 - **This chapter (the axis of the substance of absorption):** is concentration a thing — sealing the three axes of Part III.
 - **The SĪLA volume, the three houses of the substance of the precept:** the parallel realism of the two houses on the substance of absorption, and the three-way dispute over the substance of the precept, are worth viewing together; flagged at footnote level only, not developed.
-- **Part IV (forthcoming):** the Mahāyāna perfection of meditative absorption will re-frame the question of "concentration's own-substance" through prajñā.
+- **Part IV:** the Mahāyāna perfection of meditative absorption will re-frame the question of "concentration's own-substance" through prajñā.
 
 ---
 

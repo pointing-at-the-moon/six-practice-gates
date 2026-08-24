@@ -3,12 +3,18 @@ title: "The Four Peaceful Practices of the Lotus"
 subtitle: "Practice-Precept and Restriction-Precept in the Chapter on Peaceful Practices"
 title_zh: 行門之戒
 subtitle_zh: 《法華經·安樂行品》的行處與親近處
-volume: 戒門 SĪLA
+volume: 4
 paper_id: "SILA-P26"
-paper_number: P26
+paper_number: 26
 language: en
+series_short: "SĪLA"
+part_number: 8
 date: 2026-06
 author: "釋慧鏡 (Shi Huijing)"
+canonical_source:
+  - "T09n0262"
+  - "T34n1718"
+  - "T40n1804"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷四 戒
@@ -57,7 +63,7 @@ This volume has, throughout, been pressing one question: the relation of the pre
 
 The preceding paper had already laid out two terms to mark the boundary. The first is the **restriction-precept**: a precept in the form of prohibition, of "thou shalt not," whose face is a list of things to be avoided. The second is the **practice-precept**: a precept that unfolds along the course of cultivation and draws beings toward the Way, whose face is not a roster of prohibitions but a positive mode of cultivation in which one is to *abide*. P25 threw out the difference between these two as an open question, and noted that the *Lotus Sūtra*'s "Chapter on Peaceful Practices" treats precisely this boundary by way of "the sphere of action and the sphere of intimacy." The present paper takes up that thread and answers it.
 
-One thing must be set straight at the outset: **this step is a change of scripture, not a continuation of fascicles.** The previous two papers had their home ground in the *Śūraṅgama*; the present paper moves to the *Lotus*'s "Chapter on Peaceful Practices." What is carried forward is not the textual sequence of any one sūtra but a single question—of what kind is the precept within the gateway of perfect penetration. The paper's answer is: it is a **practice-precept**. And the so-called restriction-precept is not some *other* precept erected outside the practice-precept; it is one face turned out from *within* the practice-precept. Below: first the structure of the chapter (§II), then three proofs establishing the claim (§III), then three mirrors of modern scholarship and the blank they share (§IV), then the middle-way corrections (§V), and finally the conclusion and the handoff to Huayan (§VI).
+One thing must be set straight at the outset: **this step is a change of scripture, not a continuation of fascicles.** The previous two papers had their home ground in the *Śūraṅgama*; the present paper moves to the *Lotus*'s "Chapter on Peaceful Practices." What is carried forward is not the textual sequence of any one sūtra but a single question—of what kind is the precept within the gateway of perfect penetration. The paper's answer is: it is a **practice-precept**. And the so-called restriction-precept is not some *other* precept erected outside the practice-precept; it is one face turned out from *within* the practice-precept. Below: first the structure of the chapter (§II), then three proofs establishing the claim (§III), then three mirrors of modern scholarship and the blank they share (§IV), then the middle-way corrections (§V), and finally the conclusion and the transition to Huayan (§VI).
 
 ## II. The Structure of the Chapter: The Four Peaceful Practices and the Two Faces of "Sphere of Action / Sphere of Intimacy"
 
@@ -152,7 +158,7 @@ This paper's argument passes several easily-slipped boundaries, each of which mu
 
 > ⚠️ **Mañjuśrī figures here only as the questioner.** The "Chapter on Peaceful Practices" opens with Mañjuśrī's question, "how can one preach this scripture"; this paper takes only that structural fact, and does not develop Mañjuśrī's symbolic role or his deeper Prajñā import.
 
-## VI. Conclusion: The Practice-Form of the Precept, and the Handoff to Huayan
+## VI. Conclusion: The Practice-Form of the Precept, and the Transition to Huayan
 
 **One: closing the paper.** Three papers of this volume run down a single line: the precept as the ground of concentration (P24) → the precept is not only a ground but is itself one gateway of concentration (P25, the gateway of perfect penetration) → the precept within that gateway is a practice-precept, and the restriction-precept is turned out from within practice (P26).
 
@@ -162,7 +168,7 @@ For practice: precept-keeping is not exhausted by checking oneself, item by item
 
 As to the open question: the practice-precept disclosed by the "Chapter on Peaceful Practices" is *horizontal*—a mode of being relative to the situation of the dharma-preacher in a hostile age. It has not yet told us how the precept's practice-form, within the stages of the bodhisattva path, unfolds in graded measure as one advances through the stations.
 
-**Two: the handoff to Huayan.** The next paper will pass from the *Lotus Sūtra* into the *Avataṃsaka Sūtra*'s "Chapter on the Ten Bhūmis," moving from the "situational posture" of the Lotus practice-precept (horizontal) to the "graded measure, the staged stations" of the precept across the Huayan ten bhūmis (vertical)—how the one practice-precept deepens bhūmi by bhūmi, set forth in graded measure, across the course of the ten stations. The present paper does no more than point in this direction; it does not enter the content of the ten bhūmis. As for the whole volume's final summation, that belongs elsewhere and is no part of this paper.
+**Two: the transition to Huayan.** The next paper will pass from the *Lotus Sūtra* into the *Avataṃsaka Sūtra*'s "Chapter on the Ten Bhūmis," moving from the "situational posture" of the Lotus practice-precept (horizontal) to the "graded measure, the staged stations" of the precept across the Huayan ten bhūmis (vertical)—how the one practice-precept deepens bhūmi by bhūmi, set forth in graded measure, across the course of the ten stations. The present paper does no more than point in this direction; it does not enter the content of the ten bhūmis. As for the whole volume's final summation, that belongs elsewhere and is no part of this paper.
 
 ---
 

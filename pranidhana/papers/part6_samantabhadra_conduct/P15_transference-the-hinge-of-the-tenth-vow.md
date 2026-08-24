@@ -1,16 +1,22 @@
 ---
 title: "Transference: Pariṇāmanā as the Hinge of the Tenth Vow"
 title_en: "Transference: Pariṇāmanā as the Hinge of the Tenth Vow"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 6 — PRAṆIDHĀNA: Aspiration and the Vow, from Pāli Roots to Samantabhadra · Part VI · Samantabhadra's Vows of Conduct"
-series_short: PRAṆIDHĀNA
+series_short: "PRAṆIDHĀNA"
 volume: 6
-paper_id: PRANIDHANA-P15
+paper_id: "PRANIDHANA-P15"
 paper_number: 15
 part: Part VI · Samantabhadra's Vows of Conduct
 part_number: 6
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T10n0279"
+  - "T10n0293"
+  - "T10n0297"
+  - "T25n1509"
+  - "X05n0229"
 license: CC BY-NC-SA 4.0
 ---
 

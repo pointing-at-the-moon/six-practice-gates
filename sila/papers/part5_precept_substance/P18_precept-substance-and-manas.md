@@ -3,12 +3,22 @@ title: "Precept-Substance and Manas"
 subtitle: "The Yogācāra Ontology of the Round-Teaching Seed-Substance, Its Deepest Obstruction, and Its Orientation Toward the Transformation of the Basis"
 title_zh: 戒體與末那
 subtitle_zh: 圓教種子戒體之唯識本體、深層障礙與轉依指向
-volume: 戒門 SĪLA
+volume: 4
 paper_id: "SILA-P18"
-paper_number: P18
+paper_number: 18
 language: en
+series_short: "SĪLA"
+part_number: 5
 date: 2026-05-28
 author: "釋慧鏡 (Shi Huijing)"
+canonical_source:
+  - "T31n1585"
+  - "T31n1586"
+  - "T31n1593"
+  - "T31n1594"
+  - "T40n1804"
+  - "T40n1805"
+  - "X41n0728"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷四 戒
@@ -350,7 +360,7 @@ The question of the precept-substance — from early Buddhism, where no such ind
 
 - Lusthaus, Dan. *Buddhist Phenomenology: A Philosophical Investigation of Yogācāra Buddhism and the Ch'eng Wei-shih lun*. London/New York: RoutledgeCurzon, 2002. (In copyright; engaged through paraphrase.)
 - Newhall, Thomas. "On the Background of Daoxuan's Theory of the 'Essence of the Precepts' as Found in His *Jiemo shu*." *Journal of Indian and Buddhist Studies* 65, no. 2 (2017): 544–547. (Open access; engaged through close paraphrase.)
-- Waldron, William S. *The Buddhist Unconscious: The Ālaya-vijñāna in the Context of Indian Buddhist Thought*. London: RoutledgeCurzon, 2003. (In copyright; engaged through paraphrase. [Subtitle/year to be verified.])
+- Waldron, William S. *The Buddhist Unconscious: The Ālaya-vijñāna in the Context of Indian Buddhist Thought*. London: RoutledgeCurzon, 2003. (Engaged through paraphrase.)
 - Shih Chao-Hwei (釋昭慧). "The Concept of Precept Substance in Mahāyāna Complete Teachings according to the Nanshan Vinaya School." *Fa-Yin Journal* 3 (2013): 75–101. (Chinese; in copyright; engaged through paraphrase.)
 - Satō Tatsugen (佐藤達玄). *Chūgoku bukkyō ni okeru kairitsu no kenkyū* (*Studies on the Vinaya in Chinese Buddhism*). Tokyo: Mokujisha, 1986. (Japanese; engaged through paraphrase.)
 
@@ -376,7 +386,7 @@ The question of the precept-substance — from early Buddhism, where no such ind
 - **SILA-P17** *Daoxuan's Vinaya Compendium as the Source* — P17 established that the *Xingshichao* houses the substance-received as a structural placement ("the substance-received = a seed perfumed into the store-consciousness"); this paper enters the *ontology* of that substance-received, and does *not* re-expand the receiving–following spine, the doctrinal-classification architecture, or the canonical-standard reception.
 - **SILA-P15** *Receiving as Gate* — the *bodhisattva-precept* receiving (the three grades of receiving, self-ordination, the auspicious sign) is a different register; this paper does not import it.
 
-### Within Volume IV SĪLA, forthcoming
+### Within Volume IV SĪLA
 
 - **SILA-P19 / P20** (Part VI · Bhaiṣajyaguru, the supporting conditions) — the conditions of body, faculty, food, clothing, lifespan, gender, and social circumstance under which precept-keeping becomes *possible*; this paper closes by orienting the precept-substance toward the transformation of the basis, and Part VI asks what makes the keeping possible at all.
 

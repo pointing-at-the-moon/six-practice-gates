@@ -10,6 +10,25 @@ part: "Part III · Vinaya and the Early Schools"
 part_number: 3
 date: "2026-04-23"
 version: "1.0"
+canonical_source:
+  - "T01n0001"
+  - "T01n0026"
+  - "T02n0099"
+  - "T02n0100"
+  - "T02n0125"
+  - "T03n0152"
+  - "T04n0203"
+  - "T22n1421"
+  - "T22n1425"
+  - "T22n1428"
+  - "T23n1435"
+  - "T23n1442"
+  - "T24n1488"
+  - "T25n1509"
+  - "AN8.36"
+  - "AN8.39"
+  - "AN9.20"
+  - "MN142"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -52,7 +71,7 @@ This observation carries forward from P09. There, the paper read the institution
 
 ## II. Canonical Sources
 
-This section lays out evidence in five strata corresponding to the four-layer core argument of §III. Following the dual-track discipline of the NIAN-A and DĀNA volumes, every passage that belongs to the Nikāya / Āgama stratum is cited with both the Taishō number (Chinese transmission) and the PTS reference (Pāli); Pāli materials use Bhikkhu Sujato's CC0 rendering and the Mahāsaṅgīti edition; Chinese materials are cited by Taishō volume and fascicle, with blockquoted originals followed by my own English rendering beneath. Italicized Pāli / Sanskrit terms carry a Chinese gloss on first occurrence, then stand alone.
+This section lays out evidence in five strata corresponding to the four-layer core argument of §III. Following the Pāli–Chinese dual-source citation convention used across the NIAN and DĀNA volumes, every passage that belongs to the Nikāya / Āgama stratum is cited with both the Taishō number (Chinese transmission) and the PTS reference (Pāli); Pāli materials use Bhikkhu Sujato's CC0 rendering and the Mahāsaṅgīti edition; Chinese materials are cited by Taishō volume and fascicle, with blockquoted originals followed by my own English rendering beneath. Italicized Pāli / Sanskrit terms carry a Chinese gloss on first occurrence, then stand alone.
 
 ### 2.1 The Āgama Substance-Anchor
 
@@ -176,7 +195,7 @@ The first three layers are structural and philological. This final layer unpacks
 
 **Second change: the emergence of a type of gift that does not require a concrete recipient.** As the third slot of the triad, *abhayadāna* has a distinctive structural feature: **the recipient need not be concretely individuated**. When one keeps the five precepts, "immeasurable beings" (AN 8.39's formula) receive the gift simultaneously, and no concrete worthy-of-offering need be singled out. Its structural difference from the gift of material things (requires a concrete recipient to receive the object) and the gift of Dharma (requires a concrete listener to hear the teaching) is: the reception of *abhayadāna* is passive and class-extensive — any being who *would* be spared being killed, robbed, violated, deceived, or intoxicated by this precept-keeper, is a recipient. This is a mirror, at the level of individual precept-keeping, of the class-beneficiary structure that P09 established at the level of the *cātuddisa saṅgha*: in P09, the legally-constituted class-beneficiary is the "arrived-and-not-yet-arrived" saṅgha; in P10, the ethically-constituted class-beneficiary is "every being whose fear this person's non-harming would render absent." The two layers are isomorphic; both exhibit the structural asymmetry between "the concrete recipient the giver perceives at this moment" and "the class-recipient the taxonomy constitutes."
 
-**Third change: the opening of an operational space for *śūnyatā*.** This is the deepest layer of the philosophical stakes, and the philological basis for §VI's handoff to P11. *Trimaṇḍala-pariśuddhi* — the three-wheel purity, the emptying of giver, gift, and recipient — requires an axis on which the three "wheels" can actually be turned. This emptying operation can only be performed **on the content-axis**. Why? Because the *śūnyatā* operation requires the substance of the gift itself to be deconstructible — material things may be empty, Dharma may be empty, fearlessness may be empty; but *the recipient's identity* (the tiered worthy-of-offering hierarchy), if made the classificatory axis, cannot survive its own emptying: if recipients are empty, the seven-saṅgha / fourteen-individual rankings lose the ground that anchored their calculus. The Āgama *dāna*-taxonomy's recipient-axis is therefore *structurally closed* to *śūnyatā* deconstruction; the fifth-century triad's content-axis is *structurally open* to it. What P11 (*From Dāna to Dāna-pāramitā*) will take up — the *śūnyatā* recasting of the triad under the *pāramitā* system — has its philological ground already laid here at P10: the *pāramitā*-level emptying is **not a novel Mahāyāna move**, but the **necessary extension** of a taxonomic axis-shift that has already, in the fifth-century Chinese translation window, moved from recipient to content. The opening of the content-axis already reserves the operational space that *śūnyatā* will need.
+**Third change: the opening of an operational space for *śūnyatā*.** This is the deepest layer of the philosophical stakes, and the philological basis for §VI's transition to P11. *Trimaṇḍala-pariśuddhi* — the three-wheel purity, the emptying of giver, gift, and recipient — requires an axis on which the three "wheels" can actually be turned. This emptying operation can only be performed **on the content-axis**. Why? Because the *śūnyatā* operation requires the substance of the gift itself to be deconstructible — material things may be empty, Dharma may be empty, fearlessness may be empty; but *the recipient's identity* (the tiered worthy-of-offering hierarchy), if made the classificatory axis, cannot survive its own emptying: if recipients are empty, the seven-saṅgha / fourteen-individual rankings lose the ground that anchored their calculus. The Āgama *dāna*-taxonomy's recipient-axis is therefore *structurally closed* to *śūnyatā* deconstruction; the fifth-century triad's content-axis is *structurally open* to it. What P11 (*From Dāna to Dāna-pāramitā*) will take up — the *śūnyatā* recasting of the triad under the *pāramitā* system — has its philological ground already laid here at P10: the *pāramitā*-level emptying is **not a novel Mahāyāna move**, but the **necessary extension** of a taxonomic axis-shift that has already, in the fifth-century Chinese translation window, moved from recipient to content. The opening of the content-axis already reserves the operational space that *śūnyatā* will need.
 
 ---
 
@@ -238,7 +257,7 @@ The emergence of *abhayadāna* is the joint product of two structures: the mille
 
 The most immediate implication of this doctrine for the contemporary reader is: **the landing of *abhayadāna* does not require a concrete recipient's presence**. Every moment of precept-keeping is a live occurrence of *abhayadāna*; when the practitioner chooses, at this moment, not to harm any sentient being, every being who would have been spared harm-by-this-person at this moment becomes, simultaneously, the recipient of this gift. This mode of landing requires no material resource, no specific audience for Dharma-transmission, no particular moment of ritual donation — it is open at *the very existence of every precept-keeper*. The doctrine is particularly meaningful in the age of commodified mindfulness (*McMindfulness*): when mindfulness is therapized, commodified, and de-religionized, the face of precept-keeping as *the giving of fearlessness to every being* opens a different entry-point — precept is not self-restraint upon the individual self, but *a gift to every other being*. This is one door through which a Western reader may re-enter early Buddhist ethics via *abhayadāna*.
 
-**Open question → handoff to P11**
+**Open question → transition to P11**
 
 If *abhayadāna* is the third slot of the triad, how is the triad restructured by *śūnyatā* under the *dāna-pāramitā* system? The *trimaṇḍala-pariśuddhi* requirement of emptying all three wheels — giver, gift, recipient — can operate only on the content-axis (§3.4). P11 *From Dāna to Dāna-pāramitā* will take up the structure of that *śūnyatā* restructuring: when *abhayadāna* enters the *pāramitā* system, how are its three wheels — the giving face (precept-keeping non-harming), the receiving face (beings' fearlessness), and the content (the "fearlessness" given) — recast under the three-wheel-emptying operation? P10 has laid the philological groundwork in its axis-switch thesis; P11 will build the second Mahāyāna move on that ground. If P10 is the *crystallization* of the naming, P11 is its *deconstruction*.
 

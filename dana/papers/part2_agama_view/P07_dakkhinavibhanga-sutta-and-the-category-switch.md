@@ -10,6 +10,15 @@ part: "Part II · The Āgama View on Giving"
 part_number: 2
 date: "2026-04-20"
 version: "1.0"
+canonical_source:
+  - "T01n0026"
+  - "T01n0083"
+  - "T01n0084"
+  - "T24n1451"
+  - "AN5.34"
+  - "AN8.31"
+  - "It98"
+  - "MN142"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -54,7 +63,7 @@ Taking up P05's recipient-rank axis and P06's temporal axis of fruit, this paper
 
 ## II. Canonical Foundations
 
-This section's citations run along two axes. **Axis A (sūtras)** is organized into four groups: the Pāli prototype of MN 142 (Group 1), the tightest Chinese parallel in T0026 *juan* 47 *Gautamī Sūtra* (Group 2), the second independent witness in T0084 *Fenbie bushi jing* (Group 3), and a cross-orthogonal note from It 98 together with an honest-absence declaration (Group 4). **Axis B (treatises)** takes MN 142's own internal triple-layer structure as a functional substitute for the commentarial register. Per NIAN-A dual-track discipline, Pāli material is cited by PTS numbering, Chinese material by Taishō volume and sūtra number.
+This section's citations run along two axes. **Axis A (sūtras)** is organized into four groups: the Pāli prototype of MN 142 (Group 1), the tightest Chinese parallel in T0026 *juan* 47 *Gautamī Sūtra* (Group 2), the second independent witness in T0084 *Fenbie bushi jing* (Group 3), and a cross-orthogonal note from It 98 together with an honest-absence declaration (Group 4). **Axis B (treatises)** takes MN 142's own internal triple-layer structure as a functional substitute for the commentarial register. Per the Pāli–Chinese dual-source citation convention, Pāli material is cited by PTS numbering, Chinese material by Taishō volume and sūtra number.
 
 ### 2.1 A · Sūtras
 
@@ -86,11 +95,11 @@ The crucial difference is that **this version preserves the rendering "sangha of
 
 The order of T0084's fourteen personal gifts also differs from T0026 — this version lists upward from below (the one afflicted by illness, the one who violates precepts, the one who keeps precepts, the one free of defilements, one practicing toward stream-entry, the fruit of stream-entry, one practicing toward once-return, the fruit of once-return, one practicing toward non-return, the fruit of non-return, one practicing toward arahantship, the fruit of arahantship, paccekabuddhas, the Tathāgata worthy of offerings perfectly self-enlightened one) — matching the direction of the Pāli MN 142. The unfolding of the four-fold purity adds at the end of each of the four items a two-way reflexive move — "when the gift-giver is pure, there is no recipient; when the gift given is pure, there is no recipient; when the receiver is pure, there is no giver; when what is received is pure, there is no giver"[^3] — a distinctive Chinese commentarial move on the internal structure of the four-fold purity, echoing later emptiness teachings through the "there is no…" phrasing while holding strictly within the four-fold partition of MN 142.
 
-**Group 4: It 98 as cross-orthogonal note; honest-absence declaration**
+**Group 4: It 98 as cross-orthogonal note; textual-scope boundaries**
 
 It 98 *Dhammadāna*[^4] posits two gifts: the **material gift** (*āmisadāna*) and the **Dharma gift** (*dhammadāna*), stating directly that "of these two gifts, the Dharma gift is foremost" (*etadaggaṁ imesaṁ dvinnaṁ dānānaṁ yadidaṁ dhammadānaṁ*; translation mine). The axis this sūtra treats is the **content axis** of giving (what is given) — orthogonally complementary to the **recipient axis** of MN 142 (to whom it is given). The main argument of this paper does not unfold the content axis — the full debate between Dharma-gift and material-gift has its primary home in P24 *Samantabhadra's Extensive Cultivation of Offerings* — and here the sūtra serves only as a brief §VI pointer, not as a load-bearing §II citation.
 
-**Honest-absence declaration:** Four points must be stated to the reader outside the main text. **First**, AN 4.78 *Dakkhiṇā-visuddhi-sutta* does not exist as a standalone sūtra in the Pāli canon — the four-fold purity is an **internal structure** of MN 142, not a borrowed independent sūtra. **Second**, AN 6.37 *Velukaṇḍakī*, which records the six-fold causation of giving (three causes in the giver plus three in the recipient), is not present in the vault at the time of this review; this paper neither supplements from memory nor builds an argument on a process-axis — the recipient axis and the purity axis together are sufficient in structure. **Third**, T1451 *Mūla-sarvāstivāda-vinaya Vastukṣudrakavastu* in its forty fascicles contains no narrative of Mahāpajāpatī's offering of the robe — this is an absence on the vinaya side, to be positively addressed by P09 *Sangha as Field of Giving* through vinaya-institutional material (*cātuddisa saṅghika lābha*, property of the sangha of the four quarters); this paper does not pretend that the narrative is preserved on the vinaya side. **Fourth**, T0083 *Foshuo bushi jing* (佛說布施經, translated by Dharmarakṣa of the Western Jin), verified against CBETA, is a **karma-vipāka discourse** — four kinds of action and their fruits in this life and the next — and has no lineage relation to MN 142's triple structure of fourteen fields, seven sanghas, four-fold purity; this paper does not cite it as a third Chinese witness.
+**Textual-scope boundaries:** **First**, AN 4.78 *Dakkhiṇāvisuddhi Sutta* (PTS A ii 80) is a standalone discourse parallel to MN 142.13–17 (PTS M iii 256–257); the four purifications of offerings occur in both texts. **Second**, AN 6.37 is not used as evidence for this paper's recipient or purity axes. **Third**, the forty fascicles of T1451, the *Mūla-sarvāstivāda-vinaya Vastukṣudrakavastu*, contain no narrative of Mahāpajāpatī's offering of the robe; this paper does not assign that narrative to this vinaya. **Fourth**, T0083 *Yingfa jing* (應法經, translated by Dharmarakṣa of the Western Jin) describes four kinds of action and their fruits in this life and the next. Its structure differs from MN 142's fourteen fields, seven sanghas, and four purifications, so it is not cited as a third Chinese witness to MN 142.
 
 ### 2.2 B · Treatises
 
@@ -215,12 +224,14 @@ To read T0026's temporal re-framing ("in ages to come") against T0084's preserva
 #### Pāli Canon
 
 - *Majjhima Nikāya*. Pali Text Society edition.
+- *Aṅguttara Nikāya*. Pali Text Society edition, AN 4.78 (*Dakkhiṇāvisuddhi Sutta*), A ii 80.
 - *Itivuttaka*. Pali Text Society edition.
 
 #### Chinese Canonical Translations
 
 - *Madhyamāgama* （《中阿含經》）， translated by Gautama Saṅghadeva of the Eastern Jin, *Taishō* vol. 1, No. 26.
 - *Fenbie bushi jing* （《分別布施經》）， translated by Dānapāla of the Song, *Taishō* vol. 1, No. 84.
+- *Yingfa jing* （《應法經》）， translated by Dharmarakṣa of the Western Jin, *Taishō* vol. 1, No. 83.
 
 ### II. Commentarial Literature
 
@@ -243,9 +254,11 @@ To read T0026's temporal re-framing ("in ages to come") against T0084's preserva
 | Short form | Full name | Taishō / PTS reference | Translator / Author |
 |---|---|---|---|
 | MN | *Majjhima Nikāya* | PTS edition | — |
+| AN 4.78 | *Dakkhiṇāvisuddhi Sutta* | PTS A ii 80 | — |
 | It | *Itivuttaka* | PTS edition | — |
 | *Madhyamāgama* | 《中阿含經》 | T 01 No. 0026 | Gautama Saṅghadeva (Eastern Jin) |
 | *Fenbie bushi jing* | 《分別布施經》 (*Dakkhiṇāvibhaṅga-sūtra*, Chinese single-fascicle recension) | T 01 No. 0084 | Dānapāla (Song) |
+| *Yingfa jing* | 《應法經》 | T 01 No. 0083 | Dharmarakṣa (Western Jin) |
 
 ---
 
@@ -268,7 +281,7 @@ To read T0026's temporal re-framing ("in ages to come") against T0084's preserva
 
 | Abbrev. | Full Name | Author/Translator | Taisho |
 |---------|---------|---------|-------|
-| 瞿曇彌經 | 瞿曇彌經 | unknown | T0084 |
+| *Fenbie bushi jing* | 分別布施經 | Dānapāla | T0084 |
 
 ---
 

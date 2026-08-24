@@ -10,6 +10,13 @@ part: "Part IV · The Death-and-Rebirth Bridge"
 part_number: 4
 date: "2026-06"
 version: "1.0"
+canonical_source:
+  - "T02n0099"
+  - "T08n0235"
+  - "T08n0251"
+  - "T09n0277"
+  - "T24n1488"
+  - "T25n1509"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -168,9 +175,7 @@ This section gathers the boundaries scattered through the foregoing into several
 
 [^11]: *Sūtra on the Contemplation of the Practice of the Bodhisattva Samantabhadra*, trans. Dharmamitra, Liu Song, Taishō vol. 9, no. 277, fascicle 1. "Repent all offences, declare one's own faults. Then… receive the bodhisattva precepts" and "spontaneously accomplish the fivefold dharma-body: precept, concentration, wisdom, liberation, and the knowledge-and-vision of liberation" appear in its text on receiving the precepts; "recollection of giving" and "recollection of the precept" set side by side at the threshold of "disclosing prior offences, repenting wholeheartedly" appear in the passage on the six recollections. Note: this sūtra also carries the principial-repentance verses and prose that see the intrinsic emptiness of offence, interwoven with the text of disclosure and precept-reception; this paper takes not a word of its principial-repentance face, deferring it to the volume's end.
 
-[^12]: Parfit's Reductionism (a person's existence consists only in the continuity of bodily and mental events; no "further fact" of a self; personal identity is not what truly matters) appears in Derek Parfit, *Reasons and Persons* (Oxford, 1984), Part III. For Buddhist Reductionism and the view that "a conventional designation suffices to bear ethics and karmic fruit," see Mark Siderits, *Buddhism as Philosophy* (2007) and *Personal Identity and Buddhist Philosophy*. This serves as the mirror of comparison in §V; it does not claim that the Buddha and Parfit are one — Parfit explicitly rejects nihilism.
 
-[^13]: Sartre's "bad faith" (*mauvaise foi*, self-deception) appears in Jean-Paul Sartre, *L'Être et le néant* (*Being and Nothingness*, 1943), in the chapter on bad faith. This serves as the mirror of comparison in §V, not as a proof of Buddhist doctrine.
 
 ---
 
@@ -206,4 +211,3 @@ This section gathers the boundaries scattered through the foregoing into several
 *Textual Verification: CBETA Electronic Tripiṭaka Collection (Chinese translations)*
 *Project: Point-to-the-moon · six-practice-gates (KṢAMĀ vol. · Part IV, The Death-and-Rebirth Bridge: Giving → Repentance → Precept, #1 · entry-bridge · giving-side seam)*
 *Repository: https://github.com/pointing-at-the-moon/six-practice-gates*
-*Author: Shi Huijing — the treasury of the true dharma eye, not established on words*

@@ -10,6 +10,11 @@ part: "Part III · The Seven Limbs & Samantabhadra's Repentance of Karmic Obstac
 part_number: 3
 date: "2026-06"
 version: "1.0"
+canonical_source:
+  - "T10n0293"
+  - "T10n0297"
+  - "X05n0227"
+  - "X05n0229"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -148,7 +153,6 @@ This section gathers the boundaries scattered through the paper into a few expli
 
 [^11]: For infinite responsibility, see Emmanuel Levinas, *Totalité et Infini* (responsibility that deepens the more it is met); for "repetition," see Søren Kierkegaard, *Repetition*; for the immortality postulate and the endless asymptotic progress toward the highest good, see Immanuel Kant, *Kritik der praktischen Vernunft* (Critique of Practical Reason), the "immortality of the soul" section of the Dialectic. All mirrors of contrast for §IV.
 
-[^12]: For the myth of Sisyphus, see Albert Camus, *Le Mythe de Sisyphe* (1942); for religious scrupulosity, see Joseph W. Ciarrocchi, *The Doubting Disease* (1995). Both are framed in the paper as the skepticism to be broken, not as allies.
 
 [^13]: *Subcommentary on the Bhadracarī Chapter, Separately Circulated* (華嚴經行願品別行疏鈔), Zongmi's subcommentary, Tang; *Xuzangjing* (卍續藏) vol. 5, No. 229 (X05n0229, p0281a21-b02). "As for the saying that it contains what is not complete: it omits the contemplation of sin's emptiness and the arousing of bodhicitta, these two … emptiness-of-nature is the substance of dependent arising, and conduct-and-vows must be a dependent arising without self-nature; therefore this scripture does not separately signpost it."
 
@@ -203,4 +207,3 @@ This section gathers the boundaries scattered through the paper into a few expli
 *Textual Verification: CBETA (Taishō & Xuzangjing)*
 *Project: 指月 Point-to-the-moon · six-practice-gates (KṢAMĀ 懺 · Part III · P07)*
 *Repository: https://github.com/pointing-at-the-moon/six-practice-gates*
-*Author: 釋慧鏡 Shi Huijing — the treasury of the true dharma eye, not set up in words*

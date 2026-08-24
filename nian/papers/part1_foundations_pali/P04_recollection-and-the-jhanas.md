@@ -10,6 +10,22 @@ part: "Part I · Foundations (Pāli)"
 part_number: 1
 date: "2026-04-15"
 version: "1.0"
+canonical_source:
+  - "T01n0026"
+  - "T02n0099"
+  - "T02n0125"
+  - "T13n0418"
+  - "T15n0614"
+  - "T15n0643"
+  - "T17n0784"
+  - "T25n1509"
+  - "T29n1559"
+  - "T30n1579"
+  - "AN11.11"
+  - "AN11.12"
+  - "AN6.10"
+  - "DN22"
+  - "MN10"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -203,7 +219,7 @@ The *Dà zhìdù lùn* scroll 22, at the end of the *Bā niàn yì* exposition, 
 
 When the object of Buddha-recollection is compressed from "the Buddha's nine epithets / ten names" to a single feature—a single visualized form-body (*buddha-rūpa*), a single luminous mark (the *ūrṇā* between the brows, or the crown-radiance), or a single name (as in the later nāma-recitation tradition)—the object's structure shifts from multi-faceted to single-faceted. At that point *ekaggatā* can lock in, and *appanā* can be attained.
 
-This mechanism is given concrete operational instructions in the early Chinese meditation texts—*Zuòchán sānmèi jīng* 坐禪三昧經 T0613 (translated by Kumārajīva) and *Guānfó sānmèi hǎi jīng* 觀佛三昧海經 T0643 (translated by Buddhabhadra)—but this paper does not develop them; NIAN Part III P06 will take the *Pratyutpanna-samādhi-sūtra* T0418 as its main venue for full treatment.
+This mechanism is given concrete operational instructions in the early Chinese meditation texts—*Zuòchán sānmèi jīng* 坐禪三昧經 T0614 (translated by Kumārajīva) and *Guānfó sānmèi hǎi jīng* 觀佛三昧海經 T0643 (translated by Buddhabhadra)—but this paper does not develop them; NIAN Part III P06 will take the *Pratyutpanna-samādhi-sūtra* T0418 as its main venue for full treatment.
 
 The *Dà zhìdù lùn* scroll 22 also hints at this sense in passing: "Those who attain it by fruition, like the beings of the Pure Land, are naturally able to recollect Buddha from birth"—this "natural" recollection is no longer the *upacāra*-style continuous *vicāra* across nine epithets but a steady-state of *appanā*-level stability.
 
@@ -269,7 +285,7 @@ This boundary opens a tri-semantic latitude in the Chinese term *niànfó sānm�
 
 The frame P03 §3.1 introduced—"one engine, six objects"—is here given its first active application: the same nine-step psychological dynamic chain (engine), meeting different object types (single-faceted versus multi-faceted), yields different termini (*appanā* versus *upacāra*). The frame has proved applicable to structural comparison; NIAN Parts V (the great Mahāyāna sūtras) and VI (the traditional streams) will invoke it repeatedly.
 
-The next paper, P05, takes up the first wave of Chinese *niànfó* reception: the *Sūtra in Forty-Two Sections* T0784. This 2nd-century text does not introduce *Visuddhimagga*'s *upacāra*/*appanā* terminology, but its practical instructions disclose presuppositions about meditative depth. P05 will read those presuppositions against this chapter's technical coordinate system, to see at which layer the earliest Chinese *niànfó* practitioners were actually receiving *buddhānussati*.
+The next paper, P05, checks the uses of *niàn* in T0784, the *Sūtra in Forty-Two Sections*, together with the absence of the compound *niànfó*. It distinguishes three questions: whether a word is present in a source, whether two texts may be compared functionally, and whether enough evidence exists to establish a historical genealogy. P05 does not assign T0784's ordinary uses of *niàn* directly to a formal category of *buddhānussati*.
 
 *Namo tassa bhagavato arahato sammāsambuddhassa.*
 
@@ -324,9 +340,9 @@ The next paper, P05, takes up the first wave of Chinese *niànfó* reception: th
 - *Saṃyukta Āgama* (雜阿含經), translated by Guṇabhadra, *Taishō Tripiṭaka* vol. 2, T0099 (scroll 29 suttas 801–815; scroll 33 suttas 931–933).
 - *Madhyama Āgama* (中阿含經), translated by Saṃghadeva, *Taishō Tripiṭaka* vol. 1, T0026 (scroll 24 sutta 98 *Niànchù jīng* 念處經).
 - *Ekottara Āgama* (增壹阿含經), translated by Saṃghadeva, *Taishō Tripiṭaka* vol. 2, T0125 (scroll 2 *Guǎngyǎn pǐn* 廣演品).
-- *Sūtra in Forty-Two Sections* (四十二章經), translated by Kāśyapa Mātaṅga and Zhu Falan in the Later Han dynasty, *Taishō Tripiṭaka* vol. 17, T0784.
+- *Sūtra in Forty-Two Sections* (四十二章經), traditionally attributed in its *Taishō* byline to Kāśyapa Mātaṅga and Falan; the byline alone does not determine the date of composition, *Taishō Tripiṭaka* vol. 17, T0784.
 - *Pratyutpanna-samādhi-sūtra* (般舟三昧經), translated by Lokakṣema, *Taishō Tripiṭaka* vol. 13, T0418.
-- *Zuòchán sānmèi jīng* (坐禪三昧經), translated by Kumārajīva, *Taishō Tripiṭaka* vol. 15, T0613.
+- *Zuòchán sānmèi jīng* (坐禪三昧經), translated by Kumārajīva, *Taishō Tripiṭaka* vol. 15, T0614.
 - *Guānfó sānmèi hǎi jīng* (觀佛三昧海經), translated by Buddhabhadra, *Taishō Tripiṭaka* vol. 15, T0643.
 
 ### II. Patriarchal Commentaries
@@ -350,7 +366,7 @@ The next paper, P05, takes up the first wave of Chinese *niànfó* reception: th
 | **Chinese Āgama** | 《增壹阿含經》 | T2, No. 125 | AN parallel corpus |
 | **Early Chinese** | 《四十二章經》 | T17, No. 784 | P05 context |
 | **Early Chinese** | 《般舟三昧經》 | T13, No. 418 | Part III preview |
-| **Early Chinese** | 《坐禪三昧經》 | T15, No. 613 | Part V preview |
+| **Early Chinese** | 《坐禪三昧經》 | T15, No. 614 | Part V preview |
 | **Early Chinese** | 《觀佛三昧海經》 | T15, No. 643 | Part V preview |
 | **Indian Śāstra** | 《大智度論》卷 7, 21, 22 | T25, No. 1509 | *buddhānussati* / *anusmṛti* |
 | **Indian Śāstra** | Buddhaghosa, *Visuddhimagga* VII | PTS pp. 197–228 | six recollections commentary |

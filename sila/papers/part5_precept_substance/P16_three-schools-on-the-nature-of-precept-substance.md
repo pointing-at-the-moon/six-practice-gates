@@ -3,12 +3,26 @@ title: "Three Schools on the Nature of Precept-Substance"
 subtitle: "The Material, the Neither-Form-nor-Mind, and the Seed — An Ontological Trilemma of the Jietǐ (戒體)"
 title_zh: 三家戒體論
 subtitle_zh: 色法、非色非心、種子之本體三難
-volume: 戒門 SĪLA
+volume: 4
 paper_id: "SILA-P16"
-paper_number: P16
+paper_number: 16
 language: en
+series_short: "SĪLA"
+part_number: 5
 date: 2026-05-28
 author: "釋慧鏡 (Shi Huijing)"
+canonical_source:
+  - "T02n0099"
+  - "T29n1558"
+  - "T29n1562"
+  - "T30n1579"
+  - "T31n1585"
+  - "T31n1606"
+  - "T32n1646"
+  - "T40n1804"
+  - "T40n1805"
+  - "T40n1811"
+  - "T40n1812"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷四 戒
@@ -47,7 +61,7 @@ When a person takes full ordination or the bodhisattva precepts, common usage sa
 
 ## 摘要
 
-人受具足戒、菩薩戒，世共謂之「得戒」；然所「得」者究竟是何物？必有一物相續而存——故持戒之人縱於睡眠、異緣之時猶名持戒，唯犯重、捨戒乃失其名。漢地律學名此相續之物曰「戒體」，並問其本體為何。本文先指出：此問非佛陀本懷所有。早期佛教以離（*virati*）、律儀（*saṃvara*）、思（*cetanā*）說戒，所重在行與意業，而非一沉積之實體；南傳上座部更正面拒斥相續之material residue，自成一「無實體」之第四答。此問實由薩婆多部「無表色」（*avijñapti-rūpa*）之實體化所衍生。一入漢地，結晶為三種互不相容之本體答案，本文共時並置為一**結構性之三難**：戒體為**色法**（無表色，薩婆多）、為**非色非心**（成實之「無作」，第三聚）、為**種子**（熏入藏識之善種子，唯識一系，經道宣圓教綜攝）。隋唐二師各組織此遺產：**道宣**以「三宗判」統攝三家，判色法歸薩婆多，而自宗歸於**圓教種子戒體**；**智顗**以**權實判**相對化之——理實則無、教權則有。本文並回正向來兩項誤判，作為教義史之既定事實：道宣本人非色法家而為種子家；智顗非乾淨之「心法戒體」家，而為第二位本土判教者兼調和者。
+人受具足戒、菩薩戒，世共謂之「得戒」；然所「得」者究竟是何物？必有一物相續而存——故持戒之人縱於睡眠、異緣之時猶名持戒，唯犯重、捨戒乃失其名。漢地律學名此相續之物曰「戒體」，並問其本體為何。本文先指出：此問非佛陀本懷所有。早期佛教以離（*virati*）、律儀（*saṃvara*）、思（*cetanā*）說戒，所重在行與意業，而非一種沉積的物質殘餘；南傳上座部更正面拒斥相續之物質殘餘，自成一「無實體」之第四答。此問實由薩婆多部「無表色」（*avijñapti-rūpa*）之實體化所衍生。一入漢地，結晶為三種互不相容之本體答案，本文共時並置為一**結構性之三難**：戒體為**色法**（無表色，薩婆多）、為**非色非心**（成實之「無作」，第三聚）、為**種子**（熏入藏識之善種子，唯識一系，經道宣圓教綜攝）。隋唐二師各組織此遺產：**道宣**以「三宗判」統攝三家，判色法歸薩婆多，而自宗歸於**圓教種子戒體**；**智顗**以**權實判**相對化之——理實則無、教權則有。本文並回正向來兩項誤判，作為教義史之既定事實：道宣本人非色法家而為種子家；智顗非乾淨之「心法戒體」家，而為第二位本土判教者兼調和者。
 
 **關鍵詞：** 戒體、無表色、無作、非色非心、種子戒體、三宗判、道宣、智顗、權實判、本體論三難、薩婆多部、成實、唯識
 
@@ -345,7 +359,7 @@ The canonical compendium of this trilemma is Daoxuan's *Practice-Commentary*, wh
 - **SILA-P12** *The Three-Body Architecture of Bodhisattva Sīla* / **SILA-P14** *The* Bodhisattvabhūmi *Chapter on Śīla* — Sthiramati's *Abhidharmasamuccaya-bhāṣya* (T1606) was the doctrinal-endorsement anchor there; the present paper uses only its "non-informative → form-induced-by-reception" passage (a different passage and function — prior use noted).
 - **SILA-P13** *Nāgārjuna on Śīla-Pāramitā* — its "no Pāli precedent for the East Asian crystallization" finding carries forward and is sharpened here (the Theravāda takes the explicit negative).
 
-### Within Volume IV SĪLA, forthcoming
+### Within Volume IV SĪLA
 
 - **SILA-P17** *Daoxuan's* Practice-Commentary *as the Source-Compendium* — the canonical compendium of this trilemma; the full received-and-followed procedure and authority live there, while the present paper takes only the ontology of the substance-received. (The P17 entry carries forward the T1805 byline erratum lock.)
 - **SILA-P18** *Precept-Substance and the Afflicted Mind* — the store-consciousness / *manas* / transformation-of-the-basis / six-characteristics-of-seeds / perfuming deep-dive; the present paper states only the basic *volition → seed → continuity → protection* claim.

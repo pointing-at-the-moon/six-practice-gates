@@ -10,6 +10,14 @@ part: Part II · The Āgama View
 part_number: 2
 date: 2026-06-01
 version: "1.0"
+canonical_source:
+  - "T01n0026"
+  - "T02n0099"
+  - "T27n1545"
+  - "T29n1558"
+  - "AN11.1"
+  - "AN4.14"
+  - "AN6.10"
 license: CC BY-NC-SA 4.0
 ---
 
@@ -150,16 +158,7 @@ One thread, at the last, runs forward to a later chapter. The four-fold formula 
 
 ---
 
-## VI. A Conversation with Three Modern Voices, and the Conclusion
-
-Return to the opening dispute over effort, and this chapter can now give it an answer. Let three contemporary interlocutors come forward first.
-
-Rupert Gethin, in his study of the thirty-seven factors of awakening, reads the whole set as a "developmental organism" — the thirty-seven are not thirty-seven implements set side by side, but a living structure of mutual conditioning and mutual ripening, the seven awakening-factors in particular being one developmental sequence within it, in which concentration and wisdom co-arise. This framework of "the path as organism" the chapter takes over whole — it is precisely the doctrinal ground on which the causal chain above, and "one entity under five names," can be said to hold. But on top of his sequence the chapter lays one further claim he need not have spelled out: one and the same concentration, according to which coordinate-table it is set in, shifts its supramundane / mundane identity accordingly — the coordinate decides the function. This layer is the chapter's continuation of the "organism" frame.
-
-Bhikkhu Bodhi, in his introduction to the *Saṃyutta Nikāya*'s connected discourses on the awakening-factors, draws particular attention to the rule of cultivating by side according to agitation or dullness: rouse the low mind with the three rousing factors, calm the stirred mind with the three calming factors. This rule the chapter acknowledges as the most classical Theravāda warrant for "concentration belongs to the calming side, countering restlessness." But the chapter reads it one layer deeper than a technical instruction: that to cultivate concentration on an agitated mind is "untimely" is exactly what proves concentration cannot be forced — it must wait until the prior factors have held it up into place; it cannot be seized out of turn. Beneath the timing-rule lies a point of doctrine.
-
-As for the contemporary dispute over effort itself — running on unspent in meditation circles, one side holding that concentration is striven out, the other that it comes of itself when one lets go — the chapter's answer is this: each side has hold of one end of the sequence. Effort is real, but it is spent upstream — the cultivation of the prior factors, the keeping of precepts, energy, mindfulness, investigation, does indeed take effort; concentration, though, lies downstream, a fruit held up by the prior factors into arising (that medio-passive "the mind is concentrated" says just this). So it is not an either-or of "effort or no effort," but a question of "sequence": cultivate the causes with diligence, and the fruit ripens of itself. Diligence in planting the cause; forcing the fruit, labour wasted.[^13]
-
+## VI. Conclusion
 To gather it up, what this chapter argues divides into three layers.
 
 First, doctrinally: the concentration awakening-factor is the sixth of the seven awakening-factors; it sits sixth in the list (place), but in the order of cause and effect it is the culminating fruit that arises of itself once the prior factors have ripened and the mind has come to ease (sequence); and the same concentration, as the right concentration of the eightfold path, spans the mundane and the supramundane, while as the concentration awakening-factor of the seven it is purely supramundane — the coordinate decides the function. Along the way, five redlines must be kept: mindfulness is the first factor, concentration the sixth, the one a proximate cause and the other a remote fruit — mindfulness is, in the end, not concentration; the focus within concentration is not the mindfulness of the four establishments; deeper concentration is not nearer liberation; right concentration is not an isolated technique, but needs the support of the seven factors (and indeed of the whole path); and the redline most proper to this chapter — concentration is not a thing the will can manufacture, but arises of itself out of the ripening of the prior factors.
@@ -196,8 +195,6 @@ Third, a question left for a later chapter. This chapter has told how concentrat
 
 [^12]: *Abhidharmakośa-bhāṣya*, fascicle 25, the thirty-seven factors of awakening reducing to "only ten in actual substance"; concentration (*samādhi*), as a single entity, serves under five names — the four bases of spiritual power (concentration being predominant), the faculty of concentration, the power of concentration, the concentration awakening-factor, and right concentration — translated by Xuanzang, Taishō vol. 29, No. T1558.
 
-[^13]: The bridge "mindfulness as the first of the seven awakening-factors, opening into the rest" is best represented in contemporary scholarship by Bhikkhu Anālayo's work on the establishments of mindfulness (*satipaṭṭhāna*) leading into the awakening-factors (*bojjhaṅga*). Mindfulness is the first factor, concentration the sixth — a proximate cause versus a remote fruit; the very list-order of the seven awakening-factors already entails the distinction "mindfulness is not concentration." The full treatment of the mindfulness awakening-factor belongs to this series' Volume One, *Mindfulness* (NIAN).
-
 ---
 
 ## References
@@ -214,14 +211,6 @@ Third, a question left for a later chapter. This chapter has told how concentrat
 > The Pāli texts below are cited as parallels; the body takes its doctrine from the Chinese, and embeds none of them verbatim except where marked CC0.
 
 - *Aṅguttara Nikāya* 11.1 (*Kimatthiya*); AN 4.14; AN 6.10; AN 10.2 / 11.2. *Saṃyutta Nikāya* 46, the connected discourses on the awakening-factors (the nutriment of the factors, the fire-simile; the Chinese parallel is at *Saṃyukta Āgama*, fascicle 27). Pāli per the Mahāsaṅgīti / Sujato edition.
-
-### Modern Scholarship
-
-> Publication details for the works below await final verification; the body takes only the gist of each position and quotes none of them verbatim.
-
-- Gethin, Rupert. *The Buddhist Path to Awakening*. (The thirty-seven factors of awakening as a mutually conditioned, developmental organism; pages and edition to be verified.)
-- Bodhi, Bhikkhu. Introduction to the connected discourses on the awakening-factors (*Saṃyutta Nikāya* 46). (Position to be verified.)
-- Anālayo, Bhikkhu. Work on the establishments of mindfulness leading into the awakening-factors. (Titles and pages to be verified.)
 
 ---
 

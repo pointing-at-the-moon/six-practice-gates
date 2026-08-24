@@ -10,6 +10,21 @@ part: Part I · Pāli Roots
 part_number: 1
 date: 2026-05-31
 version: "1.0"
+canonical_source:
+  - "T01n0026"
+  - "T02n0099"
+  - "T26n1542"
+  - "T29n1558"
+  - "T30n1579"
+  - "T31n1585"
+  - "T31n1605"
+  - "T48n2007"
+  - "T48n2008"
+  - "T51n2076"
+  - "T54n2131"
+  - "T85n2837"
+  - "DN22"
+  - "MN10"
 license: CC BY-NC-SA 4.0
 ---
 
@@ -118,7 +133,7 @@ Three treatises, three systems — the Sarvāstivāda, the Yogācāra, and the *
 
 But if the matter stopped there, the real claim of the Abhidharma layer would be missed. Its truly striking force lies in its **gathering of three distinct words — "calming," "even-holding," and "unification of mind" — onto a single chain.** The strongest single piece of evidence is the definition of the faculty of concentration (*samādhindriya*) in the *Prakaraṇapāda* (《阿毘達磨品類足論》, T1542), fascicle 8:
 
-> What is the faculty of concentration? It is, with respect to the wholesome states arising from renunciation and seclusion, the mind's abiding, even abiding, close abiding, settled abiding, non-scattering, non-distraction, *calming* (攝止), *even-holding* (等持, *samādhi*), and *unification of mind upon one object* (心一境性): this is called the faculty of concentration.[^13]
+> What is the faculty of concentration? It is, with respect to wholesome states arising from renunciation and seclusion, the recollections; the mind's abiding, even abiding, settled abiding, close abiding, firm abiding, non-distraction, non-scattering, *calming* (攝止), *even-holding* (等持, *samādhi*), and *unification of mind upon one object* (心一境性): this is called the faculty of concentration.[^13]
 
 This passage lays "calming" (*shèzhǐ*), "even-holding" (*děngchí*), and "unification of mind" (*xīn-yī-jìng-xìng*) side by side as *synonyms* of the faculty of concentration — a single chain binding together terms from different lexical strata and declaring that they point to one and the same referent. **The splitting performed by Chinese translation is here gathered back, by paraphrastic chaining, in the treatise layer.**
 
@@ -141,10 +156,10 @@ The chapter's opening thesis is thus shown to be two-directional. The Chinese Ā
 
 Push the map one notch later, into the history of the translated names themselves.
 
-The most concentrated single source for the provenance of the concentration-vocabulary is the *Fānyì míngyì jí* (《翻譯名義集》, T2131), compiled by the Southern Song monk Fǎyún. In treating four key terms — *sānmèi*, *sānmódì*, *chánnà*, and *shēmótā* — Fǎyún lays out the old and new renderings side by side:
+The most concentrated single source for the provenance of the concentration-vocabulary is the *Fānyì míngyì jí* (《翻譯名義集》, T2131), compiled by the Southern Song monk Fǎyún. Its entries and discussions place several old and new renderings side by side:
 
 - **Sānmèi** (三昧, old transliteration of *samādhi*): glossed as "well-ordered concentration," also called "right concentration" (正定), also called "right reception" (正受) — that is, the three renderings *sānmèi*, *zhèngdìng*, and *zhèngshòu* set out as synonymous alternatives.
-- **Sānmódì** (三摩地, new transliteration of *samādhi*): glossed as *děngchí* (等持) — the mind's even, balanced holding-of and resting-on its object.
+- **Sānmótí** (三摩提; the text adds 三摩鉢底): glossed as *děngchí* (等持), with the explanation that freedom from sinking and agitation is "evenness" and abiding on one object is "holding." This reports T2131's wording; it does not identify 三摩提 with Xuanzang's distinct spelling 三摩地.
 - **Chánnà** (禪那, transliteration of *jhāna* / *dhyāna*): glossed as *jìnglǜ* (靜慮, "quiet consideration"), with the further note, citing the *Treatise on the Great Perfection of Wisdom*, that the old rendering was *sīwéixiū* (思惟修, "cultivation by reflection") — and then the gloss "*the quiet is concentration; the consideration is wisdom*."
 - **Shēmótā** (奢摩他, transliteration of *samatha*): glossed simply as *zhǐ* (止, "calm").[^14]
 
@@ -154,7 +169,7 @@ First, **the old translations mixed transliteration with sense-translation** —
 
 Second, **the new translations (the Xuanzang line) drove toward precision** — using *děngchí* (even-holding) to capture the root *sam-ā-√dhā* of *samādhi* (to hold, to place, to set in place), and *jìnglǜ* (quiet-consideration) to capture the dual sense of *dhyāna* (the quiet that is concentration; the considering that is the precising of thought). The new translations aimed to capture the morphemic structure of the Indic term in a single Chinese compound. Corpus statistics show the drive had real effect: in the *Yogācārabhūmi* (《瑜伽師地論》, T1579, Xuanzang) the term *jìnglǜ* occurs 812 times and *děngchí* 100 times; in the *Abhidharmakośa* (T1558, Xuanzang) *jìnglǜ* occurs 322 times and *děngchí* 45 times. The new-translation terms are overwhelmingly dominant across the Xuanzang corpus.
 
-Third, **the gloss "the quiet is concentration; the consideration is wisdom"** — Fǎyún's small note on *jìnglǜ* — lays the dual sense of *dhyāna* (quiet = concentration / consideration = wisdom) side by side. This pairing already foreshadows the later tendency of Chinese Buddhism (especially Tiantai and Chan) to read "concentration and wisdom are not two" as a semantic structure internal to the very word *jhāna*. But it is only a foreshadowing. One cannot read back from it to conclude that *jhāna* carried a "concentration-and-wisdom-not-two" meaning already in the Pāli layer; that is a later overlay, and it must not be pre-dated.
+Third, **the gloss "the quiet is concentration; the consideration is wisdom"** occurs later in the same work under the entry 馱那演那 (T54.1126c18–19), not in the 禪那 entry at T54.1116a25. It lays the dual sense of *dhyāna* (quiet = concentration / consideration = wisdom) side by side. This pairing already foreshadows the later tendency of Chinese Buddhism (especially Tiantai and Chan) to read "concentration and wisdom are not two" as a semantic structure internal to the very word *jhāna*. But it is only a foreshadowing. One cannot read back from it to conclude that *jhāna* carried a "concentration-and-wisdom-not-two" meaning already in the Pāli layer; that is a later overlay, and it must not be pre-dated.
 
 Looking back from this map of translation history, the documentary support for the three layers named in §I comes into focus:
 
@@ -187,7 +202,7 @@ Having unfolded the distinction among the three terms, and having traced the two
 
 Scholarship on *samādhi* offers several principal approaches worth engaging.
 
-The first is **Richard Shankman**'s detailed distinction, in *The Experience of Samādhi*, between the *jhāna* of the Pāli Nikāyas and the *jhāna* of the commentarial tradition.[^16] This is useful for the three-term distinction of §II: it reminds the reader that *samādhi* is not univocal even *within* the Theravāda tradition — the Nikāya-layer descriptions of *jhāna* and the later commentarial refinements differ in both intensity and breadth. Where this volume parts company with the approach is on horizon: Shankman's analysis works within Theravāda materials and does not reach the Chinese *Śūraṅgama* and Tiantai horizons that later chapters of this volume must take up. (As with all attributions in this section, the specific claims here are to be verified against the source before they are firmed up in print.)
+The first is **Richard Shankman**'s distinction, in *The Experience of Samādhi*, between the *jhāna* of the Pāli Nikāyas and the *jhāna* of the commentarial tradition.[^16] This is useful for the three-term distinction of §II: it reminds the reader that *samādhi* is not univocal even *within* the Theravāda tradition — the Nikāya-layer descriptions of *jhāna* and the later commentarial refinements differ in both intensity and breadth. Where this volume parts company with the approach is on horizon: Shankman's analysis works within Theravāda materials and does not reach the Chinese *Śūraṅgama* and Tiantai horizons that later chapters of this volume must take up.
 
 The second is the body of work by **Rupert Gethin** and **Lance Cousins**, which places *samādhi* in its structural position within the eightfold path and the threefold training (ethics, concentration, wisdom — *sīla*, *samādhi*, *paññā*).[^17] This framing supplies the strongest foundation for this series' overall architecture: the series is ordered along the threefold-training spine — *sīla* (Volume III) → *samādhi* (the present volume) → *paññā* — and that ordering is continuous with the Gethin–Cousins reading. This volume does not re-argue the structural case for the threefold training (that belongs to the higher architecture of the series); it simply registers the framing as a premise it accepts.
 
@@ -239,15 +254,15 @@ But that is later. This chapter has done its work by loosening three words that 
 
 [^13]: *Prakaraṇapāda* (《阿毘達磨品類足論》), fascicle 8, the definition of the faculty of concentration, where "calming" (攝止), "even-holding" (等持), and "unification of mind upon one object" (心一境性) are set side by side as synonyms of the faculty of concentration, Taishō vol. 26, T1542, 0723b19; compare also fascicle 1 (0693a19): "What is concentration? It is the unification of the mind upon a single object."
 
-[^14]: *Fānyì míngyì jí* (《翻譯名義集》), the entries on *sānmèi*, *sānmódì*, *chánnà*, and *shēmótā*, compiled by Fǎyún, Southern Song, Taishō vol. 54, T2131. The precise fascicle number and CBETA line-locator are reserved for final collation; the wording cited here follows the strings retrieved by full-text CBETA search, with the exact fascicle reference to be verified before the volume's final edition.
+[^14]: Fǎyún, *Fānyì míngyì jí* (《翻譯名義集》), T2131, fascicle 10: 三昧 at T54.1114c09–16; 禪那 at T54.1116a25–26; 奢摩他 at T54.1118b14–19; 三摩提／三摩鉢底 and the gloss 等持 at T54.1118c25–28. In fascicle 11, the later 馱那演那 gloss "靜，即定也；慮，即慧" is at T54.1126c18–19. All loci were checked against the current CBETA XML.
 
 [^15]: *Platform Sūtra of the Sixth Patriarch* (《六祖大師法寶壇經》), the "Concentration and Wisdom" section, "concentration and wisdom are one substance, not two," Taishō vol. 48, T2008. Cited here as a forward reference only; the principal treatment of the Chan doctrine that concentration and wisdom are not two belongs to Volume VII (Part VII) of this series.
 
-[^16]: Richard Shankman, *The Experience of Samādhi: An In-Depth Exploration of Buddhist Meditation* (Shambhala, 2008). The attribution here is to be checked item by item against the precise chapters of the original.
+[^16]: Richard Shankman, *The Experience of Samādhi: An In-Depth Exploration of Buddhist Meditation* (Shambhala, 2008). Engaged at book level; no verbatim wording is quoted.
 
-[^17]: Rupert Gethin, *The Foundations of Buddhism* (Oxford University Press, 1998); related work by Lance Cousins is scattered across the *Journal of the Pali Text Society* and other venues. Attributions to be checked item by item.
+[^17]: Rupert Gethin, *The Foundations of Buddhism* (Oxford University Press, 1998); related work by Lance Cousins in the *Journal of the Pali Text Society* and other venues. Engaged at book-and-author level; no verbatim wording is quoted.
 
-[^18]: Robert H. Sharf, "Buddhist Modernism and the Rhetoric of Meditative Experience," *Numen* 42 (1995): 228–283. The precise target of the attribution to be checked against the original.
+[^18]: Robert H. Sharf, "Buddhist Modernism and the Rhetoric of Meditative Experience," *Numen* 42, no. 3 (1995): 228–283. Engaged by paraphrase; no verbatim wording is quoted.
 
 [^19]: Pāli sources: *Mahāsaccaka-sutta*, Majjhima Nikāya 36 (the recollection of the boyhood first *jhāna* beneath the rose-apple tree); *Ariyapariyesanā-sutta*, Majjhima Nikāya 26 (the study under the two teachers and the abandoning of the formless attainments). The Chinese parallels are the relevant discourses of the *Madhyama Āgama* (《中阿含經》, T0026); the specific passages are the proper subject of the next chapter (P02).
 

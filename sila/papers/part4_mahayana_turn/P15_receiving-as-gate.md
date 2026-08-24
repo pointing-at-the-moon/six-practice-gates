@@ -3,12 +3,25 @@ title: "Receiving as Gate: The Formation of the Chinese Ordination Architecture"
 subtitle: "The Yingluo and Brahmā's Net Sūtras on the Three Grades, Self-Ordination, and the Indestructible Precept-Substance"
 title_zh: 受之為門
 subtitle_zh: 漢地受戒架構的形成——《菩薩瓔珞本業經》與《梵網經》的受戒三品、自誓受與戒體永不失
-volume: 戒門 SĪLA
+volume: 4
 paper_id: "SILA-P15"
-paper_number: P15
+paper_number: 15
 language: en
+series_short: "SĪLA"
+part_number: 4
 date: 2026-05-28
 author: "釋慧鏡 (Shi Huijing)"
+canonical_source:
+  - "T22n1421"
+  - "T22n1428"
+  - "T24n1484"
+  - "T24n1485"
+  - "T30n1579"
+  - "T30n1581"
+  - "T30n1582"
+  - "T40n1804"
+  - "T40n1811"
+  - "T40n1812"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷四 戒
@@ -309,7 +322,7 @@ One thing must finally be set down affirmatively. The *Yingluo* and the *Brahmā
 - **SILA-P14** *The Bodhisattvabhūmi Chapter on Śīla* — the home subject for the four qualities of *svabhāva-śīla* and the foremost quality, "reception from another"; the present paper makes "reception from another" the hinge of P14↔P15 (§3.4).
 - (SILA-P13 *Nāgārjuna on Śīla-Pāramitā* — not cross-referenced here; a different axis.)
 
-### Within Volume IV SĪLA, forthcoming
+### Within Volume IV SĪLA
 
 - **SILA-P16–P18** *The Precept-Substance Studies* — the home subject for the ontology of the precept-substance (form / mind / seed, the threefold debate) toward which the present paper's "mind as substance" only points; the ontological question is forward-referenced here (§3.3, and the open question of §VI).
 

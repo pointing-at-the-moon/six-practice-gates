@@ -1,16 +1,19 @@
 ---
 title: "The Unfinishable Vow: Vast Number as a Structure, Not a Target"
 title_en: "The Unfinishable Vow: Vast Number as a Structure, Not a Target"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 6 — PRAṆIDHĀNA: Aspiration and the Vow, from Pāli Roots to Samantabhadra · Part IV · The Four Great Vows"
-series_short: PRAṆIDHĀNA
+series_short: "PRAṆIDHĀNA"
 volume: 6
-paper_id: PRANIDHANA-P10
+paper_id: "PRANIDHANA-P10"
 paper_number: 10
 part: Part IV · The Four Great Vows
 part_number: 4
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T46n1911"
+  - "T46n1931"
 license: CC BY-NC-SA 4.0
 ---
 
@@ -150,7 +153,7 @@ This section marks four misreadings into which one easily slips (❌ for a swerv
 
 **⚠️ "Boundless" must not borrow the four-similes of inexhaustibility from the repentance gate.** A boundary of textual scope must be honestly marked. Within the strand of Samantabhadra's vow-conduct there is another famous set, the "four similes of inexhaustibility" (using the inexhaustibility of the realm of space, the realm of beings, beings' karma, and beings' afflictions to figure the inexhaustibility of vow-conduct); that material and its treatment of "unfinishability" are already fully held and deeply discussed in this series' volume on repentance, and this paper neither cites nor restates them. This paper grounds its account of the Four Vows' unfinishability purely on the four quantifiers of the Four Vows themselves — boundless, inexhaustible, measureless, unsurpassed — which is a different textual base and a different approach. The reader must not, because both places speak of "inexhaustibility," fold them into one; throughout, this paper holds strictly to the quantifiers of the Four Vows and does not cross over to borrow that set of four similes.
 
-**⚠️ This paper takes only the object-side boundlessness; the subject-side emptiness is reserved for later.** Finally, the bounds of this paper must be fixed. Zhiyi's lines — "within the nothing-whatsoever I therefore seek it," "by realizing-nothing it is realized and attained" — in fact touch two dimensions at once: one, the object (beings, afflictions, awakening) as boundless and empty on the side of the object; two, "the mind that vows, the matter vowed, the act of vowing" as also empty and also unattainable on the side of the subject. What this paper takes is strictly the former — the object-side boundlessness-and-unfinishability, and the uncontrived posture raised upon it. The latter — the emptiness of the three wheels (the one who vows, the thing vowed, the power of the vow), and the question of "how a vow can be raised with a mind of nothing-to-attain" — bears on the vow's frontal encounter with emptiness, and a dedicated paper later in this volume treats it in detail; here I take only the object-side and do not move the subject-side emptiness in advance. And it must be said plainly: this paper makes no forward citation to texts not yet written, marking the place softly only as "later in this volume."
+**⚠️ This paper takes only the object-side boundlessness; the subject-side emptiness is reserved for later.** Finally, the bounds of this paper must be fixed. Zhiyi's lines — "within the nothing-whatsoever I therefore seek it," "by realizing-nothing it is realized and attained" — in fact touch two dimensions at once: one, the object (beings, afflictions, awakening) as boundless and empty on the side of the object; two, "the mind that vows, the matter vowed, the act of vowing" as also empty and also unattainable on the side of the subject. What this paper takes is strictly the former — the object-side boundlessness-and-unfinishability, and the uncontrived posture raised upon it. The latter — the emptiness of the three wheels (the one who vows, the thing vowed, the power of the vow), and the question of "how a vow can be raised with a mind of nothing-to-attain" — bears on the vow's frontal encounter with emptiness, and a dedicated paper later in this volume treats it in detail; here I take only the object-side and do not move the subject-side emptiness in advance. And it must be said plainly: this paper makes no forward citation to later papers in the volume, marking the place softly only as "later in this volume."
 
 ## VI. Conclusion
 

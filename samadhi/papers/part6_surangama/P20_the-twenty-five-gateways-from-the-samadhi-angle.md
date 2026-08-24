@@ -10,6 +10,10 @@ part: Part VI · The Śūraṅgama
 part_number: 6
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T19n0945"
+  - "T39n1799"
+  - "X12n0275"
 license: CC BY-NC-SA 4.0
 ---
 
@@ -177,7 +181,7 @@ The twenty-five means of perfect penetration are not twenty-five forks in the ro
 
 [^19]: Chün-fang Yü, *Kuan-yin: The Chinese Transformation of Avalokiteśvara* (New York: Columbia University Press, 2001). Cited by paraphrase only, for dialogue and contrast; no original text is quoted.
 
-[^20]: James A. Benn, "Another Look at the Pseudo-Śūraṃgama sūtra," *Harvard Journal of Asiatic Studies* 68, no. 1 (2008): 57–89; see also Ronald Epstein's 1976 reappraisal of the sūtra's authenticity (bibliographic details pending verification — no formal publication; circulated through DRBU faculty pages — final citation form to be confirmed at sealing). Cited by paraphrase only.
+[^20]: James A. Benn, "Another Look at the Pseudo-Śūraṃgama sūtra," *Harvard Journal of Asiatic Studies* 68, no. 1 (2008): 57–89. Cited by paraphrase only.
 
 [^21]: On the restraint of the faculties (*indriya-saṃvara*, the guarding of the sense-gates) as a faint Indic forerunner of inward-gathering, see this series' volume on the precepts (SĪLA); only a single cross-reference is made here, without elaboration.
 
@@ -203,7 +207,6 @@ The twenty-five means of perfect penetration are not twenty-five forks in the ro
 - Benn, James A. "Another Look at the Pseudo-Śūraṃgama sūtra." *Harvard Journal of Asiatic Studies* 68, no. 1 (2008): 57–89.
 - Sharf, Robert H. "Is Mindfulness Buddhist? (and Why It Matters)." *Transcultural Psychiatry* 52, no. 4 (2015): 470–484.
 - Wilson, Jeff. *Mindful America: The Mutual Transformation of Buddhist Meditation and American Culture.* New York: Oxford University Press, 2014.
-- Epstein, Ronald. "The Śūraṅgama-Sūtra (T. 945): A Reappraisal of Its Authenticity." c. 1976. (Bibliographic details pending verification: no formal publication; circulated through DRBU faculty pages.)
 
 ### III. Sūtra & Śāstra Index
 
@@ -228,7 +231,7 @@ The twenty-five means of perfect penetration are not twenty-five forks in the ro
 *Paper:* SAMADHI-P20 · *The Twenty-Five Gateways from the Samādhi Angle* · **SAMĀDHI · Part VI · The Śūraṅgama**
 *Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates (六行門)
 *License:* CC BY-NC-SA 4.0
-*CBETA collation:* Citations from the *Śūraṅgama-sūtra* (T0945, Pāramiti) and the commentaries of Zixuan (*Śūraṅgama* commentary, T1799) and Jiaoguang Zhenjian (*Straight Path Commentary*, X0275) are verified against the CBETA Electronic Tripiṭaka. "Turning the hearing back" (反聞) and "entering the stream, the object lost" (入流亡所) name an inward-gathering, not a shutting-off of the senses: what is reversed is the outward flow toward sound, not hearing itself. The same twenty-five-gateways passage is read from the side of giving in the volume on dāna (DĀNA-P19), and the fifty skandha-māras — the by-paths along this road — are the doctrinal subject of the next paper, not a clinical guide. Yü, Benn, Sharf, Wilson, and Epstein are cited by paraphrase only, for contrast, not doctrinal equation. Where CBETA reads 皷, the graph is left unaltered.
+*CBETA collation:* Citations from the *Śūraṅgama-sūtra* (T0945, Pāramiti) and the commentaries of Zixuan (*Śūraṅgama* commentary, T1799) and Jiaoguang Zhenjian (*Straight Path Commentary*, X0275) are verified against the CBETA Electronic Tripiṭaka. "Turning the hearing back" (反聞) and "entering the stream, the object lost" (入流亡所) name an inward-gathering, not a shutting-off of the senses: what is reversed is the outward flow toward sound, not hearing itself. The same twenty-five-gateways passage is read from the side of giving in the volume on dāna (DĀNA-P19), and the fifty skandha-māras — the by-paths along this road — are the doctrinal subject of the next paper, not a clinical guide. Yü, Benn, Sharf, and Wilson are cited by paraphrase only, for contrast, not doctrinal equation. Where CBETA reads 皷, the graph is left unaltered.
 *Repository:* https://github.com/pointing-at-the-moon/six-practice-gates
 
 ---

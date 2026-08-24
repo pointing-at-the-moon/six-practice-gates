@@ -10,6 +10,24 @@ part: "Part VIII · The Huayan Dharmadhātu"
 part_number: 8
 date: "2026-05-14"
 version: "1.0"
+canonical_source:
+  - "T09n0278"
+  - "T10n0279"
+  - "T10n0285"
+  - "T10n0286"
+  - "T10n0287"
+  - "T10n0293"
+  - "T25n1509"
+  - "T26n1521"
+  - "T26n1522"
+  - "T30n1579"
+  - "T35n1732"
+  - "T35n1733"
+  - "T35n1735"
+  - "T36n1736"
+  - "T36n1739"
+  - "T45n1869"
+  - "T45n1870"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -328,7 +346,7 @@ The door to the Joyful Ground is not the result of contemplating Indra's net but
 
 [^4]: T0279, fascicle 34, p. 182a. "Among the ten perfections, the perfection of giving is augmented" appears only in the eighty-fascicle *Avataṃsaka*; the sixty-fascicle version has no such line. The source of this doctrinal crystallization is the influence of Vasubandhu's commentarial layer (T1522, 508–535 CE) upon the translation hall.
 
-[^5]: The verse "among all offerings, the dharma-offering is supreme" issues from T0293, *Avataṃsaka-sūtra*, fascicle 40, the Chapter of Samantabhadra's Vows of Practice — it is not within the territory of the Ten Bhūmis Chapter of T0279. P26 territory.
+[^5]: The verse "among all offerings, the dharma-offering is supreme" occurs in T0293, *Avataṃsaka-sūtra*, fascicle 40, the Chapter of Samantabhadra's Vows of Practice; it does not occur in the Ten Bhūmis chapter of T0279. P26 takes up that distinction.
 
 [^6]: Zhiyan (602–668), Fazang (643–712), Li Tongxuan (635–730), Chengguan (738–839). Li Tongxuan is earlier than Chengguan and roughly contemporary with Fazang; the linear narrative "Fazang → Chengguan → Li Tongxuan" is a chronological misplacement. The three commentators form a side-by-side typological triangle, not a chronological chain of development.
 
@@ -461,7 +479,7 @@ The door to the Joyful Ground is not the result of contemplating Indra's net but
 1. *Avataṃsaka-sūtra* (60-fascicle, 大方廣佛華嚴經）， fascicle 23, Buddhabhadra translation, *Taishō* vol. 9, No. T0278.
 2. *Avataṃsaka-sūtra* (80-fascicle, 大方廣佛華嚴經）， fascicle 34, Śikṣānanda translation, *Taishō* vol. 10, No. T0279.
 3. *Jianbei yiqie zhide jing* （漸備一切智德經）， Dharmarakṣa translation, *Taishō* vol. 9, No. T0285.
-4. *Shizhu jing* （十住經）， attrib. Kumārajīva + Buddhayaśas translation, *Taishō* vol. 9, No. T0286.
+4. *Shizhu jing* （十住經）， attrib. Kumārajīva + Buddhayaśas translation, *Taishō* vol. 10, No. T0286.
 5. *Foshuo shidi jing* （佛說十地經）， Śīladharma translation, *Taishō* vol. 10, No. T0287.
 6. *Avataṃsaka-sūtra* (40-fascicle, 大方廣佛華嚴經), fascicle 40, Chapter of Samantabhadra's Vows of Practice, Prajñā translation, *Taishō* vol. 10, No. T0293.
 

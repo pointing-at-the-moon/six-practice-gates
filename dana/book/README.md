@@ -1,14 +1,19 @@
-# 施 DĀNA · book/
+# 施 DĀNA · 成書版
 
-成書工作室（book-phase workspace）。**中文為金標準（ZH gold standard）先行，英文書體鏡像後出。**
+本卷提供中文主本與完整英文書體。
 
-- `DANA_BOOK_PLAN.md` — 成書計畫（章節骨架、來源映射、工序、決議）。單一真實來源。
-- `DANA_BOOK_STYLE.md` — 書寫風格指南（繼承八部曲 + 對齊 NIAN 金標準 + 本卷 delta）。
-- `00_總序.md` · `00_導讀地圖.md` — 卷首（book 階段撰寫）。
-- `parts/` — 9 部，每部 `00_part_intro.md`（定場）＋ 各章。
-- `transitions/` — 8 篇過渡章。
-- `appendix/` — A 學術腳註索引 · C 名相對照。
-- `en/` — 英文書體鏡像。
-- `build/output/` — Pandoc PDF。
+**作者：** 釋慧鏡 (Shi Huijing)
 
-狀態：中文成書全卷完稿（9 部 31 章 + 8 過渡 + 卷首 + 附錄）；英文書體全卷出齊（`en/`）。
+[Methodology and disclosure / 方法與揭露](https://waken.org/methodology/)
+
+## 閱讀入口
+
+- [總序](00_總序.md)
+- [導讀地圖](00_導讀地圖.md)
+- [學術腳註索引](appendix/A_學術腳註索引.md)
+- [名相對照](appendix/C_名相對照.md)
+- [English edition](en/README.md)
+
+## 出版狀態
+
+中文成書全卷完稿（9 部 31 章 + 8 過渡 + 卷首 + 附錄）；英文書體全卷出齊。

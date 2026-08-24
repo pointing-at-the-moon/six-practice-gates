@@ -3,12 +3,18 @@ title: "The Diamond Sūtra and Sign-less Sīla"
 subtitle: "Corpus-Silence and the Mahāprajñāpāramitā's Emptiness of Keeping-and-Breaking"
 title_zh: 無相戒
 subtitle_zh: 《金剛經》的緘默與《大般若經》的「持與犯本性空」
-volume: 戒門 SĪLA
+volume: 4
 paper_id: "SILA-P21"
-paper_number: P21
+paper_number: 21
 language: en
+series_short: "SĪLA"
+part_number: 7
 date: 2026-05-29
 author: "釋慧鏡 (Shi Huijing)"
+canonical_source:
+  - "T05n0220a"
+  - "T08n0235"
+  - "T25n1509"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷四 戒
@@ -270,6 +276,6 @@ Where this paper argues to "keeping and breaking empty by nature" and "not raisi
 *正法眼藏，不立文字——The value of the Dharma lies in the Dharma itself, not in the identity of the one who expounds it.*
 
 **Pointing at the Moon** ｜ Six Practice Gates · SĪLA 戒 ｜ CC BY-NC-SA 4.0
-Scriptural citations collated against the CBETA Electronic Tripiṭaka ｜ github.com/pointing-at-the-moon/six-practice-gates
+CBETA collation: Scriptural citations collated against the CBETA Electronic Tripiṭaka ｜ github.com/pointing-at-the-moon/six-practice-gates
 
 *Pointing at the Moon · The Six Practice Gates · Volume IV SĪLA · Paper 21 · Part VII #1 · May 2026*

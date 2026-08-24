@@ -1,15 +1,19 @@
 ---
 title: "The Inward Gate Opens Back: Returning Samādhi to Prajñā"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part IX · Modern Diagnosis and the Return to Prajñā"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P31
+paper_id: "SAMADHI-P31"
 paper_number: 31
 part: Part IX · Modern Diagnosis and the Return to Prajñā
 part_number: 9
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T01n0026"
+  - "T08n0251"
+  - "T25n1509"
 license: CC BY-NC-SA 4.0
 ---
 

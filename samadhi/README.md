@@ -10,9 +10,10 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1), [*The Practice of
 Of the six gates, 定 correlates with the Heart Sūtra's **究竟** (*ultimate* — 究竟涅槃, the bodhisattva's consummation): the gate that takes the inward turn to its limit. But the volume's through-line is not "the deeper the better." Its spine is the ladder of the four *jhānas* and the shedding of the absorption-factors, read from the Pāli jhāna through the Āgama analysis, the Mahāyāna perfection of *dhyāna*, *prajñā*'s critique of clinging to the meditative state, the *Śūraṅgama*'s great *samādhi*, and the Chan non-duality of concentration-and-wisdom. The Buddha tasted his teachers' formless absolutes and **set them down** — and so the volume's thesis: *the deepest samādhi is one in which even the samādhi-state cannot be grasped; concentration must return to wisdom.*
 
 - **Author**: 釋慧鏡 (Shi Huijing)
+- **Methodology**: [Waken scholarship methodology](https://waken.org/methodology/)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
 - **Book**: [成書層 book/](./book/) — ZH gold standard + English mirror
-- **Status**: ✅ **Paper phase SEALED 2026-06-04 — 31/31 (all 9 Parts complete)** · Volume closer P31 內向之門回開 / The Inward Gate Opens Back · Part IX triad (P29 兩種失格 modern-diagnosis + P30 AI 時代之定 + P31 定回歸般若 全卷收束) · forward to 願 PRAṆIDHĀNA Volume 6
+- **Status**: Corpus inventory complete — 31/31 papers are present on disk across all 9 Parts. This count does not claim teacher/translator ratification, quotation-by-quotation scholarly closure, or live-site publication.
 
 ### Structure
 

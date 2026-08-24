@@ -10,6 +10,10 @@ part: Part VI · The Śūraṅgama
 part_number: 6
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T19n0945"
+  - "T39n1799"
+  - "X12n0275"
 license: CC BY-NC-SA 4.0
 ---
 
@@ -127,7 +131,7 @@ With this, the paper seals this Part's triptych. The spine carried forward from 
 
 As for the conversation with modern scholarship, the fifty skandha-māras may be set against three contemporary lines of discourse. **First, the empirical study of adverse meditation experiences.** Recent large-interview research has rigorously classified the destabilising and distressing experiences that arise in meditation.[^30] What can be granted is that such destabilising experiences are real and can indeed be systematically catalogued; but it must be marked that the fifty skandha-māras differ from these *in both object and criterion* — their axis is the sequence of the dissolving five skandhas, and their switch is the cognitive-soteriological act of "construing it as sagehood," not the severity of a symptom. The resonance of the naming is fair; but to press the doctrinal register flat into the clinical register is both to misread the text and to overstep the author's competence. **Second, Buddhist modernism's demythologising of the "māra."** Modern readers reflexively reduce the "māra" to a psychological state.[^31] Yet this demythologising cuts, if anything, toward the very thing this paper means to guard against: if "meditative experience" is itself a modernist overlay, then to read the fifty skandha-māras as a "list of affect-states" is the truer anachronism; what the formation- and consciousness-skandha sections expressly adjudge are **heterodox views** (such as the doctrine of two causeless origins and the doctrine of fourfold pervasive permanence), a category of doxographic adjudication, not a category of feeling. **Third, "fire-deviation, entering the demonic" as a category of comparison.** The idiom, ready-to-hand in Chinese culture as it is,[^32] is, as distinguished above, an undifferentiated catch-all, unable to bear the two doctrinal load-bearing components of the fifty skandha-māras.
 
-It must be stated frankly: a Western monograph centred on "the fifty skandha-māras as a unified, concentration-axis doctrinal typology of by-paths" is, at present, still wanting; the nearest published gesture appears in the editorial introduction to one English translation, which calls the fifty states "a unique method of cataloguing and classifying spiritual experience."[^33] This paper is the extension and synthesis of that editorial gesture (the skandha-sequence, plus the construing-it-as-sagehood switch, plus the concentration-to-wisdom remedy), and not a claim that "no one has studied this."
+The typology advanced here — skandha sequence, the “construing it as sagehood” switch, and the concentration-to-wisdom remedy — is this paper's authorial synthesis of the canonical and commentarial sources cited above. It is not presented as a quotation from a modern scholar.
 
 To seal this Part is also to open the next. The *Śūraṅgama*'s concentration-teaching is here fully rendered, and the gate of concentration now turns toward Chan — from Bodhidharma's wall-gazing onward, the single word "Chan" will formally come forth in its lineage sense, and the concentration-teaching will branch from the road of "taking concentration as the thing realised" toward the road of "direct pointing."[^34] That is the home ground of the next Part; here only its direction is marked.
 
@@ -143,21 +147,21 @@ To construe it as sagehood is, in that very instant, to take the by-path.
 
 [^2]: *Śūraṅgama-sūtra* （大佛頂如來密因修證了義諸菩薩萬行首楞嚴經）， trans. Pāramiti （般剌蜜帝）， Taishō vol. 19, no. T0945, fasc. 9, p. 0147a21 （「將罷法座」， about to rise from the seat) and p. 0147b12 (the stirring as caused by concentration).
 
-[^3]: Jiaoguang Zhenjian, *Commentary on the Straight Path of the Śūraṅgama* (楞嚴經正脉疏), Xuzangjing no. X0275, fasc. 9: the figure of "a thousand lamps sharing one room," holding that the māra's arising is the structural effect of true concentration stirring the one shared dharma-realm, and not the practitioner's having done evil. Paraphrased, not quoted verbatim; the fascicle-and-page locus is to be confirmed against CBETA.
+[^3]: Jiaoguang Zhenjian, *Commentary on the Straight Path of the Śūraṅgama* (楞嚴經正脉疏), Xuzangjing vol. 12, no. X0275, fasc. 9, 0444b02–03: the figure of "a thousand lamps sharing one room," holding that the māra's arising is the structural effect of true concentration stirring the one shared dharma-realm, and not the practitioner's having done evil. Paraphrased, not quoted verbatim.
 
 [^4]: *Śūraṅgama-sūtra*, fasc. 9, T0945, p. 0147b18–21: 「然彼諸魔雖有大怒，彼塵勞內，汝妙覺中，如風吹光，如刀斷水，了不相觸……徒恃神力，但為其客；成就破亂，由汝心中五陰主人。主人若迷，客得其便。當處禪那覺悟無惑，則彼魔事無奈汝何。」 The elision (`……`) follows the source.
 
-[^5]: Jiaoguang, *Straight Path Commentary*, X0275, fasc. 9: "the fault lies with the host" (患在主也); "the strong brigand fears the weak host" (強賊怕弱主). Paraphrased; locus to be confirmed against CBETA.
+[^5]: Jiaoguang, *Straight Path Commentary*, X12n0275, fasc. 9, 0445b05–07: "the fault lies with the host" (患在主也); "the strong brigand fears the weak host" (強賊怕弱主). Paraphrased.
 
-[^6]: Zixuan, *Commentary on the Meaning of the Śūraṅgama* (首楞嚴義疏注經), Taishō vol. 39, no. T1799, fasc. 9: 「五陰，魔所依處，若能觀破，魔自消歇。」 ("The five skandhas are the place on which the māra depends; able to contemplate them through, the māra dies away of itself.")
+[^6]: Zixuan, *Commentary on the Meaning of the Śūraṅgama* (首楞嚴義疏注經), Taishō vol. 39, no. T1799, fasc. 9, 0948b21–22: 「五陰，魔所依處，若能觀破，魔自消歇。」 ("The five skandhas are the place on which the māra depends; able to contemplate them through, the māra dies away of itself.")
 
 [^7]: *Śūraṅgama-sūtra*, fasc. 9, T0945, p. 0147c08 (the first state of the form-skandha): 「斯但功用暫得如是，非為聖證。不作聖心，名善境界；若作聖解，即受群邪。」 The criterion-formula recurs across the ten states of the form-skandha (so, e.g., p. 0147c13).
 
-[^8]: Jiaoguang, *Straight Path Commentary*, X0275, fasc. 9: "opening for a moment, closing straightway" (暫開隨閉) — figuring the state arising within concentration as the transitional appearance of contemplative power momentarily prevailing. Paraphrased; locus to be confirmed against CBETA.
+[^8]: Jiaoguang, *Straight Path Commentary*, X12n0275, fasc. 9, 0450a15–16: "opening for a moment, closing straightway" (暫開隨閉) — figuring the state arising within concentration as the transitional appearance of contemplative power momentarily prevailing. Paraphrased.
 
-[^9]: Zixuan, *Commentary on the Meaning of the Śūraṅgama*, T1799, fasc. 9: the three rejections — do not dismiss it as a māra, do not at once take it for sagehood, but "discern it well and neither grasp nor reject" (善識而無取捨); "the moment the mind sets out to claim realisation, that is when it becomes a māra" (起心作證方始成魔). Paraphrased, the bracketed phrases quoted; locus to be confirmed against CBETA.
+[^9]: Zixuan, *Commentary on the Meaning of the Śūraṅgama*, T39n1799, fasc. 9: the three rejections — do not dismiss it as a māra, do not at once take it for sagehood, but "discern it well and neither grasp nor reject" (善識而無取捨; 0949a24–25); "the moment the mind sets out to claim realisation, that is when it becomes a māra" (起心作證方始成魔; 0950a25). Paraphrased, the bracketed phrases quoted.
 
-[^10]: Jiaoguang, *Straight Path Commentary*, X0275, fasc. 9: 「誠是善祥境界，本無過咎也……若作聖解者……即受群邪者，言魔得其便。」 ("Truly it is an auspicious and wholesome state, in itself without fault … if construed as sagehood … 'falls prey to the host of māras' means the māra finds its opening.") Locus to be confirmed against CBETA.
+[^10]: Jiaoguang, *Straight Path Commentary*, X12n0275, fasc. 9, 0447c12–15: 「誠是善祥境界，本無過咎也……若作聖解者……即受群邪者，言魔得其便。」 ("Truly it is an auspicious and wholesome state, in itself without fault … if construed as sagehood … 'falls prey to the host of māras' means the māra finds its opening.")
 
 [^11]: *Śūraṅgama-sūtra*, fascicles 9–10, T0945: the region (區宇) of each skandha — the form-skandha at p. 0147c01, the feeling-skandha at p. 0148b06, the perception-skandha at p. 0149b12, the formation-skandha at p. 0151c07, the consciousness-skandha at p. 0153b11. Each skandha presents ten states, five skandhas making fifty.
 
@@ -165,7 +169,7 @@ To construe it as sagehood is, in that very instant, to take the by-path.
 
 [^13]: *Śūraṅgama-sūtra*, fasc. 9, T0945, p. 0148b13–14 (the first state of the feeling-skandha, the demon of grief): 「此名……悟則無咎，非為聖證；覺了不迷，久自銷歇。若作聖解，則有悲魔入其心府，見人則悲，啼泣無限，失於正受，當從淪墜。」 The elision (`……`) follows the source.
 
-[^14]: Zixuan, *Commentary on the Meaning of the Śūraṅgama*, T1799, fasc. 9: at the form-skandha "the concentrated mind is manifest, the mind not yet luminous, wisdom not yet arisen" (定心顯也，心未發光，慧未生也); the states of the feeling-skandha are matters of "without wisdom one loses oneself / cannot restrain oneself / cannot hold oneself" (無慧自失／無慧自禁／無慧自持). The phrase "concentration present, wisdom absent" (定有而慧無) is this paper's characterisation of his diagnosis, not a verbatim citation. The bracketed Chinese phrases are quoted; locus to be confirmed against CBETA.
+[^14]: Zixuan, *Commentary on the Meaning of the Śūraṅgama*, T39n1799, fasc. 9: at the form-skandha "the concentrated mind is manifest, the mind not yet luminous, wisdom not yet arisen" (定心顯也，心未發光，慧未生也; 0948c23); the states of the feeling-skandha are matters of "without wisdom one loses oneself / cannot restrain oneself / cannot hold oneself" (無慧自失, 0951a17; 無慧自禁, 0951b23; 無慧自持, 0952b04). The phrase "concentration present, wisdom absent" (定有而慧無) is this paper's characterisation of his diagnosis, not a verbatim citation. The bracketed Chinese phrases are quoted.
 
 [^15]: *Śūraṅgama-sūtra*, fasc. 9, T0945, p. 0149b18 (the deva-māra sending a possessing essence into a person; the names of the ten kinds of essence-sprite of the perception-skandha follow from p. 0149b18 onward); the closing formula of the perception-skandha is at fasc. 9, p. 0151b01. 「爾時，天魔候得其便，飛精附人，口說經法……是十種魔於末世時在我法中出家修道，或附人體，或自現形。」 The elision (`……`) follows the source.
 
@@ -175,35 +179,33 @@ To construe it as sagehood is, in that very instant, to take the by-path.
 
 [^18]: *Śūraṅgama-sūtra*, fasc. 10, T0945, p. 0153b18 (the consciousness-skandha, the grasping of cause and what is caused): 「違遠圓通，背涅槃城，生外道種。」 ("He turns away from perfect penetration, turns his back on the city of nirvāṇa, and breeds the seed of a heterodox path.") The states of the consciousness-skandha are largely adjudged as falling into heterodoxy (so, e.g., Kapila at p. 0153b18, Maheśvara at p. 0153b23, the fixed-nature śrāvaka at p. 0154a15, going mad mid-course at p. 0154a28).
 
-[^19]: Jiaoguang, *Straight Path Commentary*, X0275, fascicles 9–10: the division of inner and outer māra answers to the depth of the skandha — the form-skandha projected by one's own mind, the feeling-skandha summoning an outer māra in wait, the perception-skandha's deva-māra showing itself, the formation- and consciousness-skandhas purely one's own mind's wrong views. Paraphrased; loci to be confirmed against CBETA.
+[^19]: Jiaoguang, *Straight Path Commentary*, X12n0275, fasc. 9, 0443c21–0444a08: the division of inner and outer māra answers to the depth of the skandha — the form-skandha projected by one's own mind, the feeling-skandha summoning an outer māra in wait, the perception-skandha's deva-māra showing itself, the formation- and consciousness-skandhas purely one's own mind's wrong views. Paraphrased.
 
-[^20]: Zixuan, *Commentary on the Meaning of the Śūraṅgama*, T1799, fascicles 9–10: figuring the sequence of the five skandhas' dissolving from coarse toward fine as "the washing of a garment removes its dirt, the coarse first and the fine after" (浣衣去垢，先粗後細). Paraphrased; locus to be confirmed against CBETA.
+[^20]: Zixuan, *Commentary on the Meaning of the Śūraṅgama*, T39n1799, fasc. 9, 0950b06–08: figuring the sequence of the five skandhas' dissolving from coarse toward fine as "the washing of a garment removes its dirt, the coarse first and the fine after" (浣衣去垢，先粗後細). Paraphrased.
 
 [^21]: "Transitional appearance" follows Jiaoguang's sense of "opening for a moment, closing straightway" (see note 8): a state within concentration is the appearance of contemplative power momentarily prevailing over what a skandha has bound, opening and closing, and is no really-existing sagely realisation.
 
-[^22]: Zixuan, *Commentary on the Meaning of the Śūraṅgama*, T1799, fascicles 9–10: the failing of the by-path lies in concentration present but wisdom absent (定有而慧無, this paper's characterisation); its remedy is "to contemplate, with the markless wisdom, that the skandha-body has from the first never arisen" (用無相慧觀察陰體，本自不生). The bracketed remedy is quoted; locus to be confirmed against CBETA.
+[^22]: Zixuan, *Commentary on the Meaning of the Śūraṅgama*, T39n1799, fasc. 9, 0951a20–21: the failing of the by-path lies in concentration present but wisdom absent (定有而慧無, this paper's characterisation); its remedy is "to contemplate, with the markless wisdom, that the skandha-body has from the first never arisen" (用無相慧觀察陰體，本自不生). The bracketed remedy is quoted.
 
-[^23]: Jiaoguang, *Straight Path Commentary*, X0275, fascicles 9–10: he assigns the "understanding" of "if understood, there is no fault" to *vipaśyanā* and to luminous awareness (覺明), letting one "illumine the principle alone and heed nothing else" (但惟照理，一切不顧), so that one "about to fall" (將墜) is raised again. The gloss "luminous awareness just is contemplative wisdom" is this paper's rendering of his *vipaśyanā*-as-contemplation sense, not his verbatim wording. The bracketed Chinese phrases are quoted; loci to be confirmed against CBETA.
+[^23]: Jiaoguang, *Straight Path Commentary*, X12n0275, fasc. 9: he assigns the "understanding" of "if understood, there is no fault" to *vipaśyanā* and to luminous awareness (覺明), letting one "illumine the principle alone and heed nothing else" (但惟照理，一切不顧; 0445b14–15), so that one "about to fall" (將墜) is raised again (0456a21–22). The gloss "luminous awareness just is contemplative wisdom" is this paper's rendering of his *vipaśyanā*-as-contemplation sense, not his verbatim wording. The bracketed Chinese phrases are quoted.
 
 [^24]: See this volume's *prajñā* Part, *The Critique of Relishing the Taste of Concentration* (SAMADHI-P16) and *Mañjuśrī's Sword Cutting the Subtle Dharma-Attachment within Concentration* (SAMADHI-P17). The theory of *prajñā*'s critique of grasping within concentration is the home ground of that Part; this paper only makes it concrete as a skandha-by-skandha map of remedy, and does not restate the arguments on emptiness.
 
 [^25]: That "even the deepest concentration is ungraspable, and concentration must in the end turn back to *prajñā*" is the home ground of this volume's sealing paper (SAMADHI-P31), where the concentration-to-wisdom loop is closed. This paper's remedy, pointing toward *prajñā*, marks that direction of itself, but only marks it and does not unfold it.
 
-[^26]: Zixuan, *Commentary on the Meaning of the Śūraṅgama*, T1799, fasc. 10: the fifty states are "all by one name, deluded thinking" (同名一妄想); Jiaoguang, *Straight Path Commentary*, X0275, fasc. 10: "it is at root one deluded thinking, the coarse and manifest reaching its limit at the form-skandha, the fine and subtle at the consciousness-skandha" (本惟一妄想，但麤而著者極於色陰，細而微者極於識陰). Paraphrased, the bracketed phrases quoted; loci to be confirmed against CBETA.
+[^26]: Zixuan, *Commentary on the Meaning of the Śūraṅgama*, T39n1799, fasc. 10, 0965a23–26: the root-causes of the five skandhas "are alike deluded thinking" (同是妄想), and thus "all by one name, deluded thinking" (同名一妄想); Jiaoguang, *Straight Path Commentary*, X12n0275, fasc. 10, 0477b16–17: "it is at root one deluded thinking, the coarse and manifest reaching its limit at the form-skandha, the fine and subtle at the consciousness-skandha" (本惟一妄想，但麤而著者極於色陰，細而微者極於識陰). Paraphrased, the bracketed phrases quoted.
 
 [^27]: *Śūraṅgama-sūtra*, fasc. 10, T0945, p. 0155a04 (the line "generation arises rooted in consciousness, dissolution begins from form" at p. 0155a07–08): 「此五陰元重疊生起，生因識有，滅從色除。理則頓悟，乘悟併銷；事非頓除，因次第盡。」 Note: the base text reads "dissolution begins from **form**" (滅從色除), not "from consciousness" — the five skandhas arising in layered overlay, rooted in the innermost consciousness and dissolving from the outermost form, which alone accords with both "arise in layered overlay" and "exhausted in sequence." The graph is left as in the base text.
 
-[^28]: Jiaoguang, *Straight Path Commentary*, X0275, fasc. 10: the figure of "mistaking a stump for a ghost" (驚杌為鬼) — taking a withered stump for a ghost in the dark, the ghost-notion wholly dissolving once the matter is spoken through, figuring deluded thinking scattered by awakening. Paraphrased; locus to be confirmed against CBETA.
+[^28]: Jiaoguang, *Straight Path Commentary*, X12n0275, fasc. 10, 0478c09–10: the figure of "mistaking a stump for a ghost" (驚杌為鬼) — taking a withered stump for a ghost in the dark, the ghost-notion wholly dissolving once the matter is spoken through, figuring deluded thinking scattered by awakening. Paraphrased.
 
-[^29]: See this Part's first paper, *The Four Pure Precepts as the Antecedent of Concentration* (SAMADHI-P19): the canonical statement that the precept is the foundation of concentration, carried over by handoff from the preceding volume on the precepts.
+[^29]: See this Part's first paper, *The Four Pure Precepts as the Antecedent of Concentration* (SAMADHI-P19): the canonical statement that the precept is the foundation of concentration, carried forward from the preceding volume on the precepts.
 
-[^30]: Jared R. Lindahl, Nathan E. Fisher, David J. Cooper, Rochelle K. Rosen, and Willoughby B. Britton, "The Varieties of Contemplative Experience: A Mixed-Methods Study of Meditation-Related Challenges in Western Buddhists," *PLOS ONE* 12, no. 5 (2017): e0176239 — roughly a hundred interviewees, seven domains of experience, and a classification of fifty-some types of challenging experience. Cited by paraphrase only, for contrast; no original text is quoted.
+[^30]: Jared R. Lindahl, Nathan E. Fisher, David J. Cooper, Rochelle K. Rosen, and Willoughby B. Britton, "The Varieties of Contemplative Experience: A Mixed-Methods Study of Meditation-Related Challenges in Western Buddhists," *PLOS ONE* 12, no. 5 (2017): e0176239. The study reports 60 practitioner participants, interviews with 32 experts, and a taxonomy of 59 experiences across seven domains. Cited by paraphrase only, for contrast; no original text is quoted.
 
-[^31]: David L. McMahan, *The Making of Buddhist Modernism* (Oxford: Oxford University Press, 2008); Robert H. Sharf, "Buddhist Modernism and the Rhetoric of Meditative Experience," *Numen* 42, no. 3 (1995): 228–283 — the latter arguing that the term "meditative experience" is itself a rhetorical construction of modernism. Cited by paraphrase only, for contrast; no original text is quoted.
+[^31]: David L. McMahan, *The Making of Buddhist Modernism* (Oxford: Oxford University Press, 2008); Robert H. Sharf, "Buddhist Modernism and the Rhetoric of Meditative Experience," *Numen* 42, no. 3 (1995): 228–283. Both are cited for their critiques of modern interpretive frames, by paraphrase only and not as Buddhist doctrinal authorities.
 
-[^32]: David A. Palmer, *Qigong Fever: Body, Science, and Utopia in China* (New York: Columbia University Press, 2007), on "fire-deviation, entering the demonic" as a cultural category of the qigong era. Cited by paraphrase only, for contrast; no original text is quoted.
-
-[^33]: *The Śūraṅgama Sūtra: A New Translation*, trans. Buddhist Text Translation Society (Ukiah, CA: Buddhist Text Translation Society, 2009), editor's introduction, which calls the fifty states "a unique method of cataloguing and classifying spiritual experience." That volume's commentary in the lineage of Hsüan Hua is of a pastoral register (how to recognise and avoid); it is held here at arm's length and not drawn upon as an academic doctrinal typology.
+[^32]: David A. Palmer, *Qigong Fever: Body, Science, and Utopia in China* (New York: Columbia University Press, 2007), cited for historical context on the modern Chinese qigong movement. The comparison with the idiom 走火入魔 is this paper's own and is not presented as Palmer's terminology.
 
 [^34]: Leading toward this volume's Chan Part (opening from Bodhidharma's wall-gazing, SAMADHI-P22). The lineage sense of "Chan" first formally comes forth in that Part; this paper only marks its direction and does not unfold the Chan teaching of the non-duality of concentration and wisdom.
 
@@ -217,7 +219,7 @@ To construe it as sagehood is, in that very instant, to take the by-path.
 - Zixuan （子璿）， *Commentary on the Meaning of the Śūraṅgama* （首楞嚴義疏注經）， Taishō vol. 39, no. T1799. [Fascicles 9–10.]
 - Jiaoguang Zhenjian （交光真鑑）， *Commentary on the Straight Path of the Śūraṅgama* （楞嚴經正脉疏）， Xuzangjing （卍續藏） no. X0275. [Fascicles 9–10.]
 
-> Citations from the canon are collated against the CBETA Electronic Tripiṭaka; the fascicle and page loci of the commentarial citations are to be confirmed against CBETA.
+> Canonical and commentarial citations are collated against the CBETA Electronic Tripiṭaka; collation of the commentarial fascicle, page, and line loci is complete.
 
 ### II. Modern Scholarship
 
@@ -227,7 +229,6 @@ To construe it as sagehood is, in that very instant, to take the by-path.
 - McMahan, David L. *The Making of Buddhist Modernism.* Oxford: Oxford University Press, 2008.
 - Palmer, David A. *Qigong Fever: Body, Science, and Utopia in China.* New York: Columbia University Press, 2007.
 - Sharf, Robert H. "Buddhist Modernism and the Rhetoric of Meditative Experience." *Numen* 42, no. 3 (1995): 228–283.
-- *The Śūraṅgama Sūtra: A New Translation.* Translated by the Buddhist Text Translation Society. Ukiah, CA: Buddhist Text Translation Society, 2009.
 
 ### III. Sūtra & Śāstra Index
 
@@ -252,7 +253,7 @@ To construe it as sagehood is, in that very instant, to take the by-path.
 *Paper:* SAMADHI-P21 · *The Fifty Skandha-Māras as Meditation-Pitfalls* · **SAMĀDHI · Part VI · The Śūraṅgama**
 *Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates （六行門）
 *License:* CC BY-NC-SA 4.0
-*CBETA collation:* Citations from the *Śūraṅgama-sūtra* (T0945, Pāramiti, fascicles 9–10) and the commentaries of Zixuan (*Commentary on the Meaning of the Śūraṅgama*, T1799) and Jiaoguang Zhenjian (*Commentary on the Straight Path of the Śūraṅgama*, X0275) are verified against the CBETA Electronic Tripiṭaka. The fifty skandha-māras are presented here as a doctrinal map of concentration's by-paths — what each wrong turn is, and how the canon adjudicates it — and not as a clinical account of meditative danger; the author holds no clinical credentials and this is not a practice-safety manual. Each meditative state is in itself "a good state"; it becomes a māra only when *construed as sagehood* (作聖解). The demon "is but a guest": the rupture is caused by the deluded host of the five skandhas, not by an external pathology. Where CBETA reads "dissolution begins from form" (滅從色除), the graph is left as in the base text. Lindahl–Britton, McMahan, Sharf, Palmer, and the Buddhist Text Translation Society are cited by paraphrase only, for contrast, not doctrinal equation.
+*CBETA collation:* Citations from the *Śūraṅgama-sūtra* (T0945, Pāramiti, fascicles 9–10) and the commentaries of Zixuan (*Commentary on the Meaning of the Śūraṅgama*, T1799) and Jiaoguang Zhenjian (*Commentary on the Straight Path of the Śūraṅgama*, X0275) are verified against the CBETA Electronic Tripiṭaka; collation of the commentarial fascicle, page, and line loci is complete. The fifty skandha-māras are presented here as a doctrinal map of concentration's by-paths — what each wrong turn is, and how the canon adjudicates it — and not as a clinical account of meditative danger; the author holds no clinical credentials and this is not a practice-safety manual. Each meditative state is in itself "a good state"; it becomes a māra only when *construed as sagehood* (作聖解). The demon "is but a guest": the rupture is caused by the deluded host of the five skandhas, not by an external pathology. Where CBETA reads "dissolution begins from form" (滅從色除), the graph is left as in the base text. Lindahl–Britton, McMahan, Sharf, and Palmer are cited by paraphrase only, for contrast, not doctrinal equation.
 *Repository:* https://github.com/pointing-at-the-moon/six-practice-gates
 
 ---

@@ -2,14 +2,29 @@
 title: "Ekaggatā: Single-Pointedness and the Object-Structure Argument"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 4 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part I · Pāli Roots"
-series_short: "SILA"
-volume: 3
+series_short: "SĪLA"
+volume: 4
 paper_id: "SILA-P04"
 paper_number: 4
 part: "Part I · Pāli Roots"
 part_number: 1
 date: "2026-05-17"
 version: "1.0"
+canonical_source:
+  - "T01n0026"
+  - "T02n0099"
+  - "T25n1509"
+  - "T30n1579"
+  - "T31n1602"
+  - "T31n1605"
+  - "T31n1606"
+  - "T32n1648"
+  - "AN11.1"
+  - "AN11.11"
+  - "AN4.14"
+  - "AN6.10"
+  - "DN22"
+  - "MN10"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -106,7 +121,7 @@ The single graph that differs from Guṇabhadra's rendering — 靜 ("stilled, q
 
 The systematic abhidhammic framing of the partition belongs to the *Visuddhimagga*. Chapter III (*Kammaṭṭhāna-niddesa*, the exposition of meditation subjects) lays out the forty *kammaṭṭhāna* and surveys their classification along several axes, including the axis of which subjects admit access concentration only and which admit full absorption. Chapter IV (*Paṭhavī-kasiṇa-niddesa*, the exposition of the earth *kasiṇa*) gives the exemplary case for an absorption-admitting subject: a uniform earth disk, single in colour and texture, presented to the eye and then progressively interiorised through the three signs (the cognitive mechanism returned to in §V.2). Chapter VII §4 (*Sīlānussati-niddesa*, the exposition of the recollection of ethical conduct) gives the access-only verdict for the *sīla* recollection, with the two reasons P03 quoted: the depth of the virtues recollected and the inclination to recollect virtues of many kinds.
 
-A citation caveat is owed. The present author's working Pāli corpus does not include verbatim digital text for Chapters III and IV of the *Visuddhimagga* (the relevant GRETIL files carry a publication-restricted license and have not been embedded); the references in this paper are therefore made at chapter-section level — by chapter name and by the section heading from Ñāṇamoli's published English translation — without paragraph numbering. Paragraph-level citation is pending physical consultation with the Buddhist Publication Society's fourth edition of Ñāṇamoli's *The Path of Purification*; readers seeking that precision should consult Ñāṇamoli directly. The chapter-name citations as deployed below are sufficient to identify the textual locus without making philological claims the present working corpus cannot support.
+The references to Chapters III and IV of the *Visuddhimagga* are made at chapter-section level—by chapter name and by the section heading in Ñāṇamoli's English translation—without paragraph numbering. This identifies the textual locus without supplying uncollated paragraph-level precision.
 
 ### 2.4 Five further Pāli witnesses, cited but not quoted
 
@@ -281,15 +296,15 @@ The Chinese word 一心 — one-mind — has carried this paper's argument acros
 
 ## Footnotes
 
-[^1]: *Mahāsatipaṭṭhāna-sutta*, DN 22 §858–868, and the mirror passage in *Satipaṭṭhāna-sutta*, MN 10. Pāli text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 edition (public domain), collated against the local Pāli vault file (mirror passage), verification 17 May 2026.
+[^1]: *Mahāsatipaṭṭhāna-sutta*, DN 22 §858–868, and the mirror passage in *Satipaṭṭhāna-sutta*, MN 10. Pāli text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 edition (public domain), collated against a publication-safe digital copy of the mirror passage, verification 17 May 2026.
 
 [^2]: Sujato, Bhante, trans., DN 22, in *Long Discourses* (SuttaCentral, public-domain release). The mirror rendering for MN 10 is identical in the relevant phrase.
 
 [^3]: *Yogācārabhūmi-śāstra* (T1579), attributed to Maitreya and Asaṅga, trans. Xuanzang, *Taishō* vol. 30, fascicle 11. Collated against CBETA Electronic Tripiṭaka T30n1579.
 
-[^4]: *Mahānāmasutta*, AN 6.10 (PTS AN iii 285ff), with mirror at *Paṭhamamahānāma*, AN 11.11 (PTS AN v 328). Pāli text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 edition (public domain), collated against the local Pāli vault file (closing cascade) and the AN 11.11 mirror at lines 122–130, verification 17 May 2026. The same five-step ascending chain appears six times in the canonical pericope, once at the close of each of the six recollections; the cascade's structural significance for the canonical articulation of the path from ethical conduct to concentration was already adopted in P03 §IV and is here generalised. AN 4.14 (*Saṁvarasutta*) places the concentration-factor *samādhi-sambojjhaṅga* as the sixth of the seven awakening-factors, fixing one-pointedness as a structural component of the *bodhi-pakkhiya* architecture.
+[^4]: *Mahānāmasutta*, AN 6.10 (PTS AN iii 285ff), with mirror at *Paṭhamamahānāma*, AN 11.11 (PTS AN v 328). Pāli text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 edition (public domain), collated against publication-safe digital copies of the closing cascade and the AN 11.11 mirror passage, verification 17 May 2026. The same five-step ascending chain appears six times in the canonical pericope, once at the close of each of the six recollections; the cascade's structural significance for the canonical articulation of the path from ethical conduct to concentration was already adopted in P03 §IV and is here generalised. AN 4.14 (*Saṁvarasutta*) places the concentration-factor *samādhi-sambojjhaṅga* as the sixth of the seven awakening-factors, fixing one-pointedness as a structural component of the *bodhi-pakkhiya* architecture.
 
-[^5]: *Saṃyukta-āgama* (T0099), trans. Guṇabhadra, *Taishō* vol. 2. The five attested locations of the phrase 內淨一心 within Guṇabhadra's translation are: fascicle 14 lines 347–349 (Susīma dialogue); fascicle 17 lines 627–630 (food-and-no-food material on dependent arising); fascicle 18 lines 590–599 (Mahāmaudgalyāyana noble-silence episode); fascicle 21 line 597 (Citra householder petition); fascicle 31 line 86 (five-aggregates contemplation). All five collated against CBETA Electronic Tripiṭaka T02n0099 and the local vault files, verification 17 May 2026. Guṇabhadra's translation activity in the Liu-Song court is generally dated to the Yuanjia reign-period (元嘉, 424–453), with the *Saṃyukta-āgama* translation completed approximately 435–443 CE.
+[^5]: *Saṃyukta-āgama* (T0099), trans. Guṇabhadra, *Taishō* vol. 2. The five attested locations of the phrase 內淨一心 within Guṇabhadra's translation are: fascicle 14 lines 347–349 (Susīma dialogue); fascicle 17 lines 627–630 (food-and-no-food material on dependent arising); fascicle 18 lines 590–599 (Mahāmaudgalyāyana noble-silence episode); fascicle 21 line 597 (Citra householder petition); fascicle 31 line 86 (five-aggregates contemplation). All five collated against CBETA Electronic Tripiṭaka T02n0099, verification 17 May 2026. Guṇabhadra's translation activity in the Liu-Song court is generally dated to the Yuanjia reign-period (元嘉, 424–453), with the *Saṃyukta-āgama* translation completed approximately 435–443 CE.
 
 [^6]: *Madhyama Āgama* (T0026), trans. Saṅghadeva, *Taishō* vol. 1, fascicle 25. Collated against CBETA Electronic Tripiṭaka T01n0026. Saṅghadeva's translation activity in the Eastern Jin period is dated to the Taiyuan reign-period (太元, 376–397), with the *Madhyama Āgama* translation completed approximately 397–398 CE.
 
@@ -307,7 +322,7 @@ The Chinese word 一心 — one-mind — has carried this paper's argument acros
 
 [^13]: *Mahāprajñāpāramitā-śāstra* (T1509), attributed to Nāgārjuna, trans. Kumārajīva, *Taishō* vol. 25, fascicle 13. Collated against CBETA T25n1509. Kumārajīva's translation activity in Chang'an under the Later Qin court is dated to 401–413 CE. The chain reproduces, link for link, the eleven-fold canonical sequence of AN 11.1 (*Kimatthiyasutta*): *sīla* → *avippaṭisāra* → *pāmojja* → *pīti* / *passaddhi* (folded by Kumārajīva into 喜樂) → *sukha* → *samādhi* (rendered 一心) → *yathābhūta-ñāṇa* (rendered 實智) → *nibbidā* → *virāga* → *vimutti* → *nibbāna*. The chain stands approximately one and a half centuries earlier than Xuanzang's seventh-century standardisation of 心一境性 and witnesses the structural identity of the doctrine across Mādhyamika and Yogācāra translation venues.
 
-[^14]: The three-stage progression of signs — *parikamma-nimitta* (preparatory sign), *uggaha-nimitta* (acquired sign), and *paṭibhāga-nimitta* (counterpart sign) — is laid out at *Visuddhimagga* Chapter IV in the exposition of the earth *kasiṇa*. The present paper cites by chapter-section name rather than by paragraph number: the relevant exposition is in the section on the progression of the meditation sign within the earth *kasiṇa* chapter. Paragraph-level citation pending physical-text consultation with Bhikkhu Ñāṇamoli's English translation, *The Path of Purification* (Buddhist Publication Society, 4th ed., 1979). The terminology of the three stages is Buddhaghosa's; the underlying structural intuition, that the mental image is progressively refined from a perceptually-grounded representation to a luminous and feature-free mental form, is already implicit in the canonical four-*jhāna* pericope's description of the second-*jhāna* "mind at one." The exposition is paraphrased rather than directly quoted on account of the GRETIL Pāli text's publication-restricted licence; the underlying Pāli terminology is preserved here in italicised form.
+[^14]: The three-stage progression of signs — *parikamma-nimitta* (preparatory sign), *uggaha-nimitta* (acquired sign), and *paṭibhāga-nimitta* (counterpart sign) — is laid out in *Visuddhimagga* Chapter IV, in the exposition of the earth *kasiṇa*. This paper cites by chapter-section name rather than by paragraph number. The terminology of the three stages is Buddhaghosa's; the exposition is paraphrased rather than directly quoted.
 
 [^15]: *Saṃyukta-āgama* (T0099), trans. Guṇabhadra, *Taishō* vol. 2, fascicle 26, sūtra 647. The Pāli parallel is *Saṃyutta Nikāya* 48.10 (PTS SN v 197), cited here by PTS reference only on the same grounds noted at footnote [^7]; the abstract-factor definition of the concentration-faculty as *cittass'ekaggatā* is well-attested across Pāli abhidhammic literature. The two formulations — one experiential, one analytic — are not in contradiction; they are two complementary canonical strategies for defining the concentration-faculty, witnessing the underlying doctrinal content from two structurally different angles.
 
@@ -329,7 +344,7 @@ The Chinese word 一心 — one-mind — has carried this paper's argument acros
 - *Kimatthiyasutta*, AN 11.1 (PTS AN v 1–2). Mahāsaṅgīti Tipiṭaka public-domain edition.
 - *Paṭhamamahānāma*, AN 11.11 (PTS AN v 328). Mahāsaṅgīti Tipiṭaka public-domain edition.
 - Sujato, Bhante, trans. *Long Discourses (Dīgha Nikāya)*, *Middle Discourses (Majjhima Nikāya)*, and *Numbered Discourses (Aṅguttara Nikāya)*. SuttaCentral, public domain.
-- Buddhaghosa. *Visuddhimagga*, Chapter III *Kammaṭṭhāna-niddesa*, Chapter IV *Paṭhavī-kasiṇa-niddesa*, and Chapter VII §4 *Sīlānussati-niddesa*. Cited by paraphrase via Ñāṇamoli's translation (below); chapter-section citation only, paragraph numbering pending physical consultation with the BPS edition.
+- Buddhaghosa. *Visuddhimagga*, Chapter III *Kammaṭṭhāna-niddesa*, Chapter IV *Paṭhavī-kasiṇa-niddesa*, and Chapter VII §4 *Sīlānussati-niddesa*. Cited by paraphrase via Ñāṇamoli's translation; chapter-section citation only.
 - 求那跋陀羅 (Guṇabhadra), trans. *Saṃyukta-āgama* (T0099). *Taishō* vol. 2. CBETA Electronic Tripiṭaka.
 - 瞿曇僧伽提婆 (Saṅghadeva), trans. *Madhyama Āgama* (T0026). *Taishō* vol. 1. CBETA Electronic Tripiṭaka.
 - 鳩摩羅什 (Kumārajīva), trans. *Mahāprajñāpāramitā-śāstra* (T1509), attributed to Nāgārjuna. *Taishō* vol. 25. CBETA Electronic Tripiṭaka.
@@ -375,9 +390,9 @@ The Chinese word 一心 — one-mind — has carried this paper's argument acros
 
 ### Within-Volume Forward Links
 
-- **SILA Part II** (forthcoming; P05 *The Eightfold Path's Three Ethical Limbs*) — Part I's four-paper foundation closes here; Part II opens with the three ethical limbs of the noble eightfold path (*sammā-vācā*, *sammā-kammanta*, *sammā-ājīva*) read as path-elements rather than as constraint-list.
-- **SILA Parts IV–V** (forthcoming; the three pure precepts of the Mahāyāna and the precept-substance question) — the present paper's object-structure argument supplies the Pāli-side analytical foundation on which the later Mahāyāna interiorisation of *sīla* and the Chinese precept-substance ontology will build.
-- **SILA Part VI** (forthcoming; the twelve great vows of Bhaiṣajyaguru) — the universal-realisation constraint articulated here is one of the structural modes within which the support-conditions for ethical conduct in the Bhaiṣajyaguru material are to be read.
+- **SILA Part II** (P05 *The Eightfold Path's Three Ethical Limbs*) — Part I's four-paper foundation closes here; Part II opens with the three ethical limbs of the noble eightfold path (*sammā-vācā*, *sammā-kammanta*, *sammā-ājīva*) read as path-elements rather than as constraint-list.
+- **SILA Parts IV–V** (the three pure precepts of the Mahāyāna and the precept-substance question) — the present paper's object-structure argument supplies the Pāli-side analytical foundation on which the later Mahāyāna interiorisation of *sīla* and the Chinese precept-substance ontology will build.
+- **SILA Part VI** (the twelve great vows of Bhaiṣajyaguru) — the universal-realisation constraint articulated here is one of the structural modes within which the support-conditions for ethical conduct in the Bhaiṣajyaguru material are to be read.
 
 ### Cross-Volume Forward Links
 
@@ -393,5 +408,5 @@ The present paper does not advance any Octalogy-side argument; the Octalogy is s
 *Paper:* SILA-P04 · *Ekaggatā*: Single-Pointedness and the Object-Structure Argument · **SĪLA · Part I · Pāli Roots**
 *Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates （六行門）
 *License:* CC BY-NC-SA 4.0
-*CBETA collation:* Citations from the *Saṃyukta Āgama* (T0099), the *Madhyama Āgama* (T0026), the *Mahāprajñāpāramitā-śāstra* (T1509, fascicle 13), the *Yogācārabhūmi-śāstra* (T1579, fascicle 11), the *Prakaraṇāryavācā-śāstra* (T1602, fascicle 19), the *Abhidharma-samuccaya* (T1605, fascicle 5), the *Abhidharma-samuccaya-vyākhyā* (T1606, fascicle 9), and the *Vimuttimagga* (T1648, fascicle 1) have been collated against the CBETA Electronic Tripiṭaka 2024 edition. Pāli citations follow the SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 edition (DN 22, MN 10, AN 6.10, AN 11.1), with PTS pagination dual-tracked. *Visuddhimagga* Chapters III, IV, and VII are cited at chapter-section level only; paragraph numbering pending physical consultation with the Bhikkhu Ñāṇamoli BPS edition. The original Pāli of the *Visuddhimagga* is held by the GRETIL repository under a publication-restricted licence and is not embedded here.
+*CBETA collation:* Citations from the *Saṃyukta Āgama* (T0099), the *Madhyama Āgama* (T0026), the *Mahāprajñāpāramitā-śāstra* (T1509, fascicle 13), the *Yogācārabhūmi-śāstra* (T1579, fascicle 11), the *Prakaraṇāryavācā-śāstra* (T1602, fascicle 19), the *Abhidharma-samuccaya* (T1605, fascicle 5), the *Abhidharma-samuccaya-vyākhyā* (T1606, fascicle 9), and the *Vimuttimagga* (T1648, fascicle 1) have been collated against the CBETA Electronic Tripiṭaka 2024 edition. Pāli citations follow the SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 edition (DN 22, MN 10, AN 6.10, AN 11.1), with PTS pagination dual-tracked. *Visuddhimagga* Chapters III, IV, and VII are cited at chapter-section level only, without uncollated paragraph numbers.
 *Repository:* https://github.com/pointing-at-the-moon/six-practice-gates

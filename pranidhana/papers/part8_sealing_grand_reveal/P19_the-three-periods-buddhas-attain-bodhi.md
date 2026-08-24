@@ -1,16 +1,21 @@
 ---
 title: "The Three Periods' Buddhas Attain Bodhi: Vow as the Completion of the Heart Sūtra"
 title_en: "The Three Periods' Buddhas Attain Bodhi: Vow as the Completion of the Heart Sūtra"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 6 — PRAṆIDHĀNA: Aspiration and the Vow, from Pāli Roots to Samantabhadra · Part VIII · The Sealing: Attainment of Bodhi & the Grand Reveal"
-series_short: PRAṆIDHĀNA
+series_short: "PRAṆIDHĀNA"
 volume: 6
-paper_id: PRANIDHANA-P19
+paper_id: "PRANIDHANA-P19"
 paper_number: 19
-part: Part VIII · The Sealing: Attainment of Bodhi & the Grand Reveal
+part: "Part VIII · The Sealing: Attainment of Bodhi & the Grand Reveal"
 part_number: 8
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T08n0251"
+  - "T10n0279"
+  - "T25n1509"
+  - "T33n1712"
 license: CC BY-NC-SA 4.0
 ---
 

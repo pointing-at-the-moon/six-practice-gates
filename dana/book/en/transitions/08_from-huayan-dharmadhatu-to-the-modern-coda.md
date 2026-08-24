@@ -1,6 +1,6 @@
 ## Transition ⑧ · From the Huayan Dharma-Realm to the Modern Age, and the Coda
 
-Part Eight has walked up to the words "the Dharma itself is giving," and stopped. The page is about to turn.
+Part Eight has walked up to this book's Huayan synthesis—"the Dharma itself is giving"—and stopped. The page is about to turn.
 
 This middle page is a breath—the last one this book will catch.
 
@@ -8,7 +8,7 @@ By now, the long road the book's title names—from Pāli roots to the dharmadh�
 
 Let us turn back one last time and look over the ground we have covered.
 
-The starting point was that plainest Pāli word, letting-go. A busy householder, in his heart, loosened the hand clenched around "mine"—gently, just a little (Part One). Then the hand reached into the human world—why we give, to whom, what is received here and now (Part Two); it was kept by the Vinaya as a field of merit no one can own privately, able to last a thousand autumns (Part Three); in the Mahāyāna, even the "I who is giving" came loose—loosened to "not abiding in marks," to "seeing that the five skandhas are all empty" (Parts Four and Five); from the reverse side of not-taking, we saw its other face (Part Six); in the *Lotus*, it was pushed to the utmost of offering even the body—and in that fire, what burned was the "I" (Part Seven); and at the last, in the *Huayan*, it was stretched open into an offering that fills the dharma-realm, thought after thought unbroken—stretched until Samantabhadra said it outright: the Dharma itself is giving (Part Eight).
+The starting point was that plainest Pāli word, letting-go. A busy householder, in his heart, loosened the hand clenched around "mine"—gently, just a little (Part One). Then the hand reached into the human world—why we give, to whom, what is received here and now (Part Two); it was kept by the Vinaya as a field of merit no one can own privately, able to last a thousand autumns (Part Three); in the Mahāyāna, even the "I who is giving" came loose—loosened to "not abiding in marks," to "seeing that the five skandhas are all empty" (Parts Four and Five); from the reverse side of not-taking, we saw its other face (Part Six); in the *Lotus*, it was pushed to the utmost of offering even the body—and in that fire, what burned was the "I" (Part Seven); and at the last, in the *Huayan*, it was stretched open into an offering that fills the dharma-realm, thought after thought unbroken. Samantabhadra traces his ocean of dharma to relinquishing, and this book reads the passage together with Fazang's mutual inclusion as "the Dharma itself is giving" (Part Eight).
 
 One hand, loosened and loosened again, loosened and loosened again. From one small loosening inside one person's heart, it loosened into the whole dharma-realm.
 

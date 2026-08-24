@@ -10,6 +10,13 @@ part: Part II · The Āgama View
 part_number: 2
 date: 2026-06-01
 version: "1.0"
+canonical_source:
+  - "T01n0026"
+  - "T02n0099"
+  - "T27n1545"
+  - "T28n1546"
+  - "T29n1558"
+  - "DN22"
 license: CC BY-NC-SA 4.0
 ---
 
@@ -134,17 +141,7 @@ Higher virtue, higher mind, higher wisdom — the sequence of virtue, concentrat
 
 ---
 
-## VI. A Conversation with Three Modern Voices, and the Redlines Restated
-
-Set this discussion back into the present, and the dispute over "whether realizing the noble fruit requires jhāna at all" remains the entrance one cannot get around. Some contemporary insight and mindfulness movements hold that bare insight need not depend on the four jhānas; others insist that without jhāna there is no entering the stream — and the dispute itself already presupposes the very premise this chapter questions: it frames the matter as "whether concentration is needed, and how deep," rather than "where concentration is placed." What this chapter means to do is to take this question of "how much / how deep" and restore it first to a question of "where it stands."
-
-The scholar Tilmann Vetter has proposed that early Buddhism in fact contains two paths to liberation, only later harmonized: one centered on concentration, taking the four jhānas as themselves bearing the power of transformation; one centered on discriminating wisdom (the four truths, insight-wisdom). The former, on his reckoning, may be the older and the closer to the core. This proposal strikes straight at the question "is jhāna needed," and this chapter receives one half of it. Vetter is right that the discourses do not speak in one voice: there is indeed a stratum that regards jhāna as far from a preparatory technique, and as transformative in itself. This very point dissolves the first disqualification named at the outset (taking jhāna for a dispensable accessory, a mere settling of the mind).
-
-But the two-paths thesis, taken as a license, slides all too easily into the third disqualification: "since the meditative absorptions are themselves an autonomous path to liberation, why not simply cultivate them in isolation?" Here the chapter must gently narrow. Even within that concentration-weighted stratum of the discourses, jhāna is still "born from the path and ending in the three knowledges" — it is never described as arriving at the far shore on its own, apart from the whole path. More to the point, what Vetter treats is a diachronic question (which path is historically the older), whereas this chapter treats a synchronic one (within the received, already-formed shape of the noble eightfold path, jhāna is called right concentration only as the eighth factor, held up by the seven). The two are orthogonal and do not adjudicate one another: this chapter need not settle whether Vetter's historical hypothesis holds in order to establish its own point — for however old or central jhāna may be historically, once it is woven into the noble eightfold path it is called "*right*" concentration only in the role of the "eighth factor," under the support of the seven.
-
-Bhikkhu Bodhi's handling resolves this tangle most cleanly. He divides right concentration into two grades: mundane right concentration (the four jhānas cultivated by the worldling, bearing fruit in the form realm) and supramundane right concentration (the same sitting of concentration, associated at the path-moment with right view of the four truths and facing toward nibbāna). The difference between the two lies not in the depth of the absorption but in the orientation of cognition: facing a good destination, or facing nibbāna. This is exactly the classical Theravāda commentarial dress of section IV's Sarvāstivāda "same four jhānas, two functions," and the chapter receives it whole — it turns the *Saṃyukta Āgama*'s face of "direction" into a clean soteriology.[^13]
-
-And aiming this soteriological two-grade structure back at the present throws into relief two of the most common disqualifications today. The first takes concentration for a tool of emotional regulation and performance enhancement — seeking a quiet, a focus, to cope with life, with no question asked of what direction this concentration faces or to what it is tied. The second uses concentration to avoid what ought to be faced, treating absorption as a refuge where, for a time, one need not deal with one's afflictions and relationships. The two look opposite — one worldly and seeking use, one world-fleeing and seeking escape — yet at bottom they commit the same error: both mistake a question of "orientation" for a question of "depth" or "use," and so, however well concentration is cultivated, stay always on that face of "state," never turning to the face of "direction." The remedy lies not in cultivating concentration deeper, but in asking a prior question: not how deep this concentration is, but to what it is tied, and which way it faces.[^14]
+## VI. Redlines and Conclusion
 
 Having come this far, the chapter can fold back to several redlines this volume has kept all along. Mindfulness (treated in the previous volume, *Mindfulness*) is not concentration; mindfulness-in-concentration is not mindfulness in the sense of the four foundations of mindfulness; the deeper the concentration is not the nearer to liberation; and this chapter adds one more — right concentration is not an isolated technique; it requires the support of the seven factors. These four redlines are in fact one and the same principle echoing through different chapters: the worth of concentration is never in some measure of its own, but in its relation to the whole of the path.
 
@@ -180,10 +177,6 @@ To gather it up, the findings of this chapter divide into three layers. Its esse
 
 [^12]: *Saṃyukta Āgama*, fascicle 29, discourse 817, Taishō vol. 2, No. T0099 (T02, p0210a24–a29; broadly corresponding to a cluster of discourses in the Threes of the *Aṅguttara Nikāya*, approximately AN 3.88–89). The higher-mind training has the four jhānas for its content; the sequence higher-virtue → higher-mind → higher-wisdom is the order of the three trainings.
 
-[^13]: See Bhikkhu Bodhi's commentary on the mundane / supramundane treatment of each factor in the *Mahācattārīsaka*, and his exposition of the noble eightfold path; his two-grade division of right concentration rests on the orientation of right concentration as associated, at the path-moment, with right view of the four truths, not on the depth of the absorption — verify position, no invented pages. See also Rupert Gethin, *The Buddhist Path to Awakening* (1992), reading the thirty-seven factors of awakening as a mutually conditioned organism in which concentration and wisdom co-arise; this chapter's "fruit of seven supports" (section III) takes that reading for its structural scaffolding (a friendly authority, engaged on published scholarship; pages to be verified).
-
-[^14]: A further position: Keren Arbel, *Early Buddhist Meditation*, holds that the four jhānas are the actualization of insight, which would dissolve the disqualification of "isolated cultivation" from within; but her strong identity-thesis risks dissolving the very distinction between "right concentration" and "concentration" this chapter needs, and so the chapter draws on it only to deny a "dull, trance-like jhāna," then pushes back to the requirement of seven-factor integration. This remains contested, presented as a position-in-debate, not a settled conclusion (verify position).
-
 ---
 
 ## References
@@ -206,12 +199,6 @@ To gather it up, the findings of this chapter divide into three layers. Its esse
 
 ### Modern Scholarship
 
-> Publication details for the Western works below await final verification; the body takes only the gist of each position and quotes none of them verbatim.
-
-- Bodhi, Bhikkhu. Commentary and exposition on the mundane / supramundane factors of the noble eightfold path, including the two grades of right concentration. (Positions to be verified against the originals.)
-- Vetter, Tilmann. *The Ideas and Meditative Practices of Early Buddhism*. (The two paths to liberation in early Buddhism; positions to be verified.)
-- Gethin, Rupert. *The Buddhist Path to Awakening*, 1992. (The thirty-seven factors as a mutually conditioned organism; pages and editions to be verified.)
-- Arbel, Keren. *Early Buddhist Meditation: The Four Jhānas as the Actualization of Insight*. (Contested identity-thesis, engaged as a sharpening foil; positions to be verified.)
 - Sharf, Robert. "Buddhist Modernism and the Rhetoric of Meditative Experience." *Numen* 42(3): 228–283, 1995.
 
 ---

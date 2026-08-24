@@ -10,6 +10,16 @@ part: "Part III · Early Mahāyāna Vision"
 part_number: 3
 date: "2026-04-17"
 version: "1.0"
+canonical_source:
+  - "T08n0232"
+  - "T11n0313"
+  - "T12n0360"
+  - "T12n0361"
+  - "T12n0362"
+  - "T12n0365"
+  - "T12n0366"
+  - "T13n0418"
+  - "T37n1753"
 license: "CC BY-NC-SA 4.0"
 ---
 

@@ -10,6 +10,26 @@ part: "Part V · Non-Abiding Giving in the Prajñāpāramitā Tradition"
 part_number: 5
 date: "2026-05-10"
 version: "1.0"
+canonical_source:
+  - "T01n0001"
+  - "T01n0026"
+  - "T02n0099"
+  - "T02n0100"
+  - "T02n0125"
+  - "T03n0152"
+  - "T07n0220c"
+  - "T08n0235"
+  - "T08n0250"
+  - "T08n0251"
+  - "T08n0252"
+  - "T08n0253"
+  - "T08n0254"
+  - "T08n0255"
+  - "T08n0257"
+  - "T25n1509"
+  - "T33n1710"
+  - "T33n1712"
+  - "SN55.39"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -106,7 +126,7 @@ Understanding this cross-textual consensus, the Heart Sūtra's silence reveals i
 
 ## II. The Map of Absence: From the Great Text to the Heart Sūtra
 
-### II.1 Ten Translation Scan: Silence as Cross-Version Structural Feature
+### II.1 Seven Chinese-Recension Scan: Silence Across the Checked Witnesses
 
 Before interpretation, let us establish facts.
 
@@ -114,23 +134,23 @@ Seven doctrinal recensions (T0250-T0255, T0257) of the Chinese Heart Sūtra tran
 
 - T0250 (Kumārajīva, Later Qin): No "giving"
 - T0251 (Xuanzang, Tang): No "giving"
-- T0252 (Facheng, Tubo/Tibetan): No "giving"
-- T0253 (Prajñā, Song): No "giving"
-- T0254 (Yijing, Tang): No "giving"
-- T0255 (Xuanfayi, Sui): No "giving"
-- T0257 (Bodhiruci, Tang): No "giving"
+- T0252 (retranslated by Fayue, Tang): No "giving"
+- T0253 (translated by Prajñā with Liyan and others, Tang): No "giving"
+- T0254 (translated by Zhihuilun, Tang): No "giving"
+- T0255 (translated by Facheng, Tang): No "giving"
+- T0257 (translated by Dānapāla, Song): No "giving"
 
-The absence is comprehensive, cross-version, and cross-translator--from Kumārajīva (Later Qin) to Yijing (Tang), from Faxiang (Tibetan) to Prajñā (Song), silence is the structural feature of the entire text tradition.
+Across these seven Chinese records, the absence is consistent across versions and attributed translators—from Kumārajīva (Later Qin) to Dānapāla (Song), and across the Tang versions attributed to Fayue, Prajñā with Liyan and others, Zhihuilun, and Facheng. The checked result establishes a shared structural feature of these seven Chinese witnesses; it does not by itself establish the whole Heart Sūtra textual tradition.
 
-This is not the choice of individual translators. If one translator thought giving was unimportant for the Heart Sūtra, that would be a personal judgment; but seven translators, spanning centuries of independent translation, all similarly excluded giving from the Heart Sūtra--silence is the Heart Sūtra text's own structure.
+The scan also cannot determine whether the absence arose independently in each translation record. What it establishes is narrower: none of the seven checked Chinese doctrinal recensions makes giving explicit in its body text, so no claim about giving in the Heart Sūtra should be presented as a verbatim statement from these witnesses.
 
-Further: if the Heart Sūtra originated from the Indian tradition, this silence continues the Indian prajñāpāramitā literature's "unsaid" on giving. If the Heart Sūtra is Chinese-composed (see §IV.1), then this silence is Chinese Buddhism's theological judgment on the essence of prajñā. In either case, silence is structural.
+These seven Chinese witnesses alone do not decide the text's origin debate (see §IV.1). Under either an Indian-origin or Chinese-composition account, the observed absence remains a feature of the checked Chinese recensions; any larger historical explanation must be marked as interpretation rather than textual fact.
 
 ### II.2 Great Text Has Giving, Heart Sūtra Doesn't: Adaptation to Context
 
 Faced with the same core meaning (five skandhas are empty, twelve āyatanas and eighteen dhātus are empty, no cognition and no attainment), why does the Great Text have giving while the Heart Sūtra doesn't?
 
-Fazang (T1712) proposed the principle of "adaptation to context" (廣略隨緣) in his *Heart Sūtra Commentary*: "If detailed account of each matter, words would exceed two hundred thousand verses; if extracting the essence, **truth is contained in fourteen lines**."[^6] The六百卷 Great Prajñāpāramitā and the fourteen-line Heart Sūtra are not contradictory--they are different expansions of the same meaning in different contexts.
+Fazang (T1712) proposed the principle of "adaptation to context" (廣略隨緣) in his *Brief Commentary on the Heart Sūtra*: "If detailed account of each matter, words would exceed two hundred thousand verses; if extracting the essence, **truth is contained in fourteen lines**."[^6] The six-hundred-fascicle *Great Prajñāpāramitā* and the fourteen-line *Heart Sūtra* are not contradictory—they are different expansions of the same meaning in different contexts.
 
 "Adaptation to context" means: the Great Text (all six pāramitās present) is the extensive teaching; the Heart Sūtra (pure prajñā) is the compressed teaching. Compressed does not negate extensive--it chooses the most essential part. The Heart Sūtra chose prajñā, not because the other five pāramitās are unimportant, but because prajñā has the capacity of comprehensively including all.
 
@@ -244,7 +264,7 @@ This means: although the Heart Sūtra doesn't mention giving in its body, in the
 
 ---
 
-## IV. Cross-Textual Dialogue: Three Western Readings
+## IV. Cross-Textual Dialogue: Two Western Readings
 
 ### IV.1 Nattier: The Chinese-Composition Hypothesis -- Silence as Theological Choice
 
@@ -258,23 +278,9 @@ This carries a deeper consideration: if Nattier is correct, it actually strength
 
 But even if Nattier is correct, P16's analysis remains valid--because even if the Heart Sūtra is Chinese-composed, its compiler uses the vocabulary and structure of the Great Prajñāpāramitā repository. Its structural choice (taking only prajñā, comprehensively expressing the six pāramitās) still reflects the theological judgment on prajñāpāramitā's essence at that time. Whether the Heart Sūtra originates from India or China, **the theology of silence** is the same phenomenon: choosing not to speak is itself speaking.
 
-### IV.2 Sharf: The Heart Sūtra as Liturgical Text -- Giving's Performative Presence
+### IV.2 Conze / Red Pine: The Traditional Prajñā Reading -- Prajñā Includes the Six Pāramitās
 
-Robert Sharf's recent research emphasizes the Heart Sūtra as a **liturgical text**--the Heart Sūtra is primarily used in ritual recitation, not read as a doctrinal treatise.[^13]
-
-This perspective provides an unexpected supplement to P16: reciting the Heart Sūtra itself is a form of **dharma-dāna** (dharma-giving)--giving is not in the Heart Sūtra's text, but is cashed out in the performative behavior of the text. When a monk chants the Heart Sūtra and dedicates it to all beings, he is practicing giving--not in the text, but in the behavior.
-
-Sharf's position produces a reversal on "giving's absence": giving is not omitted, but transferred to the text's "form of use." What is not said in text is said in behavior.
-
-This reversal's power lies in revealing another dimension of giving: giving is not only giving material goods or teaching dharma, but **using textual performance as giving**. The moment the Heart Sūtra is chanted, giving is already happening--not in the words, but in the chanting.
-
-But this reversal also carries risk: the liturgical reading may hollow out the theology of giving. Chanting the Heart Sūtra as dharma-giving is not the same as practicing giving--the former is symbolic, the latter is real. If one responds to P16's question merely with "chanting equals giving," one may overlook giving's true difficulty--not just speaking of giving, but actually giving.
-
-Further: Sharf's liturgical reading and P16's core thesis (comprehensive expression) form an interesting correspondence: both arrive at the conclusion that "giving is present but unsaid" from different levels. Sharf arrives from the ritual-behavior level; Kuiji arrives from the textual-structure level. The convergence of the two suggests: the Heart Sūtra's theology of giving is not a single interpretive possibility, but a multi-layered presence--absent at the textual level, present at the ritual level, present at the structural level.
-
-### IV.3 Conze / Red Pine: The Traditional Prajñā Reading -- Prajñā Includes the Six Pāramitās
-
-Edward Conze's English translation of the Heart Sūtra (1958) and Red Pine's commentary continue the traditional position: prajñāpāramitā itself contains all pāramitās.[^14] This position is consistent with Kuiji's Tang commentary tradition of "comprehensive expression," providing a cross-cultural comparison between Eastern and Western interpretations for P16.
+Edward Conze's English translation of the Heart Sūtra (1958) and Red Pine's commentary continue the traditional position: prajñāpāramitā itself contains all pāramitās.[^13] This position is consistent with Kuiji's Tang commentary tradition of "comprehensive expression," providing a cross-cultural comparison between Eastern and Western interpretations for P16.
 
 Conze and Red Pine's position has had profound influence in both East and West--their reading made Western readers naturally accept the "prajñā includes the six pāramitās" interpretive tradition. But the deep logic of this tradition is: prajñā is not a pāramitā that stands "side by side" with the other five, but the **enabling condition** that makes the other five pāramitās pāramitās. Conze and Red Pine may not have explicitly articulated this logic, but their translations and commentaries implicitly assume it.
 
@@ -310,10 +316,6 @@ Correction: "Non-attainment" is not not-giving, but giving without grasping. The
 
 Correction: Nattier's Chinese-composition hypothesis is a text-history hypothesis; it does not affect the doctrinal analysis of the Heart Sūtra text itself. Even if the Heart Sūtra is Chinese-composed, its textual structure and doctrinal depth still merit analysis--the Heart Sūtra's silence itself is an intentional theological choice.
 
-### ⚠️ "Sharf's Liturgical Reading Hollows Out the Theology of Giving into Performance"
-
-Correction: Sharf revealed giving's "performative presence" (giving is cashed out in chanting behavior), but one cannot conclude from this that "chanting the Heart Sūtra equals completing giving." Giving's practical depth is not in performance but in actual giving. The liturgical reading supplements the theology of giving but cannot replace it.
-
 ---
 
 ## VI. Conclusion: Three-Layer Summary and Open Questions
@@ -334,7 +336,7 @@ The structure of the two paradoxes is also worth noting: P15's paradox is "becau
 
 ### VI.3 Open Questions: Toward P17
 
-What is the cost of silence? The Heart Sūtra subsumes the six pāramitās under the name of "prajñā," but is this subsumption intelligible to readers without the six pāramitās' cultivation foundation? When the Heart Sūtra names only "prajñā" and silences the other five, readers lacking background knowledge may mistakenly think prajñā can replace everything--this is precisely Sharf's warned risk.
+What is the cost of silence? The Heart Sūtra subsumes the six pāramitās under the name of "prajñā," but is this subsumption intelligible to readers without the six pāramitās' cultivation foundation? When the Heart Sūtra names only "prajñā" and silences the other five, readers lacking background knowledge may mistakenly think prajñā can replace everything.
 
 P17's question is: the Great Prajñāpāramitā (T0220), in six hundred volumes, has both giving's theory (far richer than the Heart Sūtra) and the Heart Sūtra's own emptiness language--how does this "extensive text" handle the co-presence of giving and emptiness? When all six pāramitās are complete, what is the relationship between giving and prajñā? When the six pāramitās are compressed into one, is giving truly subsumed, or drowned out?
 
@@ -342,33 +344,31 @@ P17's question is: the Great Prajñāpāramitā (T0220), in six hundred volumes,
 
 ## footnotes
 
-[^1]: *Prajñāpāramitā Hṛdaya Sūtra Profound Commentary*, Kuiji, CBETA T33n1710, vol. 2. T33, 0540b24. "為求菩薩者說應六波羅蜜多法，唯言無智、得，總合說故." Verified 2026-05-10.
+[^1]: *Prajñāpāramitā Hṛdaya Sūtra Profound Commentary*, Kuiji, CBETA T33n1710, vol. 2. T33, 0540b24. "為求菩薩者說應六波羅蜜多法，唯言無智、得，總合說故."
 
-[^2]: *Dirgha-āgama* vol. 9, "信財、戒財、慚財、愧財、聞財、施財、慧財，為七財." CBETA T0001, vol. 009. Verified 2026-05-10.
+[^2]: *Dirgha-āgama* vol. 9, "信財、戒財、慚財、愧財、聞財、施財、慧財，為七財." CBETA T0001, vol. 009.
 
-[^3]: *Madhya-āgama* vol. 21, "信財、戒財、慚財、愧財、聞財、施財，成就慧財者，比丘當知." CBETA T0026, vol. 021. Verified 2026-05-10.
+[^3]: *Madhya-āgama* vol. 21, "信財、戒財、慚財、愧財、聞財、施財，成就慧財者，比丘當知." CBETA T0026, vol. 021.
 
-[^4]: *Chiliastikon* (六度集經) vol. 1, "何謂為六？一曰布施，二曰持戒，三曰忍辱，四曰精進，五曰禪定，六曰明度無極高行." CBETA T03n0152, vol. 01, T03 0001a10-0001a13. Chapter heading: "布施度無極章第一" (T03, 0001a06). Verified 2026-05-10.
+[^4]: *Chiliastikon* (六度集經) vol. 1, "何謂為六？一曰布施，二曰持戒，三曰忍辱，四曰精進，五曰禪定，六曰明度無極高行." CBETA T03n0152, vol. 01, T03 0001a10-0001a13. Chapter heading: "布施度無極章第一" (T03, 0001a06).
 
-[^5]: *Mahāprajñāpāramitā-sūtra*, Xuanzang trans. CBETA T07n0220c, vol. 528. "先應修學布施波羅蜜多...由施、戒故，復得定蘊; 由施、戒、定故，復得慧蘊." Verified 2026-05-10 · T07, 0709a25-0709b06.
+[^5]: *Mahāprajñāpāramitā-sūtra*, Xuanzang trans. CBETA T07n0220c, vol. 528. "先應修學布施波羅蜜多...由施、戒故，復得定蘊; 由施、戒、定故，復得慧蘊." T07, 0709a25-0709b06.
 
-[^6]: *Heart Sūtra Commentary*, Fazang, Tang, CBETA T33n1712. "若歷事備陳，言過二十萬頌; 若撮其樞要，理盡一十四行." Verified 2026-05-10 · T33, 0552a20-0552a21.
+[^6]: *Brief Commentary on the Heart Sūtra* (*Prajñāpāramitā Heart Sūtra Brief Commentary*), Fazang, Tang, CBETA T33n1712. "若歷事備陳，言過二十萬頌; 若撮其樞要，理盡一十四行." T33, 0552a20-0552a21.
 
-[^7]: *Mahāprajñāpāramitā-śāstra* vol. 27, "是二事有六分修行，名為六波羅蜜: 布施、持戒、忍辱是功德分; 精進、禪定、智慧是慧明分." CBETA T25n1509, p.0262c27-0263a01. Verified 2026-05-10.
+[^7]: *Mahāprajñāpāramitā-śāstra* vol. 27, "是二事有六分修行，名為六波羅蜜: 布施、持戒、忍辱是功德分; 精進、禪定、智慧是慧明分." CBETA T25n1509, p.0262c27-0263a01.
 
-[^8]: *Xinjing Youzan*, T33n1710, vol. 2. CBETA T33, 0540b24. "為求菩薩者說應六波羅蜜多法，唯言無智、得，總合說故." Verified 2026-05-10.
+[^8]: *Xinjing Youzan*, T33n1710, vol. 2. CBETA T33, 0540b24. "為求菩薩者說應六波羅蜜多法，唯言無智、得，總合說故."
 
-[^9]: *Mahāprajñāpāramitā-śāstra* vol. 59, "先已說: 一切諸法，般若波羅蜜為首、為明導; 譬如王來必有將從，但舉其主名，餘者已盡得." CBETA T25n1509, p.0479b06-08. Verified 2026-05-10.
+[^9]: *Mahāprajñāpāramitā-śāstra* vol. 59, "先已說: 一切諸法，般若波羅蜜為首、為明導; 譬如王來必有將從，但舉其主名，餘者已盡得." CBETA T25n1509, p.0479b06-08.
 
-[^10]: *Mahāprajñāpāramitā-śāstra* vol. 59, "菩薩摩訶薩行布施時，般若波羅蜜為作明導，能具足檀波羅蜜..." CBETA T25n1509, p.0479c24-0480a04. Verified 2026-05-10.
+[^10]: *Mahāprajñāpāramitā-śāstra* vol. 59, "菩薩摩訶薩行布施時，般若波羅蜜為作明導，能具足檀波羅蜜..." CBETA T25n1509, p.0479c24-0480a04.
 
-[^11]: *Xinjing Youzan*, T33n1710, vol. 1. CBETA T33, 0524b19. "三、財自在，能隨樂現，由施所得." Verified 2026-05-10.
+[^11]: *Xinjing Youzan*, T33n1710, vol. 1. CBETA T33, 0524b19. "三、財自在，能隨樂現，由施所得."
 
 [^12]: Jan Nattier, "The Heart of the Perfection of Wisdom: The Sūtra as Chinese Apocrypha," *Journal of the International Association of Buddhist Studies* 15(2), 1992: 153-223.
 
-[^13]: Robert Sharf, recent work on the Heart Sūtra as liturgical text. Full citation to be confirmed.
-
-[^14]: Edward Conze, *The Perfection of Wisdom in Eight Thousand Lines and Its Verse Summary* (Gurgaon: Akademi, 1973); Red Pine (Bill Porter), *The Heart Sūtra: The Wondrous Wisdom that Cuts through Illusion* (Boulder: Shambhala, 2004).
+[^13]: Edward Conze, *The Perfection of Wisdom in Eight Thousand Lines and Its Verse Summary* (Gurgaon: Akademi, 1973); Red Pine (Bill Porter), *The Heart Sūtra: The Wondrous Wisdom that Cuts through Illusion* (Boulder: Shambhala, 2004).
 
 ## References
 
@@ -376,14 +376,14 @@ P17's question is: the Great Prajñāpāramitā (T0220), in six hundred volumes,
 
 1. 《般若波羅蜜多心經》，唐玄奘譯，《大正藏》第8冊，No. 0251.
 2. 《摩訶般若波羅蜜大明呪經》，後秦鳩摩羅什譯，《大正藏》第8冊，No. 0250.
-3. 《普遍智藏般若波羅蜜多心經》，唐法成譯，《大正藏》第8冊，No. 0252.
+3. 《普遍智藏般若波羅蜜多心經》， retranslated by Fayue 法月 in the Tang, *Taishō* vol. 8, No. 0252.
 4. 《般若波羅蜜多心經幽贊》，窺基造，《大正藏》第33冊，No. 1710.
 5. 《大智度論》，龍樹菩薩造，鳩摩羅什譯，《大正藏》第25冊，No. 1509.
 6. 《六度集經》，康僧會譯，《大正藏》第3冊，No. 0152.
 7. 《長阿含經》，佛陀摵多等譯，《大正藏》第1冊，No. 0001.
 8. 《中阿含經》，僧伽提婆譯，《大正藏》第1冊，No. 0026.
 9. 《別譯雜阿含經》，失譯，《大正藏》第2冊，No. 0100.
-10. 《般若波羅蜜多心經注》，法藏造，《大正藏》第33冊，No. 1712.
+10. 《般若波羅蜜多心經略疏》，法藏造，《大正藏》第 33 冊，No. 1712.
 11. 《大般若波羅蜜多經》，唐玄奘譯，《大正藏》第5-9冊，No. 0220.
 
 ### II. Modern Scholarship
@@ -391,23 +391,22 @@ P17's question is: the Great Prajñāpāramitā (T0220), in six hundred volumes,
 1. Nattier, Jan. "The Heart of the Perfection of Wisdom: The Sūtra as Chinese Apocrypha." *Journal of the International Association of Buddhist Studies* 15(2), 1992: 153-223.
 2. Conze, Edward. *The Perfection of Wisdom in Eight Thousand Lines and Its Verse Summary*. Gurgaon: Akademi, 1973.
 3. Red Pine (Porter, Bill). *The Heart Sūtra: The Wondrous Wisdom that Cuts through Illusion*. Boulder: Shambhala, 2004.
-4. Sharf, Robert H. Recent work on the Heart Sūtra as liturgical text.
 
 ### III. Sūtra & Śāstra Index
 
 | Short | Full Name | Taishō | Author/Translator | Use |
 |-------|-----------|---------|-------------------|-----|
 | T0251 | Prajñāpāramitā Hṛdaya Sūtra | T08, No. 0251 | Xuanzang trans. | **P16 primary text** |
-| T0250 | Mahāprajñāpāramitā Mahā-māṇḍa Sūtra | T08, No. 0250 | Kumārajīva trans. | Translation对照 |
-| T0252 | Pǔbiànzhìzàng Heart Sūtra | T08, No. 0252 | Facheng trans. | Translation对照 |
+| T0250 | Mahāprajñāpāramitā Mahā-māṇḍa Sūtra | T08, No. 0250 | Kumārajīva trans. | Translation comparison |
+| T0252 | Pǔbiànzhìzàng Heart Sūtra | T08, No. 0252 | Fayue, retranslator | Translation comparison |
 | T33n1710 | Xinjing Youzan | T33, No. 1710 | Kuiji | **Comprehensive expression / ten autonomies** |
 | T1509 | Mahāprajñāpāramitā-śāstra | T25, No. 1509 | Nāgārjuna / Kumārajīva | **Merit group / wisdom group / king-and-retinue** |
 | T0152 | Chiliastikon (六度集經) | T03, No. 0152 | Kang Senghui | **Giving first among six pāramitās** |
-| T0001 | Dirgha-āgama | T01, No. 0001 | Bhadrānta et al. | **Seven sacred riches** |
+| T0001 | Dīrgha-āgama | T01, No. 0001 | Buddhayaśas and Zhu Fonian, trans. | **Seven sacred riches** |
 | T0026 | Madhya-āgama | T01, No. 0026 | Saṃghadeva trans. | **Seven sacred riches** |
 | T0100 | Saṃyukta-āgama (別譯) | T02, No. 0100 | Anonymous | **Five perfections** |
-| T1712 | Heart Sūtra Commentary | T33, No. 1712 | Fazang | **Adaptation to context** |
-| T0220 | Mahāprajñāpāramitā-sūtra | T05-09, No. 0220 | Xuanzang trans. | **Giving→concentration→wisdom chain** |
+| T1712 | *Brief Commentary on the Heart Sūtra* | T33, No. 1712 | Fazang | **Adaptation to context** |
+| T0220 | Mahāprajñāpāramitā-sūtra | T05–07, No. 0220 | Xuanzang trans. | **Giving→concentration→wisdom chain** |
 
 ## Cross-Reference Index
 

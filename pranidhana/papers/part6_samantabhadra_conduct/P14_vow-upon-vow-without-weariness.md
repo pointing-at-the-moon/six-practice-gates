@@ -1,16 +1,20 @@
 ---
 title: "Vow upon Vow without Weariness: Moment-to-Moment Continuity"
 title_en: "Vow upon Vow without Weariness: Moment-to-Moment Continuity"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 6 — PRAṆIDHĀNA: Aspiration and the Vow, from Pāli Roots to Samantabhadra · Part VI · Samantabhadra's Vows of Conduct"
-series_short: PRAṆIDHĀNA
+series_short: "PRAṆIDHĀNA"
 volume: 6
-paper_id: PRANIDHANA-P14
+paper_id: "PRANIDHANA-P14"
 paper_number: 14
 part: Part VI · Samantabhadra's Vows of Conduct
 part_number: 6
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T10n0293"
+  - "X05n0227"
+  - "X05n0229"
 license: CC BY-NC-SA 4.0
 ---
 

@@ -10,6 +10,20 @@ part: "Part VIII · The Huayan Dharmadhātu"
 part_number: 8
 date: "2026-05-14"
 version: "1.0"
+canonical_source:
+  - "T08n0223"
+  - "T08n0232"
+  - "T08n0235"
+  - "T09n0262"
+  - "T10n0293"
+  - "T14n0475"
+  - "T25n1509"
+  - "T35n1735"
+  - "T36n1736"
+  - "T48n2008"
+  - "T48n2015"
+  - "X05n0227"
+  - "X05n0229"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -259,11 +273,11 @@ The paper after that (P28) enters the closing of the Chapter on Entry into the D
 
 [^17]: Ibid., *Xingyuanpin shuchao*, X0229, p. 0280c05–07.
 
-[^18]: Ibid., *Xingyuanpin shuchao*, X0229, p. 0280c09–16. The passage cited is the one-practice *samādhi* segment of the *Mañjuśrīparipṛcchā-prajñāpāramitā-sūtra* (文殊師利所說摩訶般若波羅蜜經, T0232, trans. Saṅghapāla), whose locus classicus is at *Taishō* vol. 8, No. T0232, p. 0731a24–b08.
+[^18]: Ibid., *Xingyuanpin shuchao*, X0229, p. 0280c09–16. The passage cited is the one-practice *samādhi* segment of the *Mañjuśrīparipṛcchā-prajñāpāramitā-sūtra* (文殊師利所說摩訶般若波羅蜜經, T0232, trans. Mandrasena), whose locus classicus is at *Taishō* vol. 8, No. T0232, p. 0731a24–b08.
 
 [^19]: Ibid., *Xingyuanpin shuchao*, X0229, p. 0274b12–14.
 
-[^20]: *Platform Sūtra of the Sixth Patriarch's Dharma-Jewel* (六祖大師法寶壇經), comp. Fahai: "thought after thought continuing without break — this is called bondage." *Taishō* vol. 48, No. T2008, p. 0353a16. Note: Huineng elsewhere in T2008 (e.g. T48p0352c25) still takes "thought after thought continuing" in a positive sense; the negative valence at T48p0353a16 is context-specific — the binding force of an unawakened mind's continuous thought-stream. This citation is a single, isolated philological caution; one must not generalize it into "the *Platform Sūtra* rejects 念念相續" or "Southern Chan as a whole opposes the continuous-thought frame." [^21]:
+[^20]: *Platform Sūtra of the Sixth Patriarch's Dharma-Jewel* (六祖大師法寶壇經), Zongbao recension: "thought after thought continuing without break — this is called bondage." *Taishō* vol. 48, No. T2008, p. 0353a16. Note: Huineng elsewhere in T2008 (e.g. T48p0352c25) still takes "thought after thought continuing" in a positive sense; the negative valence at T48p0353a16 is context-specific — the binding force of an unawakened mind's continuous thought-stream. This citation is a single, isolated philological caution; one must not generalize it into "the *Platform Sūtra* rejects 念念相續" or "Southern Chan as a whole opposes the continuous-thought frame." [^21]:
 
 [^21]: Zongmi, *Chanyuan zhuquanji duxu* 禪源諸詮集都序 (*Preface to the Collected Writings on the Sources of Chan*), fascicle 1a: "If one suddenly awakens that one's own mind is originally pure, that there are fundamentally no defilements, that the unconditioned wisdom-nature is itself complete — this mind is itself Buddha, in the end without difference. To practice in accord with this is the supreme vehicle of Chan, also called the Tathāgata's pure Chan, also called one-practice *samādhi*, also called *tathatā-samādhi*. This is the root of all *samādhis*. If one can practice thought after thought, one naturally and gradually attains a hundred thousand *samādhis*. What has been transmitted through generation after generation under Bodhidharma's gate is precisely this Chan." *Taishō* vol. 48, No. T2015, p. 0399b17–22.
 
@@ -285,11 +299,11 @@ Kumārajīva, trans. *Mahāprajñāpāramitā-sūtra* (大品般若), "Chapter o
 
 Kumārajīva, trans. *Vajracchedikā-prajñāpāramitā-sūtra* (*Diamond Sūtra*). *Taishō* vol. 8, No. 235.
 
-Saṅghapāla, trans. *Mañjuśrīparipṛcchā-prajñāpāramitā-sūtra* (文殊師利所說摩訶般若波羅蜜經). *Taishō* vol. 8, No. 232.
+Mandrasena, trans. *Mañjuśrīparipṛcchā-prajñāpāramitā-sūtra* (文殊師利所說摩訶般若波羅蜜經). *Taishō* vol. 8, No. 232.
 
 Nāgārjuna (attrib.), trans. Kumārajīva. *Mahāprajñāpāramitā-upadeśa* (*Dazhidulun* 大智度論), fascicles 11, 33, and 49. *Taishō* vol. 25, No. 1509.
 
-Fahai, comp. *Platform Sūtra of the Sixth Patriarch's Dharma-Jewel* (六祖大師法寶壇經). *Taishō* vol. 48, No. 2008.
+Zongbao, comp. *Platform Sūtra of the Sixth Patriarch's Dharma-Jewel* (六祖大師法寶壇經). *Taishō* vol. 48, No. 2008.
 
 Zongmi. *Chanyuan zhuquanji duxu* 禪源諸詮集都序 (*Preface to the Collected Writings on the Sources of Chan*), fascicle 1a. *Taishō* vol. 48, No. 2015.
 
@@ -318,9 +332,9 @@ Lamotte, Étienne. *Le Traité de la Grande Vertu de Sagesse de Nāgārjuna (Mah
 | Bodhisattvas chapter | *Vimalakīrti-nirdeśa*, fascicle 1 | T0475 | Kumārajīva |
 | Four-Embracing chapter | *Mahāprajñāpāramitā-sūtra* (大品般若) | T0223 | Kumārajīva |
 | *Vajracchedikā* | *Diamond Sūtra* | T0235 | Kumārajīva |
-| *Mañjuśrīparipṛcchā* | *Mañjuśrīparipṛcchā-prajñāpāramitā-sūtra* | T0232 | Saṅghapāla |
+| *Mañjuśrīparipṛcchā* | *Mañjuśrīparipṛcchā-prajñāpāramitā-sūtra* | T0232 | Mandrasena, trans. |
 | *Dazhidulun* | *Mahāprajñāpāramitā-upadeśa*, fascicles 11, 33, 49 | T1509 | Nāgārjuna attrib. / Kumārajīva trans. |
-| *Platform Sūtra* | *Platform Sūtra of the Sixth Patriarch's Dharma-Jewel* | T2008 | Fahai (comp.) |
+| *Platform Sūtra* | *Platform Sūtra of the Sixth Patriarch's Dharma-Jewel* | T2008 | Zongbao (comp.) |
 | *Chanyuan duxu* | *Preface to the Collected Writings on the Sources of Chan*, fascicle 1a | T2015 | Zongmi |
 | *Xingyuanpin shu* | *Commentary on the Chapter of Samantabhadra's Vows of Practice* | X0227 | Chengguan |
 | *Xingyuanpin shuchao* | *Subcommentary on the Chapter of Samantabhadra's Vows of Practice* | X0229 | Chengguan (separate-circulating commentary) and Zongmi (subcommentary) |
@@ -331,7 +345,7 @@ Lamotte, Étienne. *Le Traité de la Grande Vertu de Sagesse de Nāgārjuna (Mah
 
 **Volume One (NIAN):** Paper 12 on the *Śūraṅgama*'s reverse-giving register (cross-reference); Paper 30 on the *manas*-transformation (an oblique resonance with Zongmi's vocabulary of *anchixin* "settling the mind" and *jiyuan* "binding to a condition" as heart-ground lexical sediment).
 
-**Volume Two (DĀNA):** Paper 11 *From Giving to Pāramitā* (T1509 threefold emptiness of giving, cross-reference); Papers 12–13 on the threefold emptiness (DĀNA territory, cross-link only); Paper 15 *The Diamond Sūtra on Giving* (T0235 five-fold comparative as the *prajñā* prelude to the "hundredfold-not-equal-one" formula, cross-reference); Paper 21 *Dharma-Offering in the Dharma-Teacher Chapter* (substitution-move, cross-reference); Paper 22 *Sadāparibhūta — The Offering of Reverence* (axiomatic-move, cross-reference); Paper 23 *Bhaiṣajyarāja's Self-Offering* (transformation-move, cross-reference); Paper 24 *The Joy of the First Ground* (entry-threshold, cross-reference); Paper 25 *Samantabhadra's Vow of Vast Offerings* (the immediate prior paper, whose closing transition verse "among all offerings, the dharma-offering is supreme" is the very passage on which the present paper performs its deep-dive).
+**Volume Two (DĀNA):** Paper 11 *From Giving to Pāramitā* (T1509 threefold emptiness of giving, cross-reference); Papers 12–13 on the threefold emptiness (DĀNA territory, cross-reference only); Paper 15 *The Diamond Sūtra on Giving* (T0235 five-fold comparative as the *prajñā* prelude to the "hundredfold-not-equal-one" formula, cross-reference); Paper 21 *Dharma-Offering in the Dharma-Teacher Chapter* (substitution-move, cross-reference); Paper 22 *Sadāparibhūta — The Offering of Reverence* (axiomatic-move, cross-reference); Paper 23 *Bhaiṣajyarāja's Self-Offering* (transformation-move, cross-reference); Paper 24 *The Joy of the First Ground* (entry-threshold, cross-reference); Paper 25 *Samantabhadra's Vow of Vast Offerings* (the immediate prior paper, whose closing transition verse "among all offerings, the dharma-offering is supreme" is the very passage on which the present paper performs its deep-dive).
 
 **Part VIII Forward Pointers:** Paper 27 on Sudhana's pilgrimage of fifty-three teachers (Mañjuśrī's introduction at the opening, terminating at Samantabhadra's arena); Paper 28 on the closing of "Entry into the *Dharmadhātu*" (the doctrinal resolution of mutual interpenetration without obstruction).
 

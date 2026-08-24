@@ -26,7 +26,7 @@ It was looked at once from the reverse side, too—and it turned out that not-ta
 
 In the *Lotus*, this hand was pushed to the limit—even the body could be given as offering. And that fire was burning not the body but the "I": the losing of the "I," pushed to the very end of the flesh (Part Seven).
 
-At the last, in the *Avataṃsaka*, the hand loosened until there was no edge—offerings filling the dharma-realm, thought after thought continuing without interruption—loosened until Samantabhadra said it outright: the Dharma itself is giving. The hand clenched around "mine" loosened and loosened, loosened until, at the end, no trace of it remained—loosened into the whole dharma-realm (Part Eight).
+At the last, in the *Avataṃsaka*, the hand loosened until there was no edge—offerings filling the dharma-realm, thought after thought continuing without interruption. Samantabhadra traces every letter and phrase of his ocean of dharma to relinquishing; this book reads that passage together with Fazang's mutual inclusion and proposes the Huayan synthesis "the Dharma itself is giving." The hand clenched around "mine" loosened and loosened, loosened until, at the end, no trace of it remained—loosened into the whole dharma-realm (Part Eight).
 
 Look—from one small loosening in one person's heart to the offering of the entire dharma-realm, what was being said, from first to last, was a single thing: **loosen the hand clenched around "mine"; and loosen, too, the "I" that does the clenching.**
 

@@ -10,6 +10,18 @@ part: "Part I · Pāli Roots"
 part_number: 1
 date: "2026-04-15"
 version: "1.0"
+canonical_source:
+  - "T02n0099"
+  - "T02n0125"
+  - "T30n1579"
+  - "AN11.11"
+  - "AN6.25"
+  - "AN8.31"
+  - "It26"
+  - "It75"
+  - "It98"
+  - "SN55.31"
+  - "SN55.32"
 license: "CC BY-NC-SA 4.0"
 ---
 

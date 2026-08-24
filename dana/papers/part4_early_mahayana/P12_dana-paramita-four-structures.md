@@ -10,6 +10,14 @@ part: "Part IV · The Early Mahāyāna Turn to Dāna-Pāramitā"
 part_number: 4
 date: "2026-05-09"
 version: "1.0"
+canonical_source:
+  - "T03n0152"
+  - "T07n0220e"
+  - "T25n1509"
+  - "T30n1577"
+  - "T30n1579"
+  - "T31n1592"
+  - "T31n1604"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -48,7 +56,7 @@ license: "CC BY-NC-SA 4.0"
 
 "The river-crosser who turns back before reaching the other shore is called 'one who has not reached pāramitā.'"[^2] This passage from the opening of fascicle 12 of the *Dà zhìdù lùn* 《大智度論》 (T1509) is not the beginning of a philosophical argument but a story: Śāriputra practiced the bodhisattva path for sixty kalpas, with the perfection of giving as the first. A beggar came and asked for his eye. Śāriputra gave it; the beggar, after smelling it and finding it offensive, spat on it and trampled it underfoot. Śāriputra reflected: "Such wretched beings are hard to save! The eye is truly useless and yet was demanded; once received, it was cast aside and trampled. What degradation! Beings like this cannot be saved. Better to train oneself and escape saṃsāra." And so he turned back to the *śrāvakayāna*.[^3]
 
-T1509 uses this story as the defining illustration of "not reaching pāramitā."[^4] It then states positively: "If giving has three obstructions — 'I give, that one receives, the thing given' — this is falling into Māra's domain, not yet freed from difficulty. If a bodhisattva gives with three kinds of purity, free of these three obstructions, reaching the other shore, praised by the buddhas — this is called dāna-pāramitā."[^5]
+T1509 uses this story as the defining illustration of "not reaching pāramitā."[^4] It then states positively: "If giving has three obstructions — 'I give, that one receives, the thing given' — this is falling into Māra's domain, not yet freed from difficulty. In bodhisattva giving there are three kinds of purity: free of these three obstructions, one reaches the other shore and is praised by the buddhas — this is called dāna-pāramitā."[^5]
 
 This is the most precise anchor for the paper. The distinction between "not reaching pāramitā" and "reaching pāramitā" does not turn on the quantity, intensity, or even duration of giving (sixty kalpas of extreme bodily giving). It turns on the **structure of the giver's mind**: apprehending the three wheels (giver, receiver, gift) as inherently existent — falling into Māra's domain; seeing the three wheels as empty — reaching the other shore.
 
@@ -80,9 +88,9 @@ Fascicle 11, chapter 18 （讚檀波羅蜜義） lists a function-catalog of giv
 
 > 「檀為寶藏，常隨逐人；檀為破苦，能與人樂；檀為善御，開示天道；檀為善府，攝諸善人；檀為安隱，臨命終時心不怖畏；檀為慈相，能濟一切；檀為集樂，能破苦賊；檀為大將，能伏慳敵；檀為妙果，天人所愛；檀為淨道，賢聖所遊；檀為積善福德之門；檀為立事聚眾之緣；檀為善行愛果之種；檀為福業善人之相；檀破貧窮、斷三惡道；檀能全護福樂之果；**檀為涅槃之初緣**；入善人聚中之要法；稱譽讚歎之淵府；入眾無難之功德；心不悔恨之窟宅；善法道行之根本；種種歡樂之林藪；富貴安隱之福田；得道涅槃之津梁；聖人大士智者之所行；餘人儉德寡識之所效。」[^9]
 
-> "Giving is a treasury that always follows the giver; giving breaks suffering and gives joy; giving is a good chariot that opens the heavenly path; giving is a good vault that gathers all the good; giving is安稳, without fear at the time of death; giving is a mark of compassion that saves all; giving gathers joy and destroys the thief of suffering; giving is a great general that subdues the enemy of stinginess; giving is a wondrous fruit loved by gods and humans; giving is a pure path walked by sages; giving is the gate of accumulated merit; giving is the condition for building affairs and gathering followers; giving is the seed of good conduct and beloved fruit; giving is the mark of a good person engaged in meritorious deed; giving destroys poverty and severs the three evil paths; giving preserves the fruit of fortune and joy; **giving is the initial condition for nirvāṇa**; the essential dharma for entering the assembly of the good; the abyss of praise and acclaim; the merit of entering crowds without difficulty; the home of a heart without regret; the root of all good dharmas and the path of cultivation; the forest of all kinds of joy; the good field of wealth and安稳; the ford for attaining the Path and nirvāṇa; what sages and great beings practice; what others of small virtue emulate." (translation mine)
+> "Giving is a treasury that always follows the giver; giving breaks suffering and gives joy; giving is a good chariot that opens the heavenly path; giving is a good vault that gathers all the good; giving provides security, without fear at the time of death; giving is a mark of compassion that saves all; giving gathers joy and destroys the thief of suffering; giving is a great general that subdues the enemy of stinginess; giving is a wondrous fruit loved by gods and humans; giving is a pure path walked by sages; giving is the gate of accumulated merit; giving is the condition for building affairs and gathering followers; giving is the seed of good conduct and beloved fruit; giving is the mark of a good person engaged in meritorious deed; giving destroys poverty and severs the three evil paths; giving preserves the fruit of fortune and joy; **giving is the initial condition for nirvāṇa**; the essential dharma for entering the assembly of the good; the abyss of praise and acclaim; the merit of entering crowds without difficulty; the home of a heart without regret; the root of all good dharmas and the path of cultivation; the forest of all kinds of joy; the good field of wealth and security; the ford for attaining the Path and nirvāṇa; what sages and great beings practice; what others of small virtue emulate." (translation mine)
 
-The structure of this catalog is significant: the first half describes worldly merit (wealth, security, reputation), the middle shifts toward transcendent liberation (initial condition for nirvāṇa, root of good dharmas), and the final section closes with "what sages and great beings practice." This is a **continuous spectrum from the worldly to the transcendent** — giving is not a moral virtue opposed to the世俗, but a channel **贯通 between the two**.
+The structure of this catalog is significant: the first half describes worldly merit (wealth, security, reputation), the middle shifts toward transcendent liberation (initial condition for nirvāṇa, root of good dharmas), and the final section closes with "what sages and great beings practice." This is a **continuous spectrum from the worldly to the transcendent** — giving is not a moral virtue opposed to the worldly, but a channel **connecting the two**.
 
 The most critical item here is "檀為涅槃之初緣" (giving is the initial condition for nirvāṇa). T1509 establishes a causal chain: recollecting giving → joy → one-pointed mind → contemplation of arising and ceasing → attaining the Path.[^10] Giving is not the replacement for liberation (a transaction of merit for liberation) but the **initial cause** — without the joy that giving generates, the subsequent samādhi and contemplation cannot arise.
 
@@ -94,7 +102,7 @@ Fascicle 11, chapter 19 （檀相義） establishes a taxonomy of giving:
 
 > "Q: What is called dāna? A: Dāna means giving. It is the wholesome thought associated with the mind." (translation mine)
 
-T1509 first defines dāna as a psychological event (wholesome thought associated with the mind), not merely an external act. It then describes the世俗 conditions of dāna with "five matters converging": "having faith, having a field of merit, having wealth — when these three converge, the thought of letting-arise, and stinginess is destroyed."[^12]
+T1509 first defines dāna as a psychological event (wholesome thought associated with the mind), not merely an external act. It then describes the worldly conditions of dāna with "five matters converging": "having faith, having a field of merit, having wealth — when these three converge, the thought of letting-arise, and stinginess is destroyed."[^12]
 
 A crucial question arises: if dāna requires "five matters converging" (giver, receiver, gift, field, timing), how can T1509 simultaneously assert "the three matters are unobtainable"?
 
@@ -126,7 +134,7 @@ T1509's argumentation proceeds in four steps:
 
 **Step 3: Decomposition-emptiness (deśana-śūnyatā, 分破空).** Using atomistic analysis to deconstruct the last thread of inherent existence of the gift: if the gift has inherent nature, it should be indivisible; but if divisible, it has no independent inherent nature. Further, if indivisible (paramāṇu / atom), the atom must have spatial extension (十方分) to possess color, smell, taste, and touch — but if it has spatial extension, it is divisible, therefore not an atom.[^17] **This is the sharpest argumentative step** — it cuts off any possibility of using paramāṇu (atom) as a basis for inherent nature.
 
-**Step 4: Contemplative emptiness (upalambha-śūnyatā, 觀空).** Using the observer's cognitive variation to demonstrate that the attributes of the gift do not reside in the object itself but in the observer. "To a lustful person, a beautiful form appears pure and delightful; to one practicing impurity-contemplation, the same form appears as various foulnesses" — the same object, different observers, different attributes. The value, meaning, and even the存在感 of the gift depend on the observer's psychological construction.[^18]
+**Step 4: Contemplative emptiness (upalambha-śūnyatā, 觀空).** Using the observer's cognitive variation to demonstrate that the attributes of the gift do not reside in the object itself but in the observer. "To a lustful person, a beautiful form appears pure and delightful; to one practicing impurity-contemplation, the same form appears as various foulnesses" — the same object, different observers, different attributes. The value, meaning, and even the perceived existence of the gift depend on the observer's psychological construction.[^18]
 
 The argumentation for the giver proceeds identically: "Four elements surrounding emptiness, called body; the bodily consciousness moves, comes, goes, sits, rises — conventionally called 'person.'"[^19] The giver has no inherent nature. The receiver is the same.
 
@@ -164,9 +172,9 @@ The dāna-pāramitā treatise of T1509 fascicle 11 consists of four consecutive 
 
 **Chapter 17 is the definition** — establishing the ontological condition of dāna-pāramitā through "the three matters are unobtainable." This step is **necessary but not sufficient**: knowing trilakṣaṇa-śūnya alone is not enough to practice dāna-pāramitā; one also needs to understand why and how.
 
-**Chapter 18 is the warrant** — answering "why practice dāna-pāramitā?" through an exhaustive catalog of its merits. T1509's strategy begins with worldly merit (treasury, breaking suffering,安稳), gradually shifts to transcendent merit (initial-condition-for-nirvāṇa, root of good dharmas), and culminates in "what sages and great beings practice." This is a **continuous spectrum from the ordinary to the saintly** — giving is not a "noble act" opposed to the世俗 but a channel **贯通 between the two**.
+**Chapter 18 is the warrant** — answering "why practice dāna-pāramitā?" through an exhaustive catalog of its merits. T1509's strategy begins with worldly merit (treasury, breaking suffering, security), gradually shifts to transcendent merit (initial-condition-for-nirvāṇa, root of good dharmas), and culminates in "what sages and great beings practice." This is a **continuous spectrum from the ordinary to the saintly** — giving is not a "noble act" opposed to the worldly but a channel **connecting the two**.
 
-**Chapter 19 is the taxonomy** — the transition from "five matters converging" to "three matters unobtainable" establishes the **transition method** from世俗 giving to pāramitā. This is not jumping from one world to another but re-viewing the same giving event — from the perspective of apprehension, it is five matters converging; from the perspective of emptiness, it is three matters unobtainable.
+**Chapter 19 is the taxonomy** — the transition from "five matters converging" to "three matters unobtainable" establishes the **transition method** from worldly giving to pāramitā. This is not jumping from one world to another but re-viewing the same giving event — from the perspective of apprehension, it is five matters converging; from the perspective of emptiness, it is three matters unobtainable.
 
 **Chapter 20 is the positioning** — dharma-giving surpasses thing-giving, establishing the bodhisattva-character of giving. This is the final positioning: giving is not an independent virtue but inextricably bound to dharma-giving as a bodhisattva practice.
 
@@ -184,9 +192,9 @@ T1509's response is a four-step reductio — each step building on the previous,
 
 **Step 3: Decomposition-emptiness.** Using atomistic analysis to deconstruct the last thread of inherent existence of the gift: if the gift has inherent nature, it should be indivisible; but if divisible, it has no independent inherent nature. Further, if indivisible (paramāṇu), the atom must have spatial extension (十方分) to possess color, smell, taste, and touch — but spatial extension entails divisibility, therefore not an atom.[^28] **This is the sharpest step** — it cuts off any possibility of using paramāṇu (atom) as the basis for inherent nature.
 
-**Step 4: Contemplative emptiness.** Using the observer's cognitive variation to demonstrate that the attributes of the gift do not reside in the object itself. "To a lustful person, beautiful form appears pure and delightful; to one practicing impurity-contemplation, the same form appears as foulness" — the same object, different observers, different attributes. The value, meaning, and even the存在感 of the gift depend on the observer's psychological construction.[^29]
+**Step 4: Contemplative emptiness.** Using the observer's cognitive variation to demonstrate that the attributes of the gift do not reside in the object itself. "To a lustful person, beautiful form appears pure and delightful; to one practicing impurity-contemplation, the same form appears as foulness" — the same object, different observers, different attributes. The value, meaning, and even the perceived existence of the gift depend on the observer's psychological construction.[^29]
 
-The structure of this four-step argument is: first acknowledge世俗 existence (prajñapti-sat), then demonstrate emptiness of inherent nature (deśana-śūnyatā), finally proving non-inherence through contemplative emptiness (upalambha-śūnyatā). This is the standard Mādhyamaka argumentative methodology — but before T1509, **no text had systematically applied this methodology to dāna theory**.
+The structure of this four-step argument is: first acknowledge conventional existence (prajñapti-sat), then demonstrate emptiness of inherent nature (deśana-śūnyatā), finally proving non-inherence through contemplative emptiness (upalambha-śūnyatā). This is the standard Mādhyamaka argumentative methodology — but before T1509, **no text had systematically applied this methodology to dāna theory**.
 
 ### 3.3 The Universalization of the Six Perfections — Trilakṣaṇa-śūnya as the Common Condition
 
@@ -208,11 +216,11 @@ Another key contribution of T1509 fascicle 12: distinguishing "arhat reaching th
 
 This is the most crucial insight for the Western reader. In Western Buddhist studies, *pāramitā* is typically translated as "perfection," leading to a deeply ingrained misreading: pāramitā is "higher moral perfection."
 
-T1509 explicitly deconstructs this misreading. **The arhat does reach the other shore — but the arhat's other shore is nirvāṇa (leaving saṃsāra), while the bodhisattva's other shore is pāramitā (the infinite condition).**[^33] The本义 of pāramitā is not "higher moral standard" but "**the infinite condition**" — everything (inner and outer), all times (without exception), all ways (all methods).[^34]
+T1509 explicitly deconstructs this misreading. **The arhat does reach the other shore — but the arhat's other shore is nirvāṇa (leaving saṃsāra), while the bodhisattva's other shore is pāramitā (the infinite condition).**[^33] The primary meaning of pāramitā is not "higher moral standard" but "**the infinite condition**" — everything (inner and outer), all times (without exception), all ways (all methods).[^34]
 
-"The other shore" (pāra) has three definitional levels in T1509:[^35] (1) crossing the river to the other shore (metaphor); (2) the task accomplished (世俗义); (3) this shore = stinginess, the river = dāna, the other shore = buddhahood (教義义).[^34] The third level is the most crucial: the other shore is not the opposite shore (a separate place from this shore) but **the capacity to cross the river itself**. Stinginess is the this shore (riverbank), giving is the river (the crossing), buddhahood is the other shore (the destination). The three are not three separate places but three phases of one crossing event.
+"The other shore" (pāra) has three definitional levels in T1509:[^35] (1) crossing the river to the other shore (metaphor); (2) the task accomplished (conventional meaning); (3) this shore = stinginess, the river = dāna, the other shore = buddhahood (doctrinal meaning).[^34] The third level is the most crucial: the other shore is not the opposite shore (a separate place from this shore) but **the capacity to cross the river itself**. Stinginess is the this shore (riverbank), giving is the river (the crossing), buddhahood is the other shore (the destination). The three are not three separate places but three phases of one crossing event.
 
-The implication for the Western reader is profound: *dāna-pāramitā* is not "perfect giving" but **"giving that makes giving an infinite condition"** — everything (inner and outer), all times (uninterrupted), all ways (all methods).[^36] The本义 of "pāramitā" is "the tool for crossing the river" (栰),[^37] not "moral perfection on the other shore of the river."
+The implication for the Western reader is profound: *dāna-pāramitā* is not "perfect giving" but **"giving that makes giving an infinite condition"** — everything (inner and outer), all times (uninterrupted), all ways (all methods).[^36] The primary meaning of "pāramitā" is "the tool for crossing the river" (栰),[^37] not "moral perfection on the other shore of the river."
 
 ---
 
@@ -222,7 +230,7 @@ Three tracks of dialogue — Nattier, Harrison, and comparative Buddhist studies
 
 **Nattier**'s textual-stratification work on T1509 has shown that the text is not the product of a single author or a single period but a multi-layer accumulation.[^38] The dāna-pāramitā treatise of fascicle 11 may have different sources — chapter 17's definition formula may derive from the early prajñā tradition, chapter 18's merit catalog may have circulated independently as a Mahāyāna hymn tradition, chapter 19's argumentation may have absorbed abhidharma-instrumental techniques.
 
-**Even granting complex stratification, T1509's systematization as an extant text is undeniable.** The internal logic of the four chapters of fascicle 11 (definition → warrant → taxonomy → positioning) and the rigorous structure of the four-step reductio in fascicle 12 demonstrate that, even if the materials have diverse sources, the final redactor of T1509 integrated them into a **single theoretical system**. Systematization itself is theoretical innovation — taking scattered dāna theory (the jātaka narratives of T0152, the three-meritorious activities of the Āgama, the僧伽-field of the Vinaya) and integrating them into a theory centered on trilakṣaṇa-śūnya.
+**Even granting complex stratification, T1509's systematization as an extant text is undeniable.** The internal logic of the four chapters of fascicle 11 (definition → warrant → taxonomy → positioning) and the rigorous structure of the four-step reductio in fascicle 12 demonstrate that, even if the materials have diverse sources, the final redactor of T1509 integrated them into a **single theoretical system**. Systematization itself is theoretical innovation — taking scattered dāna theory (the jātaka narratives of T0152, the three-meritorious activities of the Āgama, the saṅgha-field of the Vinaya) and integrating them into a theory centered on trilakṣaṇa-śūnya.
 
 **Harrison** positions T1509 as a synthetic text of early Mahāyāna.[^39] This does not mean T1509 has no innovation, but that its innovation lies not in "inventing new doctrine" but in **organizing the existing scattered materials into an operable system**. The dāna-pāramitā treatise of T1509 is not "Nāgārjuna's thought" but Nāgārjuna's (or the redactor's) **systematic reconstruction** of early Mahāyāna dāna theory — from narrative to philosophy, from scattered to system, from plurality to unity.
 
@@ -230,9 +238,9 @@ The value of this systematization is that it provides bodhisattva practitioners 
 
 **Comparative Buddhist studies:** The Pāli tradition's cāgānussati (recollection of giving) is one of the six recollections and has superficial similarity with T1509's trilakṣaṇa-śūnya — both involve reflection on "letting go." But they are fundamentally different in kind.
 
-cāgānussati's moral recollection — "I have given up what I loved" — is a **meditation practice that reinforces the psychology of generosity**. Its premise is the世俗 efficacy of giving: I indeed gave, the other indeed received, merit indeed arose.[^40]
+cāgānussati's moral recollection — "I have given up what I loved" — is a **meditation practice that reinforces the psychology of generosity**. Its premise is the worldly efficacy of giving: I indeed gave, the other indeed received, merit indeed arose.[^40]
 
-T1509's trilakṣaṇa-śūnya, by contrast, is a **philosophical analysis of the ontological condition of giving** — not denying世俗 existence (prajñapti-sat) but further asking: do the giver, the receiver, and the gift have inherent nature? The answer is no.[^41] This is not a meditation technique but an inferential argument.
+T1509's trilakṣaṇa-śūnya, by contrast, is a **philosophical analysis of the ontological condition of giving** — not denying conventional existence (prajñapti-sat) but further asking: do the giver, the receiver, and the gift have inherent nature? The answer is no.[^41] This is not a meditation technique but an inferential argument.
 
 The root of the difference lies in methodology: the Pāli tradition's handling of dependent-origination (the twelve-links formula) provides the analytical foundation but never systematically applies this methodology to dāna theory. T1509 is the first text to complete this application.[^42]
 
@@ -250,7 +258,7 @@ The root of the difference lies in methodology: the Pāli tradition's handling o
 
 **❌ Misreading:** Pāramitā is "moral perfection"; dāna-pāramitā is "perfect giving."
 
-**Correction:** T1509 explicitly distinguishes arhat reaching the other shore (nirvāṇa) from bodhisattva reaching pāramitā (infinite condition).[^44] The本义 of pāramitā is "the tool for crossing the river" (栰),[^45] and its core meaning is "everything, at all times, in all ways" — the infinite condition — not a moral standard. Western readers should understand *pāramitā* as "infinite condition" rather than "perfection."[^46]
+**Correction:** T1509 explicitly distinguishes arhat reaching the other shore (nirvāṇa) from bodhisattva reaching pāramitā (infinite condition).[^44] The primary meaning of pāramitā is "the tool for crossing the river" (栰),[^45] and its core meaning is "everything, at all times, in all ways" — the infinite condition — not a moral standard. Western readers should understand *pāramitā* as "infinite condition" rather than "perfection."[^46]
 
 ### ❌ Misreading 3: The Śāriputra-turned-back story is a historical fact.
 
@@ -264,7 +272,7 @@ T1509 fascicles 11–12 may have layered sources. Chapter 17's definition formul
 
 ### ⚠️ Caution 2: Terminology — "檀" vs "施."
 
-T1509 consistently uses "檀" rather than "施" throughout. This is Kumārajīva's translation convention — "檀" as a phonetic transliteration preserves the original phonetic texture, differing stylistically from the later義translation "施."[^50] P12 follows T1509's original use of "檀" in the Chinese text and distinguishes phonetic transliteration (檀 = dāna) from義translation (施 = giving) in conceptual discussion.
+T1509 consistently uses "檀" rather than "施" throughout. This is Kumārajīva's translation convention — "檀" as a phonetic transliteration preserves the original phonetic texture, differing stylistically from the later semantic translation "施."[^50] P12 follows T1509's original use of "檀" in the Chinese text and distinguishes phonetic transliteration (檀 = dāna) from semantic translation (施 = giving) in conceptual discussion.
 
 ---
 
@@ -272,9 +280,9 @@ T1509 consistently uses "檀" rather than "施" throughout. This is Kumārajīva
 
 **Essentials.** T1509's dāna-pāramitā treatise constitutes the first complete theoretical system on dāna-pāramitā in Chinese Mahāyāna. Through its four-chapter structure (檀波羅蜜義 → 讚檀波羅蜜義 → 檀相義 → 法施義), it establishes a complete framework of definition, merit, taxonomy, and positioning; through fascicle 12's four-step reductio argumentation of 三事不可得 (name → three existences → decomposition → contemplative emptiness), it establishes the philosophical foundation of trilakṣaṇa-śūnya. Its core contributions: transforming P11's abstract "prajñā condition" into concrete inferential argumentation; extending with-apprehension / without-apprehension from dāna to all six perfections as a common condition; and defeating the moral-perfection misreading through the rigorous distinction between "arhat reaching the other shore (nirvāṇa) ≠ bodhisattva reaching pāramitā (the infinite condition)."
 
-**Practical guidance.** The most immediate lesson for contemporary practitioners: every act of giving — even the smallest — can become pāramitā, and the key does not lie in the quantity or intensity of the gift but in whether one contemplates trilakṣaṇa-śūnya. T1509 provides a concrete method: beginning with name-deconstruction, progressively understanding that the giver, the receiver, and the gift are all without inherent nature, yet not negating their conventional existence.[^51] This is a **middle way that transcends the世俗 without negating it**.
+**Practical guidance.** The most immediate lesson for contemporary practitioners: every act of giving — even the smallest — can become pāramitā, and the key does not lie in the quantity or intensity of the gift but in whether one contemplates trilakṣaṇa-śūnya. T1509 provides a concrete method: beginning with name-deconstruction, progressively understanding that the giver, the receiver, and the gift are all without inherent nature, yet not negating their conventional existence.[^51] This is a **middle way that transcends the worldly without negating it**.
 
-**Open question → handoff to P13.** Where does the theoretical foundation of trilakṣaṇa-śūnya come from — from where does it arise? P13 will follow this open question, tracing the argumentative development of trilakṣaṇa-śūnya after Nāgārjuna — particularly how it is transformed within the Yogācāra system into the "ten pure aspects" of giving.[^52]
+**Open question → transition to P13.** Where does the theoretical foundation of trilakṣaṇa-śūnya come from — from where does it arise? P13 will follow this open question, tracing the argumentative development of trilakṣaṇa-śūnya after Nāgārjuna — particularly how it is transformed within the Yogācāra system into the "ten pure aspects" of giving.[^52]
 
 ---
 
@@ -288,7 +296,7 @@ T1509 consistently uses "檀" rather than "施" throughout. This is Kumārajīva
 
 [^4]: T1509 vol 12: "若施有三礙：我與、彼受、所施者財，是為墮魔境界，未離眾難。"
 
-[^5]: T1509 vol 12: "若菩薩布施，三種清淨，無此三礙，得到彼岸，為諸佛所讚，是名檀波羅蜜。"
+[^5]: T1509 vol 12: "如菩薩布施，三種清淨，無此三礙，得到彼岸，為諸佛所讚，是名檀波羅蜜。"
 
 [^6]: See P11 DANA-P11 "From Dāna to Dāna-Pāramitā."
 
@@ -382,7 +390,7 @@ T1509 consistently uses "檀" rather than "施" throughout. This is Kumārajīva
 
 [^51]: The progressive argumentation of T1509 vol 12: prajñapti-sat → deśana-śūnyatā → upalambha-śūnyatā.
 
-[^52]: T1579 *Púsà dìchí jīng* 菩薩地持經 dāna chapter's ten pure aspects — the main field material of P13.
+[^52]: T1579 *Yogācārabhūmi-śāstra* 《瑜伽師地論》 dāna chapter's ten pure aspects — the main field material of P13.
 
 ---
 
@@ -395,8 +403,8 @@ T1509 consistently uses "檀" rather than "施" throughout. This is Kumārajīva
 *Liù dù jí jīng* 《六度集經》， translated by Kāng Sēnghuì, Wu, ca. 251 CE, Taishō vol. 3, no. 152.
 *Mahāprajñāpāramitā-sūtra* 《大般若經》， translated by Xuanzang, Tang, ca. 660–663 CE, Taishō vols. 5–7, no. 220 (T0220, *juan* 571 = "T0220e").
 *Dazhangfu Lun* 《大丈夫論》， by the bodhisattva Devala, translated by Daotai, Northern Liang, Taishō vol. 30, no. 1577 (T1577).
-*Mahāyāna-saṃgraha* 《攝大乘論》， by Asaṅga, translated by Xuanzang, Taishō vol. 31, no. 1592 (T1592).
-*Púsà dìchí jīng* 《菩薩地持經》， translated by Kumārajīva, Later Qin, Taishō vol. 30, no. 1579.
+*Mahāyāna-saṃgraha* 《攝大乘論》， by Asaṅga, translated by Buddhaśānta, Taishō vol. 31, no. 1592 (T1592).
+*Yogācārabhūmi-śāstra* 《瑜伽師地論》， spoken by Maitreya and translated by Xuanzang, Tang, Taishō vol. 30, no. 1579.
 
 ### II. Modern Scholarship
 

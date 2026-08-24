@@ -3,12 +3,24 @@ title: "Daoxuan's Vinaya Compendium as the Source"
 subtitle: "The Receiving–Following Architecture of the Sifenlü Xingshichao"
 title_zh: 行事鈔為定典
 subtitle_zh: 道宣以受隨二戒重構四分律之綱要
-volume: 戒門 SĪLA
+volume: 4
 paper_id: "SILA-P17"
-paper_number: P17
+paper_number: 17
 language: en
+series_short: "SĪLA"
+part_number: 5
 date: 2026-05-28
 author: "釋慧鏡 (Shi Huijing)"
+canonical_source:
+  - "T22n1428"
+  - "T24n1462"
+  - "T40n1804"
+  - "T40n1805"
+  - "T40n1806"
+  - "T40n1808"
+  - "X39n0714"
+  - "X40n0714"
+  - "X41n0728"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷四 戒
@@ -271,9 +283,9 @@ A methodological hallmark of this project is to mark, in each paper, the red lin
 
 [^15]: Same work, p. 0570c01–08. The ten purposes appear embedded within the occasion of legislation, as the *rationale for legislating*; their position is not a statement of aim for the whole code, and they carry no receiving / following architecture.
 
-[^16]: Thomas Newhall, "A Study of the Concept of *Jieti* (戒體, the 'Essence of the Precepts') in Daoxuan's (596–667) Vinaya Commentaries," *Journal of Chinese Buddhist Studies* 27 (2014): 181–208 (pagination to be verified); the "partial accord" hermeneutic is developed further in his lecture "Partially in Accord with the Greater Vehicle" (cited as a lecture, no print version confirmed). The work is open-access; it is engaged here through close paraphrase of its load-bearing finding (that Daoxuan *reads* the Dharmagupta vinaya as-if partially Mahāyāna, a deliberate "strong reading"). **Cross-paper disclosure:** Newhall was the principal English interlocutor on the *jietǐ* doctrine in SILA-P16; he is re-anchored here on the classification-and-architecture axis — engaging the "partial accord" thesis, not the three-school *jietǐ* framing of P16. The re-use is topic-driven and justified: P17 is literally about Daoxuan's commentaries, Newhall's own published subject, and no equal English substitute exists.
+[^16]: Thomas Newhall, "A Study of the Concept of *Jieti* (戒體, the 'Essence of the Precepts') in Daoxuan's (596–667) Vinaya Commentaries," *Journal of Chinese Buddhist Studies* 27 (2014): 181–208; and his 2021 Buddhist Studies at Oxford lecture, "Partially in Accord with the Greater Vehicle: Reading the Four-Part Vinaya as a Mahāyāna Text in Daoxuan's Commentaries." The works are engaged through close paraphrase of the finding that Daoxuan reads the Dharmaguptaka Vinaya as partially Mahāyāna through a deliberate "strong reading." **Cross-paper disclosure:** Newhall was the principal English interlocutor on the *jietǐ* doctrine in SILA-P16; he is re-anchored here on the classification-and-architecture axis — engaging the "partial accord" thesis, not the three-school *jietǐ* framing of P16.
 
-[^17]: Ann Heirman, *Rules for Nuns according to the Dharmaguptakavinaya*, 3 vols. (Delhi: Motilal Banarsidass, 2002). In copyright; engaged through paraphrase and page-reference citation. Individual article venues to be verified before citing.
+[^17]: Ann Heirman, *Rules for Nuns according to the Dharmaguptakavinaya*, 3 vols. (Delhi: Motilal Banarsidass, 2002). Engaged through paraphrase.
 
 [^18]: Wang Jianguang (王建光), *Zhongguo lüzong tongshi* (中國律宗通史, *A Comprehensive History of the Chinese Vinaya School*) (Nanjing: Phoenix Publishing House, 2008). In copyright; engaged through paraphrase. (Title verified; not *Zhongguo lüzong sixiang yanjiu*.)
 
@@ -299,7 +311,7 @@ A methodological hallmark of this project is to mark, in each paper, the red lin
 ### Modern Scholarship
 
 - Heirman, Ann. *Rules for Nuns according to the Dharmaguptakavinaya.* 3 vols. Delhi: Motilal Banarsidass, 2002. (In copyright; engaged through paraphrase.)
-- Newhall, Thomas. "A Study of the Concept of *Jieti* (戒體) in Daoxuan's (596–667) Vinaya Commentaries." *Journal of Chinese Buddhist Studies* 27 (2014): 181–208 (pagination to be verified); and the lecture "Partially in Accord with the Greater Vehicle." (Open access; engaged through close paraphrase.)
+- Newhall, Thomas. "A Study of the Concept of *Jieti* (戒體) in Daoxuan's (596–667) Vinaya Commentaries." *Journal of Chinese Buddhist Studies* 27 (2014): 181–208; and the 2021 Buddhist Studies at Oxford lecture "Partially in Accord with the Greater Vehicle: Reading the Four-Part Vinaya as a Mahāyāna Text in Daoxuan's Commentaries." (Engaged through close paraphrase.)
 - Satō Tatsugen (佐藤達玄). *Chūgoku bukkyō ni okeru kairitsu no kenkyū* (*Studies on the Vinaya in Chinese Buddhism*). Tokyo: Mokujisha, 1986. (Japanese; engaged through paraphrase.)
 - Wang Jianguang (王建光). *Zhongguo lüzong tongshi* (*A Comprehensive History of the Chinese Vinaya School*). Nanjing: Phoenix Publishing House, 2008. (Chinese; engaged through paraphrase.)
 
@@ -326,7 +338,7 @@ A methodological hallmark of this project is to mark, in each paper, the red lin
 - **SILA-P16** *Three Schools on the Nature of Precept-Substance* — the material / neither-form-nor-mind / seed ontology is P16's main scene; the present paper takes only the "substance-received" as structural placement, and re-situates Daoxuan's "Perfect-Teaching seed" as the *third school of his classification*, read from the architecture-and-classification angle. Newhall moved from P16's *jietǐ*-doctrine slot to P17's classification-and-architecture slot (explicit cross-reference, footnote 16). The T1805 byline erratum lock carries forward here.
 - **SILA-P09 / P10 / P11** (the Part III vinaya papers) — P10 / P11 cited Daoxuan as an indigenous-reception anchor; P17 is the dedicated treatment of his compendium. (P11's T1805 byline mis-attribution is corrected in this paper.)
 
-### Within Volume IV SĪLA, forthcoming
+### Within Volume IV SĪLA
 
 - **SILA-P18** *Precept-Substance and the Afflicted Mind* — the seed / perfuming / *manas* / transformation-of-the-basis mechanics of the substance-received; the present paper states only that the substance is founded at receiving and actualized through following, deferring the deeper seed-mechanics to P18.
 

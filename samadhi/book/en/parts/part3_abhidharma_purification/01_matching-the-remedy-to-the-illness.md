@@ -26,7 +26,7 @@ The cabinet also holds a few broad staples. The treatise-masters say that recoll
 
 ### The Northern Tradition's Two Gateways
 
-Here is the interesting thing: the treatise-masters of the northern transmission never read this southern table of assignments, yet walked independently to the same spot. The *Abhidharmakośa* establishes "the two gateways to the deathless" (*amṛta-dvāra*)—two essential doors into cultivation, like the nectar of deathlessness:
+Here is the interesting thing: the treatise-masters of the northern transmission did not take this table over from the south, yet walked to the same spot. The *Abhidharmakośa* establishes "the two gateways to the deathless" (*amṛta-dvāra*)—two essential doors into cultivation, like the nectar of deathlessness:
 
 > The two essential gateways for entering cultivation: the contemplation of foulness and mindfulness of breathing; one in whom greed or discursive thought predominates should cultivate them respectively, in this order.
 

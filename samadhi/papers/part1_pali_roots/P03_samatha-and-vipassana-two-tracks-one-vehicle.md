@@ -10,6 +10,11 @@ part: Part I · Pāli Roots
 part_number: 1
 date: 2026-05-31
 version: "1.0"
+canonical_source:
+  - "T01n0026"
+  - "T02n0099"
+  - "T02n0125"
+  - "T29n1558"
 license: CC BY-NC-SA 4.0
 ---
 
@@ -168,8 +173,8 @@ But to see how this cart actually moves, one must first unscrew one of its wheel
 
 [^12]: The counter-evidence of wisdom-liberation was cited in the previous chapter (P02) from the angle "liberation is not bound to the depth of concentration"; this chapter revisits it from the angle "how the two tracks combine within one liberation." As for the commentarial dispute over whether wisdom-liberation requires momentary or access concentration, this chapter marks it a boundary case and sets it aside, leaving it for the later part of the volume that handles the systematisation of concentration.
 
-[^13]: For the methodological caution see Robert Sharf, "Buddhist Modernism and the Rhetoric of Meditative Experience" (venue to be verified). His admonition: do not take the canon's set descriptions of *jhāna* as transparent reports of inner experience.
-[^14]: Page numbers for the three interlocutors are omitted; only author and work are given: Richard Shankman, *The Experience of Samādhi*; Keren Arbel, *Early Buddhist Meditation: The Four Jhānas as the Actualization of the Path* (Routledge, 2017; subtitle to be verified); Grzegorz Polak, *Reexamining Jhāna*; L. S. Cousins, "Samatha-yāna and Vipassanā-yāna." All positions are paraphrased, none quoted verbatim.
+[^13]: For the methodological caution see Robert H. Sharf, "Buddhist Modernism and the Rhetoric of Meditative Experience," *Numen* 42, no. 3 (1995): 228–283. His admonition: do not take the canon's set descriptions of *jhāna* as transparent reports of inner experience.
+[^14]: Page numbers for the interlocutors are omitted; only author and work are given: Richard Shankman, *The Experience of Samādhi*; Keren Arbel, *Early Buddhist Meditation: The Four Jhānas as the Actualization of Insight* (Routledge, 2017); Grzegorz Polak, *Reexamining Jhāna*; L. S. Cousins, "Samatha-yāna and Vipassanā-yāna." All positions are paraphrased, none quoted verbatim.
 ---
 
 ## References
@@ -190,11 +195,11 @@ But to see how this cart actually moves, one must first unscrew one of its wheel
 
 ### Modern Scholarship
 
-- Arbel, Keren. *Early Buddhist Meditation: The Four Jhānas as the Actualization of the Path*. Routledge, 2017. (Subtitle to be verified.)
+- Arbel, Keren. *Early Buddhist Meditation: The Four Jhānas as the Actualization of Insight*. Routledge, 2017.
 - Cousins, L. S. "Samatha-yāna and Vipassanā-yāna."
 - Polak, Grzegorz. *Reexamining Jhāna*.
 - Shankman, Richard. *The Experience of Samādhi*.
-- Sharf, Robert. "Buddhist Modernism and the Rhetoric of Meditative Experience." (Venue to be verified.)
+- Sharf, Robert H. "Buddhist Modernism and the Rhetoric of Meditative Experience." *Numen* 42, no. 3 (1995): 228–283.
 
 ---
 

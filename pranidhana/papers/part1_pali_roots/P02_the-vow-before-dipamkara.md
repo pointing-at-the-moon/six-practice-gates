@@ -1,15 +1,21 @@
 ---
 title: "The Vow before Dīpaṃkara: Sumedha's Aspiration"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 6 — PRAṆIDHĀNA: Aspiration and the Vow, from Pāli Roots to Samantabhadra · Part I · Pāli Roots"
-series_short: PRAṆIDHĀNA
+series_short: "PRAṆIDHĀNA"
 volume: 6
-paper_id: PRANIDHANA-P02
+paper_id: "PRANIDHANA-P02"
 paper_number: 2
 part: Part I · Pāli Roots
 part_number: 1
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T02n0125"
+  - "T03n0152"
+  - "T03n0189"
+  - "T08n0235"
+  - "T25n1509"
 license: CC BY-NC-SA 4.0
 ---
 

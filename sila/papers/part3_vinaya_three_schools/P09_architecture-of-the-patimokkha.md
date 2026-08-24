@@ -1,12 +1,32 @@
 ---
 title: Architecture of the Pāṭimokkha
 subtitle: A Self-Legislating Casuistic Case Law
-volume: 戒門 SĪLA
+volume: 4
 paper_id: "SILA-P09"
-paper_number: P09
+paper_number: 9
 language: en
+series_short: "SĪLA"
+part_number: 3
 date: 2026-05-19
 author: "釋慧鏡 (Shi Huijing)"
+canonical_source:
+  - "T01n0001"
+  - "T22n1428"
+  - "T22n1429"
+  - "T25n1509"
+  - "T29n1558"
+  - "T31n1605"
+  - "T31n1606"
+  - "T32n1646"
+  - "T40n1804"
+  - "T40n1811"
+  - "T46n1911"
+  - "T54n2125"
+  - "AN11.1"
+  - "AN4.245"
+  - "Vin_Cv_XII"
+  - "Vin_Suttavibhanga_Pacittiya"
+  - "Vin_Suttavibhanga_Parajika"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 ---
@@ -141,7 +161,7 @@ The *Abhidharma-samuccaya* at fascicle 4 separately enumerates the eightfold *pr
 
 Buddhaghosa's *Visuddhimagga* (fifth century), at its opening Chapter I *Sīla-niddesa*, establishes the canonical Theravāda framework for the analysis of *sīla*: the fourfold purification-virtue (*catu-pārisuddhi-sīla*).[^14] The four are: (1) *pāṭimokkha-saṃvara-sīla* — restraint by the *Pāṭimokkha*; (2) *indriya-saṃvara-sīla* — restraint of the sense-faculties; (3) *ājīva-pārisuddhi-sīla* — purity of livelihood; (4) *paccaya-sannissita-sīla* — virtue concerning the use of the four requisites (robes, food, dwelling, medicines). Buddhaghosa positions the *Pāṭimokkha*-restraint at the *first* of the four — the foundational position. On the Theravāda commentarial reading developed in the *Visuddhimagga* and its sub-commentarial tradition, the *Pāṭimokkha*-restraint is the foundation upon which the remaining three rest: sense-faculty restraint is the *Pāṭimokkha*-restraint extended inward to the mental level; livelihood-purity is the *Pāṭimokkha*-restraint extended to the economic level; requisite-use restraint is the *Pāṭimokkha*-restraint extended to the daily-life utility level. The architectural reading is unambiguous: in the Theravāda commentarial system, the *Pāṭimokkha* is the bedrock of all *sīla*-cultivation.
 
-(A note on citation discipline: chapter-level reference to *Visuddhimagga* Ch I is given here; paragraph-level numbering — e.g. Ñāṇamoli's BPS edition section numbers — is pending verification against the physical edition and is not supplied at pseudo-precise granularity.)
+(Citation discipline: the reference to *Visuddhimagga* Chapter I is chapter-level; uncollated paragraph numbers are intentionally omitted.)
 
 ### V.4 Chinese Commentarial Cross-Mirror: Tiantai Threefold and Two Independent Etymologies
 
@@ -203,7 +223,7 @@ The present paper inherits from P08 (*sīla-gandha*) the social-domain framing o
 
 [^13]: *Abhidharma-samuccaya*: CBETA *Taishō* T31 No. 1605, fascicle 4, composed by Asaṅga, translated by Xuanzang, Tang Yong-hui 3 (652 CE), p.0683a. *Abhidharma-samuccaya-vyākhyā*: CBETA *Taishō* T31 No. 1606, fascicle 8, composed by Sthiramati, translated by Xuanzang, Tang Zhen-guan 20–22 (646–648 CE), p.0736b. The "separately-separately guarding all the restraints, thereby called the *prātimokṣa*-restraint" clause is at T1606 fascicle 8.
 
-[^14]: Buddhaghosa, *Visuddhimagga* Ch I *Sīla-niddesa*. English: Bhikkhu Ñāṇamoli (trans.), *The Path of Purification: Visuddhimagga* (4th ed., Buddhist Publication Society, 2010), Ch I. The *catu-pārisuddhi-sīla* fourfold framework — *pāṭimokkha-saṃvara*, *indriya-saṃvara*, *ājīva-pārisuddhi*, *paccaya-sannissita* — places *pāṭimokkha-saṃvara* at the first position. Paragraph-level references pending physical-edition verification; chapter-level reference only is supplied here.
+[^14]: Buddhaghosa, *Visuddhimagga* Ch I *Sīla-niddesa*. English: Bhikkhu Ñāṇamoli (trans.), *The Path of Purification: Visuddhimagga* (4th ed., Buddhist Publication Society, 2010), Ch I. The *catu-pārisuddhi-sīla* fourfold framework — *pāṭimokkha-saṃvara*, *indriya-saṃvara*, *ājīva-pārisuddhi*, *paccaya-sannissita* — places *pāṭimokkha-saṃvara* first. This is a chapter-level citation; uncollated paragraph numbers are omitted.
 
 [^15]: Zhiyi, *Bodhisattvaśīla-vyākhyā* (《菩薩戒義疏》): CBETA *Taishō* T40 No. 1811. *Mahā-śamatha-vipaśyanā* (《摩訶止觀》) fascicle 4: CBETA *Taishō* T46 No. 1911. Zhiyi establishes the threefold pure precept-collection (三聚淨戒) — *saṃvara-śīla*, *kuśaladharma-saṃgrāhaka-śīla*, *sattvārthakriyā-śīla* — and places the *prātimokṣa*-precept content within the first member. The full unfolding of the threefold pure precept-collection architecture, particularly its bodhisattva-precept context, is deferred to P12.
 
@@ -281,9 +301,11 @@ The present paper inherits from P08 (*sīla-gandha*) the social-domain framing o
 
 ---
 
-*CBETA collation:* Pāli anchors — *Suttavibhaṅga* Pārājika 2 *Adinnādāna* (PTS Vin iii 45 · SuttaCentral `pli-tv-bu-vb-pj2`), Pācittiya 72 *Vilekhana-sikkhāpada* (PTS Vin iv 142 · `pli-tv-bu-vb-pc72`), Pācittiya 1 *anāpatti* clause (PTS Vin iv 2 · `pli-tv-bu-vb-pc1`), *Cullavagga* XII *Sattasatika-kkhandhaka* (PTS Vin ii 305 · `pli-tv-kd22`), *Dīgha-nikāya* 16 *Mahāparinibbāna-sutta* §6.3 (PTS DN ii 154 · `pli-tv-dn-16`), and *Aṅguttara-nikāya* 4.245 *Sikkhānisaṁsa* (PTS AN ii 243 · `an4.245`) are cited from the *Mahāsaṅgīti Tipiṭaka Buddhavasse 2500* CC0 edition with Brahmali / Sujato CC0 English translations cited inline where verbatim. *Mahāvagga* II.3 *Pāṭimokkhuddesa* (institution-of-recitation), the standalone *Bhikkhu Pāṭimokkha* (`pli-tv-bu-pm`), and the *Saṅghādisesa* (13) / *Aniyata* (2) / *Nissaggiya-pācittiya* (30) / *Pāṭidesanīya* (4) / *Sekhiya* (75) / *Adhikaraṇa-samatha* (7) categories — together with the five sutta-side *pāṭimokkha-saṁvara* pericope locations (DN 2 / DN 33 / MN 27 / MN 38 / MN 51) — are cited by PTS reference only; they are never blockquoted. Chinese anchors — *Dīrgha-āgama* (T0001 — the systematic 22-fascicle review confirming the lexical zero-occurrence of 波羅提木叉 in *sutta*-genre against high frequency in *vinaya*-genre, a finding of the Buddhayaśas–Zhu Fonian translation-venue's self-conscious *sutta*-vs-*vinaya* register discipline), *Sifenlü Bhikkhu-vibhaṅga* (T1428 fascicle 1 序分 *dasa atthavase paṭicca* ten-purposes institutional rationale at T22 p.0570c19 + fascicle 54 First-Council ordering of the eight categories + fascicle 58 operational seven-*adhikaraṇa-samatha* expansion), *Sifenlü Bhikkhu Pāṭimokkha-sūtra* (T1429 — the eightfold *ardhamāsa-uddesa* "half-month-by-half-month, drawn from the *Vinaya-sūtra*" framing-formula occurring once per category and once in the closing summation, the East Asian standard recitation text), *Mahāprajñāpāramitā-śāstra* (T1509 fascicle 13 戒度章 — treated in passing; the full treatment belongs to P13), *Abhidharmakośa-bhāṣya* (**T1558 fascicle 14 Vasubandhu / Xuanzang trans. — the present paper's single strongest doctrinal anchor at T29 p.0072b–c, the three-verse triad of three-*saṃvara* taxonomy + eightfold *prātimokṣa-saṃvara* + five–eight–ten–full ordination ladder**), *Abhidharma-samuccaya* (T1605 fascicle 4 Asaṅga / Xuanzang trans. — three-restraint enumeration + eight-member *prātimokṣa-saṃvara* list at T31 p.0683a), *Abhidharma-samuccaya-vyākhyā* (T1606 fascicle 8 Sthiramati / Xuanzang trans. — the "*prāti*-as-each-each protection" etymological gloss at T31 p.0736b), *Sifenlü-xingshichao* (**T1804 fascicle 下 Dàoxuān — the "*sthāna-sthāna-mokṣa* / everywhere-liberation" etymological gloss at T40 p.0050c04 + the 五篇 / 七聚 framework at T40 p.0046b — treated in passing; the full treatment belongs to P17**), *Bodhisattva-precept Commentary* (T1811 Zhìyǐ — "*pāṭimokkha* as *bǎo-dé-jiětuō* / liberation-secured" etymological gloss at T40 p.0580c19), *Mohe-zhiguan* (T1911 fascicle 4 Zhìyǐ — same "*bǎo-dé-jiětuō*" gloss reconfirmed at T46 p.0037c06 + the *xìng-jiè* / *zhē-jiè* distinction), *Nanhai-jigui-neifa-zhuan* (T2125 Yijing — late-seventh-century Nālandā fortnightly-recitation eyewitness at T54 p.0211c25 · CBETA XML directly verified) — all citations verified against CBETA Electronic Tripiṭaka 2024. *Visuddhimagga* Chapter I *Sīla-niddesa* (Buddhaghosa, fifth century) is paraphrased at chapter-section level only, with English direct quotations of fifteen words or fewer attributed to Bhikkhu Ñāṇamoli's *Path of Purification* (Buddhist Publication Society, fourth edition); paragraph numbers pending physical-edition collation. **Philological corrigendum:** T1646 is Harivarman's *Tattvasiddhi-śāstra* 《成實論》(Kumārajīva trans.), NOT *Abhidharmakośa-bhāṣya*; Xuanzang's *Kośa* translation is T1558, the canonical Sarvāstivāda anchor cited throughout §V.1 of the present paper.
+*CBETA collation:* Pāli anchors — *Suttavibhaṅga* Pārājika 2 *Adinnādāna* (PTS Vin iii 45 · SuttaCentral `pli-tv-bu-vb-pj2`), Pācittiya 72 *Vilekhana-sikkhāpada* (PTS Vin iv 142 · `pli-tv-bu-vb-pc72`), Pācittiya 1 *anāpatti* clause (PTS Vin iv 2 · `pli-tv-bu-vb-pc1`), *Cullavagga* XII *Sattasatika-kkhandhaka* (PTS Vin ii 305 · `pli-tv-kd22`), *Dīgha-nikāya* 16 *Mahāparinibbāna-sutta* §6.3 (PTS DN ii 154 · `pli-tv-dn-16`), and *Aṅguttara-nikāya* 4.245 *Sikkhānisaṁsa* (PTS AN ii 243 · `an4.245`) are cited from the *Mahāsaṅgīti Tipiṭaka Buddhavasse 2500* CC0 edition with Brahmali / Sujato CC0 English translations cited inline where verbatim. *Mahāvagga* II.3 *Pāṭimokkhuddesa* (institution-of-recitation), the standalone *Bhikkhu Pāṭimokkha* (`pli-tv-bu-pm`), and the *Saṅghādisesa* (13) / *Aniyata* (2) / *Nissaggiya-pācittiya* (30) / *Pāṭidesanīya* (4) / *Sekhiya* (75) / *Adhikaraṇa-samatha* (7) categories — together with the five sutta-side *pāṭimokkha-saṁvara* pericope locations (DN 2 / DN 33 / MN 27 / MN 38 / MN 51) — are cited by PTS reference only; they are never blockquoted. Chinese anchors — *Dīrgha-āgama* (T0001 — the systematic 22-fascicle review confirming the lexical zero-occurrence of 波羅提木叉 in *sutta*-genre against high frequency in *vinaya*-genre, a finding of the Buddhayaśas–Zhu Fonian translation-venue's self-conscious *sutta*-vs-*vinaya* register discipline), *Sifenlü Bhikkhu-vibhaṅga* (T1428 fascicle 1 序分 *dasa atthavase paṭicca* ten-purposes institutional rationale at T22 p.0570c19 + fascicle 54 First-Council ordering of the eight categories + fascicle 58 operational seven-*adhikaraṇa-samatha* expansion), *Sifenlü Bhikkhu Pāṭimokkha-sūtra* (T1429 — the eightfold *ardhamāsa-uddesa* "half-month-by-half-month, drawn from the *Vinaya-sūtra*" framing-formula occurring once per category and once in the closing summation, the East Asian standard recitation text), *Mahāprajñāpāramitā-śāstra* (T1509 fascicle 13 戒度章 — treated in passing; the full treatment belongs to P13), *Abhidharmakośa-bhāṣya* (**T1558 fascicle 14 Vasubandhu / Xuanzang trans. — the present paper's single strongest doctrinal anchor at T29 p.0072b–c, the three-verse triad of three-*saṃvara* taxonomy + eightfold *prātimokṣa-saṃvara* + five–eight–ten–full ordination ladder**), *Abhidharma-samuccaya* (T1605 fascicle 4 Asaṅga / Xuanzang trans. — three-restraint enumeration + eight-member *prātimokṣa-saṃvara* list at T31 p.0683a), *Abhidharma-samuccaya-vyākhyā* (T1606 fascicle 8 Sthiramati / Xuanzang trans. — the "*prāti*-as-each-each protection" etymological gloss at T31 p.0736b), *Sifenlü-xingshichao* (**T1804 fascicle 下 Dàoxuān — the "*sthāna-sthāna-mokṣa* / everywhere-liberation" etymological gloss at T40 p.0050c04 + the 五篇 / 七聚 framework at T40 p.0046b — treated in passing; the full treatment belongs to P17**), *Bodhisattva-precept Commentary* (T1811 Zhìyǐ — "*pāṭimokkha* as *bǎo-dé-jiětuō* / liberation-secured" etymological gloss at T40 p.0580c19), *Mohe-zhiguan* (T1911 fascicle 4 Zhìyǐ — same "*bǎo-dé-jiětuō*" gloss reconfirmed at T46 p.0037c06 + the *xìng-jiè* / *zhē-jiè* distinction), *Nanhai-jigui-neifa-zhuan* (T2125 Yijing — late-seventh-century Nālandā fortnightly-recitation eyewitness at T54 p.0211c25 · CBETA XML directly verified) — all citations verified against CBETA Electronic Tripiṭaka 2024. *Visuddhimagga* Chapter I *Sīla-niddesa* (Buddhaghosa, fifth century) is paraphrased at chapter-section level only; uncollated paragraph numbers are omitted. **Philological corrigendum:** T1646 is Harivarman's *Tattvasiddhi-śāstra* 《成實論》(Kumārajīva trans.), NOT *Abhidharmakośa-bhāṣya*; Xuanzang's *Kośa* translation is T1558, the canonical Sarvāstivāda anchor cited throughout §V.1 of the present paper.
 
 **Author:** 釋慧鏡 (Shi Huijing)
 **Project:** 指月 Point-to-the-moon · 六行門 Six Practice Gates
 **License:** CC BY-NC-SA 4.0
 **Repository:** github.com/pointing-at-the-moon/six-practice-gates
+
+*CBETA collation: see the detailed source-collation note above.*

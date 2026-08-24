@@ -1,16 +1,18 @@
 ---
 title: "Nāgārjuna and the Bodhisattva's Vow-Power"
 title_en: "Nāgārjuna and the Bodhisattva's Vow-Power"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 6 — PRAṆIDHĀNA: Aspiration and the Vow, from Pāli Roots to Samantabhadra · Part III · Vow as a Perfection"
-series_short: PRAṆIDHĀNA
+series_short: "PRAṆIDHĀNA"
 volume: 6
-paper_id: PRANIDHANA-P08
+paper_id: "PRANIDHANA-P08"
 paper_number: 8
 part: Part III · Vow as a Perfection
 part_number: 3
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T25n1509"
 license: CC BY-NC-SA 4.0
 ---
 

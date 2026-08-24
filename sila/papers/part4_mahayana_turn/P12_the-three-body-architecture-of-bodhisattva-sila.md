@@ -1,15 +1,29 @@
 ---
 title: The Three-Body Architecture of Bodhisattva Sīla
 subtitle: Asaṅga's Three-Fold Structural Invention and Its Chinese Reception
-volume: 戒門 SĪLA
+volume: 4
 paper_id: "SILA-P12"
-paper_number: P12
+paper_number: 12
 language: en
+series_short: "SĪLA"
+part_number: 4
 date: 2026-05-21
 author: "釋慧鏡 (Shi Huijing)"
+canonical_source:
+  - "T24n1485"
+  - "T25n1509"
+  - "T30n1579"
+  - "T30n1581"
+  - "T30n1582"
+  - "T31n1606"
+  - "T40n1804"
+  - "T40n1811"
+  - "T40n1812"
+  - "AN8.39"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
-abstract_en: "The 'three clusters of pure precepts' (sānjù jìngjiè 三聚淨戒) — Mahāyāna Buddhism's most influential structural reframing of monastic ethics — has received remarkably little focused analysis in Western Buddhist studies. This paper argues that the three clusters are not a list of three rules but a three-dimensional architectural design for bodhisattva ethics: the restraint cluster (saṃvara-śīla) inherits the seven-fold prātimokṣa as its structural foundation; the accumulation-of-virtue cluster (kuśala-dharma-saṃgrāhaka-śīla) brings the totality of bodhisattva practice within the precept's purview; and the sattva-welfare cluster (sattvārtha-kriyā-śīla) names the benefit of all sentient beings as the defining dimension of the bodhisattva precepts. Two philological findings are advanced. First, the four-character compound sānjù jìngjiè itself appears in none of the three primary transmission texts (T1581, T1582, T1485); it stabilizes only in the Chinese commentarial layer — Zhiyi (538–597) and Daoxuan (596–667) organize the framework as the "three clusters," and the fixed four-character compound is attested in Mingkuang's Tang-era *Tiantai pusa jie shu* (T1812). Second, T1581 (Dharmakṣema) and T1582 (Guṇavarman), translated from the same Sanskrit Bodhisattvabhūmi, employ almost entirely non-overlapping nomenclatures; T1582 supplies not the names but the strongest doctrinal argument — the Upāli dialogue — for the third cluster's defining status. A three-way dialogue with Funayama Toru, Michael Zimmermann, and Charles Goodman situates the contribution. Mingkuang's Tiantai pusa jie shu (T1812) supplies the paper's eponymous title: an explicit mapping of the three clusters onto the three bodies (trikāya) of Buddhahood, recasting precept-classification as a structural map of the entire bodhisattva path."
+abstract_en: >-
+  The 'three clusters of pure precepts' (sānjù jìngjiè 三聚淨戒) — Mahāyāna Buddhism's most influential structural reframing of monastic ethics — has received remarkably little focused analysis in Western Buddhist studies. This paper argues that the three clusters are not a list of three rules but a three-dimensional architectural design for bodhisattva ethics: the restraint cluster (saṃvara-śīla) inherits the seven-fold prātimokṣa as its structural foundation; the accumulation-of-virtue cluster (kuśala-dharma-saṃgrāhaka-śīla) brings the totality of bodhisattva practice within the precept's purview; and the sattva-welfare cluster (sattvārtha-kriyā-śīla) names the benefit of all sentient beings as the defining dimension of the bodhisattva precepts. Two philological findings are advanced. First, the four-character compound sānjù jìngjiè itself appears in none of the three primary transmission texts (T1581, T1582, T1485); it stabilizes only in the Chinese commentarial layer — Zhiyi (538–597) and Daoxuan (596–667) organize the framework as the "three clusters," and the fixed four-character compound is attested in Mingkuang's Tang-era *Tiantai pusa jie shu* (T1812). Second, T1581 (Dharmakṣema) and T1582 (Guṇavarman), translated from the same Sanskrit Bodhisattvabhūmi, employ almost entirely non-overlapping nomenclatures; T1582 supplies not the names but the strongest doctrinal argument — the Upāli dialogue — for the third cluster's defining status. A three-way dialogue with Funayama Toru, Michael Zimmermann, and Charles Goodman situates the contribution. Mingkuang's Tiantai pusa jie shu (T1812) supplies the paper's eponymous title: an explicit mapping of the three clusters onto the three bodies (trikāya) of Buddhahood, recasting precept-classification as a structural map of the entire bodhisattva path.
 ---
 
 # The Three-Body Architecture of Bodhisattva Sīla

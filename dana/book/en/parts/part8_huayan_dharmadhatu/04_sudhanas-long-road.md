@@ -48,4 +48,4 @@ Sudhana has walked to the road's end and entered Samantabhadra's body. Then this
 
 Is it a place where giving has been left behind and only lofty metaphysics remains? Or is this end precisely giving itself, stretched into its final form?
 
-The next chapter is the true end of this road, and of this book. Samantabhadra will say it with his own mouth, setting "dharma" and "giving" equal.
+The next chapter is the true end of this road, and of this book. Samantabhadra will trace every letter and phrase of his ocean of dharma to relinquishing; this book will then read that passage together with Fazang's teaching on mutual inclusion and propose the Huayan formulation "the Dharma itself is giving."

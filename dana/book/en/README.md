@@ -3,6 +3,10 @@
 
 The English edition of **《施——從巴利之根到法界供養》** by 釋慧鏡 (Shi Huijing) — Volume 2 of the **Six Practice Gates** (六行門).
 
+**Author:** 釋慧鏡 (Shi Huijing)
+
+[Methodology and disclosure](https://waken.org/methodology/)
+
 > Giving (*dāna*) was never a transaction of merit. It is the long work of loosening, inch by inch, the hand that grips "mine" — a road that runs from the plainest letting-go (*cāga*) the Buddha taught His householders, all the way to the dharma-offering of the Flower Ornament's whole dharma-realm.
 
 This is the accessible *book* layer, rendered into English from the Chinese edition and term-anchored to the bilingual scholarly corpus in this repository (`dana/papers/`, P01–P31). It lives here at `dana/book/en/`, a part-for-part parallel of the Chinese book under `dana/book/`.

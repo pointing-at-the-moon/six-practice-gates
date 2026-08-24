@@ -3,12 +3,21 @@ title: "Vimalakīrti's Deconstructive Moves on Conventional Sīla"
 subtitle: "The Offence Neither Inside Nor Outside, and What 'Upholding the Vinaya' Comes to Mean"
 title_zh: 維摩詰對形式戒之解構
 subtitle_zh: 罪性不在內外中間與「是名奉律」
-volume: 戒門 SĪLA
+volume: 4
 paper_id: "SILA-P22"
-paper_number: P22
+paper_number: 22
 language: en
+series_short: "SĪLA"
+part_number: 7
 date: 2026-05-30
 author: "釋慧鏡 (Shi Huijing)"
+canonical_source:
+  - "T09n0277"
+  - "T14n0475"
+  - "T14n0476"
+  - "T38n1775"
+  - "T38n1776"
+  - "T38n1778"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷四 戒
@@ -175,9 +184,9 @@ This chapter sorts common misreadings from the textual facts, under a three-leve
 
 ❌ **Misreading one: "the nature of the offence is empty, therefore one may transgress."** This reads Vimalakīrti's breaking as a *dispensation*—since emptiness has dissolved the offence, transgression no longer matters. It is the most dangerous misreading and the one most in need of a blow to the head. What Vimalakīrti breaks is "the clinging to the mark of the offence" (the principial-repentance dimension), not the precept itself; the text's three guards (remove it directly / this is upholding the Vinaya / doubt and remorse removed) already deny this reading with one voice. And the old commentators ruled against it long ago. The earliest layer, contemporary with Kumārajīva himself (the *Annotations on the Vimalakīrti Sūtra*, by Kumārajīva and Sengzhao), says:
 
-> 什曰：罪本無相而橫為生相，是為妄想。妄想自生垢耳，非理之咎也。肇曰：優波離分別罪相欲以除垢，罪本無相而妄生罪相，乃更增〔其垢〕。
-> *"Kumārajīva says: The offence is originally without mark, yet one perversely generates a mark for it—this is deluded thought. It is deluded thought alone that generates the defilement; the fault does not lie in the principle [of the discipline]. Sengzhao says: Upāli, discriminating the mark of the offence, wished thereby to remove the defilement; but the offence being originally without mark, to falsely generate a mark of the offence only adds [further to the defilement]."*
-> — *Annotations on the Vimalakīrti Sūtra* (注維摩詰經), Kumārajīva and Sengzhao, T38n1775, p0356a24–a26
+> 什曰：罪本無相而橫為生相，是為妄想。妄想自生垢耳，非理之咎也。肇曰：優波離分別罪相欲以除垢，罪本無相而妄生罪相，乃更增塵垢也。
+> *"Kumārajīva says: The offence is originally without mark, yet one perversely generates a mark for it—this is deluded thought. It is deluded thought alone that generates the defilement; the fault does not lie in the principle [of the discipline]. Sengzhao says: Upāli, discriminating the mark of the offence, wished thereby to remove the defilement; but the offence being originally without mark, falsely generating a mark of offence only increases defilement."*
+> — *Annotations on the Vimalakīrti Sūtra* (注維摩詰經), Kumārajīva and Sengzhao, T38n1775, p0356a24–a27
 
 "The fault does not lie in the principle"—what is broken is only the falsely generated mark of the offence; the "Vinaya" (the principle) itself is wholly without fault. Sengzhao puts it more pointedly still: Upāli, discriminating the mark of the offence in the hope of removing the defilement, "only adds" to the defilement instead. This corroborates the text's "do not add further to the offence of these two monks" exactly.
 

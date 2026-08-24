@@ -1,16 +1,21 @@
 ---
 title: "The Bodhisattva Does Not Enter Final Nirvāṇa: Vow as the Refusal of the Cul-de-Sac"
 title_en: "The Bodhisattva Does Not Enter Final Nirvāṇa: Vow as the Refusal of the Cul-de-Sac"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 6 — PRAṆIDHĀNA: Aspiration and the Vow, from Pāli Roots to Samantabhadra · Part VII · Vow and Emptiness"
-series_short: PRAṆIDHĀNA
+series_short: "PRAṆIDHĀNA"
 volume: 6
-paper_id: PRANIDHANA-P18
+paper_id: "PRANIDHANA-P18"
 paper_number: 18
 part: Part VII · Vow and Emptiness
 part_number: 7
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T14n0475"
+  - "T25n1509"
+  - "T31n1585"
+  - "T31n1594"
 license: CC BY-NC-SA 4.0
 ---
 

@@ -1,15 +1,20 @@
 ---
 title: "Adhiṭṭhāna and the Resolve of the Bodhisatta"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 6 — PRAṆIDHĀNA: Aspiration and the Vow, from Pāli Roots to Samantabhadra · Part I · Pāli Roots"
-series_short: PRAṆIDHĀNA
+series_short: "PRAṆIDHĀNA"
 volume: 6
-paper_id: PRANIDHANA-P03
+paper_id: "PRANIDHANA-P03"
 paper_number: 3
 part: Part I · Pāli Roots
 part_number: 1
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T01n0026"
+  - "T25n1509"
+  - "T26n1521"
+  - "T30n1579"
 license: CC BY-NC-SA 4.0
 ---
 

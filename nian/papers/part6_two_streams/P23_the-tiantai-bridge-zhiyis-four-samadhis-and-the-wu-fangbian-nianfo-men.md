@@ -10,6 +10,17 @@ part: "Part VI · Two Streams"
 part_number: 6
 date: "2026-05-04"
 version: "1.0"
+canonical_source:
+  - "T08n0232"
+  - "T13n0418"
+  - "T37n1750"
+  - "T37n1751"
+  - "T37n1753"
+  - "T46n1911"
+  - "T47n1962"
+  - "T48n2016"
+  - "T48n2017"
+  - "X05n0229"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -17,7 +28,7 @@ license: "CC BY-NC-SA 4.0"
 
 **Zhiyi's Four Samādhis and the *Wu-fangbian-nianfo-men***
 
-**Classificatory Bridge, Not Synthesis: Three Strata of Tiantai Doxography on Buddha-Recollection — Part VI's Fourth Paper on the Two Streams**
+*Classificatory Bridge, Not Synthesis: Three Strata of Tiantai Doxography on Buddha-Recollection — Part VI's Fourth Paper on the Two Streams*
 
 *中文主題：天台橋樑：智顗之四種三昧與《五方便念佛門》*
 
@@ -341,7 +352,6 @@ This perfect-teaching positioning of *niànfó*, in the late sixth century, is t
 
 > **Pointing at the Moon Research · Six Practice Gates, Volume One: *Mindful of the Buddha* · Part VI Two Streams · 6.3**
 > Shi Huijing (釋慧鏡)
-> First draft, May 2026
 > This work is licensed under CC BY-NC-SA 4.0
 
 

@@ -10,6 +10,29 @@ part: "Part VII · The Flower Ornament Vision"
 part_number: 7
 date: "2026-05-02"
 version: "1.0"
+canonical_source:
+  - "T01n0001"
+  - "T01n0026"
+  - "T02n0099"
+  - "T09n0262"
+  - "T09n0277"
+  - "T10n0293"
+  - "T16n0663"
+  - "T18n0866"
+  - "T18n0897"
+  - "T22n1421"
+  - "T25n1509"
+  - "T30n1564"
+  - "T31n1585"
+  - "T42n1824"
+  - "T42n1827"
+  - "T46n1911"
+  - "T46n1941"
+  - "T47n1980"
+  - "X05n0227"
+  - "X05n0229"
+  - "AN5.36"
+  - "AN8.36"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -288,7 +311,7 @@ This paper's philological cautions are five. Four are addressed in full (C.1–C
 
 **❌ C.1: The treatise-layer concept of *karmic obstruction* must not be retroactively imposed on the *sūtra* layer.** In T0293 fascicle forty as a whole, the term *karmic obstruction* (*yèzhàng* 業障) appears only three times in the surface text (the chapter list, vow four's main exposition heading, and the vow-king's general-summary-of-merit passage). **The *sūtra* itself offers no definition.** The sūtra's reference for *karmic obstruction* is restricted to the *extensional* description *unwholesome deeds committed by body, speech, and mind through the three poisons of greed, hatred, and delusion since beginningless kalpas*. The later treatises and sub-commentaries — Zongmi citing the *Sūtra on the Names of the Buddhas* (*Foming jing*) for the three obstructions (*affliction-obstruction / karmic-obstruction / fruition-obstruction*); the *Chapter on the Excellent Marks* for the four obstructions (*karma / affliction / fruition / view*); the Yogācāra two-obstruction schema (*affliction-obstruction / cognitive-obstruction*) — represent a layered framework expansion. **The *sūtra*-layer *karmic obstruction* is not the treatise-layer *karmic obstruction*** — the former is extensional, indicating unwholesome deeds done through the three poisons and three karmas; the latter is the formal taxonomic distinction within a three / four / two-obstruction structure. §III.2 has already noted the dual-track translation fact (*repenting* / *extinguishing*); here the principle is reaffirmed: the framework-distinctions of the treatise layer cannot be retroactively imposed on the *sūtra* layer; the two layers must be allowed to stand together.
 
-**⚠️ C.2: The *three-modes-of-repentance* labels (*marks-grasping / ritual / no-arising*) are Tang-Song retrospective summaries.** The *Sūtra on the Visualisation of Samantabhadra Bodhisattva's Practice-Method* (T0277) is the *locus classicus* of the three modes of repentance (it does set out three classes of repentance practice), but **the *sūtra* itself does not deploy the three labels** *marks-grasping repentance / ritual repentance / no-arising repentance* as a parallel triplet. Zhiyi's *Mohe zhiguan* (T1911) employs the *phenomenal repentance / principial repentance* binary plus the *ten minds / twenty minds* framework, not the three-label triplet. Zongmi's *Detailed Sub-Commentary on the Practice-and-Vow Chapter* cites *"Tiantai says: there are three bodhisattva-dharmas — *the gateway of precepts, the gateway of merit, the gateway of no-arising*"* (X05n0229 line 4751-4756) — this is the formal landing of Zhiyi's three-mode schema in the Huayan context. **Note: the actual term is not *marks-grasping / ritual / no-arising* but *precepts / merit / no-arising*.** The triplet *marks-grasping repentance / ritual repentance / no-arising repentance*, in its parallel form, is most likely a later abbreviation; direct grep on X05n0227 + X05n0229 yields no occurrence. The present paper, when it deploys the three-modes label, supplies a footnote noting *"a later abbreviation; the original Tiantai vocabulary is *precepts / merit / no-arising* in three gateways"*.
+**⚠️ C.2: The *three-modes-of-repentance* labels (*marks-grasping / ritual / no-arising*) are Tang-Song retrospective summaries.** The *Sūtra on the Visualisation of Samantabhadra Bodhisattva's Practice-Method* (T0277) is the *locus classicus* of the three modes of repentance (it does set out three classes of repentance practice), but **the *sūtra* itself does not deploy the three labels** *marks-grasping repentance / ritual repentance / no-arising repentance* as a parallel triplet. Zhiyi's *Mohe zhiguan* (T1911) employs the *phenomenal repentance / principial repentance* binary plus the *ten minds / twenty minds* framework, not the three-label triplet. Zongmi's *Detailed Sub-Commentary on the Practice-and-Vow Chapter* cites *"Tiantai says: there are three bodhisattva-dharmas — *the gateway of precepts, the gateway of merit, the gateway of no-arising*"* (X05n0229 line 4751-4756) — this is the formal landing of Zhiyi's three-mode schema in the Huayan context. **Note: the actual term is not *marks-grasping / ritual / no-arising* but *precepts / merit / no-arising*.** The triplet *marks-grasping repentance / ritual repentance / no-arising repentance*, in its parallel form, is most likely a later abbreviation; direct full-text search of the local CBETA XML for X05n0227 and X05n0229 finds no occurrence. The present paper, when it deploys the three-modes label, supplies a footnote noting *"a later abbreviation; the original Tiantai vocabulary is *precepts / merit / no-arising* in three gateways"*.
 
 **❌ C.3: Early-Buddhist confession is not a transgression-extinguishing mechanism; the Mahāyāna three modes of repentance are not a continuation of early-Buddhist confession — *register shift* must be stated in two registers and never collapsed into a single line of development.** Early-Buddhist confession's outcome is *"the discipline-of-restraint will be established; merit will increase, never to retrogress or diminish"* (the *Saṃyukta-āgama* fascicle fourteen *Susīma* chapter and the *Madhyama-āgama* fascicle five *Śāriputra* chapter, verbatim); confession **generates** future-discipline, **does not erase** the past act. The *Saṃyukta-āgama* fascicle thirty-two *Self-Repentance Chapter* states explicitly: *"although it cannot make that act not have been done, by virtue of this self-repentance, in the world to come one will be free from killing."*[^34] The *Sāmaññaphala-sutta* episode of King Ajātaśatru is the canonical baseline: *mitigation, not erasure* — the act of patricide cannot, ontologically, be made not to have been done, but, by reason of repentance, the future-orientated discipline-of-being-free-from-killing is established. By contrast, the Mahāyāna *Sūtra of Golden Light: Chapter on Repentance* — *"with single-mindedness, in one act of repentance, the gravest unwholesome karma accumulated through a thousand kalpas is wholly extinguished"* (T16n0663, 0337b29-c05)[^35] — represents a **register shift**: the early-Buddhist *future-discipline* register has shifted into the Mahāyāna *retroactive-purification* register.
 
@@ -410,7 +433,7 @@ Repentance and rejoicing-along are the *karma dyad* — one wing toward one's ow
 
 [^34]: *Saṃyukta-āgama* fascicle thirty-two (T0099 fascicle thirty-two), the *Self-Repentance Chapter*. The line *"although it cannot make that act not have been done"* is the textual root of *mitigation, not erasure*.
 
-[^35]: T16n0663, 0337b29-c05; cf. note 6. The principal Mahāyāna-side textual evidence for register shift. The Pāli Vinaya's *yāvatatiyaṁ* (the triple call for self-disclosure of transgression in the *prātimokṣa*) and the *accayo accayato disvā* formula (*the transgression seen as transgression*) are two further early-side reference points for the future-orientation register, pending second-pass verification on SuttaCentral or the PTS edition. The Chinese parallels (the *Saṃyukta-āgama* *Susīma* chapter and the *Madhyama-āgama* *Śāriputra-correlative* chapter) are *verbatim* and serve as the primary anchor footnotes.
+[^35]: T16n0663, 0337b29-c05; cf. note 6. This is the principal Mahāyāna-side textual evidence for the register shift. The verbatim Chinese parallels—the *Saṃyukta-āgama* *Susīma* chapter and the *Madhyama-āgama* *Śāriputra-correlative* chapter—serve as the primary early-side anchors.
 
 [^36]: The *triple-grouping pure precepts* system (*restraint-precepts / wholesome-action-precepts / sentient-being-benefiting-precepts*) is the development of Liang-Chen-period Tiantai, Huayan, and Vinaya-school sub-commentators; it is standardised in the post-Tang period. See Zhiyi's *Bodhisattva Precept Sub-Commentary*, Zhanran's *Auxiliary Practice of Calmness and Insight*, Daoxuan's *Karma Treatise on the Four-Part Vinaya*.
 
@@ -434,7 +457,7 @@ T0293. *Mahāvaipulya-buddhāvataṃsaka-sūtra: The Practice-and-Vow Chapter of
 
 T0663. *Sūtra of Golden Light* (*Suvarṇaprabhāsa-sūtra*). Translated by Dharmakṣema. *Taishō Tripiṭaka* vol. 16.
 
-T1421. *Pañcavargika-vinaya* (*Wǔfēn lǜ*). Translated by Buddhajīva. *Taishō Tripiṭaka* vol. 22.
+T1421. *Pañcavargika-vinaya* (*Wǔfēn lǜ*). Translated by Buddhajīva together with Zhu Daosheng and others. *Taishō Tripiṭaka* vol. 22.
 
 T1509. *Mahāprajñāpāramitā-śāstra* (*Dà zhìdù lùn*). Composed by Nāgārjuna; translated by Kumārajīva. *Taishō Tripiṭaka* vol. 25.
 
@@ -497,10 +520,10 @@ Stevenson, Daniel B. "Protocols of Power: Tz'u-yün Tsun-shih and the Sung Dynas
 | 中阿含 | 《中阿含經》 | 僧伽提婆譯 | T026 | 1 |
 | 雜阿含 | 《雜阿含經》 | 求那跋陀羅譯 | T099 | 2 |
 | 法華經 | 《妙法蓮華經》 | 鳩摩羅什譯 | T262 | 9 |
-| 觀佛三昧 | 《觀佛三昧海經》 | 東晉·佛馱跋陀羅譯 | T0277 | 9 |
+| 普賢觀經 | 《觀普賢菩薩行法經》 | 劉宋曇無蜜多譯 | T0277 | 9 |
 | 行願品 | 《大方廣佛華嚴經·普賢行願品》 | 般若譯 | T0293 | 10 |
 | 金光明經 | 《金光明經》 | 曇無讖譯 | T0663 | 16 |
-| 五分律 | 《五分律》 | 佛陀耆婆譯 | T1421 | 22 |
+| 五分律 | 《五分律》 | 劉宋佛陀什共竺道生等譯 | T1421 | 22 |
 | 大智度論 | 《大智度論》 | 龍樹造、鳩摩羅什譯 | T1509 | 25 |
 | 中論 | 《中論》 | 龍樹造、鳩摩羅什譯 | T1564 | 30 |
 | 成唯識論 | 《成唯識論》 | 護法等造、玄奘譯 | T1585 | 31 |
@@ -515,7 +538,6 @@ Stevenson, Daniel B. "Protocols of Power: Tz'u-yün Tsun-shih and the Sung Dynas
 
 > **Pointing at the Moon Research · Six Practice Gates, Volume One: *Mindful of the Buddha* · Part VII The Flower Ornament Vision · 7.3**
 > Shi Huijing (釋慧鏡)
-> First draft, May 2026
 > This work is licensed under CC BY-NC-SA 4.0
 
 ---

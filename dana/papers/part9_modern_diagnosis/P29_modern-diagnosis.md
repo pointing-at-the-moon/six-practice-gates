@@ -10,6 +10,14 @@ part: "Part IX · Modern Diagnosis"
 part_number: 9
 date: "2026-05-15"
 version: "1.0"
+canonical_source:
+  - "T02n0099"
+  - "T17n0839"
+  - "T25n1509"
+  - "T37n1753"
+  - "T37n1762"
+  - "T47n1980"
+  - "T48n2017"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -195,7 +203,7 @@ But an immediate echo is needed: *McMahan*'s framework is structural-historical 
 
 Before reaching the second stack, this section must process an adjacent doctrinal anchor. *Mahāprajñāpāramitā-śāstra* fascicle fourteen sets out the five wrong livelihoods (*pañca-micchā-ājīva*) as a systematic exemplar of Buddhist ethical-economic critique.[^22] What is decisive here is that all five clauses are introduced with the formula "**the practitioner, for the sake of gain**" — the subject is "the practitioner" (the individual internal motivational structure), not "the institution," "the monastery," or any systemic entity.
 
-This grammatical structure is critical for the present paper. Carrying the five wrong livelihoods over into the phenomenology of modern instrumentalization, the subject "practitioner" must be preserved (the W6 discipline):
+This grammatical structure is critical for the present paper. Carrying the five wrong livelihoods over into the phenomenology of modern instrumentalization, the subject "practitioner" must be preserved:
 
 - The practitioner, for the sake of effect, displays a contrived appearance of stillness and concentration (packaging the self in a "life-transformation" narrative);
 - The practitioner, for the sake of metrics, narrates the progress of his practice publicly (public posts, professional networking, speaking engagements);
@@ -249,9 +257,9 @@ One final cross-volume forward pointer, an anchor for what follows, must be set 
 
 ## Notes
 
-[^1]: The destination-posture treatment of P28 is set out in "Entering the Dharmadhātu through Giving: Dharma-Realm, Infinite Interpenetration, and Samantabhadra's Self-Disclosure" (DĀNA P28, commit `a0ea2de`).
+[^1]: The destination-posture treatment of P28 is set out in "Entering the Dharmadhātu through Giving: Dharma-Realm, Infinite Interpenetration, and Samantabhadra's Self-Disclosure" (DĀNA P28).
 
-[^2]: *Mahāprajñāpāramitā-śāstra*, fascicle 11, T1509 p.0145c. This articulation serves as the doctrinal anchor of the paper's hierarchical-not-condemnatory discipline (the W7 discipline) and is referred to repeatedly in section IV.2.
+[^2]: *Mahāprajñāpāramitā-śāstra*, fascicle 11, T1509 p.0145c. This articulation serves as the doctrinal anchor of the paper's hierarchical-not-condemnatory discipline and is referred to repeatedly in section IV.2.
 
 [^3]: The enumeration of the seven *bojjhaṅga* appears in many places in the *Saṃyukta-āgama*, fascicle 26, T0099. Its cross-reference to NIAN's *satipaṭṭhāna* exposition (NIAN P22/P23/P25) is noted here only in passing and not expanded.
 

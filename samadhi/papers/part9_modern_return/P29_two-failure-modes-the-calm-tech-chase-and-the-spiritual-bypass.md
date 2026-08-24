@@ -1,15 +1,21 @@
 ---
 title: "Two Failure Modes: The Calm-Tech Chase and the Spiritual Bypass"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part IX · Modern Diagnosis and the Return to Prajñā"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P29
+paper_id: "SAMADHI-P29"
 paper_number: 29
 part: Part IX · Modern Diagnosis and the Return to Prajñā
 part_number: 9
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T01n0026"
+  - "T07n0220c"
+  - "T25n1509"
+  - "T46n1911"
+  - "T48n2013"
 license: CC BY-NC-SA 4.0
 ---
 
@@ -133,7 +139,7 @@ To be parted from both poles is exactly the effect of discerning wisdom.
 
 [^8]: The full mechanism by which Yongjia reconciles concentration and wisdom through "*upekṣā*" (equipoise, 優畢叉) so that neither is one-sided is treated in a separate paper of this series (P26); here only the line "concentration grown long sinks" is taken as a diagnostic anchor for the blind-attainment pole.
 
-[^9]: *Mahāprajñāpāramitā-sūtra* (*Dà bōrě bōluómìduō jīng*), fascicle 451: "Seeing other beings, they give rise to the conceit of over-attainment — claiming as attained what is unattained, as realized what is unrealized." T0220, p. 0278a19. The *Yogācārabhūmi* (fascicle 38) fourfold formula of over-attainment — "claiming as done what is undone, as attained what is unattained, as touched what is untouched, as realized what is unrealized" — may be compared; the page here follows the *Mahāprajñāpāramitā-sūtra*.
+[^9]: *Mahāprajñāpāramitā-sūtra* (*Dà bōrě bōluómìduō jīng*), fascicle 451: "Seeing other beings, they give rise to the conceit of over-attainment — claiming as attained what is unattained, as realized what is unrealized." T07n0220c, p. 0278a19. The *Yogācārabhūmi* (fascicle 38) fourfold formula of over-attainment — "claiming as done what is undone, as attained what is unattained, as touched what is untouched, as realized what is unrealized" — may be compared; the page here follows the *Mahāprajñāpāramitā-sūtra*.
 
 [^10]: The danger of "construing as sagehood" (mistaking the states within concentration for sagely realization) the tradition has elsewhere set out in exhaustive enumeration and analysis; this series treats the full catalogue in a dedicated paper (P21), and the signs are not enumerated here one by one — only "the conceit of over-attainment / construing as sagehood" is taken as the doctrinal coordinate of the spiritual-bypassing pole.
 
@@ -154,7 +160,7 @@ To be parted from both poles is exactly the effect of discerning wisdom.
 | *Dà zhìdù lùn* | *Treatise on the Great Perfection of Wisdom* | T1509 | Nāgārjuna (attrib.), trans. Kumārajīva (Later Qin) |
 | *Madhyama-āgama* | *Middle-Length Discourses* | T0026 | trans. Gautama Saṃghadeva (Eastern Jin) |
 | *Móhē zhǐguān* | *The Great Calming and Contemplation* | T1911 | Zhiyi, recorded by Guanding (Sui) |
-| *Mahāprajñāpāramitā-sūtra* | *Great Perfection of Wisdom Sūtra* | T0220 | trans. Xuanzang (Tang) |
+| *Mahāprajñāpāramitā-sūtra* | *Great Perfection of Wisdom Sūtra* | T07n0220c | trans. Xuanzang (Tang) |
 | *Yǒngjiā jí* | *Collected Works of Yongjia* | T2013 | Xuanjue (Tang) |
 
 > The *Yogācārabhūmi* (fourfold formula of over-attainment, by reference), the *prajñā* critique of craving-and-abiding-in-the-flavour-of-concentration (P16), the full catalogue of construing-as-sagehood (P21), the Buddha's relinquishing of the formless attainments (P02 / P31), and Yongjia's *upekṣā*-equipoise (P26) are all carried by reference; their numbers are not re-entered in this index.
@@ -177,7 +183,7 @@ To be parted from both poles is exactly the effect of discerning wisdom.
 *Paper:* SAMĀDHI-P29 · *Two Failure Modes: The Calm-Tech Chase and the Spiritual Bypass* · **SAMĀDHI · Part IX · Modern Diagnosis and the Return to Prajñā**
 *Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates (六行門)
 *License:* CC BY-NC-SA 4.0
-*CBETA collation:* Citations are verified against the CBETA Electronic Tripiṭaka — the *Treatise on the Great Perfection of Wisdom* (Nāgārjuna attrib., trans. Kumārajīva of the Later Qin, T1509: fascicle 56, "because they relish concentration so deeply, they cannot seek *prajñā*," p. 0459b; fascicle 91, "mostly relish the bliss of concentration … hard to convert," p. 0704c); the *Madhyama-āgama* (trans. Gautama Saṃghadeva of the Eastern Jin, T0026: fascicle 25, the gratification–danger–escape triad "What is the gratification of desires? …," p. 0584c; fascicle 56, "Discourse on Rāma," "this Dharma does not lead to knowledge, to awakening, to *nirvāṇa*," p. 0776c); the *Móhē zhǐguān* (Zhiyi, recorded by Guanding of the Sui, T1911: fascicle 1, "the four *dhyānas* are root, blind-attainment, and relished *dhyāna* … neither relished nor blindly attained," p. 0118a; "not what the blind-attainment dhyāna-master or the text-reciting Dharma-master can know," p. 0052b); the *Mahāprajñāpāramitā-sūtra* (trans. Xuanzang of the Tang, T0220: fascicle 451, "the conceit of over-attainment — claiming as attained what is unattained, as realized what is unrealized," p. 0278a); and the *Collected Works of Yongjia* (Xuanjue of the Tang, T2013: "cultivate concentration alone, and concentration grown long sinks," p. 0388a). Volume and page follow the Taishō. Welwood and Sharf are cited by paraphrase only; the critic of instrumentalization remains un-named.
+*CBETA collation:* Citations are verified against the CBETA Electronic Tripiṭaka — the *Treatise on the Great Perfection of Wisdom* (Nāgārjuna attrib., trans. Kumārajīva of the Later Qin, T1509: fascicle 56, "because they relish concentration so deeply, they cannot seek *prajñā*," p. 0459b; fascicle 91, "mostly relish the bliss of concentration … hard to convert," p. 0704c); the *Madhyama-āgama* (trans. Gautama Saṃghadeva of the Eastern Jin, T0026: fascicle 25, the gratification–danger–escape triad "What is the gratification of desires? …," p. 0584c; fascicle 56, "Discourse on Rāma," "this Dharma does not lead to knowledge, to awakening, to *nirvāṇa*," p. 0776c); the *Móhē zhǐguān* (Zhiyi, recorded by Guanding of the Sui, T1911: fascicle 1, "the four *dhyānas* are root, blind-attainment, and relished *dhyāna* … neither relished nor blindly attained," p. 0118a; "not what the blind-attainment dhyāna-master or the text-reciting Dharma-master can know," p. 0052b); the *Mahāprajñāpāramitā-sūtra* (trans. Xuanzang of the Tang, T07n0220c: fascicle 451, "the conceit of over-attainment — claiming as attained what is unattained, as realized what is unrealized," p. 0278a); and the *Collected Works of Yongjia* (Xuanjue of the Tang, T2013: "cultivate concentration alone, and concentration grown long sinks," p. 0388a). Volume and page follow the Taishō. Welwood and Sharf are cited by paraphrase only; the critic of instrumentalization remains un-named.
 *Repository:* https://github.com/pointing-at-the-moon/six-practice-gates
 
 ---

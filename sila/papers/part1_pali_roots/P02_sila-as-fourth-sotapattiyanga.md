@@ -2,14 +2,26 @@
 title: "Ariyakanta-sīla as the Fourth Sotāpattiyaṅga — A Reading of SĀ Sūtra 935"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 4 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part I · Pāli Roots"
-series_short: "SILA"
-volume: 3
+series_short: "SĪLA"
+volume: 4
 paper_id: "SILA-P02"
 paper_number: 2
 part: "Part I · Pāli Roots"
 part_number: 1
 date: "2026-05-17"
 version: "2.0"
+canonical_source:
+  - "T01n0026"
+  - "T02n0099"
+  - "AN11.1"
+  - "AN5.32"
+  - "SN55.21"
+  - "SN55.22"
+  - "SN55.31"
+  - "SN55.32"
+  - "SN55.33"
+  - "SN55.39"
+  - "SN55.40"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -250,7 +262,7 @@ For the four-limb structure of stream-entry, Anālayo's comparative work shows c
 
 ### IV.4 The Phenomenology of Ethical Conduct: The First Three Links of AN 11.1
 
-The dialogue with the three interlocutors converges on a question of mechanism: how does ethical conduct, as the fourth limb, operate within the practitioner's inner experience? The Pāli answer is anchored in *Aṅguttara Nikāya* 11.1 *Kimatthiyasutta*. The present paper restricts itself to the first three links; the full eleven-link chain is the scene of P07, the aggregate of ethical conduct (*sīla-khandha*) the scene of P08, and the *sīla*-to-*samādhi* handoff the scene of P24.
+The dialogue with the three interlocutors converges on a question of mechanism: how does ethical conduct, as the fourth limb, operate within the practitioner's inner experience? The Pāli answer is anchored in *Aṅguttara Nikāya* 11.1 *Kimatthiyasutta*. The present paper restricts itself to the first three links; the full eleven-link chain is the scene of P07, the aggregate of ethical conduct (*sīla-khandha*) the scene of P08, and the *sīla*-to-*samādhi* transition the scene of P24.
 
 **Pāli** (Mahāsaṅgīti):
 
@@ -290,7 +302,7 @@ This paper's argument is open to four predictable misreadings; each is set out a
 
 **Misreading 3.** The recollection of ethical conduct (*sīlānussati*) necessarily reaches absorption-concentration (*appanā-samādhi*).
 
-**Middle-way correction.** *Visuddhimagga* chapter VII §4 (the *Sīlānussati-niddesa*) concludes that the recollection of ethical conduct reaches access-concentration (*upacāra-samādhi*) only, not absorption-concentration (*appanā-samādhi*). The reason is structural: the qualities of the noble ethical conduct are rich enough (the eight items each carry a reflective sub-object) that the mind remains reflectively engaged across the meditation rather than settling into single-pointed absorption[^13]. This ceiling is a constitutive feature of the practice, not a defect. The recollection of ethical conduct is the main scene of P03 (forthcoming), where the operation of ethical conduct as an "internally verifiable meditation object" will be developed.
+**Middle-way correction.** *Visuddhimagga* chapter VII §4 (the *Sīlānussati-niddesa*) concludes that the recollection of ethical conduct reaches access-concentration (*upacāra-samādhi*) only, not absorption-concentration (*appanā-samādhi*). The reason is structural: the qualities of the noble ethical conduct are rich enough (the eight items each carry a reflective sub-object) that the mind remains reflectively engaged across the meditation rather than settling into single-pointed absorption[^13]. This ceiling is a constitutive feature of the practice, not a defect. The recollection of ethical conduct is the main scene of P03, where the operation of ethical conduct as an "internally verifiable meditation object" will be developed.
 
 **Misreading 4.** The SN 55 *Sotāpatti-saṃyutta* is a discourse cluster for the male monastic *saṅgha*.
 
@@ -324,7 +336,7 @@ The argument of the paper can now be closed in four points.
 
 (4) The eight-virtue formula of *ariyakanta-sīla* (the Pāli *akhaṇḍa* through *samādhi-saṁvattanika*, and Guṇabhadra's eight-item Chinese rendering) is attested in both traditions, though the 1-to-1 mapping is not transparent. The *Visuddhimagga*'s exposition suggests a 4 + 4 grouping: the four negations of forms of damage to ethical conduct, followed by the four positive functions of ethical conduct.
 
-The paper points forward in three directions. P03 will take *sīlānussati* as its main scene, developing ethical conduct as an internally verifiable meditation object. P07 will take the threefold training (*tisso sikkhā*) and the full eleven links of AN 11.1 as its main scene, developing the unfolding sequence *sīla* → *samādhi* → *paññā*. P24 will take the four pure injunctions of the *Śūraṅgama Sūtra* as its main scene, developing the Mahāyāna canonical handoff from ethical conduct to concentration. The present paper opens these directions; it does not enter them.
+The paper points forward in three directions. P03 will take *sīlānussati* as its main scene, developing ethical conduct as an internally verifiable meditation object. P07 will take the threefold training (*tisso sikkhā*) and the full eleven links of AN 11.1 as its main scene, developing the unfolding sequence *sīla* → *samādhi* → *paññā*. P24 will take the four pure injunctions of the *Śūraṅgama Sūtra* as its main scene, developing the Mahāyāna canonical transition from ethical conduct to concentration. The present paper opens these directions; it does not enter them.
 
 ---
 
@@ -347,7 +359,6 @@ The paper points forward in three directions. P03 will take *sīlānussati* as i
 
 [^9]: *Saṃyukta-āgama* sūtra 936 records the Sakyan layman Sarakāni (百手釋氏 in Guṇabhadra's rendering) — a disciple known for drinking who had broken the precept against intoxicants — taking up pure ethical conduct in the time before his death and receiving the Buddha's prediction of stream-entry after his passing (CBETA T02 p.0239c–0240b). The case suggests that "accomplishment" (成就) in the *sotāpatti* structure may admit a critical-moment dimension (the taking-up of ethical conduct at a decisive juncture, such as the approach of death) rather than requiring throughout-lifetime perfection. The case does not destabilize the four-limb structure of the present paper's thesis, but it marks an internal textual locus for the verb "accomplishment" that calls for its own Vinaya-historical inquiry; it is set aside here as a boundary case.
 
-[^10]: In this consolidated revision the discussion originally assigned to this footnote position has been folded into the boundary-case treatment at [^9]; the numbering is preserved to maintain stable reference for subsequent citations.
 
 [^11]: The double-formula "*kim-atthiyāni... kim-ānisaṁsānī*" that Ānanda uses to introduce his question in AN 11.1 is a didactic device of the Pāli canon: *attha* (purpose, *telos*) and *ānisaṁsa* (benefit, present-moment fruit / phenomenal trace) appear together so as to foreclose two misreadings — (1) the *telos*-only reading, in which ethical conduct is treated as the instrumental means to some external end (typically, admission to some external state); (2) the *ānisaṁsa*-only reading, in which ethical conduct is treated as a deposit accumulating future-life merit. The double-formula's doctrinal payoff: the *telos* of ethical conduct is internal (*avippaṭisāra*, non-regret); its *ānisaṁsa* is present-moment (*pāmojja*, joy); neither external admission nor future deposit. The present paper restricts itself to the first three links; the remaining links four through eleven are developed in P07; the closing line "*kusalāni sīlāni anupubbena aggāya parentī*" ("skillful ethics gradually lead up to the highest") was cited in the companion paper P01 §VI, and is echoed here without further development.
 
@@ -394,8 +405,8 @@ The paper points forward in three directions. P03 will take *sīlānussati* as i
 
 ### II. Modern Scholarship
 
-- Bodhi, Bhikkhu (trans.). 2000. *The Connected Discourses of the Buddha: A New Translation of the Saṃyutta Nikāya*. Boston: Wisdom Publications. (Introduction to SN 55 *Sotāpatti-saṃyutta*; translator's notes. Specific pagination pending physical-text consultation.)
-- Bodhi, Bhikkhu (trans.). 2012. *The Numerical Discourses of the Buddha: A Translation of the Aṅguttara Nikāya*. Boston: Wisdom Publications. (Translator's notes on AN 5.32 *Cundīsutta* and AN 11.1 *Kimatthiyasutta*. Specific pagination pending physical-text consultation.)
+- Bodhi, Bhikkhu (trans.). 2000. *The Connected Discourses of the Buddha: A New Translation of the Saṃyutta Nikāya*. Boston: Wisdom Publications. (Introduction to SN 55 *Sotāpatti-saṃyutta*; translator's notes.)
+- Bodhi, Bhikkhu (trans.). 2012. *The Numerical Discourses of the Buddha: A Translation of the Aṅguttara Nikāya*. Boston: Wisdom Publications. (Translator's notes on AN 5.32 *Cundīsutta* and AN 11.1 *Kimatthiyasutta*.)
 - Gethin, Rupert. 1998. *The Foundations of Buddhism*. Oxford: Oxford University Press. Chapters 7–8.
 - Gethin, Rupert. 1992/2001. *The Buddhist Path to Awakening: A Study of the Bodhi-Pakkhiyā Dhammā*. Leiden: E. J. Brill / Oxford: Oneworld. Chapter 4 (*pañca-indriya*) and Chapter 6 (the path).
 - Anālayo, Bhikkhu. 2011. *A Comparative Study of the Majjhima-nikāya*. Taipei: Dharma Drum Publishing Corporation.
@@ -435,7 +446,7 @@ The paper points forward in three directions. P03 will take *sīlānussati* as i
 - **P03 *Sīlānussati*** — the recollection-of-ethical-conduct *upacāra-samādhi* ceiling (this paper §V correction 3) is the background for P03's full development of the meditation operation.
 - **P07 (the threefold training and the full AN 11.1 chain)** — this paper §IV.4 covers only the first three links of AN 11.1; P07 will develop the unfolding of the threefold training (*tisso sikkhā* — *sīla* / *samādhi* / *paññā*) and the full eleven-link chain.
 - **P08 (*sīla-khandha* and *sīla-gandha*)** — this paper surfaces the aggregate of ethical conduct (*sīla-khandha*) as background only; P08 takes it as main scene.
-- **P24 (the four pure injunctions of the *Śūraṅgama Sūtra*)** — this paper §VI surfaces the phenomenal hinge between ethical conduct and concentration; P24 will develop the Mahāyāna canonical handoff in the *Śūraṅgama*.
+- **P24 (the four pure injunctions of the *Śūraṅgama Sūtra*)** — this paper §VI surfaces the phenomenal hinge between ethical conduct and concentration; P24 will develop the Mahāyāna canonical transition in the *Śūraṅgama*.
 
 ### Cross-Volume
 

@@ -10,6 +10,8 @@ part: "Part VI · Chinese Repentance Rites"
 part_number: 6
 date: "2026-06"
 version: "1.0"
+canonical_source:
+  - "T46n1941"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -137,8 +139,8 @@ Walking out of the first arena, there are several more waiting behind it: the Go
 - Part IV (the bridge of dying and being reborn · the precept-seam): the precept-essence seam of "regaining the *śramaṇa*'s discipline" in this paper's exhortation carries forward that earlier exposition, and is here only a signpost.
 - Part V (the three repentances): this paper's three faculties in the "signs of attainment" (purity of the moral / meditative / wisdom faculty) = the three trainings of precepts, concentration, wisdom, homologous with and confirming the three repentances' aiding of precepts, concentration, and wisdom — homologous, not identical.
 - Part VI (Chinese repentance liturgy · structure first): this paper walks into the first arena of the "model contemplative repentance rite" the previous paper named.
-- Part VII (forthcoming): the seated contemplation of the real mark of Stage 10, and the no-arising repentance that is emptiness — this paper keeps watch outside the door; the door Zhiyi opens only by "discarding the foregoing practice" is left for Part VII.
-- The gate of vows (forthcoming): the Sukhāvatī dedication of the seventh-stage vow is here only a signpost.
+- Part VII: the seated contemplation of the real mark of Stage 10, and the no-arising repentance that is emptiness — this paper keeps watch outside the door; the door Zhiyi opens only by "discarding the foregoing practice" is left for Part VII.
+- The gate of vows: the Sukhāvatī dedication of the seventh-stage vow is here only a signpost.
 
 ---
 

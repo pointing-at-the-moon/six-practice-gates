@@ -26,9 +26,9 @@ In the Pāli *Majjhima Nikāya* there is a short discourse which records a layma
 
 One treatise speaks more densely still. The *Prakaraṇapāda*, explaining what the faculty of concentration is, sets a whole string of words in a row:
 
-> The mind's abiding, even abiding, close abiding, settled abiding, non-scattering, non-distraction, calming, even-holding, and unification of mind upon one object: this is called the faculty of concentration.
+> What is the faculty of concentration? In wholesome states born of renunciation and seclusion, it is all recollection in which the mind abides, abides evenly, abides settled, abides closely, and abides firmly; is undistracted and unscattered; is calmed, evenly held, and unified upon one object. This is called the faculty of concentration.
 
-Abiding, non-scattering, non-distraction, calming, even-holding, one-pointedness of mind—this string of words is like a chain, drawing all the translation-names that ever surfaced, early and late, across the history of the translated canon back onto one same referent. *Zhèngshòu*, *sānmèi*, even-holding—they all say this one thing: the mind gathered in upon a single object.
+Abiding, firm abiding, non-distraction, non-scattering, calming, even-holding, one-pointedness of mind—this string of words is like a chain, drawing all the translation-names that ever surfaced, early and late, across the history of the translated canon back onto one same referent. *Zhèngshòu*, *sānmèi*, even-holding—they all say this one thing: the mind gathered in upon a single object.
 
 Here one thing must be seen clearly: one-pointedness of mind is a gathering-in, not a blank. Concentration is not pressing the mind down until nothing is left; it is settling the mind in one place—settled steady, and settled clear. When we come to the four jhānas this will show still more plainly: the deeper the concentration, the brighter the mind, not the duller.
 
@@ -38,7 +38,7 @@ As said at the opening, when the *Saṃyukta Āgama* speaks of entering concentr
 
 *Sānmèi* is the transliteration of *samādhi*, and the most widely current of all: it can name concentration broadly, and it can stand as the proper name of this or that samādhi-state—the many samādhis we will meet later in the book all wear this word. "Right concentration," for its part, names specifically the eighth factor of the noble eightfold path: concentration's formal seat on the path of liberation. With Xuanzang's new translations, two more were added—"even-holding" and "quiet consideration." Even-holding renders *samādhi*, taking the sense of an even, balanced holding; quiet consideration renders *jhāna*—the quiet is concentration, the considering is wisdom, and inside the one word hides the news of concentration and wisdom running together.
 
-So many names—a first-time reader of the sutras and treatises easily goes dizzy. There is no need for alarm; just remember that chain: abiding, non-scattering, non-distraction, calming, even-holding, one-pointedness of mind. A thousand names, ten thousand titles, pointing to one same thing.
+So many names—a first-time reader of the sutras and treatises easily goes dizzy. There is no need for alarm; just remember that chain: abiding, firm abiding, non-distraction, non-scattering, calming, even-holding, one-pointedness of mind. A thousand names, ten thousand titles, pointing to one same thing.
 
 ### The Word "Chan," Set Aside for Now
 

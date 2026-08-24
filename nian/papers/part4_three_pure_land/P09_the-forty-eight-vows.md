@@ -10,6 +10,18 @@ part: "Part IV · The Three Pure Land Sūtras"
 part_number: 4
 date: "2026-04-17"
 version: "1.0"
+canonical_source:
+  - "T12n0360"
+  - "T12n0361"
+  - "T12n0362"
+  - "T12n0365"
+  - "T12n0366"
+  - "T13n0418"
+  - "T26n1524"
+  - "T37n1753"
+  - "T40n1819"
+  - "T47n1957"
+  - "T47n1958"
 license: "CC BY-NC-SA 4.0"
 ---
 

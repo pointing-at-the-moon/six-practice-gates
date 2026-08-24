@@ -10,6 +10,33 @@ part: "Part V · Recollection in the Great Mahāyāna Sūtras"
 part_number: 5
 date: "2026-04-20"
 version: "1.0"
+canonical_source:
+  - "T08n0232"
+  - "T08n0233"
+  - "T12n0353"
+  - "T16n0670"
+  - "T16n0671"
+  - "T16n0672"
+  - "T16n0681"
+  - "T16n0682"
+  - "T31n1585"
+  - "T31n1595"
+  - "T31n1598"
+  - "T31n1600"
+  - "T31n1604"
+  - "T32n1666"
+  - "T39n1790"
+  - "T43n1831"
+  - "T45n1861"
+  - "T48n2008"
+  - "T48n2009"
+  - "T48n2015"
+  - "T50n2045"
+  - "T50n2060"
+  - "T51n2075"
+  - "T51n2076"
+  - "T85n2837"
+  - "X09n0248"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -445,7 +472,7 @@ P17's argument is here concluded. The seventh layer of the verb-axis, seeing-the
 6. Dharmapāla and other bodhisattvas, composed; trans. Xuanzang, *Cheng Weishi Lun* (*Chéng wéishí lùn* 成唯識論), 10 fascicles, *Taishō* vol. 31, no. T1585. Tang Xianqing 4 (659 CE). Source of §5.2's Middle-Way-Correction anchor.
 7. Maitreya (verses), Asaṅga (gloss), trans. Prabhākaramitra, *Mahāyāna-sūtrālaṅkāra* (*Dàshèng zhuāngyán jīng lùn* 大乘莊嚴經論), 13 fascicles, *Taishō* vol. 31, no. T1604. Tang Zhenguan 5 (631 CE). §5.2 Yogācāra-spectrum adoption-end representative.
 8. Maitreya (verses), Vasubandhu (gloss), trans. Xuanzang, *Madhyānta-vibhāga* (*Biàn zhōng-biān lùn* 辯中邊論), 3 fascicles, *Taishō* vol. 31, no. T1600. Tang Longshuo 1 (661 CE).
-9. Asaṅga, composed; trans. Paramārtha, *Mahāyāna-saṃgraha-bhāṣya* (*Shè dàshèng lùn shì* 攝大乘論釋), 15 fascicles, *Taishō* vol. 31, no. T1595. Chen Tianjia 4 (563 CE).
+9. Vasubandhu, commentary; trans. Paramārtha, *Mahāyāna-saṃgraha-bhāṣya* (*Shè dàshèng lùn shì* 攝大乘論釋), 15 fascicles, *Taishō* vol. 31, no. T1595. Chen Tianjia 4 (563 CE).
 10. Asvabhāva (gloss), trans. Xuanzang, *Mahāyāna-saṃgraha-bhāṣya* (*Shè dàshèng lùn shì* 攝大乘論釋), 10 fascicles, *Taishō* vol. 31, no. T1598. Tang Longshuo 3 (663 CE).
 11. (Attributed to) Aśvaghoṣa, composed; (attributed to) Paramārtha, translated, *Awakening of Faith in the Mahāyāna* (*Dàshèng qǐxìn lùn* 大乘起信論), 1 fascicle, *Taishō* vol. 32, no. T1666. The authorship and translator are contested in scholarship; this paper uses the neutral formulation "traditionally attributed."
 12. Kuiji, *Essentials in the Palm of the Cheng Weishi Lun* (*Chéng wéishí lùn zhǎngzhōng shūyào* 成唯識論掌中樞要), 4 fascicles, *Taishō* vol. 43, no. T1831. Tang. Source of §5.2's Southern-Road-versus-Northern-Road controversy record.
@@ -481,7 +508,7 @@ P17's argument is here concluded. The seventh layer of the verb-axis, seeing-the
 | T0681 | *Mahāyāna-ghanavyūha-sūtra* | Divākara | Tang, era of Empress Wu (P18 primary sūtra forecast) |
 | T0682 | *Mahāyāna-ghanavyūha-sūtra* | Amoghavajra | Tang Daizong era (P18 primary sūtra forecast) |
 | T1585 | *Cheng Weishi Lun* | Composed by Dharmapāla and others / trans. Xuanzang | Tang Xianqing 4, 659 CE (§5.2 distancing-move anchor) |
-| T1595 | *Mahāyāna-saṃgraha-bhāṣya* | Composed by Asaṅga / trans. Paramārtha | Chen Tianjia 4, 563 CE (Yogācāra adoption-end) |
+| T1595 | *Mahāyāna-saṃgraha-bhāṣya* | Commentary by Vasubandhu / trans. Paramārtha | Chen Tianjia 4, 563 CE (Yogācāra adoption-end) |
 | T1598 | *Mahāyāna-saṃgraha-bhāṣya* | Gloss by Asvabhāva / trans. Xuanzang | Tang Longshuo 3, 663 CE (Yogācāra adoption-end) |
 | T1600 | *Madhyānta-vibhāga* | Verses by Maitreya / gloss by Vasubandhu / trans. Xuanzang | Tang Longshuo 1, 661 CE (Yogācāra adoption-end) |
 | T1604 | *Mahāyāna-sūtrālaṅkāra* | Verses by Maitreya / gloss by Asaṅga / trans. Prabhākaramitra | Tang Zhenguan 5, 631 CE (Yogācāra adoption-end) |
@@ -503,8 +530,8 @@ P17's argument is here concluded. The seventh layer of the verb-axis, seeing-the
 - **P13 "Universal Gate Name-Invocation — The Three-Karmic Structure of Buddha-Recollection in the *Lotus***": the outward unfolding of the three-karmic structure; third layer of P17's §I vertical.
 - **P14 "Binding the Three Periods — The Time-Dependent Verb-Structure of Final-Age Buddha-Recollection in the *Perfect Enlightenment***": temporal-segment rhythm; fourth layer of P17's §I vertical; the Zongmi "thinking-of-the-Buddha is also a samsaric mind" warning in §3.1 and §5.1 corresponds to P14.
 - **P15 "Seeing the Sign, Obtaining the Precept — The *Brahma Net* Bodhisattva Precepts and the Precept-Dependent Verb-Structure of Sustained Buddha-Recollection"**: the precept-boundary; fifth layer of P17's §I vertical.
-- **P16 "Confession as Buddha-Recollection — The Dream-Drum of the *Golden Light Sūtra* and the Distributed-Agency Event-Chain"**: the event-chain of the distributed subject; sixth layer of P17's §I vertical; P16 §VI made explicit the division of labor "the *Golden Light* solves *how to confess*; the *Laṅkā* solves *who is being recollected*," and P17 §I continues that forward handoff.
-- **P18 "The *Ghanavyūha-sūtra* — Buddha-Recollection as *Ālaya*-Transmutation"**: *ālaya*-transmutation; P17 §VI makes explicit the forward handoff to the field of P18; eighth layer of the verb-axis: "transmutation."
+- **P16 "Confession as Buddha-Recollection — The Dream-Drum of the *Golden Light Sūtra* and the Distributed-Agency Event-Chain"**: the event-chain of the distributed subject; sixth layer of P17's §I vertical; P16 §VI made explicit the division of labor "the *Golden Light* solves *how to confess*; the *Laṅkā* solves *who is being recollected*," and P17 §I continues that forward transition.
+- **P18 "The *Ghanavyūha-sūtra* — Buddha-Recollection as *Ālaya*-Transmutation"**: *ālaya*-transmutation; P17 §VI makes explicit the forward transition to the field of P18; eighth layer of the verb-axis: "transmutation."
 - **P19 "The Single-Practice Samādhi of the *Mañjuśrī-Prajñā-Sūtra*"**: the independent unfolding of the "single-practice samādhi" methodology in Daoxin's formula; P17 §3.3 and §4.2 have provided the structural preparation, which P19 will deepen.
 - **P21 (Southern School *Platform Sūtra*; Zongmi's four-fold division)**: the Southern School Chan's subsequent use of the *Laṅkā*; P17 §4.4 closes at Zongmi's late-Tang retrospective, and P21 will continue the account.
 

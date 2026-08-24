@@ -1,15 +1,22 @@
 ---
 title: "Chan as Dhyāna-and-Prajñā Non-Dual: The Living Concentration of Non-Abiding in Signs"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part VII · Chan"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P26
+paper_id: "SAMADHI-P26"
 paper_number: 26
 part: Part VII · Chan
 part_number: 7
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T21n1223"
+  - "T48n2007"
+  - "T48n2008"
+  - "T48n2013"
+  - "T48n2014"
+  - "X63n1223"
 license: CC BY-NC-SA 4.0
 ---
 

@@ -3,6 +3,10 @@
 
 The English edition of **《定——從巴利禪那到默照看話》** by 釋慧鏡 (Shi Huijing)—Volume 5 of the **Six Practice Gates** (六行門).
 
+**Author:** 釋慧鏡 (Shi Huijing)
+
+[Methodology and disclosure](https://waken.org/methodology/)
+
 > Concentration (*samādhi*) is not a tower to climb, nor a button to press; it is a door that gathers inward—not an attainment that deepens the longer you sit, but a subtraction that sets things down rung by rung. And when that door has gathered to its deepest, it goes no further in: it opens back, toward the light of wisdom—and all along, from the Pāli jhāna to silent illumination and huatou, what makes it precious is its willingness to be the sealed chamber in which the lamp of wisdom comes into full use.
 
 This is the accessible *book* layer, rendered into English from the Chinese edition and term-anchored to the bilingual scholarly corpus in this repository (`samadhi/papers/`, P01–P31). It lives here at `samadhi/book/en/`, a part-for-part parallel of the Chinese book under `samadhi/book/`.

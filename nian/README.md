@@ -8,9 +8,10 @@
 A 31-paper volume tracing Buddhānussati from its Pāli origins through Chinese Mahāyāna reception to Samantabhadra's ten great vows.
 
 - **Author**: 釋慧鏡 (Shi Huijing)
+- **Methodology**: [Waken scholarship methodology](https://waken.org/methodology/)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
 - **Book**: [成書層 book/](./book/) — ZH gold standard + English mirror
-- **Status**: ✅ **Paper phase complete — 31/31 published (all 8 Parts sealed 2026-05-03)**
+- **Status**: Corpus inventory complete — 31/31 papers are present on disk across all 8 Parts. This count does not claim teacher/translator ratification, quotation-by-quotation scholarly closure, or live-site publication.
 - **Primary audience**: English-language Buddhist readers
 
 ### Structure
@@ -18,7 +19,7 @@ A 31-paper volume tracing Buddhānussati from its Pāli origins through Chinese 
 Eight parts, 31 papers:
 
 - **Part I** Foundations (Pāli) — 4 papers
-- **Part II** The Earliest Chinese Reception — 1 paper
+- **Part II** Early Chinese Translation — 1 paper
 - **Part III** Early Mahāyāna Vision — 3 papers
 - **Part IV** The Three Pure Land Sūtras — 3 papers
 - **Part V** Recollection in the Great Mahāyāna Sūtras — 8 papers *(centerpiece)*
@@ -26,7 +27,7 @@ Eight parts, 31 papers:
 - **Part VII** The Flower Ornament Vision — 5 papers (Samantabhadra's ten vows)
 - **Part VIII** Coda — 2 papers
 
-See [`NIAN_PLAN.md`](./NIAN_PLAN.md) for full skeleton and methodology.
+The published-paper index below provides the volume's full structural map.
 
 ### Published Papers
 
@@ -77,9 +78,9 @@ See [`NIAN_PLAN.md`](./NIAN_PLAN.md) for full skeleton and methodology.
 - **P30** [AI 時代之念佛](./papers/part8_coda/P30_AI時代之念佛.md) / [Recollection in the Age of AI](./papers/part8_coda/P30_recollection-in-the-age-of-ai.md)
 - **P31** [念佛的內部步驟](./papers/part8_coda/P31_念佛的內部步驟.md) / [The Internal Steps of Buddha-Recollection](./papers/part8_coda/P31_the-internal-steps-of-buddha-recollection.md)
 
-### 🎉 NIAN 全卷封筆 — 31/31 ✅ COMPLETE (2026-05-03)
+### NIAN paper inventory — 31/31 present on disk
 
-Volume One of *The Six Practice Gates* — the gate of continuous awareness — is sealed at the paper level. All six gates (念施懺戒定願) are now complete; see the [series README](../README.md) for the full sequence and the grand reveal.
+Volume One of *The Six Practice Gates* — the gate of continuous awareness — is structurally complete at the paper-inventory level. The six volume inventories (念施懺戒定願) are present on disk; see the [series README](../README.md) for the full sequence and the authorial closing hermeneutic. This is not a claim of scholarly ratification or live-site publication.
 
 ### Citation
 

@@ -3,6 +3,10 @@
 
 The English edition of **《戒——從巴利律到無相戒》** by 釋慧鏡 (Shi Huijing)—Volume 4 of the **Six Practice Gates** (六行門).
 
+**Author:** 釋慧鏡 (Shi Huijing)
+
+[Methodology and disclosure](https://waken.org/methodology/)
+
 > The precept (*sīla*) is not a rope that binds you; it is a wall that guards you—not a yoke pressed onto the body, but an ability grown into the body. The rule enters the heart and becomes its substance; even the mark "I am keeping the precept" can be set down—and all along, from the Pāli Vinaya to the sign-less precept, it is the ground on which concentration stands.
 
 This is the accessible *book* layer, rendered into English from the Chinese edition and term-anchored to the bilingual scholarly corpus in this repository (`sila/papers/`, P01–P30). It lives here at `sila/book/en/`, a part-for-part parallel of the Chinese book under `sila/book/`.

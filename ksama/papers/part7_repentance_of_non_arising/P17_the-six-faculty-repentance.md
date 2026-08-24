@@ -10,6 +10,11 @@ part: "Part VII · The Repentance of Non-Arising as Emptiness"
 part_number: 7
 date: "2026-06-02"
 version: "1.0"
+canonical_source:
+  - "T08n0251"
+  - "T09n0277"
+  - "T14n0475"
+  - "T38n1775"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -152,7 +157,7 @@ The three mirrors set side by side make the particularity of the six-faculty rep
 
 | Short title | Full title | Reference | Translator / Compiler | Use |
 |-------------|-----------|-----------|------------------------|-----|
-| Samantabhadra Contemplation Sūtra | Sūtra on the Contemplation of the Practice of Samantabhadra | Taishō vol. 9, No. 277 | trans. attrib. Dharmakṣema, Liu Song (so recorded in the Taishō; the translator and place of composition remain debated in scholarship, and the work is cited here per the Taishō record) | primary source · the full six-faculty repentance passage |
+| Samantabhadra Contemplation Sūtra | Sūtra on the Contemplation of the Practice of Samantabhadra | Taishō vol. 9, No. 277 | trans. attrib. Dharmamitra (Tanwumiduo), Liu Song (the XML byline reads 宋元嘉年曇無蜜多於楊州譯; the translator and place of composition remain debated in scholarship, and the work is cited here according to that byline) | primary source · the full six-faculty repentance passage |
 | Vimalakīrti Sūtra | Vimalakīrti-nirdeśa | Taishō vol. 14, No. 475 | trans. Kumārajīva, Yao Qin | transgression has no own-being · single-line cross-reference |
 | Commentary on the Vimalakīrti | Commentary on the Vimalakīrti-nirdeśa | Taishō vol. 38, No. 1775 | comp. Sengzhao et al., Later Qin | "fixing the mark of transgression makes transgression increase" · cross-reference |
 | Heart Sūtra | Heart of the Prajñāpāramitā Sūtra | Taishō vol. 8, No. 251 | trans. Xuanzang, Tang | all dharmas marked with emptiness · signpost (later paper) |

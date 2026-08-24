@@ -10,6 +10,17 @@ part: "Part IV · The Early Mahāyāna Turn to Dāna-Pāramitā"
 part_number: 4
 date: "2026-05-08"
 version: "1.0"
+canonical_source:
+  - "T01n0026"
+  - "T02n0125"
+  - "T03n0152"
+  - "T07n0220e"
+  - "T25n1509"
+  - "T30n1577"
+  - "T31n1592"
+  - "T31n1604"
+  - "AN9.20"
+  - "MN142"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -50,7 +61,7 @@ The question presses with particular urgency upon the Western reader. Western Bu
 
 ## II. Canonical Sources
 
-This section lays evidence in five strata corresponding to the four-layer core argument of §III. Following the dual-track discipline of the NIAN-A and DĀNA volumes, every passage that belongs to the Nikāya / Āgama stratum is cited with both the Taishō number (Chinese transmission) and the PTS reference (Pāli); Mahāyāna *śāstra* materials are cited by Taishō volume and fascicle; Pāli materials use the PTS edition. Italicized Pāli / Sanskrit terms carry a Chinese gloss on first occurrence, then stand alone.
+This section lays evidence in five strata corresponding to the four-layer core argument of §III. Following the Pāli–Chinese dual-source citation convention used across the NIAN and DĀNA volumes, every passage that belongs to the Nikāya / Āgama stratum is cited with both the Taishō number (Chinese transmission) and the PTS reference (Pāli); Mahāyāna *śāstra* materials are cited by Taishō volume and fascicle; Pāli materials use the PTS edition. Italicized Pāli / Sanskrit terms carry a Chinese gloss on first occurrence, then stand alone.
 
 ### 2.1 The Six-Perfection Framework — The *Liù dù jí jīng*'s Eight-Fascicle Sequence and the Narrative Substance of the *Dāna-Pāramitā* Chapter
 
@@ -214,7 +225,7 @@ T1509 is not the product of a single author. P11 should not attribute the "with-
 
 **Practical implication.** The most immediate landing for the contemporary reader: every act of giving practiced under the mind of "without apprehension" *is* the touchdown of *dāna-pāramitā* — no apprehension of giver, recipient, or thing given. The practice does not turn on outward generosity but on inward wisdom. *Dāna-pāramitā* is not the kingdom of the wealthy and the generous but the kingdom of the wise — and wisdom in this sense is not abstract metaphysical insight but the moment-to-moment letting-go of the apprehension of the three wheels.
 
-**Open question → handoff to P12.** How is the structure of *trimaṇḍala-śūnya* systematically unfolded in Nāgārjuna's *dāna-pāramitā* chapter?[^27] If P10 was the *crystallization* of the third slot, and P11 is the *transformation* of the giving condition, then P12 (and P13 in tandem) will trace the *philosophical articulation* of the three-wheels-emptied operation as Nāgārjuna develops it within the *Dà zhìdù lùn*'s *dāna-pāramitā* chapter — and from that articulation outward, into the larger architecture of early Mahāyāna emptiness-thought.
+**Open question → transition to P12.** How is the structure of *trimaṇḍala-śūnya* systematically unfolded in Nāgārjuna's *dāna-pāramitā* chapter?[^27] If P10 was the *crystallization* of the third slot, and P11 is the *transformation* of the giving condition, then P12 (and P13 in tandem) will trace the *philosophical articulation* of the three-wheels-emptied operation as Nāgārjuna develops it within the *Dà zhìdù lùn*'s *dāna-pāramitā* chapter — and from that articulation outward, into the larger architecture of early Mahāyāna emptiness-thought.
 
 ---
 
@@ -285,7 +296,7 @@ T1509 is not the product of a single author. P11 should not attribute the "with-
 *Liù dù jí jīng* 《六度集經》， translated by Kāng Sēnghuì, Wu, ca. 251 CE, Taishō vol. 3, no. 152.
 *Dà zhìdù lùn* 《大智度論》， composed by Nāgārjuna, translated by Kumārajīva, Later Qin, ca. 404–406 CE, Taishō vol. 25, no. 1509.
 *Dazhangfu Lun* 《大丈夫論》， by the bodhisattva Devala, translated by Daotai, Northern Liang, Taishō vol. 30, no. 1577.
-*Mahāyāna-saṃgraha* 《攝大乘論》， by Asaṅga, translated by Xuanzang, Taishō vol. 31, no. 1592.
+*Mahāyāna-saṃgraha* 《攝大乘論》， by Asaṅga, translated by Buddhaśānta, Taishō vol. 31, no. 1592.
 *Mahāyāna-sūtrālaṃkāra* 《大乘莊嚴經論》， by Asaṅga, translated by Prabhākaramitra (and others), Taishō vol. 31, no. 1604.
 *Majjhima Nikāya* 142, *Dakkhiṇāvibhaṅgasutta*, PTS edition.
 
@@ -308,7 +319,7 @@ Nattier, Jan. *A Few Good Men: The Bodhisattva Path according to The Inquiry of 
 | *Mahāprajñāpāramitā-sūtra* | 《大般若波羅蜜多經》 *juan* 571 | T05–07 no. 220 | Xuanzang |
 | *Dà zhìdù lùn* | 《大智度論》 *juan* 60 | T25 no. 1509 | Nāgārjuna / Kumārajīva |
 | *Dazhangfu Lun* | 《大丈夫論》 *juan* 1 | T30 no. 1577 | Devala, tr. Daotai |
-| *Mahāyāna-saṃgraha* | 《攝大乘論》 | T31 no. 1592 | Asaṅga / Xuanzang |
+| *Mahāyāna-saṃgraha* | 《攝大乘論》 | T31 no. 1592 | Asaṅga / Buddhaśānta |
 | *Mahāyāna-sūtrālaṃkāra* | 《大乘莊嚴經論》 *juan* 8 | T31 no. 1604 | Asaṅga / Prabhākaramitra |
 
 ---

@@ -10,6 +10,12 @@ part: "Part VI · The Śūraṅgama Reverse"
 part_number: 6
 date: "2026-05-10"
 version: "1.0"
+canonical_source:
+  - "T19n0945"
+  - "T25n1509"
+  - "T26n1521"
+  - "X12n0275"
+  - "X13n0285"
 license: "CC BY-NC-SA 4.0"
 ---
 

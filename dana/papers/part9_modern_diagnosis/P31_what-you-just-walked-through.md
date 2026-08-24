@@ -10,6 +10,35 @@ part: "Part IX · Modern Diagnosis"
 part_number: 9
 date: "2026-05-15"
 version: "1.0"
+canonical_source:
+  - "T01n0001"
+  - "T02n0099"
+  - "T07n0220c"
+  - "T07n0220e"
+  - "T08n0235"
+  - "T09n0262"
+  - "T10n0279"
+  - "T10n0293"
+  - "T14n0450"
+  - "T14n0475"
+  - "T19n0945"
+  - "T24n1485"
+  - "T25n1509"
+  - "T30n1579"
+  - "T33n1710"
+  - "T34n1718"
+  - "T37n1753"
+  - "AN5.34"
+  - "AN5.36"
+  - "AN6.25"
+  - "AN8.31"
+  - "AN8.36"
+  - "AN9.20"
+  - "MN142"
+  - "SN55.32"
+  - "SN55.39"
+  - "Vin_Cv_VI_4"
+  - "Vin_Mv_I_22"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -141,13 +170,13 @@ Five papers define giving's final structure in the *Avataṃsaka* — entry-thre
 
 **P25** sets the four-exhaustions of the third great vow: Samantabhadra's third great vow closes in the four-exhaustions formula — "should the realm of space be exhausted, the realm of beings be exhausted, the karma of beings be exhausted, the afflictions of beings be exhausted — only then would my vow be exhausted" (T0293, fasc. 40, third great vow). The four-exhaustions' negative-form perpetual-motion structure completes the constructional definition of vast-cultivation-offering — giving's total structure is here completed by the perpetuum of negative formulation.
 
-**P26** sets the seven kinds of dharma-offering: the third great vow continues — "of all offerings, the dharma-offering is supreme" — and unfolds into seven concrete forms: "the offering of practicing according to the teaching, the offering of benefiting beings, the offering of taking up beings, the offering of bearing beings' suffering, the offering of cultivating roots of goodness diligently, the offering of not abandoning bodhisattva activity, the offering of not departing from the bodhi-mind" (T0293, fasc. 40, p.0845a). The enumeration of seven dharma-offerings unfolds the "dharma equals giving" equation, from Samantabhadra's own statement, into seven concrete forms — the collection-point anchor.
+**P26** sets the seven kinds of dharma-offering: the third great vow continues — "of all offerings, the dharma-offering is supreme" — and unfolds into seven concrete forms: "the offering of practicing according to the teaching, the offering of benefiting beings, the offering of taking up beings, the offering of bearing beings' suffering, the offering of cultivating roots of goodness diligently, the offering of not abandoning bodhisattva activity, the offering of not departing from the bodhi-mind" (T0293, fasc. 40, p.0845a). What the text directly establishes is the supremacy of dharma-offering and its seven forms. It supplies one canonical side of P28's later interpretive synthesis, "dharma is giving," but does not itself state that equation — the collection-point anchor.
 
 **P27** sets the trajectory rule of *Sudhana*'s fifty-three visits: at *Sudhana*'s departure, *Mañjuśrī* gives the four-noughts — "do not exalt yourself, do not abandon the old and sick, do not act for gain, do not act for fame" (T0293, fasc. 4, Mañjuśrī chapter). The trajectory rule given at *Sudhana*'s departure is the canonical instruction for the subject-posture of giving — giving is the active verb in every visit, and its posture is held by the four-noughts' negative formulation.
 
-**P28** sets the terminus of the *Gaṇḍavyūha*: fascicle eighty's autobiographical self-witness by Samantabhadra — "in my dharma-sea, there is not one word, not one phrase, that was not obtained through the relinquishment of cakravartin-thrones for the sake of seeking it; nor is there one word, one phrase, that was not obtained through the relinquishment of all I possessed" (T0279, fasc. 80). This is the closure-anchor of the entire Part VIII — the "dharma equals giving" equation is self-witnessed by Samantabhadra at the *Avataṃsaka*'s terminus in autobiographical form, so that giving's ultimate form is the obtaining of the dharma itself.
+**P28** sets the terminus of the *Gaṇḍavyūha*: fascicle eighty's autobiographical self-witness by Samantabhadra — "in my ocean of Dharma, there is not one letter or phrase that was not sought and acquired by relinquishing the throne of a wheel-turning king, nor by relinquishing all possessions" (T0279, fasc. 80, p.0441c11–19). The text directly states a causal relation: every letter and phrase of the ocean of Dharma was "sought and acquired" through relinquishing. P28 then reads that causal statement together with the Huayan commentarial account of mutual inclusion and interpretively compresses the relation as "dharma is giving." That phrase is the paper's synthesis, not an equation stated verbatim or explicitly by Samantabhadra. This is the closure-anchor of Part VIII.
 
-The Huayan five-part shares a pattern: giving's final structure — entry-threshold (the Ground of Joy), construction (the four-exhaustions), collection-point (the seven dharma-offerings), trajectory (the fifty-three visits), terminus (the dharma-equals-giving equation) — has Samantabhadra as principal arena, so that the outward action of giving converges, in the buddha-realm, into a single matter with the obtaining of the dharma-body itself.
+The Huayan five-part shares a pattern: giving's final structure — entry-threshold (the Ground of Joy), construction (the four-exhaustions), collection-point (the seven dharma-offerings), trajectory (the fifty-three visits), terminus (every letter and phrase of the ocean of Dharma traced to acquisition through relinquishing; interpretively synthesized in P28 as "dharma is giving") — has Samantabhadra as principal arena. On the five papers' reading, outward giving remains the causal practice through which the Dharma is acquired at the Huayan terminus; it has not been left behind. This is a joint reading of the sūtra's causal wording and the commentaries' mutual-inclusion teaching, not the sūtra's explicit identification of giving with the dharma-body.
 
 ## IV. Looking Back (Part III): The Modern Diagnosis
 
@@ -165,7 +194,7 @@ The modern-diagnosis stratum shares a pattern: the doctrinal tools of the preced
 
 The seam to Volume Three (*Sīla*) does not need to be constructed by the author; it is already laid down in the canon.
 
-Carrying forward the *Avataṃsaka* terminus of P28: in the very same Samantabhadra-witness passage of *Sudhana*'s pilgrimage, a great earth-deity (*pṛthivī-devatā*) appears as the donor of *Sudhana*'s twenty-third visit, where she expounds the "cloud-net liberation" gate by jointly bringing forth the *dāna-pāramitā* and the *śīla-pāramitā* (T0293, fasc. 16–17). *Dāna* and *sīla* are already named in parallel within the *Avataṃsaka*; this is not an authorial conscription.
+Carrying forward P28's reading of the *Avataṃsaka* terminus, a separate textual locus pre-lays the seam to Volume Three: T0293, fascicles sixteen and seventeen, presents the great earth-deity (*pṛthivī-devatā*) as the donor in *Sudhana*'s twenty-third visit, where she expounds the "cloud-net liberation" gate by naming the *dāna-pāramitā* and the *śīla-pāramitā* together. This is not the same passage as Samantabhadra's fascicle-eighty disclosure. What it directly establishes is that *dāna* and *śīla* are already named in parallel within the *Avataṃsaka*; this is not an authorial conscription.
 
 The three-wheel-to-three-encompassing-precepts structural parallel is also already in the canon. The *Mahāprajñāpāramitā-śāstra* fascicle eleven establishes the non-apprehensibility of the three wheels (giver, recipient, gift), which is the P13 anchor; the *Bodhisattva-mālā-sūtra* fascicle two states "the encompassing precepts of restraint, the encompassing precepts of wholesome dharmas, the encompassing precepts of sentient beings" (攝律儀戒、攝善法戒、攝眾生戒) — the three-fold structure of the three-encompassing precepts (T1485, fasc. 2). The negative formulation of the three wheels and the positive formulation of the three-encompassing precepts form a structural pair — not a philosophical identity but a constructional correspondence.
 
@@ -213,7 +242,7 @@ The rest is your hand — and the loosening behind it.
 | T0220e | *Mahāprajñāpāramitā Sūtra* | Xuanzang | fasc. 571 (abridged) | §II P11+P13 *prajñā* canonical witness to three-wheel-empty; §VI Beat 4 anchor |
 | T0235 | *Vajracchedikā Prajñāpāramitā Sūtra* | Kumārajīva (Later Qin) | entire | §II P15 "abiding nowhere, yet practicing giving" |
 | T0262 | *Saddharma-puṇḍarīka Sūtra* | Kumārajīva (Later Qin) | "Dharma Master" + ch. 23 | §III P21+P23 dharma-body / "most honored and supreme" |
-| T0279 | *Avataṃsaka Sūtra* (80-fasc.) | Śikṣānanda (Tang, 699 CE) | fasc. 34 + fasc. 80 | §III P24+P28 Ground of Joy / dharma-equals-giving terminus |
+| T0279 | *Avataṃsaka Sūtra* (80-fasc.) | Śikṣānanda (Tang, 699 CE) | fasc. 34 + fasc. 80 | §III P24 Ground of Joy; P28 relinquishing as the cause of acquiring every letter and phrase of the ocean of Dharma ("dharma is giving" is the paper's interpretation) |
 | T0293 | *Avataṃsaka Sūtra* (40-fasc.) Samantabhadra's Conduct-Vows | Prajñā (Tang) | fasc. 4 + fasc. 16–17 + fasc. 40 | §III P25+P26+P27 + §V earth-deity seam |
 | T0450 | *Bhaiṣajyaguru Vaiḍūryaprabha Sūtra* | Xuanzang (Tang, 650 CE) | entire (fifth great vow p.0405a23) | §V ★ canonical pre-laying of inter-volume seam |
 | T0475 | *Vimalakīrti-nirdeśa Sūtra* | Kumārajīva (Later Qin, 406 CE) | fasc. 1, *Sudatta* chapter | §VI Chinese-reader-side (parallel volume reference) |
@@ -295,7 +324,7 @@ Shandao. *Commentary on the Visualization Sūtra (Guanjing Sitie Shu)*. *Taishō
 
 ## Cross-References
 
-**Volume One (NIAN):** P31 "The Internal Steps of Buddha-Recollection" — the sister-volume closer. The two P31s complete the *Six Practice Gates* sister-volume diptych, each with its own register-type (NIAN P31 = how-to phenomenology / DĀNA P31 = synthesis-retrospective with bilingual pastoral closure). One-line acknowledgment only, with no structural mirror, per author scope-lock.
+**Volume One (NIAN):** P31 "The Internal Steps of Buddha-Recollection" — the sister-volume closer. The two P31s complete the *Six Practice Gates* sister-volume diptych, each with its own register-type (NIAN P31 = how-to phenomenology / DĀNA P31 = synthesis-retrospective with bilingual pastoral closure). One-line acknowledgment only, with no structural mirror; this brief cross-reference does not claim a structural mirror.
 
 **Within DĀNA:** This paper's retrospective covers all thirty preceding papers (P01–P30). Each paper's load-bearing scriptural anchor is re-illuminated in §II / §III / §IV. The author's own prose from those papers is off-limits as quotation-source by the present paper's structural discipline; only the canonical voices on which those papers anchored are allowed to speak in the volume's close. Readers are directed to the Sūtra & Śāstra Index above for the T-number map of each paper's principal anchor.
 

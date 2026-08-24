@@ -10,6 +10,14 @@ part: "Part I · Foundations (Pāli)"
 part_number: 1
 date: "2026-04-14"
 version: "1.0"
+canonical_source:
+  - "T02n0099"
+  - "T02n0125"
+  - "T25n1509"
+  - "AN11.11"
+  - "AN11.12"
+  - "AN6.10"
+  - "SN11.3"
 license: "CC BY-NC-SA 4.0"
 ---
 

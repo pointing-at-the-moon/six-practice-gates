@@ -3,12 +3,20 @@ title: "Sīla across the Ten Bhūmis"
 subtitle: "Stage-Allocation, the Stainless Ground, and the Ten Courses of Good Action"
 title_zh: 分位之戒
 subtitle_zh: 華嚴《十地品》的離垢地與十善業道
-volume: 戒門 SĪLA
-paper_id: SILA-P27
-paper_number: P27
+volume: 4
+paper_id: "SILA-P27"
+paper_number: 27
 language: en
+series_short: "SĪLA"
+part_number: 8
 date: 2026-06
-author: 釋慧鏡 Shi Huijing
+author: "釋慧鏡 (Shi Huijing)"
+canonical_source:
+  - "T09n0278"
+  - "T10n0279"
+  - "T10n0286"
+  - "T10n0293"
+  - "T26n1522"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷四 戒

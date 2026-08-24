@@ -10,6 +10,12 @@ part: Part V · Prajñā and Concentration
 part_number: 5
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T02n0099"
+  - "T08n0223"
+  - "T08n0227"
+  - "T08n0235"
+  - "T25n1509"
 license: CC BY-NC-SA 4.0
 ---
 

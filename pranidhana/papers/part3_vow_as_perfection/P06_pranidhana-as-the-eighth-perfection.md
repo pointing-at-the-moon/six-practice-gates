@@ -1,16 +1,21 @@
 ---
 title: "Praṇidhāna as the Eighth Perfection"
 title_en: "Praṇidhāna as the Eighth Perfection"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 6 — PRAṆIDHĀNA: Aspiration and the Vow, from Pāli Roots to Samantabhadra · Part III · Vow as a Perfection"
-series_short: PRAṆIDHĀNA
+series_short: "PRAṆIDHĀNA"
 volume: 6
-paper_id: PRANIDHANA-P06
+paper_id: "PRANIDHANA-P06"
 paper_number: 6
 part: Part III · Vow as a Perfection
 part_number: 3
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T10n0279"
+  - "T30n1579"
+  - "T31n1585"
+  - "T31n1594"
 license: CC BY-NC-SA 4.0
 ---
 

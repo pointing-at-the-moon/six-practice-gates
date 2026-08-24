@@ -3,12 +3,27 @@ title: "Bhaiṣajyaguru's Developmental Sequence of Body-Mind Discipline"
 subtitle: "Surface Falsification and the Reconstruction of the Precondition-Field"
 title_zh: 藥師十二願中身心調伏的次第
 subtitle_zh: 表層證偽與前提場域之重構
-volume: 戒門 SĪLA
+volume: 4
 paper_id: "SILA-P20"
-paper_number: P20
+paper_number: 20
 language: en
+series_short: "SĪLA"
+part_number: 6
 date: 2026-05-29
 author: "釋慧鏡 (Shi Huijing)"
+canonical_source:
+  - "T01n0026"
+  - "T09n0262"
+  - "T12n0360"
+  - "T14n0449"
+  - "T14n0450"
+  - "T14n0451"
+  - "T14n0475"
+  - "T38n1770"
+  - "T85n2766"
+  - "T85n2767"
+  - "X21n0381"
+  - "AN11.1"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷四 戒
@@ -232,7 +247,7 @@ From here, a look ahead. What this paper has treated is the **precondition** of 
 
 [^9]: Gethin's structure-reading of Buddhist numbered lists as path-sequences is in *The Buddhist Path to Awakening* (Brill, 1992). This paper borrows his criterion (that a path-sequence ought to carry path-markers); it does not argue Bhaiṣajyaguru with him — Gethin never treated the Bhaiṣajyaguru material.
 
-[^10]: The continuation "the precept → concentration" within the gradual chain is handled, in another paper of this series (P24), as the handoff into the training in concentration, its function being the passing-over from sīla to samādhi; the present paper uses the same gradual principle (dharma conditions dharma) only to mark the foot of the downstream ladder — the two uses differ, and the reader must not conflate them. Forward to Part VII (from P21), which turns to the sign-less sīla of the Prajñā corpus.
+[^10]: The continuation "the precept → concentration" within the gradual chain is handled, in another paper of this series (P24), as the transition into the training in concentration, its function being the passing-over from sīla to samādhi; the present paper uses the same gradual principle (dharma conditions dharma) only to mark the foot of the downstream ladder — the two uses differ, and the reader must not conflate them. Forward to Part VII (from P21), which turns to the sign-less sīla of the Prajñā corpus.
 
 ---
 
@@ -267,7 +282,7 @@ All scriptural citations above have been collated against the CBETA Electronic T
 - **Continuing from — SĪLA P19 *The Twelve Vows through the Sīla Lens*** — the synchronic seven-dimension reverse-index ("which support conditions"); this paper takes that index and turns it into the diachronic question of ordering.
 - **Method — SĪLA P18 *Precept-Substance and Manas*** — the own-it voicing discipline (distinguishing what the text says from what this paper reads); this paper continues it without re-deriving the seed-perfuming ontology.
 - **Context-pointer (not reopened) — SĪLA P10 / P11** — the Saṅgha institutions and the ordination background; the eighth vow's institutional context is given only as a descriptive pointer.
-- **Downstream handoff (a different use) — SĪLA P24** — the sīla → samādhi handoff into the SAMĀDHI volume; this paper uses the same gradual principle only to mark the foot of the downstream ladder, not as the handoff function.
+- **Downstream transition (a different use) — SĪLA P24** — the sīla → samādhi transition into the SAMĀDHI volume; this paper uses the same gradual principle only to mark the foot of the downstream ladder, not as the transition function.
 - **Looking ahead — SĪLA P21 (Part VII onward)** — the sign-less sīla of the Prajñā corpus (from "guarding the preconditions of precept-keeping" to "the emptiness of the precept-sign").
 
 ---
@@ -275,6 +290,6 @@ All scriptural citations above have been collated against the CBETA Electronic T
 *正法眼藏，不立文字——The value of the Dharma lies in the Dharma itself, not in the identity of the one who expounds it.*
 
 **Pointing at the Moon** ｜ Six Practice Gates · SĪLA 戒 ｜ CC BY-NC-SA 4.0
-Scriptural citations collated against the CBETA Electronic Tripiṭaka ｜ github.com/pointing-at-the-moon/six-practice-gates
+CBETA collation: Scriptural citations collated against the CBETA Electronic Tripiṭaka ｜ github.com/pointing-at-the-moon/six-practice-gates
 
 *Pointing at the Moon · The Six Practice Gates · Volume IV SĪLA · Paper 20 · Part VI #2 · May 2026*

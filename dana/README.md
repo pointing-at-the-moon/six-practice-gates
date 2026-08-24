@@ -8,9 +8,10 @@
 A companion to [*Mindful of the Buddha*](../nian/) (Volume 1). Where NIAN establishes continuous awareness, DĀNA loosens the grip of "mine" through the practice of giving.
 
 - **Author**: 釋慧鏡 (Shi Huijing)
+- **Methodology**: [Waken scholarship methodology](https://waken.org/methodology/)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
 - **Book**: [成書層 book/](./book/) — ZH gold standard + English mirror
-- **Status**: ✅ **Paper phase SEALED 2026-05-15 — 31/31 (all 9 Parts complete)** · Volume closer P31 走過之路 · Part IX triad (P29 modern-diagnosis + P30 AI 時代之施 + P31 全卷收束) · forward to SĪLA Volume 3
+- **Status**: Corpus inventory complete — 31/31 papers are present on disk across all 9 Parts. This count does not claim teacher/translator ratification, quotation-by-quotation scholarly closure, or live-site publication.
 
 ### Structure
 

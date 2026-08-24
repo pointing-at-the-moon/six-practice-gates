@@ -40,9 +40,9 @@ The suttas carry word of it. The *Madhyama Āgama* plainly lists three concentra
 
 The middle one—"without awareness and with little examining": awareness already gone, a little examining still left. The coarse departs first; the fine remains. The sutta saw this transitional instant.
 
-Later, two treatise traditions that never exchanged a word each gave this instant a place. The Sarvāstivāda of the northern transmission set up for it a separate "ground" (*bhūmi*), named the intermediate dhyāna—above the first jhāna, short of the second, wedged between, with even a karmic fruit all its own. The southern treatises added for it a "reckoning" on the ladder—a fivefold reckoning (*pañcaka-naya*) set beside the current four, inserting between the first and second jhānas the level "without applied thought, with sustained thought alone."
+Later, two treatise traditions that went their separate ways each gave this instant a place. The Sarvāstivāda of the northern transmission set up for it a separate "ground" (*bhūmi*), named the intermediate dhyāna—above the first jhāna, short of the second, wedged between, with even a karmic fruit all its own. The southern treatises added for it a "reckoning" on the ladder—a fivefold reckoning (*pañcaka-naya*) set beside the current four, inserting between the first and second jhānas the level "without applied thought, with sustained thought alone."
 
-One adds a ground, one adds a reckoning—different architecture; but two pairs of hands that never met drew the same ridgeline. This fact itself carries great weight: if the jhāna-factors were merely a list later men tidied up, with nothing real beneath, two traditions would not have set their chisels, unprompted, at the same fine point. Two independently drawn maps rise at the same spot—and that spot is a mountain the terrain itself owns.
+One adds a ground, one adds a reckoning—different architecture; but two pairs of hands, each setting down its own strokes, drew the same ridgeline. This fact itself carries great weight: if the jhāna-factors were merely a list later men tidied up, with nothing real beneath, two traditions would not have set their chisels, unprompted, at the same fine point. Two separately drawn maps rise at the same spot—and that spot is a mountain the terrain itself owns.
 
 ### From Coarse to Subtle, Removing Motion Layer by Layer
 

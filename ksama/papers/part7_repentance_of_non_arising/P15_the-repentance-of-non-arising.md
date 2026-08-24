@@ -10,6 +10,11 @@ part: "Part VII · The Repentance of Non-Arising as Emptiness"
 part_number: 7
 date: "2026-06-02"
 version: "1.0"
+canonical_source:
+  - "T08n0251"
+  - "T09n0277"
+  - "T14n0475"
+  - "T46n1916"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -173,7 +178,7 @@ The sun of wisdom shines once, and the frost and dew are gone of themselves. It 
 - Part V (the three repentances): this paper redeems the summit of the ladder erected there — "repentance by contemplating non-arising, supporting wisdom"; the earlier paper named it but held its substance in reserve (zero content), and here it is unfolded face-on.
 - The "receiving is not absolution" line: carried forward from the fifth paper (King Ajātaśatru, repentance's limit-case) and the ninth (the precept-seam), it rises here to "emptiness is not absolution" — there being no real transgression to absolve, and no absolver of transgression present.
 - The salt-parable of "karmic fruit can be turned but not erased": carried forward from the fifth paper, it draws the line "emptiness does not sweep away karmic fruit" tighter still at the summit where transgression has no own-being (emptiness is not annihilation).
-- Part VII (forthcoming): the full narrative of the *Vimalakīrti-nirdeśa*'s disciples chapter, the faculty-by-faculty real mark of the *Samantabhadra-contemplation Sūtra*'s six-faculty repentance, the line-by-line concordance of the *Heart Sūtra* with the gate of repentance, and the final meeting of repentance and prajñā — all reserved for later papers to mine; this paper only lays out the shape.
+- Part VII: the full narrative of the *Vimalakīrti-nirdeśa*'s disciples chapter, the faculty-by-faculty real mark of the *Samantabhadra-contemplation Sūtra*'s six-faculty repentance, the line-by-line concordance of the *Heart Sūtra* with the gate of repentance, and the final meeting of repentance and prajñā — all reserved for later papers to mine; this paper only lays out the shape.
 - The uncontaminated precept-essence formed from emptiness → the gate of precepts (carried forward from the ninth paper); the wisdom of the patience of non-arising aroused within meditative absorption → the gate of concentration; *anuttarā-samyak-saṃbodhi* → the gate of vow (cashed out where the volume sets down its pen).
 
 ---

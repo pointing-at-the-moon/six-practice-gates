@@ -10,6 +10,12 @@ part: "Part IV · The Early Mahāyāna Turn to Dāna-Pāramitā"
 part_number: 4
 date: "2026-05-09"
 version: "1.0"
+canonical_source:
+  - "T03n0152"
+  - "T07n0220e"
+  - "T25n1509"
+  - "T30n1579"
+  - "T31n1604"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -93,7 +99,7 @@ The importance of this passage is that it shows the inseparability of giving and
 
 But more importantly, T1509 responds to this teaching by proposing the full trilakṣaṇa-śūnya argument:
 
-> "If giving has three obstacles — I give, they receive, the gift is given — this falls into Māra's realm. If a bodhisattva gives with three purifications, without these three obstacles, they reach the other shore, praised by the buddhas — this is dāna-pāramitā."[^5]
+> "If giving has three obstacles — I give, they receive, the gift is given — this falls into Māra's realm. In bodhisattva giving there are three purifications: without these three obstacles, one reaches the other shore and is praised by the buddhas — this is dāna-pāramitā."[^5]
 
 This is the most precise anchor — the distinction between "three obstacles" (三礙) and "three purifications" (三種清淨). Three obstacles = trilakṣaṇa-sahita (three wheels with apprehension); three purifications = trilakṣaṇa-śūnya (three wheels emptied).
 
@@ -208,7 +214,7 @@ Both share the same core insight: **the qualitative transformation of giving dep
 
 Trilakṣaṇa-śūnya is not the endpoint of practice but its beginning. After establishing the three-wheels-emptied framework, T1509 immediately addresses a crucial question:
 
-> "If giving has three obstacles — I give, they receive, the gift is given — this falls into Māra's realm. If a bodhisattva gives with three purifications, without these three obstacles, they reach the other shore."[^14]
+> "If giving has three obstacles — I give, they receive, the gift is given — this falls into Māra's realm. In bodhisattva giving there are three purifications: without these three obstacles, one reaches the other shore."[^14]
 
 The distinction between "falling into Māra's realm" and "reaching the other shore" lies not in the external act of giving (both are giving wealth) but in the **structure of the giver's mind**. This is precisely Nāgārjuna's concrete answer to P11's "prajñā as condition": **三輪體空 is the dāna-formulation of the prajñā condition.**
 
@@ -286,7 +292,7 @@ This paper hands off to P14: how does T1604's "three-wheel purification" further
 
 [^4]: T0220e, fasc. 571 (6th Division, p0951c20-24): King Āyus's dialogue with the Buddha — 「夫布施者若無般若波羅蜜多，但得施名非到彼岸，要由般若波羅蜜多乃得名為施到彼岸。」
 
-[^5]: T1509 vol 11: 「若施有三礙：我與、彼受、所施者財，是為墮魔境界，未離眾難。若菩薩布施，三種清淨，無此三礙，得到彼岸，為諸佛所讚，是名檀波羅蜜。」
+[^5]: T1509 fascicle 12, 0145b26–c01: 「若施有三礙：我與、彼受、所施者財，是為墮魔境界，未離眾難。如菩薩布施，三種清淨，無此三礙，得到彼岸，為諸佛所讚，是名檀波羅蜜。」
 
 [^6]: T1509 vol 12: 「三事和合，故名為檀；今言三事不可得，云何名檀波羅蜜具足滿？今有財、有施、有受者，云何三事不可得？」
 
@@ -304,7 +310,7 @@ This paper hands off to P14: how does T1604's "three-wheel purification" further
 
 [^13]: T1604 vol 8: 「三輪清淨，此清淨由無分別智為方便故。」
 
-[^14]: T1509 vol 11; repeats the citation at [^5].
+[^14]: T1509 fascicle 12; repeats the citation at [^5].
 
 [^15]: Jan Nattier, *A Guide to the Earliest Chinese Buddhist Translations* — textual stratification of T1509.
 

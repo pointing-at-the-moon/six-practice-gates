@@ -10,6 +10,8 @@ part: "Part VI · Chinese Repentance Rites"
 part_number: 6
 date: "2026-06"
 version: "1.0"
+canonical_source:
+  - "T45n1909"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -140,7 +142,6 @@ Part VI closes here.
 [^8]: ibid., "Homage of the Six Paths" — "universally for those of the six paths who have already suffered and those who have not yet suffered, we make plea, homage, and repentance… and also for ourselves, we make plea, homage, and repentance" — T45n1909_p0937a25–27.
 [^9]: ibid., "The Making of the Great Vow" — "by the merit of repentance and the arousing of the mind made now, we vow universally that throughout the ten directions, to the ends of empty space…" — T45n1909_p0952b02.
 [^10]: ibid., the first vow of the eye-faculty — the vow's power "reaches widely to all beings of the four modes of birth and the six paths in the ten directions" — T45n1909_p0963c17.
-[^11]: Jacques Le Goff, *The Birth of Purgatory*. The medieval doctrines of the "treasury of merit" and of *suffrages* (works on the dead's behalf).
 
 ## Source Index
 
@@ -158,8 +159,8 @@ Part VI closes here.
 - Part IV (the bridge of dying and being reborn · the precept-seam): the "outward losing of the self" of this paper is a window opening outward on that bridge — giving loosens "what is mine," and repentance cleanses karma upon the no-self ground.
 - Part V (the limit-case of repentance · received, not absolved): the line that "being received is not the same as being absolved" carries forward here as this paper's most critical firewall — the serpent must still disclose; merit lends grace but does not absolve.
 - Part VI (Chinese repentance liturgy · structure first): the earlier paper of this part set out the two-pole typology of contemplative and ceremonial rites; the previous paper deep-dived the contemplative pole (the *Lotus Samādhi*); this paper deep-dives the ceremonial-and-deliverance pole (the Liang Emperor's), and closes Part VI by cashing out that contrast.
-- Part VII (forthcoming): the inward losing of the self that presses toward the real mark, the repentance of non-arising in which repentance dissolves into emptiness — this paper sets it beside the outward losing of the self in a single clause and leaves the door for Part VII.
-- The gate of vows (forthcoming): the arousing of the mind of awakening and the unfolding of the vow within this rite are here only a signpost.
+- Part VII: the inward losing of the self that presses toward the real mark, the repentance of non-arising in which repentance dissolves into emptiness — this paper sets it beside the outward losing of the self in a single clause and leaves the door for Part VII.
+- The gate of vows: the arousing of the mind of awakening and the unfolding of the vow within this rite are here only a signpost.
 
 ---
 

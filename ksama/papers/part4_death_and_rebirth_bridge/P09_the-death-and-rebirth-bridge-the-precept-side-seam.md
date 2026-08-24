@@ -10,6 +10,14 @@ part: "Part IV · The Death-and-Rebirth Bridge"
 part_number: 4
 date: "2026-06"
 version: "1.0"
+canonical_source:
+  - "T09n0277"
+  - "T17n0839"
+  - "T22n1428"
+  - "T24n1484"
+  - "T24n1488"
+  - "T40n1804"
+  - "T40n1805"
 license: "CC BY-NC-SA 4.0"
 ---
 

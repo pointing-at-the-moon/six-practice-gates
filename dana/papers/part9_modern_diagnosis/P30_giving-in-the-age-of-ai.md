@@ -10,6 +10,19 @@ part: "Part IX · Modern Diagnosis"
 part_number: 9
 date: "2026-05-15"
 version: "1.0"
+canonical_source:
+  - "T01n0026"
+  - "T02n0099"
+  - "T09n0262"
+  - "T10n0293"
+  - "T12n0374"
+  - "T25n1509"
+  - "T29n1558"
+  - "T30n1564"
+  - "T30n1579"
+  - "T31n1585"
+  - "T47n1969A"
+  - "AN5.36"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -179,7 +192,7 @@ The passage does not depreciate material offerings; it installs the amplifying f
 
 One distinction must be marked. *Anumodanā* is not a third item placed in parallel to *cetanā*; it is a species of *cetanā* — specifically, the *cetanā* directed toward another's merit-flow (the *pubba* / *muñca* / *apara-cetanā* of the canonical three-phase framing). The P30 register of *anumodanā* (one of the seven offerings established in fascicle sixty-one of the *Mahāprajñāpāramitā-śāstra*) is not identical with *pīti* (the fifth *bojjhaṅga*, the *jhāna*-factor of rapture treated in P29). The Chinese character 喜 covers both, as does the English "joy"; the present paper holds them apart consistently by context.
 
-Three further canonical witnesses, cross-linked in a single sentence each: the fiftieth-relay parable of the *Saddharmapuṇḍarīka-sūtra*, "Rejoicing Merit" chapter, where the merit of the fiftieth person's single moment of rejoicing exceeds the eighty-year giving of a great donor (P21's territory, not re-derived here)[^20]; the universalising scope of *Samantabhadra's* fifth great vow in the *Buddhāvataṃsaka-sūtra* — "down to a single mote of dust, I rejoice in all" (P25/P26's territory, not re-derived here)[^21]; and the double ring of self-rejoicing-plus-encouraging-others-to-rejoice in fascicle forty-five of the *Yogācārabhūmi-śāstra*, "Bodhisattva-bhūmi" — "universally rejoicing in all merits of all beings in all directions, and likewise leading others to such rejoicing"[^22]. These four cross-traditional canonical statements converge on the same point: the doctrinal structure of *anumodanā* does not depend on face-to-face transmission; the sharing of merit traverses distance, time, and the subject-object structure, and remains plenitudinous.
+Three further canonical witnesses, cross-referenced in a single sentence each: the fiftieth-relay parable of the *Saddharmapuṇḍarīka-sūtra*, "Rejoicing Merit" chapter, where the merit of the fiftieth person's single moment of rejoicing exceeds the eighty-year giving of a great donor (P21's territory, not re-derived here)[^20]; the universalising scope of *Samantabhadra's* fifth great vow in the *Buddhāvataṃsaka-sūtra* — "down to a single mote of dust, I rejoice in all" (P25/P26's territory, not re-derived here)[^21]; and the double ring of self-rejoicing-plus-encouraging-others-to-rejoice in fascicle forty-five of the *Yogācārabhūmi-śāstra*, "Bodhisattva-bhūmi" — "universally rejoicing in all merits of all beings in all directions, and likewise leading others to such rejoicing"[^22]. These four cross-traditional canonical statements converge on the same point: the doctrinal structure of *anumodanā* does not depend on face-to-face transmission; the sharing of merit traverses distance, time, and the subject-object structure, and remains plenitudinous.
 
 From this can be established the three-way functional division that frames AI-era giving doctrinally: **the platform** (the mainstream online giving platform, as accompanying support) sits at the *adhipati-pratyaya* slot — under the heading "excluding the seed, the remaining supports"; **the practitioner**'s *cetanā* serves as the cause-condition (the seed), and at the position of *anumodanti + veyyāvaccaṁ karonti* carries the function of *anumodanā* (a directional species of *cetanā*); **the giving-act** (the transmission of the gift itself) operates at the field-execution layer of *dāna-pāramitā*. The canonical statement is explicit: within this three-way functional division, the practitioner's share in the merit is in no way diminished; it is plenitudinous.
 
@@ -197,7 +210,7 @@ Slavoj Žižek, in *First as Tragedy, Then as Farce* (2009) and *In Defense of L
 
 Peter Hershock, in *Buddhism in the Public Sphere* (2006), *Liberating Intimacy* (1996), and a series of articles on the attention-economy across 2010–2021, treats the structural capture of attention from a Huayan interpenetration framework: the contemporary AI accompanying supports (recommendation algorithms, engagement-optimisation, dwell-time metrics) structurally capture the practitioner's attention, with the consequence that "the cultivation of true *cetanā* in action" is structurally constrained.
 
-**Acknowledgement.** Hershock's voice, situated within the critical-academic line of Buddhist studies (cognate in register with the *McMahan* / *Sharf* line drawn on in P29), offers a valid structural analysis of attention-capture; that analysis is itself the doctrinal backstop for the W11 red line — AI's "dominant power" can favour or can obstruct, and there is no doctrinally neutral free pass. A practitioner whose attention has been captured by algorithm will, by structural necessity, have a constrained depth of *cetanā*; the diagnostic instrument sorts hierarchically at this layer.
+**Acknowledgement.** Hershock's voice, situated within the critical-academic line of Buddhist studies (cognate in register with the *McMahan* / *Sharf* line drawn on in P29), offers a valid structural analysis of attention-capture; that analysis is itself the doctrinal backstop for the paper's governing limit — AI's "dominant power" can favour or can obstruct, and there is no doctrinally neutral free pass. A practitioner whose attention has been captured by algorithm will, by structural necessity, have a constrained depth of *cetanā*; the diagnostic instrument sorts hierarchically at this layer.
 
 **Rejoinder.** Hershock's framing, however, risks sliding into a deterministic reading according to which "technology constitutes a structural obstruction." This reading collides with the bidirectional clause of the *Vijñaptimātratāsiddhi*, fascicle seven ("either favouring or obstructing"). The dominant condition is condition, not cause; the practitioner's *cetanā* is the proximate cause. The same AI accompanying support yields differing fruit for practitioners of differing *cetanā*-quality — "favouring" sitting at the favouring position, "obstructing" sitting at the obstructing position, both finding their proper place within the functional category of *adhipati-pratyaya*. The paper's hierarchical (not deterministic) reading supplements Hershock's critique: the critique operates at the sociological layer, but the doctrinal mechanism is not surrendered to sociological capture. The depth of the practitioner's *cetanā*, in any medium, remains the ultimate determining factor.
 
@@ -205,13 +218,13 @@ Peter Hershock, in *Buddhism in the Public Sphere* (2006), *Liberating Intimacy*
 
 Lewis Hyde's classic anthropological study *The Gift* (1983) treats the gift as a form of relation-formation: in contrast to commodity exchange, the gift forms a circulating ring that sustains the cohesion of community; the circulation of the gift through a hand-delivered network is a condition of the formation of relation.
 
-**Acknowledgement.** Hyde's model offers an important grounding for face-to-face gift-circles; direct giving remains valid and is not rendered obsolete. This grounding aligns with the W7 non-puritan posture of "both ends viewed equally": the doctrinal commendation of mediated giving does not entail the obsolescence of direct giving.
+**Acknowledgement.** Hyde's model offers an important grounding for face-to-face gift-circles; direct giving remains valid and is not rendered obsolete. This grounding aligns with the non-puritan posture of "both ends viewed equally": the doctrinal commendation of mediated giving does not entail the obsolescence of direct giving.
 
 **Rejoinder.** Hyde's model, however, presupposes physical circulation: the gift must circulate through a hand-delivered network as a necessary condition for the formation of relation. The architecture of *anumodanā* (AN 5.36) is more thoroughgoing than Hyde's model: merit accumulates even in the absence of face-to-face circulation, because the *cetanā* of *anumodanā* has already completed the doctrinal participation — the formation of relation is constituted in the form of *cetanā*'s directional orientation toward another's merit-flow, and physical circulation is not its precondition. Hyde's framework does not encompass the distributed participation at the level of *anumodanā*; the Buddhist *dāna* doctrine, here, exceeds the limits of Hyde's anthropology.
 
-### IV.4 The Continuation of the Three-Layered Dialogue: Reinforcing the W7 Red Line
+### IV.4 The Continuation of the Three-Layered Dialogue: Reinforcing the Doctrinal Limit
 
-The common continuation across the three layers of acknowledgement-plus-rejoinder is this: the diagnostic instrument is throughout hierarchical (depth places the act), never condemnatory (the puritan binary is refused). A practitioner's mediated micro-giving and a practitioner's hands-on, long-term offering are **both events of *cetanā*** — the difference is in depth of *cetanā*, not in the establishment of karma. Any formulation that "real giving must be hands-on, long-term, or large-quantity" is a violation of the W7 line: the Buddhist *dāna* doctrine, across two thousand years of canonical positioning, has never held such a puritan binary.
+The common continuation across the three layers of acknowledgement-plus-rejoinder is this: the diagnostic instrument is throughout hierarchical (depth places the act), never condemnatory (the puritan binary is refused). A practitioner's mediated micro-giving and a practitioner's hands-on, long-term offering are **both events of *cetanā*** — the difference is in depth of *cetanā*, not in the establishment of karma. Any formulation that "real giving must be hands-on, long-term, or large-quantity" violates this limit: the Buddhist *dāna* doctrine, across two thousand years of canonical positioning, has never held such a puritan binary.
 
 The P29 red line ("no-institutional-attack") is reinforced here: the target of the present critique is consistently the practitioner's quality of *cetanā* in the general user, never the structure of any particular platform. Anonymous descriptors ("mainstream online giving platforms," "common one-tap donation interfaces") replace brand-naming; the practitioner is preserved as grammatical subject, the platform held in anonymity. This is not externally imposed self-censorship; it is a structural feature: the voice of the present paper arises from within the tradition's doctrinal authority, not from an external critique-of-technology register.
 
@@ -233,7 +246,7 @@ This polyphony is not a structural coincidence but a continuity of doctrinal mec
 
 **Precise restatement.** The paper has established three things. First, AI sits at the fourth of the four conditions (*adhipati-pratyaya*), under the doctrinal warrant of the *Yogācārabhūmi-śāstra*, fascicle three's structural subtraction-clause "excluding the seed, the remaining supports" — AI is *pratyaya* (specifically *adhipati*), never *hetu*. Second, a single mind-moment of *cetanā* suffices as karma-seed, established through the four-text chain of the *Mahāprajñāpāramitā-śāstra*, fascicle 92 ("giving takes *cetanā* as its head"); *Mūlamadhyamakakārikā* 17.6 prose ("karma is of arising-perishing character, not enduring one thought-moment"); the *Mahāprajñāpāramitā-śāstra*, fascicle 24 ("mind-power is sharp — like fire, like poison"); and the *Mahāparinirvāṇa-sūtra*, fascicle 19, with its 16:1 ratio — "five-minute micro-*dāna*" is therefore canonically established at the doctrinal level. Third, *anumodanā* serves as the doctrinal warrant for mediated and distributed giving, established through AN 5.36 and the *Mahāprajñāpāramitā-śāstra*, fascicle 61 ("the merit of rejoicing requires no exertion of body or speech, only mental skill") — the three-way functional division is installed: the platform at *adhipati-pratyaya*, the practitioner at *cetanā* plus *anumodanā*, the giving-act at the field-execution layer. The share in the merit is not diminished; it is plenitudinous.
 
-**Practice guidance.** Within the "both-ends-viewed-equally" framing, micro-giving has its own discipline. The depth of *cetanā* is the ultimate determinant; the form of the medium is not. A single-tap act of giving is, when the practitioner has gathered directional *cetanā*, a complete giving-act in which the karma-seed is fully established; when the practitioner's *cetanā* floats at the surface stratum of algorithmic capture, the diagnostic instrument (the *pīti*-*passaddhi* twin-factor of P29) sorts hierarchically — without condemnation, simply locating the tier. The key lever against W7 collapse: refuse the puritan binary, install no covert standard of "real giving," and keep mediated and direct giving in doctrinal parity.
+**Practice guidance.** Within the "both-ends-viewed-equally" framing, micro-giving has its own discipline. The depth of *cetanā* is the ultimate determinant; the form of the medium is not. A single-tap act of giving is, when the practitioner has gathered directional *cetanā*, a complete giving-act in which the karma-seed is fully established; when the practitioner's *cetanā* floats at the surface stratum of algorithmic capture, the diagnostic instrument (the *pīti*-*passaddhi* twin-factor of P29) sorts hierarchically — without condemnation, simply locating the tier. To preserve this distinction, refuse the puritan binary, install no covert standard of "real giving," and keep mediated and direct giving in doctrinal parity.
 
 **Open questions and forward continuity.** The present paper is paper-level contemporary application, not the volume-closing of DĀNA — the volume's closing is the task of P31, which will integrate, as the third paper of Part IX, the diagnostic instrument across the three Part-IX papers and place it within DĀNA's full doctrinal architecture. The discipline of the practice of micro-giving devolves further to the level of *sīla*, which Volume Three will take up in its turn. The *Pointing-at-the-Moon Octalogy*, series four, paper six (*How Would the Buddha Use AI*) establishes the methodological distinction — AI as *adhipati-pratyaya*, not *hetu-pratyaya* — from the view-axis (the epistemological-ontological position); the present paper inherits that distinction without re-elaboration, and contributes its application to the action-axis of giving.
 
@@ -285,9 +298,9 @@ The four conditions are a doctrinal architecture, not an ultimate metaphysics; t
 
 [^19]: *Mahāprajñāpāramitā-śāstra*, fascicle 61, exegesis of "Rejoicing and Dedication," T1509, vol. 25.
 
-[^20]: *Saddharmapuṇḍarīka-sūtra*, chapter 18, "Rejoicing Merit," fascicle 6, T262, vol. 9. Translated by Kumārajīva. The present paper cross-links a single sentence; the primary treatment belongs to P21 of the present series.
+[^20]: *Saddharmapuṇḍarīka-sūtra*, chapter 18, "Rejoicing Merit," fascicle 6, T262, vol. 9. Translated by Kumārajīva. The present paper cross-references a single sentence; the primary treatment belongs to P21 of the present series.
 
-[^21]: *Buddhāvataṃsaka-sūtra* (the forty-fascicle recension), "Practice and Vows of Samantabhadra," fifth great vow, fascicle 40, T293, vol. 10. Translated by Prajñā. The present paper cross-links a single sentence; the primary treatment belongs to P25 / P26 of the present series.
+[^21]: *Buddhāvataṃsaka-sūtra* (the forty-fascicle recension), "Practice and Vows of Samantabhadra," fifth great vow, fascicle 40, T293, vol. 10. Translated by Prajñā. The present paper cross-references a single sentence; the primary treatment belongs to P25 / P26 of the present series.
 
 [^22]: *Yogācārabhūmi-śāstra*, fascicle 45, "Bodhisattva-bhūmi," T1579, vol. 30.
 
@@ -343,15 +356,15 @@ Hyde, Lewis. *The Gift: How the Creative Spirit Transforms the World*. Random Ho
 |------|-------|------------------------|----------|--------------------|
 | T0026 | *Madhyama-āgama* (MA 111, *Damo xing jing*) | Saṃghadeva, Eastern Jin (397–398 CE) | fasc. 27 | §III: *Āgama* witness in the *cetanā* chain |
 | T0099 | *Saṃyukta-āgama* (SA 482) | Guṇabhadra, Liu Song | fasc. 17 | §IV: differentiating *anumodanā* from *pīti* |
-| T0262 | *Saddharmapuṇḍarīka-sūtra*, "Rejoicing Merit" ch. 18 | Kumārajīva, Later Qin | fasc. 6 | §IV: cross-link (P21's territory) |
-| T0293 | *Buddhāvataṃsaka-sūtra* (forty-fascicle), Samantabhadra's fifth vow | Prajñā, Tang | fasc. 40 | §IV: cross-link (P25/P26's territory) |
+| T0262 | *Saddharmapuṇḍarīka-sūtra*, "Rejoicing Merit" ch. 18 | Kumārajīva, Later Qin | fasc. 6 | §IV: cross-reference (P21's territory) |
+| T0293 | *Buddhāvataṃsaka-sūtra* (forty-fascicle), Samantabhadra's fifth vow | Prajñā, Tang | fasc. 40 | §IV: cross-reference (P25/P26's territory) |
 | T0374 | *Mahāparinirvāṇa-sūtra*, northern recension | Dharmakṣema, Northern Liang | fasc. 19, "Pure Conduct" | §III: sharpest anchor (16:1 ratio of single mind-moment of Buddha-mindfulness) |
 | T1509 | *Mahāprajñāpāramitā-śāstra* | Kumārajīva, Later Qin (402–406 CE); attrib. Nāgārjuna | fasc. 11 / 12 / 24 / 32 / 61 / 92 | §II / §III / §IV: multiple anchors (needle-and-thread simile, fire-and-poison simile, rejoicing-of-mind reversal) |
 | T1558 | *Abhidharmakośa-bhāṣya* | Xuanzang, Tang (651–654 CE); Vasubandhu | fasc. 13 / 18 | §III: systematic articulation (*cetanā* as mind-karma; hierarchy of mind-karma) |
 | T1564 | *Mūlamadhyamakakārikā*, "Examination of Karma" ch. 17 | Kumārajīva, Later Qin (409 CE); Nāgārjuna | fasc. 1 / 3 | §II / §III: four-conditions verse; momentariness of karma |
 | T1579 | *Yogācārabhūmi-śāstra* | Xuanzang, Tang | fasc. 3 / 45 | §II: principal anchor (four-conditions architecture); §IV: double-ring of rejoicing |
 | T1585 | *Vijñaptimātratāsiddhi-śāstra* | Xuanzang, Tang (659 CE) | fasc. 1 / 4 / 7 | §II: bidirectional clause of *adhipati-pratyaya*; §V: *manas*-transformation (reference only) |
-| T1969A | *Lebang wenlei* (secondary) | Zongxiao, Song (1200 CE) | fasc. 1 / 4 | translation-history discrimination only (W8 attribution discipline; Pure Land paraphrases not cited as primary sources) |
+| T1969A | *Lebang wenlei* (secondary) | Zongxiao, Song (1200 CE) | fasc. 1 / 4 | translation-history discrimination only (attribution discipline; Pure Land paraphrases not cited as primary sources) |
 
 #### Pāli Literature (PTS / Mahāsaṅgīti CC0)
 
@@ -363,7 +376,7 @@ Hyde, Lewis. *The Gift: How the Creative Spirit Transforms the World*. Random Ho
 
 ## Cross-References
 
-(Cross-links in this paper: DĀNA P12–P14 (*dāna-pāramitā* architecture, one sentence only); DĀNA P13 (three-wheel-empty, one sentence only); DĀNA P21 (Lotus Sūtra's "Rejoicing Merit," one sentence only); DĀNA P25 / P26 (Samantabhadra's universal-cultivation offering and Dharma-offering, one sentence each); DĀNA P28 (entry into the *dharmadhātu*, one sentence only); DĀNA P29 (the *bojjhaṅga* twin-factor diagnostic instrument, carried as instrument in §I); DĀNA P31 (volume closing, forward-handoff one sentence in §VI); Volume Three, *SĪLA* (half-sentence forward in §VI); NIAN P30 (cross-volume polyphony — framing in §I, seam in §V, forward in §VI); *Pointing-at-the-Moon Octalogy* S4-P06 (one-sentence cross-genre acknowledgement in §VI).)
+(Cross-references in this paper: DĀNA P12–P14 (*dāna-pāramitā* architecture, one sentence only); DĀNA P13 (three-wheel-empty, one sentence only); DĀNA P21 (Lotus Sūtra's "Rejoicing Merit," one sentence only); DĀNA P25 / P26 (Samantabhadra's universal-cultivation offering and Dharma-offering, one sentence each); DĀNA P28 (entry into the *dharmadhātu*, one sentence only); DĀNA P29 (the *bojjhaṅga* twin-factor diagnostic instrument, carried as instrument in §I); DĀNA P31 (volume closing, forward-transition one sentence in §VI); Volume Three, *SĪLA* (half-sentence forward in §VI); NIAN P30 (cross-volume polyphony — framing in §I, seam in §V, forward in §VI); *Pointing-at-the-Moon Octalogy* S4-P06 (one-sentence cross-genre acknowledgement in §VI).)
 
 ---
 

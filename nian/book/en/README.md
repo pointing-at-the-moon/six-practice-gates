@@ -3,6 +3,10 @@
 
 The English edition of **《念——從阿含隨念到華嚴念佛》** by 釋慧鏡 (Shi Huijing) — Volume 1 of the **Six Practice Gates** (六行門).
 
+**Author:** 釋慧鏡 (Shi Huijing)
+
+[Methodology and disclosure](https://waken.org/methodology/)
+
 > Recollection (*anussati*) is not mindfulness with a religious object. It is another track — and this book walks that track from the Buddha's own teaching to the breathing of the whole dharma-realm.
 
 This is the accessible *book* layer, rendered into English from the Chinese edition and term-anchored to the bilingual scholarly corpus in this repository (`nian/papers/`, P01–P31). It lives here at `nian/book/en/`, a part-for-part parallel of the Chinese book under `nian/book/`.

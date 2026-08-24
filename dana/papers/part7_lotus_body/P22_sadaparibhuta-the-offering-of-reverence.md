@@ -10,6 +10,16 @@ part: "Part VII · The Lotus and the Gift of Body"
 part_number: 7
 date: "2026-05-13"
 version: "1.0"
+canonical_source:
+  - "T09n0262"
+  - "T09n0263"
+  - "T09n0264"
+  - "T10n0293"
+  - "T25n1509"
+  - "T33n1716"
+  - "T34n1718"
+  - "T34n1719"
+  - "T34n1721"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -29,7 +39,7 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-This paper examines the bodily prostration (身禮拜) of the bodhisattva Sadāparibhūta (常不輕菩薩) in Chapter 20 of the *Lotus Sūtra* (T0262, juan 6), arguing that it should be understood as an axiomatic expression of *prasāda-dāna* (the offering of reverential faith) — not as *dehadāna* (gift of body, the P23 territory of Bhaiṣajyarāja's self-immolation), nor as ritual-as-formality, but as a somatic declaration of ontological recognition: "You all shall become Buddhas." What is offered is not body, not substance, not words, but *prasāda* (pure faith) itself. The scholastic *locus classicus* is Nāgārjuna's *Mahāprajñāpāramitāupadeśa* (T1509, juan 12), where the triad of *dāna* (generosity) includes "the offering of reverence" (供養恭敬施): "with faith purified, with reverential prostration, with welcoming and escorting, with circumambulation and offering — these and the like are called the offering of reverence." This eight-character formula is the standard Chinese rendering of *prasāda-dāna*.
+This paper examines the bodily prostration (身禮拜) of the bodhisattva Sadāparibhūta (常不輕菩薩) in Chapter 20 of the *Lotus Sūtra* (T0262, juan 6), arguing that it should be understood as an axiomatic expression of *prasāda-dāna* (the offering of reverential faith) — not as *dehadāna* (gift of body, treated separately in P23 through Bhaiṣajyarāja's self-immolation), nor as ritual-as-formality, but as a somatic declaration of ontological recognition: "You all shall become Buddhas." What is offered is not body, not substance, not words, but *prasāda* (pure faith) itself. The scholastic *locus classicus* is Nāgārjuna's *Mahāprajñāpāramitāupadeśa* (T1509, juan 12), where the triad of *dāna* (generosity) includes "the offering of reverence" (供養恭敬施): "with faith purified, with reverential prostration, with welcoming and escorting, with circumambulation and offering — these and the like are called the offering of reverence." This eight-character formula is the standard Chinese rendering of *prasāda-dāna*.
 
 The name Sadāparibhūta bears a bilateral etymology across the Chinese translations: Dharmarakṣa (286 CE) renders it as "the one always being despised" (常被輕慢), faithful to the Sanskrit passive past participle; Kumārajīva (406 CE) renders it as "Never Disrespectful" (常不輕), capturing the bodhisattva's active conduct. This duality is the paper's load-bearing insight: what is received as "being despised" (受) completes what is enacted as "never despising" (作). The bodily bow is not passive endurance of humiliation but an axiomatic affirmation of Buddha-nature performed publicly.
 
@@ -255,9 +265,9 @@ Ohnuma's *Head, Eyes, Flesh, and Blood: Giving Away the Body in Indian Buddhist 
 
 Ohnuma explicitly distinguishes: the gift of body **differs from** the broader category of bodily devotional behaviors such as prostration / circumambulation / dharma-giving. The boundary line = body-as-instrument-of-reverence vs. body-as-object-of-offering.
 
-This is precisely what P22 needs — she has done the disciplinary boundary-drawing work, separating the gift of body (P23 territory: self-immolation / burning arms / self-burning) from the offering of reverence (P22 territory: bodily prostration). Collapsing the two is a typological error.
+Ohnuma's distinction separates the gift of the body—self-immolation, burning the arms, or other forms of self-offering treated in P23—from the offering of reverence through bodily prostration treated here. Collapsing the two is a typological error.
 
-But Ohnuma's book is designed with a focus on the gift of body; the prostration-reverence layer receives only passing, set-aside attention. P22 must do the **reverse work**: **positively establish *prasāda-dāna* as an independent type** with its own canonical lineage (Avadāna stūpa-veneration, Lotus Sadāparibhūta), its own object of address (the affirmed Buddha-nature, not the transferred body), and its own emotional core (*prasāda*, not heroic renunciation). Ohnuma provides the *negative* boundary; P22 supplies the *positive* content.
+Ohnuma's study focuses on the gift of the body and gives only passing attention to prostration as reverence. The present study therefore undertakes the converse task: it establishes *prasāda-dāna* as an independent type with its own canonical lineage (Avadāna stūpa-veneration and the *Lotus Sūtra*'s Sadāparibhūta), its own object of address (the affirmed Buddha-nature rather than the transferred body), and its own emotional core (*prasāda* rather than heroic renunciation). Ohnuma provides the negative boundary; the canonical materials supply the positive content.
 
 ### IV.2 Gene Reeves: The Performative-Theology Reading
 
@@ -307,7 +317,7 @@ Nāgārjuna repeatedly emphasizes in the *Mahāprajñāpāramitāupadeśa*:[^29]
 
 > "The ocean of Buddha-dharma is entered through faith, crossed through wisdom... Faith-power is foremost; faith-power is that which enters, not *dāna*, morality, meditation, wisdom — these cannot first enter the Buddha-dharma."
 
-Faith-power (the power of faith) is the foundation of all Buddha-dharma.*dāna*, morality, meditation, wisdom — the other five pāramitās — are not "those who first enter Buddha-dharma"; only faith is the first gate.
+Faith-power (the power of faith) is the foundation of all Buddha-dharma. *Dāna*, morality, meditation, and wisdom are not "those who first enter Buddha-dharma"; only faith is the first gate.
 
 This means: Sadāparibhūta's prostration's *prasāda* is "the first among first-gates," not a low-level stage to be transcended. One might think "prostration is merely basic; offering is what matters" — but Nāgārjuna himself says the other five pāramitās are not first-gates; only faith is the first-gate.
 
@@ -369,7 +379,6 @@ The three-fold typological arc of Dharma-Teacher Chapter substitution-move → S
 
 [^5]: Ibid., **p.0063a01-a10**. "The ocean of Buddha-dharma is entered through faith, crossed through wisdom... Faith is like a hand. As one with a hand enters the mountain of treasures and takes freely, so too one with faith."
 
-[^6]: Reiko Ohnuma, *Head, Eyes, Flesh, and Blood: Giving Away the Body in Indian Buddhist Literature* (New York: Columbia University Press, 2007).
 
 [^7]: *Zhengfa Hua Jing* (正法華經) volume 9, Chapter on the One Always Being Despised 19, Dharmarakṣa translation, *Taishō* vol. 9, No. T0263. T09n0263, vol. 9, **p.0122c22-c26**.
 

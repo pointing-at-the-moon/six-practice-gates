@@ -10,9 +10,10 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1) and [*The Practice
 Of the six gates, 懺 alone correlates not with a Heart Sūtra **verb** but with its **emptiness** (*śūnyatā*: 色即是空、諸法空相): the one *subtractive* gate. Its noumenal face — *lǐ-chàn* (理懺), the repentance of non-arising, the contemplation that the very nature of transgression is empty — carries this correlation; its phenomenal face — *shì-chàn* (事懺), disclosure and the Saṅgha's purification machinery — is the floor on which the volume opens. The two faces are held distinct throughout.
 
 - **Author**: 釋慧鏡 (Shi Huijing)
+- **Methodology**: [Waken scholarship methodology](https://waken.org/methodology/)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
 - **Book**: [成書層 book/](./book/) — ZH gold standard + English mirror
-- **Status**: ✅ **Paper phase complete — 20/20 (P01–P20, all 8 Parts sealed)**
+- **Status**: Corpus inventory complete — 20/20 papers are present on disk across all 8 Parts. This count does not claim teacher/translator ratification, quotation-by-quotation scholarly closure, or live-site publication.
 
 ### Structure
 

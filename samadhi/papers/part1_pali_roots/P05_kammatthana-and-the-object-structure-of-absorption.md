@@ -10,6 +10,12 @@ part: Part I · Pāli Roots
 part_number: 1
 date: 2026-06-01
 version: "1.0"
+canonical_source:
+  - "T01n0026"
+  - "T02n0099"
+  - "T32n1648"
+  - "AN4.14"
+  - "AN6.10"
 license: CC BY-NC-SA 4.0
 ---
 
@@ -126,13 +132,9 @@ Last, one sentence and the section closes. The "nine ways" also include the dime
 
 ## VI. Modern Dialogue and Conclusion
 
-Set this map back on the desk of modern scholarship, and three readings are worth a conversation. (What follows gives the gist of each position; exact titles and page numbers should be checked against the originals.)
+Set this map back on the desk of modern scholarship, and one verified reading is worth a conversation.
 
-**First, as the cartography that names an existing process.** L. S. Cousins, in his classic study of Pāli concentration, holds that the distinction between access and absorption is no free-floating invention of the commentators, but a systematization of a gradient *already present* in the discourses' jhāna-formulae and sign-material; the commentators' model of the development of the signs, and the access-to-absorption transition, gave a precise articulation to the discourses' "gradual approach to concentration."[^18] The position is broadly right — the commentators did not conjure from nothing, and the internal evidence of the gradual process above bears this out; the cheap verdict that "the treatises are sheer accretion" is unfair. Yet one line must be added: to grant that the *gradient* is the discourses' own is not to grant that the *two-term taxonomy* is the discourses'; the gradient was sown by the discourses, but to name its thresholds and stage its three signs is the commentators' achievement.
-
-**Second, as the training of a quality of awareness.** Bhikkhu Anālayo, working by the comparison of the Pāli with the Chinese Āgamas, points out that the early canon's handling of the objects of meditation is less a fixed inventory of "things to be stared at" than a training in the **quality of awareness** brought to the object; the early repertoire of objects is more fluid, less systematized, than the later rubric of "forty" makes it appear.[^19] This is a healthy corrective — it accords exactly with the second section's finding that *kammaṭṭhāna* is the commentators' word and the Āgamas give only *ārammaṇa* and the names of the practices. Yet the chapter still holds a positive proposition no account of awareness can dissolve: **the objects are not interchangeable** — different objects reach different depths and suit different temperaments. Push the corrective all the way to "it is all awareness, the object hardly matters," and one loses the very object-structure this chapter means to establish. The six-tier distribution of the previous section is the plain check on any such over-correction: if the object were a matter of indifference, an earth-kasiṇa and a recollection of death would carry the mind equally far, and the map shows they do not. So the chapter holds both: the quality of awareness comes first, **and** the field of objects has a real internal structure.
-
-**Third, as a mature systematization.** Rupert Gethin notes that the forty *kammaṭṭhāna* are the fruit of the commentarial tradition (the *Visuddhimagga* above all) gathering the practices scattered through the Nikāyas into one coherent architecture of the path — complete with temperament-assignment and graded attainment — and that this is a real intellectual achievement, not a distortion.[^20] This is the frame the chapter should adopt entire: the discourses supply the *objects*; the treatises supply the category-word, the number forty, and the filing-by-temperament. And yet — a gentle codicil, structural and aimed at no one: systematization is also an interpretation, and interpretation both gains and loses. The very coherence that makes this map so usable is exactly what most tempts one to mistake the **map for the terrain** — to suppose the Buddha taught forty objects in just this order, at just these thresholds. The chapter's work is to honour the systematization *as* systematization: one hand on the map's elegance, one hand on the historical seam between discourse and treatise. This is just where the methodological self-restraint of the opening quietly does its work.[^3]
+**As the cartography that names an existing process.** L. S. Cousins, in his classic study of Pāli concentration, holds that the distinction between access and absorption is no free-floating invention of the commentators, but a systematization of a gradient *already present* in the discourses' jhāna-formulae and sign-material; the commentators' model of the development of the signs, and the access-to-absorption transition, gave a precise articulation to the discourses' "gradual approach to concentration."[^18] The position is broadly right — the commentators did not conjure from nothing, and the internal evidence of the gradual process above bears this out; the cheap verdict that "the treatises are sheer accretion" is unfair. Yet one line must be added: to grant that the *gradient* is the discourses' own is not to grant that the *two-term taxonomy* is the discourses'; the gradient was sown by the discourses, but to name its thresholds and stage its three signs is the commentators' achievement.
 
 Having come this far, two red lines must be drawn back in. First, **recollection is not concentration**. The first paper of this volume established this at the level of awareness; here it must be set again at the level of the practice-gate: the six recollections reappear in this chapter in the role of *objects* of calm (*kammaṭṭhāna*), occupying the cell marked "conceptual, many-faceted, stopping at access." Volume One, *Mindful of the Buddha*, entered by way of the six recollections as "objects of recollection"; those six objects reappear here in the role of *kammaṭṭhāna* — the object the gate of recollection enters by turns out to be one of the forty objects of the gate of concentration.[^21] But recollection as an *object* of calm is not the same thing as the dense, all-pervading awareness of the foundations of mindfulness (*satipaṭṭhāna*); recollection is the object, the machinery of absorption is the door, and the two must not be run together. Second, **this chapter is not an operating manual**: it describes throughout why an object becomes, structurally, an entrance, and does not instruct anyone how to choose or work an object. Everything that belongs to "how one enters" lies outside it.
 
@@ -180,10 +182,6 @@ One question is left, at the last, pointing toward the volume's close. Each of t
 
 [^18]: L. S. Cousins, "Buddhist Jhāna: Its Nature and Attainment according to the Pāli Sources," *Religion* 3(2): 115–131, 1973.
 
-[^19]: Bhikkhu Anālayo, *Satipaṭṭhāna: The Direct Path to Realization*, Windhorse, 2003, and his comparative work on mindfulness of breathing. Exact pages and titles to be verified against the originals. As a living scholar, he is engaged here only on his published scholarship, not on his teaching.
-
-[^20]: Rupert Gethin, *The Foundations of Buddhism*, Oxford University Press, 1998; see also *The Buddhist Path to Awakening*, 1992. Exact pages and editions to be verified against the originals.
-
 [^21]: The standard formulation of the six recollections (the six bases of recollection), cf. *Saṃyukta Āgama*, fascicle 30, Taishō vol. 2, No. T0099 (0145c02–04): "Relying on the four unshakeable confidences, he increases the six bases of recollection … recollection of the Buddha's qualities, recollection of the Dharma, of the Saṅgha, of virtue, of generosity, of the devas." The six recollections reappear in this volume in the role of objects of calm; cross-reference the recollection papers of Volume One, *Mindful of the Buddha* (NIAN), Part I. The line of recollection-is-not-concentration: recollection is the object, not the dense awareness of the foundations of mindfulness.
 
 [^22]: This question — "the deepest concentration is still a concentration in dependence on an object, and the object, like all dharmas, cannot be grasped" — is left for the volume's final chapter, *The Inward Door Opens Again: Concentration's Return to Wisdom*, to redeem. This chapter keeps to the description of "what is," and does not unfold "this is empty" here.
@@ -205,11 +203,7 @@ One question is left, at the last, pointing toward the volume's close. Each of t
 
 ### Modern Scholarship
 
-> Publication details for the Western works below await final verification; the body takes only the gist of each position and quotes none of them verbatim.
-
 - Cousins, L. S. "Buddhist Jhāna: Its Nature and Attainment according to the Pāli Sources." *Religion* 3(2): 115–131, 1973.
-- Anālayo, Bhikkhu. *Satipaṭṭhāna: The Direct Path to Realization*. Windhorse, 2003. (And his comparative work on mindfulness of breathing; exact titles to be verified.)
-- Gethin, Rupert. *The Foundations of Buddhism*. Oxford University Press, 1998. (And *The Buddhist Path to Awakening*, 1992; pages and editions to be verified.)
 - Sharf, Robert. "Buddhist Modernism and the Rhetoric of Meditative Experience." *Numen* 42(3): 228–283, 1995.
 
 ---

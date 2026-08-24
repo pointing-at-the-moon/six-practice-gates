@@ -1,15 +1,23 @@
 ---
 title: "Sudden and Gradual: Huineng, Shenxiu, and the Platform Sūtra"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 5 — SAMĀDHI: From the Pāli Jhāna to Silent Illumination and the Huatou · Part VII · Chan"
-series_short: SAMĀDHI
+series_short: "SAMĀDHI"
 volume: 5
-paper_id: SAMADHI-P23
+paper_id: "SAMADHI-P23"
 paper_number: 23
 part: Part VII · Chan
 part_number: 7
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T48n2007"
+  - "T48n2008"
+  - "T48n2009"
+  - "T48n2015"
+  - "T85n2833"
+  - "T85n2834"
+  - "X63n1225"
 license: CC BY-NC-SA 4.0
 ---
 

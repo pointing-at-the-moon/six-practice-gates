@@ -10,6 +10,9 @@ part: "Part VII · The Repentance of Non-Arising as Emptiness"
 part_number: 7
 date: "2026-06-02"
 version: "1.0"
+canonical_source:
+  - "T14n0475"
+  - "T38n1775"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -194,7 +197,7 @@ The three mirrors together point to one thing: the singularity of Vimalakīrti's
 - Paper 5 (King Ajātaśatru, repentance's limit-case): the line "receiving is not absolution" and "karmic fruit can be turned but not erased" rises here to "emptiness is not annihilation" — "do not compound the transgression of these two monks" ≠ "these two monks have no transgression"; to see that transgression has no own-being does not cancel conditioned cause and effect.
 - Papers 10 and 11 (the three repentances): this paper cashes out the summit of the ladder of three repentances — "repentance by contemplating non-arising, which supports wisdom"; the earlier papers named it but held its substance in reserve, and here it is unfolded as a story of being-rebuked.
 - The previous paper (the repentance of non-arising, opening Part VII): Paper 15 set out the whole shape of Part VII, naming the Vimalakīrti–Upāli episode but holding its substance in reserve; this paper unfolds its full narrative together with the glosses of Kumārajīva, Sengzhao, and Daosheng, carrying forward its closing — "the sun of wisdom shines once, and the frost and dew are gone of themselves."
-- Part VII (forthcoming): the faculty-by-faculty six-faculty repentance of the *Sūtra on the Contemplation of the Bodhisattva Samantabhadra*, and the line-by-line concordance of the *Heart Sūtra* with the gate of repentance, are reserved for later papers to mine.
+- Part VII: the faculty-by-faculty six-faculty repentance of the *Sūtra on the Contemplation of the Bodhisattva Samantabhadra*, and the line-by-line concordance of the *Heart Sūtra* with the gate of repentance, are reserved for later papers to mine.
 - The two monks' final arousing of the mind of *anuttarā-samyak-saṃbodhi*, their vow turned toward beings → the thread turning from "emptiness" to "vow," to be cashed out where the gate of vow sets down its pen.
 
 ---

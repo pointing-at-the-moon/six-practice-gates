@@ -10,6 +10,17 @@ part: "Part II · The Earliest Chinese Reception"
 part_number: 2
 date: "2026-04-15"
 version: "1.0"
+canonical_source:
+  - "AN11.11"
+  - "AN11.12"
+  - "AN6.10"
+  - "T13n0418"
+  - "T15n0602"
+  - "T15n0613"
+  - "T15n0618"
+  - "T17n0784"
+  - "T17n0801"
+  - "T25n1509"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -31,7 +42,7 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-The first Buddhist scripture to enter China—the *Sūtra in Forty-Two Sections* (四十二章經, T0784), traditionally ascribed to Kāśyapa Mātaṅga (迦葉摩騰) and Dharmaratna (竺法蘭) and translated at the White Horse Monastery in Luoyang in 67 CE—does not contain the compound term *niànfó* (念佛, "buddhānussati") even once across its forty-two chapters. Yet in the same scripture we find *niàndào* (念道, recollection of the path) three times, *niàn-fēicháng* (念非常, recollection of impermanence) three times, recollection of the four great elements within the body once (a *kāyagatāsati* echo), mental recollection of the precepts once (a *sīlānussati* echo), and "between breaths" once (a double echo of both *ānāpāna-sati* and *maraṇa-sati*). The vocabulary distribution thus covers five of the six standard recollection objects—missing only *buddhānussati* itself.
+The first Buddhist scripture to enter China by traditional account—the *Sūtra in Forty-Two Sections* (四十二章經, T0784), traditionally ascribed to Kāśyapa Mātaṅga (迦葉摩騰) and Dharmaratna (竺法蘭) and translated at the White Horse Monastery in Luoyang in 67 CE—does not contain the compound term *niànfó* (念佛, "buddhānussati") even once across its forty-two chapters. Yet in the same scripture we find *niàndào* (念道, recollection of the path) three times, *niàn-fēicháng* (念非常, recollection of impermanence) three times, recollection of the four great elements within the body once (a *kāyagatāsati* echo), mental recollection of the precepts once (a *sīlānussati* echo), and "between breaths" once (a double echo of both *ānāpāna-sati* and *maraṇa-sati*). The vocabulary distribution thus covers five of the six standard recollection objects—missing only *buddhānussati* itself.
 
 This paper argues that the critical absence is not evidence of early Chinese disinterest in recollection of the Buddha, but a phase of vocabulary history: the compound term had not yet been coined in the Chinese translation workshops, while its functional vocabulary was already being carried by the *niàndào* cluster. The paper further argues that T0784, lacking even a single occurrence of *chándìng* (禪定, meditative absorption), *sānmèi* (三昧, samādhi), *zhèngdìng* (正定, right concentration), *chánnà* (禪那, dhyāna), or any element of the *jhāna* pentad, sits entirely within the *upacāra*-platform register established in NIAN P04 §3.2—specifically, on what we there call its third track: ethical reminder, long-term continuity, middle-way adjustment, gradual deepening.
 
@@ -49,7 +60,7 @@ When a contemporary Western Buddhist reader encounters the word *niànfó* (念�
 
 This genealogical direction is not wrong, but it skips over an important earlier chapter: before the Pure Land sūtras were fully translated, how did the earliest Buddhist scriptures to enter China treat the practice of *niàn* (念, recollection / mindful holding-in-mind)? Did they contain the word *niànfó*? If yes, how was it used? If no, what was the object of *niàn*?
 
-This paper addresses the earliest single datapoint of that earlier chapter: the *Sūtra in Forty-Two Sections* (T0784), translated by Kāśyapa Mātaṅga and Dharmaratna at the White Horse Monastery in Luoyang, in the tenth year of the Yongping era of the Later Han (67 CE).
+This paper addresses the earliest single datapoint of that earlier chapter: the *Sūtra in Forty-Two Sections* (T0784), traditionally recorded as translated by Kāśyapa Mātaṅga and Dharmaratna at the White Horse Monastery in Luoyang in the tenth year of the Yongping era of the Later Han (67 CE).
 
 Two facts about this sūtra are worth fixing in mind. First, by traditional account, it is the first Buddhist scripture ever translated into Chinese—the first set of the Buddha's teachings that a Chinese reader ever encountered in Chinese. Second, and this is what this paper will demonstrate: **in this earliest of Chinese Buddhist scriptures, the two characters *niànfó* do not appear**.
 
@@ -249,7 +260,7 @@ The borrowing is particularly useful for Western readers: contemporary English-l
 
 ## VI. Conclusion
 
-China's earliest Buddhist scripture, the *Sūtra in Forty-Two Sections*, contains no occurrence of the compound term *niànfó* across its forty-two chapters; yet the same text already covers six objects of *anussati* vocabulary—path, body, precepts, breath, death, impermanence. This paper argues that this critical absence is not evidence of doctrinal absence, but a phase phenomenon in vocabulary history: the compound *niànfó* had not yet been coined in first-century Luoyang, but its functional vocabulary was already being carried by the *niàndào* cluster. The earliest *anussati* object received in China was **the path (*dào*), not the Buddha (*fó*)**.
+China's earliest Buddhist scripture by traditional account, the *Sūtra in Forty-Two Sections*, contains no occurrence of the compound term *niànfó* across its forty-two chapters; yet the same text already covers six objects of *anussati* vocabulary—path, body, precepts, breath, death, impermanence. This paper argues that this critical absence is not evidence of doctrinal absence, but a phase phenomenon in vocabulary history: the compound *niànfó* had not yet been coined in first-century Luoyang, but its functional vocabulary was already being carried by the *niàndào* cluster. The earliest *anussati* object received in China was **the path (*dào*), not the Buddha (*fó*)**.
 
 T0784 contains no meditative-absorption vocabulary and no element of the *jhāna* pentad; its register sits entirely on the **third track** of the *upacāra* platform established in P04 §3.2: ethical reminder, long-term continuity, middle-way adjustment, gradual deepening. The source of the mainstream tenor of later Chinese *niànfó* lies on this track.
 
@@ -257,7 +268,7 @@ T0784 (ethical register) and An Shigao's T0602 (technical register) coexisted in
 
 T0784's object distribution (path, body, precepts, breath, death, impermanence) provides historical confirmation of P03's "one engine, multiple objects" frame: the engine is stable; the distribution of objects is culturally and historically determined. The reception-history of *anussati* in China can be read as a long-term process of "stable engine, gradually filled-in objects"; T0784 is its earliest snapshot.
 
-**Preview of P06**: From T0784 (67 CE, no compound *niànfó*, no meditative-absorption vocabulary, ethical register) to Lokakṣema's translation of the *Pratyutpanna-samādhi Sūtra* (T0418, 179 CE, the direct introduction of *pratyutpanna-samādhi* 般舟三昧 as visionary *samādhi* in which one sees the Buddhas of the ten directions)—this is the **first register-jump** in Chinese Buddhist reception. This jump corresponds historically to the shift, within P04 §3.5's "three senses of *niànfó-sānmèi*," from Sense A (*upacāra* platform) to Sense C (Mahāyāna visionary). P06 will address how T0418, for the first time in China, **explicitly establishes the Buddha as the object of *niàn*** and introduces the Mahāyāna visionary mode.
+**Preview of P06**: From T0784 (traditionally dated 67 CE, no compound *niànfó*, no meditative-absorption vocabulary, ethical register) to Lokakṣema's translation of the *Pratyutpanna-samādhi Sūtra* (T0418, 179 CE, the direct introduction of *pratyutpanna-samādhi* 般舟三昧 as visionary *samādhi* in which one sees the Buddhas of the ten directions)—this is the **first register-jump** in Chinese Buddhist reception. This jump corresponds historically to the shift, within P04 §3.5's "three senses of *niànfó-sānmèi*," from Sense A (*upacāra* platform) to Sense C (Mahāyāna visionary). P06 will address how T0418, for the first time in China, **explicitly establishes the Buddha as the object of *niàn*** and introduces the Mahāyāna visionary mode.
 
 ---
 

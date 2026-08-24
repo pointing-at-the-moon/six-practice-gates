@@ -1,16 +1,22 @@
 ---
 title: "What the Six Gates Were All Along: The Grand Reveal"
 title_en: "What the Six Gates Were All Along: The Grand Reveal"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 6 — PRAṆIDHĀNA: Aspiration and the Vow, from Pāli Roots to Samantabhadra · Part VIII · The Sealing: Attainment of Bodhi & the Grand Reveal"
-series_short: PRAṆIDHĀNA
+series_short: "PRAṆIDHĀNA"
 volume: 6
-paper_id: PRANIDHANA-P20
+paper_id: "PRANIDHANA-P20"
 paper_number: 20
-part: Part VIII · The Sealing: Attainment of Bodhi & the Grand Reveal
+part: "Part VIII · The Sealing: Attainment of Bodhi & the Grand Reveal"
 part_number: 8
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T07n0220c"
+  - "T08n0251"
+  - "T09n0277"
+  - "T24n1484"
+  - "T25n1509"
 license: CC BY-NC-SA 4.0
 ---
 
@@ -87,7 +93,7 @@ To range the six gates along the *Heart Sūtra*'s order invites, above all, one 
 
 The clue lies in a single word at the *Heart Sūtra*'s opening. The text does not say "when Avalokiteśvara was practicing the prajñā-pāramitā," but "when practicing the *deep* prajñā-pāramitā." That one word, *deep*, carries great weight. It tells us that the practice of prajñā is not an on-off switch between having and not having (one is practicing, or one is not), but a course with degrees of depth—one can practice shallowly, one can practice deeply, one can go deeper layer upon layer.
 
-This is not the series' conjecture; it has scriptural warrant. The second division of the *Mahāprajñāpāramitā-sūtra* contains a "Chapter of Gradual Steps"—the chapter's very title is *gradual*—and its text says outright that "the practice of the prajñā-pāramitā increases by gradual steps, purifying the buddha-fields and ripening sentient beings": the cultivation of prajñā is by its own nature a graded increase, deepening layer by layer.[^9] *That prajñā is gradual, that it admits of depth*—this much the text grants. That *the six gates are the six depths of that gradually deepening road*—the founding of this shape is a synthetic judgment the series takes responsibility for. The two must be kept apart: "prajñā-practice deepens by gradual steps" is scriptural; "the six gates *are* its six depths" is the framework.
+This is not the series' conjecture; it has two scriptural warrants that must be kept distinct. In fascicle 404, the Second Division's "Chapter 3: Contemplative Illumination" says, "the practice of prajñā-pāramitā gradually increases, purifying buddha-fields and ripening sentient beings." Elsewhere, the Second Division's "Chapter of Gradual Steps," chapter 73, independently supplies its title and the repeated triad 作漸次業、修漸次學、行漸次行 ("perform gradual activity, cultivate gradual training, and undertake gradual practice").[^9] The first quotation does not come from chapter 73, and the two loci must not be fused into one attribution. *That prajñā can be cultivated gradually*—this much the text grants. That *the six gates are the six depths of that gradually deepening road*—the founding of this shape is a synthetic judgment the series takes responsibility for. The two must be kept apart: "prajñā-practice admits of gradual training" is scriptural; "the six gates *are* its six depths" is the framework.
 
 Read the six passages in this light and they no longer look like six chessmen, but like six positions of one breath going from shallow to deep. First "contemplation"—the scattered mind tied down, the five aggregates illumined as empty: the first taking-up (Recollection). Emptiness once seen, compassion wells up of itself, and so "crossing over" all suffering, spending oneself to relieve others (Giving). But if the one who crosses and the ones crossed are each still grasped as real, the crossing becomes a fresh bondage—so a stretch of "emptiness" is needed, voiding even the *I* that would void by giving (Repentance). After that voiding, the ground of the mind is clean, and one can then hold to that string of *nots*—neither arising nor ceasing, neither defiled nor pure—resting in the sign-less, no longer fabricating (Precepts). Gathered in, layer upon layer, one arrives at the inward furthest reach of "ultimate nirvāṇa" (Samādhi). And if that breath does not halt at the door of nirvāṇa, but turns by vow-power and presses on toward the full perfection of the Buddha-station, one reaches "the attainment of the unsurpassed, perfect awakening" (Vow).
 
@@ -159,13 +165,13 @@ It removes all suffering; it is real, not false. This is not a promise held out 
 
 [^8]: "Attaining bodhi (the attainment of rounded wisdom) ≠ ultimate nirvāṇa (the severance of exhausted obstruction); the latter completes the former without being the former"—the doctrinal unfolding of this distinction (including Fazang's *Brief Commentary on the Heart Sūtra* and its judgment of the fruit of severance and the fruit of cognition) belongs to the preceding paper of this part and is not restated here.
 
-[^9]: *Mahāprajñāpāramitā-sūtra*, Second Division, "Chapter of Gradual Steps," chapter 73, trans. Xuanzang (Tang), Taishō vol. 7, No. 220: "the practice of the prajñā-pāramitā increases by gradual steps, purifying the buddha-fields and ripening sentient beings." The chapter is named for "gradual steps"—the strongest scriptural warrant that the practice of prajñā deepens layer upon layer. The *Mahāprajñāpāramitā-śāstra* likewise speaks repeatedly of "entering deep into the prajñā-pāramitā," in a register of shallow and deep.
+[^9]: *Mahāprajñāpāramitā-sūtra*, Second Division, fascicle 404, "Chapter 3: Contemplative Illumination" (觀照品第三), trans. Xuanzang (Tang), *Taishō* vol. 7, No. 0220; CBETA T07n0220c, p.0019a01–02: "the practice of prajñā-pāramitā gradually increases, purifying buddha-fields and ripening sentient beings." Separately, the Second Division's "Chapter of Gradual Steps," chapter 73, begins at p.0353b21 and reads 作漸次業、修漸次學、行漸次行 at fascicle 466, p.0354c24–25 and p.0355a12–13. The body keeps the chapter title and triad distinct from the fascicle-404 quotation. The *Mahāprajñāpāramitā-śāstra* likewise speaks repeatedly of "entering deep into prajñā-pāramitā," in a register of shallow and deep.
 
 [^10]: The doctrine of the three empty spheres (giver, receiver, and gift all ungraspable) is treated in the relevant studies of this series' giving and precepts volumes; it is carried over here to the first "losing of the self" and not restated.
 
-[^11]: "My own mind is of itself empty, merit and fault have no owner" and "sitting upright, mindful of the real mark, the host of transgressions like frost and dew"—the scriptural ground for the repentance of principle's contemplation of the empty nature of transgression is in the *Sūtra on Contemplating the Practice of Samantabhadra Bodhisattva*, trans. Dharmakṣema, Taishō vol. 9, No. 277, pp. 392c–393b.
+[^11]: "My own mind is of itself empty, merit and fault have no owner" and "sitting upright, mindful of the real mark, the host of transgressions like frost and dew"—the scriptural ground for the repentance of principle's contemplation of the empty nature of transgression is in the *Sūtra on Contemplating the Practice of Samantabhadra Bodhisattva*, trans. Dharmamitra, Taishō vol. 9, No. 277, pp. 392c–393b.
 
-[^12]: *Sūtra on Contemplating the Practice of Samantabhadra Bodhisattva*, trans. Dharmakṣema, Taishō vol. 9, No. 277, p. 394a07–08: "one naturally completes the fivefold dharma-body: morality, samādhi, wisdom, liberation, and the knowledge-and-vision of liberation. From this the Buddhas and Tathāgatas are born." The word "born" is the sūtra's own text; to thread this "born" into a cross-gate arc of "dying and being reborn" across Giving, Repentance, and Precepts is, however, the series' synthetic judgment.
+[^12]: *Sūtra on Contemplating the Practice of Samantabhadra Bodhisattva*, trans. Dharmamitra, Taishō vol. 9, No. 277, p. 394a07–08: "one naturally completes the fivefold dharma-body: morality, samādhi, wisdom, liberation, and the knowledge-and-vision of liberation. From this the Buddhas and Tathāgatas are born." The word "born" is the sūtra's own text; to thread this "born" into a cross-gate arc of "dying and being reborn" across Giving, Repentance, and Precepts is, however, the series' synthetic judgment.
 
 [^13]: *Brahmā's-Net Sūtra*, trans. Kumārajīva (Yao Qin), Taishō vol. 24, No. 1484, p. 1004a20–21: "When beings receive the Buddha-precepts, they enter the rank of the Buddhas; their rank one with great awakening, they are truly the Buddhas' own children."
 
@@ -180,9 +186,10 @@ It removes all suffering; it is real, not false. This is not a promise held out 
 ### Primary Buddhist Sources
 
 - *Prajñāpāramitā-hṛdaya-sūtra* (*Heart Sūtra*), trans. Xuanzang (Tang), Taishō vol. 8, No. 251.
-- *Mahāprajñāpāramitā-sūtra*, Second Division (Chapter of Gradual Steps, ch. 73), trans. Xuanzang (Tang), Taishō vol. 7, No. 220.
+- *Mahāprajñāpāramitā-sūtra*, Second Division, fascicle 404 ("Chapter 3: Contemplative Illumination"), trans. Xuanzang (Tang), *Taishō* vol. 7, No. 0220; CBETA T07n0220c.
+- *Mahāprajñāpāramitā-sūtra*, Second Division ("Chapter of Gradual Steps," ch. 73), trans. Xuanzang (Tang), *Taishō* vol. 7, No. 0220; CBETA T07n0220c.
 - *Mahāprajñāpāramitā-śāstra* (*Treatise on the Great Perfection of Wisdom*), by Nāgārjuna; trans. Kumārajīva (Later Qin), Taishō vol. 25, No. 1509.
-- *Sūtra on Contemplating the Practice of Samantabhadra Bodhisattva*, trans. Dharmakṣema (Liu Song), Taishō vol. 9, No. 277.
+- *Sūtra on Contemplating the Practice of Samantabhadra Bodhisattva*, trans. Dharmamitra (Liu Song), Taishō vol. 9, No. 277.
 - *Brahmā's-Net Sūtra*, trans. Kumārajīva (Yao Qin), Taishō vol. 24, No. 1484.
 
 ### Modern Scholarship
@@ -194,9 +201,10 @@ It removes all suffering; it is real, not false. This is not a promise held out 
 | Short title | Full title | Taishō no. | Translator | Locus in this paper |
 |------|------|-----------|---------|---------------|
 | *Heart Sūtra* | Prajñāpāramitā-hṛdaya-sūtra | T0251 (vol. 8) | Xuanzang | p. 848c06–18 (the six passages; the verdict "it removes all suffering") |
-| *Mahāprajñāpāramitā-sūtra* | Mahāprajñāpāramitā-sūtra, Second Division (Gradual Steps, ch. 73) | T0220 (vol. 7) | Xuanzang | prajñā-practice increases by gradual steps (scriptural warrant for "deep") |
+| *Mahāprajñāpāramitā-sūtra*: Contemplative Illumination | Mahāprajñāpāramitā-sūtra, Second Division, fasc. 404 (Contemplative Illumination, ch. 3) | CBETA T07n0220c (vol. 7) | Xuanzang | p.0019a01–02: prajñā-practice "gradually increases" |
+| *Mahāprajñāpāramitā-sūtra*: Gradual Steps | Mahāprajñāpāramitā-sūtra, Second Division (Gradual Steps, ch. 73) | CBETA T07n0220c (vol. 7) | Xuanzang | p.0353b21 title; p.0354c24–25 and p.0355a12–13 gradual activity, training, and practice |
 | *Mahāprajñāpāramitā-śāstra* | Treatise on the Great Perfection of Wisdom | T1509 (vol. 25) | Nāgārjuna; trans. Kumārajīva | fasc. 44, p. 430a (the three trainings' mutual generation; the sealed-room lamp) |
-| *Sūtra on Contemplating Samantabhadra* | Sūtra on Contemplating the Practice of Samantabhadra Bodhisattva | T0277 (vol. 9) | Dharmakṣema | pp. 392c–393b (empty nature of transgression); p. 394a (the fivefold dharma-body; "from this the Buddhas are born") |
+| *Sūtra on Contemplating Samantabhadra* | Sūtra on Contemplating the Practice of Samantabhadra Bodhisattva | T0277 (vol. 9) | Dharmamitra | pp. 392c–393b (empty nature of transgression); p. 394a (the fivefold dharma-body; "from this the Buddhas are born") |
 | *Brahmā's-Net Sūtra* | Brahmā's-Net Sūtra | T1484 (vol. 24) | Kumārajīva | p. 1004a (receiving the Buddha-precepts, entering the rank of the Buddhas) |
 
 ## Cross-References
@@ -208,5 +216,5 @@ This is the closing study of the whole Six Practice Gates series. It recovers th
 *Paper:* PRANIDHANA-P20 · What the Six Gates Were All Along · **PRAṆIDHĀNA · Part VIII · The Sealing: Attainment of Bodhi & the Grand Reveal — the series closer**
 *Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates （六行門）
 *License:* CC BY-NC-SA 4.0
-*CBETA collation:* All citations verified against the CBETA edition (Heart Sūtra T0251; Mahāprajñāpāramitā-sūtra, Gradual-Steps chapter T0220; Mahāprajñāpāramitā-śāstra T1509; Sūtra on Contemplating Samantabhadra T0277; Brahmā's-Net Sūtra T1484).
+*CBETA collation:* All citations verified against the CBETA edition (Heart Sūtra T0251; Mahāprajñāpāramitā-sūtra, Second Division CBETA T07n0220c; Mahāprajñāpāramitā-śāstra T1509; Sūtra on Contemplating Samantabhadra T0277; Brahmā's-Net Sūtra T1484).
 *Repository:* https://github.com/pointing-at-the-moon/six-practice-gates

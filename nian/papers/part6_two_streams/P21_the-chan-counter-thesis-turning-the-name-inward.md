@@ -10,6 +10,45 @@ part: "Part VI · Two Streams"
 part_number: 6
 date: "2026-04-23"
 version: "1.0"
+canonical_source:
+  - "T08n0223"
+  - "T08n0232"
+  - "T10n0279"
+  - "T10n0293"
+  - "T11n0310"
+  - "T12n0360"
+  - "T12n0365"
+  - "T12n0366"
+  - "T13n0418"
+  - "T14n0475"
+  - "T15n0614"
+  - "T15n0643"
+  - "T16n0670"
+  - "T17n0839"
+  - "T25n1509"
+  - "T26n1521"
+  - "T26n1524"
+  - "T40n1819"
+  - "T47n1958"
+  - "T47n1998A"
+  - "T48n2007"
+  - "T48n2008"
+  - "T48n2011"
+  - "T48n2015"
+  - "T48n2016"
+  - "T48n2017"
+  - "T48n2025"
+  - "T51n2076"
+  - "T85n2833"
+  - "T85n2837"
+  - "X05n0227"
+  - "X05n0229"
+  - "X22n0424"
+  - "X22n0430"
+  - "X62n1170"
+  - "X70n1400"
+  - "X70n1401"
+  - "X70n1402"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -17,7 +56,7 @@ license: "CC BY-NC-SA 4.0"
 
 **Turning the Name Inward**
 
-**From Daoxin to Late-Ming Kànhuà Chan — Part VI's Second Paper on the Two Streams**
+*From Daoxin to Late-Ming Kànhuà Chan — Part VI's Second Paper on the Two Streams*
 
 *中文主題：禪的反命題：念佛向內——從道信到晚明看話禪*
 
@@ -82,7 +121,7 @@ The *Inquiry* chapter 3 (T48.0352a07–c07) is the entire sūtra's only direct t
 
 The *Huáyán jīng xíngyuàn pǐn bié-xíng shū chāo* (六 fascicles; Wànxù cáng X05n0229) is the combined "Chengguan's Separate Commentary + Zongmi's Sub-commentary." Chengguan (澄觀, 738–839) was the fourth patriarch of Huayan; the *Separate Commentary* is his independent exegesis of the *Samantabhadra Practices and Vows Chapter* (T0293) — the closing fascicle of the Forty-fascicle *Avataṃsaka* translated by Prajñā. Zongmi was concurrently fifth patriarch of Huayan and fifth patriarch of the Heze lineage of Chan; he composed a sub-commentary on Chengguan's *Separate Commentary*.
 
-The *four kinds of buddha-recollection* taxonomy is located in Zongmi's sub-commentary layer at **X05n0229, 0280c05–0281a16**, embedded in Zongmi's expansion of Chengguan's "recollecting the buddhas of the ten directions" gloss (the ninth of the ten counter-flow mind-states in the *Samantabhadra* confession-of-obstructions passage).[^3] A forward philological correction must be issued here: early drafts of this volume's plan listed "T2015 Zongmi's four-kinds-of-*niàn-fó*" — that attribution is philologically incorrect. T48n2015, the *Chányuán zhūquánjí dūxù* (*Chan Prolegomenon*), contains Zongmi's five-tier dhyāna classification (T48.0399b07–19), his three-lineages-three-teachings doxography (T48.0402b), and the sudden-awakening-with-gradual-cultivation framework, together with one brief bridging clause at T48.0399b10 — 「至於念佛求生淨土，亦須修十六觀禪，及念佛三昧、般舟三昧」 (*as for recollecting the buddha to seek rebirth in the Pure Land, one must also cultivate the sixteen-contemplation dhyāna, as well as the buddha-recollection samādhi and the pratyutpanna samādhi*; translation mine) — **but contains no four-kinds typology at all**. The canonical locus of the four-kinds is X05n0229, not T2015. §3.3 cites X05n0229 as primary locus and T2015 as secondary witness for the Chan–teaching meta-framework.[^4]
+The *four kinds of buddha-recollection* taxonomy is located in Zongmi's sub-commentary layer at **X05n0229, 0280c05–0281a16**, embedded in Zongmi's expansion of Chengguan's "recollecting the buddhas of the ten directions" gloss (the ninth of the ten counter-flow mind-states in the *Samantabhadra* confession-of-obstructions passage).[^3] A philological correction is required here: the attribution "T2015 Zongmi's four-kinds-of-*niàn-fó*" is incorrect. T48n2015, the *Chányuán zhūquánjí dūxù* (*Chan Prolegomenon*), contains Zongmi's five-tier dhyāna classification (T48.0399b07–19), his three-lineages-three-teachings doxography (T48.0402b), and the sudden-awakening-with-gradual-cultivation framework, together with one brief bridging clause at T48.0399b10 — 「至於念佛求生淨土，亦須修十六觀禪，及念佛三昧、般舟三昧」 (*as for recollecting the buddha to seek rebirth in the Pure Land, one must also cultivate the sixteen-contemplation dhyāna, as well as the buddha-recollection samādhi and the pratyutpanna samādhi*; translation mine) — **but contains no four-kinds typology at all**. The canonical locus of the four-kinds is X05n0229, not T2015. §3.3 cites X05n0229 as primary locus and T2015 as secondary witness for the Chan–teaching meta-framework.[^4]
 
 ### 2.5 T48n2015: Zongmi's *Chan Prolegomenon*
 
@@ -94,7 +133,7 @@ The *Dàhuì Pǔjué chánshī yǔlù* (thirty fascicles, Taishō vol. 47, No. 1
 
 ### 2.7 *Extensive Discourse Record of Master Zhongfeng of Tianmu*
 
-The *Tiānmù Zhōngfēng héshang guǎnglù* (thirty fascicles, Wànxù cáng X70n1402) is the collected discourses, verses, sermons, and letters of Zhongfeng Mingben (1263–1323). Zhongfeng was the disciple of Gaofeng Yuanmiao (高峰原妙, 1238–1295) and the decisive Yuan-dynasty figure of combined Chan and Pure Land practice. §3.4 cites four core passages: X70.0718c22–24's "discard the very thought of reciting itself" (*hé gè niàn-tóu dōu yáng què* 和箇念頭都颺却); X70.0719b15–17's four *who*-questions posed to the Goryeo king ("*before parents were born, who am I? When a breath does not come, who am I?*"); X70.0747a24–b01's Yuan-era unity thesis "*Amitābha dwells in the West, the patriarch came from the West — recollecting the buddha and investigating Chan share one body-and-pattern*"; and X70.0718b13–c16's *Exhortation to Recollect Amitābha* with its "recollecting-the-buddha is recollecting-the-mind, recollecting-the-mind is recollecting-the-buddha" mutual-interpenetration passage. Of these, the second evidences the *who*-pivot as a mature Chan technical term by Yuan times, and the third is the clearest Yuan-era textual statement of combined Chan–Pure Land practice.
+The *Tiānmù Míngběn chánshī zá lù* (*Miscellaneous Records of Chan Master Mingben of Tianmu*, three fascicles, Wànxù cáng X70n1402) collects discourses, verses, sermons, and letters of Zhongfeng Mingben (1263–1323). Zhongfeng was a disciple of Gaofeng Yuanmiao (高峰原妙, 1238–1295) and an important Yuan-dynasty figure in combined Chan and Pure Land practice. §3.4 cites four core passages: X70.0718c22–24's "discard the very thought of reciting itself" (*hé gè niàn-tóu dōu yáng què* 和箇念頭都颺却); X70.0719b15–17's four *who*-questions posed to the Goryeo king ("*before parents were born, who am I? When a breath does not come, who am I?*"); X70.0747a24–b01's Yuan-era unity thesis "*Amitābha dwells in the West, the patriarch came from the West — recollecting the buddha and investigating Chan share one body-and-pattern*"; and X70.0718b13–c16's *Exhortation to Recollect Amitābha* with its "recollecting-the-buddha is recollecting-the-mind, recollecting-the-mind is recollecting-the-buddha" mutual-interpenetration passage. Of these, the second evidences the *who*-pivot as a mature Chan technical term by Yuan times, and the third is a clear Yuan-era textual statement of combined Chan–Pure Land practice.
 
 A contrastive note is essential here. Zhongfeng's master Gaofeng Yuanmiao's *Chan Essentials* (*Chányào* 禪要, Wànxù cáng X70n1401) and his own extant writings (X70n1400) — excluding Lianchi's 1599 preface — engage the topic of *niàn-fó* **zero times**. Gaofeng belongs to a strictly *kànhuà* lineage; the popular later attribution of 「念佛是誰」 to Gaofeng is philologically traceable not to Gaofeng but to Lianchi Zhuhong's 1599 CE (Wanli 27) preface to Gaofeng's *Discourse Record* (X70.0677a12–22). This is a significant philological correction in the history of Chinese Chan attributions, and both §3.4 and §V will treat it.
 
@@ -215,7 +254,7 @@ On *niàn-fó*, Dahui cites a near-match phrasing in one passage only. At T47.08
 
 This is the phrasing in Dahui's discourse record closest to 「念佛是誰」. But three philological precisions must be noted. First, 「念者是誰」 (*who is the one recollecting?*) is Zhaozhou (Congshen, 778–897)'s saying, not Dahui's creation; Dahui merely cites it on the platform. Second, this citation is, in context, a *narrative gōng'àn*, not a *prescribed huàtóu* — Dahui does not tell *niàn-fó* practitioners, "you should take this 'who is the one recollecting?' as your *huàtóu*." Third, its object is the generic recollection of the three jewels (*buddha, dharma, and saṅgha*), not Amitābha-specific name-invocation. The structural precursor exists as a seed within Dahui's discourse record, but it has not crystallized into a *niàn-fó*-specific *huàtóu*. The union of *kànhuà* mechanism with *niàn-fó* practice has not yet taken shape in Dahui's time.
 
-Zhongfeng Mingben (1263–1323) of the Yuan dynasty is the decisive figure in this union. His *Guǎnglù* (X70n1402) contains twenty-four references to *niàn-fó* dispersed across his sermons, verses, and letters. Zhongfeng does not use the fixed string 「念佛是誰」 (this four-character sequence yields no hits across his thirty-fascicle *Guǎnglù*), but the substance of *turning the name inward* has become fully articulate. Four passages are central.
+Zhongfeng Mingben (1263–1323) of the Yuan dynasty is an important figure in this union. His *Miscellaneous Records* (X70n1402) contains twenty-four references to *niàn-fó* dispersed across sermons, verses, and letters. Zhongfeng does not use the fixed string 「念佛是誰」 in this three-fascicle text, but the substance of *turning the name inward* has become fully articulate. Four passages are central.
 
 First, X70.0718b13–c16, the *Exhortation to Recollect Amitābha*, with its "recollecting-the-buddha and recollecting-the-mind" mutual-containment: "*'This mind is the buddha; this mind makes the buddha.' … The World-Honored Śākyamuni opened the teaching of recollecting-the-buddha; Amitābha's vow welcomes those who recollect. … Recollecting-the-buddha is recollecting-the-mind; recollecting-the-mind is recollecting-the-buddha. The mouth constantly recollects the buddha; the mind constantly reveres the buddha. … Moment by moment without dimness, who is not buddha?*" (translation mine). This passage cites the *Contemplation Sūtra*'s "*this mind makes the buddha*" as proof-text, but unfolds it with the Chan mutual-containment of "recollecting-the-buddha is recollecting-the-mind" — name-invocation and mind-contemplation are not opposed in Yuan-dynasty Chan; they define each other. "*Who is not buddha?*" already installs **who** as a grammatical pivot at the verse's close.[^23]
 
@@ -287,7 +326,7 @@ More importantly, the guardrail is explicit in Zongmi's corpus. At T48.0407c07�
 
 **Content of the misreading**: Contemporary Chan retreat *gōng'àn* handbooks, popular Chan–Pure Land confluence lectures, and even certain scholarly introductions habitually trace 「念佛是誰」 as a unified Chan technique back to Zhaozhou, Dahui, or Gaofeng — or generally to "Tang-era Chan." This attribution is philologically imprecise and requires correction.
 
-**Correction**: Three temporal layers must be rigorously distinguished. **(1) Technical seed** (Song Dahui, twelfth century): T47.0824a06–10 cites Zhaozhou's "who is the one recollecting?" as a platform anecdote. This is the structural precursor, but not the *huàtóu* form prescribed by Dahui; Dahui's own *kànhuà* paradigm is "No" (T47.0899a13, T47.0903c01, et al.), not 「念佛是誰」. **(2) Installation of the *who*-pivot** (Yuan Zhongfeng, early fourteenth century): X70.0719b15–17's four *who*-questions to the Goryeo king witness "*who*" having become a formally adopted Chan technical term by Yuan times; X70.0747a24's "recollecting the buddha and investigating Chan share one body-and-pattern" is the clearest Yuan-era declaration of combined Chan–Pure Land cultivation. At this stage Zhongfeng completes the technical layer of the inward turn — yet the four-character 「念佛是誰」 as fixed string does **not** appear anywhere in the thirty fascicles of the *Zhongfeng Guǎnglù* (verified by CBETA full-text search across X70n1402). **(3) Fixed-string crystallization** (late-Ming Lianchi, 1599 CE): at X70.0677a12–22, Lianchi, in his Wanli-27 preface to Gaofeng's *Discourse Record*, writes "*simply realize who is recollecting the buddha — there is no need to ask the one returns to where*"; at X62.0007c22–0008a03, the *Yunqi jìngtǔ huìyǔ* unfolds the full teaching form "*recollect the buddha several times, turn the light back and inspect: who is the one recollecting the buddha?*" This is the earliest extant CBETA attestation of 「念佛是誰」 as fixed string.
+**Correction**: Three temporal layers must be rigorously distinguished. **(1) Technical seed** (Song Dahui, twelfth century): T47.0824a06–10 cites Zhaozhou's "who is the one recollecting?" as a platform anecdote. This is the structural precursor, but not the *huàtóu* form prescribed by Dahui; Dahui's own *kànhuà* paradigm is "No" (T47.0899a13, T47.0903c01, et al.), not 「念佛是誰」. **(2) Installation of the *who*-pivot** (Yuan Zhongfeng, early fourteenth century): X70.0719b15–17's four *who*-questions to the Goryeo king witness "*who*" having become a formally adopted Chan technical term by Yuan times; X70.0747a24's "recollecting the buddha and investigating Chan share one body-and-pattern" is a clear Yuan-era declaration of combined Chan–Pure Land cultivation. At this stage Zhongfeng completes the technical layer of the inward turn — yet the fixed string 「念佛是誰」 does not appear in the three fascicles of the *Miscellaneous Records of Chan Master Mingben of Tianmu*. **(3) Fixed-string crystallization** (late-Ming Lianchi, 1599 CE): at X70.0677a12–22, Lianchi, in his Wanli-27 preface to Gaofeng's *Discourse Record*, writes "*simply realize who is recollecting the buddha — there is no need to ask the one returns to where*"; at X62.0007c22–0008a03, the *Yunqi jìngtǔ huìyǔ* unfolds the full teaching form "*recollect the buddha several times, turn the light back and inspect: who is the one recollecting the buddha?*" Within the CBETA materials checked for this paper, this is the earliest attestation of 「念佛是誰」 as a fixed string.
 
 The precise temporal division has direct scoping consequence for §3.4 and for P24. The present paper's §3.4 is restricted to the Song–Yuan arc; the full development of the late-Ming confluence (Lianchi's 1599 teaching form, Yongming Yanshou's Chan–Pure Land foundation in *Wànshàn tóngguī jí*, Ouyi Zhixu's phenomenal-vs-principial distinction) belongs to P24. Popular handbooks commonly mis-attribute 「念佛是誰」 to Gaofeng — yet Gaofeng's own *Chan Essentials* (X70n1401) and *Discourse Record* (X70n1400, excluding the 1599 Lianchi preface) contain **zero** engagement with *niàn-fó*; the later "Gaofeng 「念佛是誰」 teaching" traces philologically to Lianchi's 1599 preface to Gaofeng's record. This mis-attribution is a widely circulated folk-level error in Chinese Chan historiography, and this ⚠️ correction clarifies it philologically. The marker here is ⚠️ rather than ❌: the technical continuity between Song and Yuan is real (Dahui's *kànhuà* mechanism applied in Zhongfeng to *niàn-fó*, crystallized at Lianchi as fixed string), not philological fiction; the misreading lies in temporal blurring and retrojective string-attribution, not in the existence of the technique itself.
 
@@ -333,7 +372,7 @@ One open question is left to the reader: if Part VI's Two Streams have, througho
 
 [^14]: *Ibid.*, T48.0352b09–14. The re-cartography-of-body-and-mind passage. "*The upright-and-direct is Amitābha*" is the *Platform Sūtra*'s most refined treatment of the *niàn-fó* topic — the four names (Guanyin, Mahāsthāmaprāpta, Śākyamuni, Amitābha) are preserved while their referents are rotated to inward virtues.
 
-[^15]: *Ibid.*, T48.0349a19–21 (*Conditions* chapter, the "five 'how unexpected'" self-nature definition); T48.0354c01–03 (*Repentance* chapter, "*to take refuge in one's own mind and in the self-nature is to take refuge in the true buddha*"); T48.0362a08 (*Instructions* chapter, *Self-nature True Buddha Verse*'s "*suchness-self-nature is the true buddha*"). These three passages are the *Platform Sūtra*'s foundational articulations of the self-nature position. The philological fact that "self-nature Amitābha" as a four-character fixed string does not appear in the *Platform Sūtra* is verified by grep across the full Zongbao recension (T48n2008) and by cross-reference with Mazu Daoyi's *yǔlù* in T51n2076 fascicle 6, where "mind-is-buddha" is the attested phrasing.
+[^15]: *Ibid.*, T48.0349a19–21 (*Conditions* chapter, the "five 'how unexpected'" self-nature definition); T48.0354c01–03 (*Repentance* chapter, "*to take refuge in one's own mind and in the self-nature is to take refuge in the true buddha*"); T48.0362a08 (*Instructions* chapter, *Self-nature True Buddha Verse*'s "*suchness-self-nature is the true buddha*"). These three passages are the *Platform Sūtra*'s foundational articulations of the self-nature position. The philological fact that "self-nature Amitābha" as a four-character fixed string does not appear in the *Platform Sūtra* is verified through a full-text search of the local CBETA XML for the complete Zongbao recension (T48n2008) and by cross-reference with Mazu Daoyi's *yǔlù* in T51n2076 fascicle 6, where "mind-is-buddha" is the attested phrasing.
 
 [^16]: *Ibid.*, T48.0352b02–07. The *Formless Verses* preface's doubled temporal-and-spatial internalization. The 108,000 miles are reduced to the ten evils and eight wrongs (*ethical distance*); "*in an instant seeing the West*" completes the internalization of time.
 
@@ -349,7 +388,7 @@ One open question is left to the reader: if Part VI's Two Streams have, througho
 
 [^22]: *Ibid.*, T47.0824a06–10, platform citation. Dahui's citation of Zhaozhou's "who is the one recollecting?" *gōng'àn*. This appears here as a narrative citation during a platform sermon, not as a prescribed *huàtóu* for *niàn-fó* practitioners.
 
-[^23]: *Tiānmù Zhōngfēng héshang guǎnglù*, Zhongfeng Mingben's records compiled by Cíjì, Wànxù cáng X70n1402, X70.0718b13–c16, *Exhortation to Recollect Amitābha* verses.
+[^23]: *Tiānmù Míngběn chánshī zá lù* (*Miscellaneous Records of Chan Master Mingben of Tianmu*), X70n1402, X70.0718b13–c16, *Exhortation to Recollect Amitābha* verses.
 
 [^24]: *Ibid.*, X70.0718c22–24, *Cherishing the Pure Land* seven-character quatrain. "*Discard even the thought-of-recollecting itself*" is this paper's §3.4 most concise Zhongfeng formulation of "turning inward" — not *stop recollecting the buddha*, but dissolve the reification of "thought-of-recollecting."
 
@@ -392,7 +431,7 @@ One open question is left to the reader: if Part VI's Two Streams have, througho
 - *Yúnqī fǎhuì* (including *Yunqi jìngtǔ huìyǔ*), by Yunqi Zhuhong (Lianchi), Wànxù cáng X62n1170.
 - *Gāofēng dàshī yǔlù* (*Discourse Record of Master Gaofeng*, including Lianchi Zhuhong's 1599 preface), by Gaofeng Yuanmiao, ed. Chízhèng, Wànxù cáng X70n1400.
 - *Gāofēng Yuánmiào chánshī chányào* (*Chan Essentials of Chan Master Gaofeng Yuanmiao*), by Gaofeng Yuanmiao, Wànxù cáng X70n1401.
-- *Tiānmù Zhōngfēng héshang guǎnglù* (*Extensive Discourse Record of Master Zhongfeng of Tianmu*), by Zhongfeng Mingben, ed. Cíjì, Wànxù cáng X70n1402.
+- *Tiānmù Míngběn chánshī zá lù* (*Miscellaneous Records of Chan Master Mingben of Tianmu*), by Zhongfeng Mingben, Wànxù cáng X70n1402.
 
 ### II. Patriarchal Commentaries
 
@@ -449,7 +488,7 @@ One open question is left to the reader: if Part VI's Two Streams have, througho
 | *Yunqi huìyǔ* | *Yunqi jìngtǔ huìyǔ* (in *Yúnqī fǎhuì*) | Yunqi Zhuhong | X1170 | X 62 |
 | *Gaofeng yǔlù* | *Gāofēng dàshī yǔlù* | Gaofeng Yuanmiao (w/ Lianchi preface) | X1400 | X 70 |
 | *Gaofeng Chan Essentials* | *Gāofēng Yuánmiào chánshī chányào* | Gaofeng Yuanmiao | X1401 | X 70 |
-| *Zhongfeng Guǎnglù* | *Tiānmù Zhōngfēng héshang guǎnglù* | Zhongfeng Mingben | X1402 | X 70 |
+| *Mingben Miscellaneous Records* | *Tiānmù Míngběn chánshī zá lù* | Zhongfeng Mingben | X1402 | X 70 |
 
 ---
 

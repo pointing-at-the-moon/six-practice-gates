@@ -10,6 +10,12 @@ part: "第六部 · 楞嚴的反向施論"
 part_number: 6
 date: "2026-05-12"
 version: "1.0"
+canonical_source:
+  - "T19n0945"
+  - "X11n0270"
+  - "X12n0275"
+  - "X12n0279"
+  - "X13n0285"
 license: "CC BY-NC-SA 4.0"
 ---
 

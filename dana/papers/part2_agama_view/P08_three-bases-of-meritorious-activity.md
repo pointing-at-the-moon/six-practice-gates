@@ -10,6 +10,18 @@ part: "Part II · The Āgama View on Giving"
 part_number: 2
 date: "2026-04-21"
 version: "1.0"
+canonical_source:
+  - "T01n0001"
+  - "T01n0026"
+  - "T01n0084"
+  - "T02n0099"
+  - "T02n0125"
+  - "AN5.34"
+  - "AN8.31"
+  - "AN8.32"
+  - "AN8.36"
+  - "AN9.20"
+  - "MN142"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -54,7 +66,7 @@ The argument unfolds across six sections. §II takes AN 8.36 as its Pāli proto-
 
 ## II. Textual Foundations
 
-The citations in this section are arranged along two tracks: the first is **sūtra** (甲), in four groups — the AN 8.36 Pāli proto-form (Group 1), the T0125 *juan* 12 Three-Jewels Chapter sūtra 2 as Chinese master anchor (Group 2), the T0001 *juan* 8 *Saṅgīti Sūtra* as sectarian parallel (Group 3), and the T0099 *juan* 30 SĀ 841 as verse-form transmission (Group 4) — followed by an "honest-absence declaration" that positively acknowledges the T0026 structural lacuna, the non-inclusion of the Itivuttaka version, and the limits on Abhidhamma-layer expansion. The second track is **commentary** (乙), handled briefly with the four sūtra-layer texts functioning as internal cross-glosses in lieu of a separate commentarial layer. Following the NIAN-A dual-track discipline, Pāli materials carry PTS references; Chinese materials carry Taishō volume and sūtra numbers.
+The citations in this section are arranged along two tracks: the first is **sūtra** (甲), in four groups — the AN 8.36 Pāli proto-form (Group 1), the T0125 *juan* 12 Three-Jewels Chapter sūtra 2 as Chinese master anchor (Group 2), the T0001 *juan* 8 *Saṅgīti Sūtra* as sectarian parallel (Group 3), and the T0099 *juan* 30 SĀ 841 as verse-form transmission (Group 4) — followed by an "honest-absence declaration" that positively acknowledges the T0026 structural lacuna, the non-inclusion of the Itivuttaka version, and the limits on Abhidhamma-layer expansion. The second track is **commentary** (乙), handled briefly with the four sūtra-layer texts functioning as internal cross-glosses in lieu of a separate commentarial layer. Following the the Pāli–Chinese dual-source citation convention, Pāli materials carry PTS references; Chinese materials carry Taishō volume and sūtra numbers.
 
 ### 2.1 Sūtra （甲）
 
@@ -222,7 +234,7 @@ The three bases of meritorious activity (*puñña-kiriya-vatthu*) form the closi
 
 This structure points contemporary practice toward two common-judgment corrections. **First**, the correction of the high-low intuition that "meditation is superior to giving" — the three bases are a material classification, not a ranked order. In the path, giving is the entrance as motivational source, not a beginner's exercise; a householder's path, absent meditative absorption, is not thereby low-rank but on the proper terrain of the twin-engine operation of the three bases. The "strong" intensity of cultivation indeed awaits the form realm and above, but at the sense-sphere layer of the path, giving and virtue already supply the full driving power — this is not a compromise at the lower rung but the proper trajectory answering the terrain of the sense-sphere realm. **Second**, the correction of the ladder reading of "giving as first-rung merit" — in the moment of giving itself, the *cetanā*-shift of "letting go of stinginess," "giving without expectation of return," and "giving as the ornament of the mind" (*cittālaṅkāra-cittaparikkhāra*) is simultaneously the seed-planting of the equal-conduct (*samacariyā*) seed of virtue and the motive-refinement seed of cultivation. The three bases operate at once rather than step by step: the two-directional flow of *cetanā* in giving makes a single qualified act of giving already the co-cultivation of three seeds at once. This is the basic discipline of the path's structure: cultivate the three bases in the moment of giving, rather than step on giving in the sequence of the three bases.
 
-**Open questions · Handoff to P09**
+**Open questions · Transition to P09**
 
 Giving being the entrance to the three bases, how does the institutionalized field of merit turn this entrance into a sustainable communal undertaking? An individual-level giving-event can be one-off, accidental; if the entrance-function of the three-base container is to operate long-term within the sangha institution, it must pass through the institutional structure of the field of merit — how does the legal-doctrinal-practical structure of *cātuddisa saṅgha* (the sangha of the four quarters) both inherit the entrance-function of giving and extend into the vinaya-side institution of the sangha? How do the *cetanā* of the giver and the stability of the field together form a sustainable giving-practice? This is the starting point of Part III's ninth paper, *The Sangha as a Field of Merit*; this paper hands off here.
 

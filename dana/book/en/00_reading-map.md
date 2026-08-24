@@ -82,7 +82,7 @@ At the end of Part Seven, a transition carries you on toward the *Huayan*.
 
 The end the book's title points to—"the offering of the dharma-realm."
 
-The first chapter, "Giving: The Door into the Way," shows that the door into the bodhisattva path is precisely giving. The second chapter, "Offerings, Stretched Until There Is No Edge," looks at Samantabhadra's vast cultivation of offerings, stretched until there is no edge and no end. The third chapter, "The Highest Offering," asks what that most famous line—"Among all offerings, the dharma-offering is supreme"—really means. The fourth chapter, "Sudhana's Long Road," follows the youth Sudhana down the long road of his visits to the fifty-three teachers. The fifth chapter, "The Dharma Itself Is Giving," is the end of this road, and of this book—Samantabhadra himself drawing the equals sign between "Dharma" and "giving."
+The first chapter, "Giving: The Door into the Way," shows that the door into the bodhisattva path is precisely giving. The second chapter, "Offerings, Stretched Until There Is No Edge," looks at Samantabhadra's vast cultivation of offerings, stretched until there is no edge and no end. The third chapter, "The Highest Offering," asks what that most famous line—"Among all offerings, the dharma-offering is supreme"—really means. The fourth chapter, "Sudhana's Long Road," follows the youth Sudhana down the long road of his visits to the fifty-three teachers. The fifth chapter, "The Dharma Itself Is Giving," is the end of this road and of this book: Samantabhadra traces his ocean of dharma to relinquishing, and the book reads the passage together with Fazang's teaching on mutual inclusion.
 
 At the end of Part Eight, the last transition carries you on toward the coda.
 

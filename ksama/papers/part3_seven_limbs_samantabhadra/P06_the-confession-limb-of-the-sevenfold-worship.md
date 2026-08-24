@@ -10,6 +10,17 @@ part: "Part III · The Seven Limbs & Samantabhadra's Repentance of Karmic Obstac
 part_number: 3
 date: "2026-06"
 version: "1.0"
+canonical_source:
+  - "T10n0293"
+  - "T10n0297"
+  - "T11n0310"
+  - "T12n0325"
+  - "T22n1430"
+  - "T23n1436"
+  - "T24n1451"
+  - "T25n1509"
+  - "T32n1636"
+  - "T32n1662"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -125,7 +136,7 @@ This bears out a single judgment: **the confession limb is the oldest and most l
 
 First, "confess first" is a literal command. The treatise, quoting the *Upāliparipṛcchā*, states plainly:
 
-> 應先志誠懺十惡罪及五種愆，亦當懺悔……菩薩爾時如犯彼罪，應向三十五如來前於晝夜中一懺悔云：「我某甲，歸依佛、歸依法、歸依僧。」
+> 應先志誠懺十惡罪及五種𠎝，亦當懺悔……菩薩爾時如犯彼罪，應向三十五如來前於晝夜中一懺悔云：「我某甲，歸依佛、歸依法、歸依僧。」
 >
 > *One should first, with earnest sincerity, confess the ten evil deeds and the five transgressions, and likewise confess … When a bodhisattva has incurred such faults, he should, before the Thirty-Five Tathāgatas, confess once by day and night, saying, "I, so-and-so, take refuge in the Buddha, take refuge in the Dharma, take refuge in the Saṅgha."*[^7]
 

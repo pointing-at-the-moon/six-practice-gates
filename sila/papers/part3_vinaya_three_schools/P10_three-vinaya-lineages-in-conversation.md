@@ -1,12 +1,36 @@
 ---
 title: Three Vinaya Lineages in Conversation
 subtitle: Synchronic Structure and the Five-Recension Cross-Comparison
-volume: 戒門 SĪLA
+volume: 4
 paper_id: "SILA-P10"
-paper_number: P10
+paper_number: 10
 language: en
+series_short: "SĪLA"
+part_number: 3
 date: 2026-05-19
 author: "釋慧鏡 (Shi Huijing)"
+canonical_source:
+  - "T22n1421"
+  - "T22n1425"
+  - "T22n1428"
+  - "T22n1429"
+  - "T23n1435"
+  - "T23n1442"
+  - "T23n1443"
+  - "T24n1450"
+  - "T24n1451"
+  - "T29n1558"
+  - "T31n1605"
+  - "T31n1606"
+  - "T40n1804"
+  - "T40n1805"
+  - "T54n2125"
+  - "X39n0714"
+  - "X40n0714"
+  - "AN11.1"
+  - "AN4.245"
+  - "Vin_Cv_XI"
+  - "Vin_Suttavibhanga_Pacittiya"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 ---
@@ -227,7 +251,7 @@ One open question is left for the reader and for subsequent papers: if the stabl
 
 [^6]: *Bhikkhu-pāṭimokkha*, *Pācittiya* 72, *Vilekhanasikkhāpada*: PTS Vin iv 142, SuttaCentral UID `pli-tv-bu-vb-pc72`. The recursive self-reference of the *Pāṭimokkha* to its own recitation event (*pātimokkhe uddissamāne*) is the structural attestation; the key term *khuddānukhuddaka* appears in this rule and is shared with the Buddha's final allowance at *Dīgha-nikāya* 16 §6.3 (P09 carry).
 
-[^7]: Pāli *Cullavagga* X, *Bhikkhunī-khandhaka*: PTS Vin ii 253–258. The passage is cited here from the SuttaCentral CC0 edition (Bhikkhu Brahmali English, Mahāsaṅgīti Pāli ms), SuttaCentral UID `pli-tv-kd20` segments 1.4.1–1.4.21. The *Cullavagga* X material is absent from the Pāli vault and was retrieved via the SuttaCentral CC0 fallback.
+[^7]: Pāli *Cullavagga* X, *Bhikkhunī-khandhaka*: PTS Vin ii 253–258. The passage is cited here from the SuttaCentral CC0 edition (Bhikkhu Brahmali English, Mahāsaṅgīti Pāli ms), SuttaCentral UID `pli-tv-kd20` segments 1.4.1–1.4.21. No separate publication-safe edition was independently checked.
 
 [^8]: *Dharmaguptaka-vinaya* (《四分律》), trans. Buddhayaśas and Zhu Fonian, Later Qin Hongshi 12–15 (410–413 CE), fascicle 1 (序分): CBETA *Taishō* T22 No. 1428. The *dasa atthavase paṭicca* / 十句義 formulation of the rationale for laying down the precepts appears at the opening of fascicle 1.
 
@@ -249,11 +273,10 @@ One open question is left for the reader and for subsequent papers: if the stabl
 
 [^17]: *Sarvāstivāda-vinaya* (《十誦律》, T1435), trans. Puṇyatara with Kumārajīva, Dharmaruci, and Vimalākṣa, Later Qin (404–409): CBETA T23 No. 1435, fascicles 42–47. The eight *garudhammas* are placed within the *bhikṣuṇī*-section and, additionally, in an independent *garudharma* chapter at fascicle 47 line 523. The framing is the fortnightly-instruction (*ardhamāsa-uddesa*) ritual rather than the ordination narrative — a sub-pattern distinct from the four other consolidated recensions.
 
-[^18]: *Mahīśāsaka-vinaya* (《彌沙塞部和醯五分律》, T1421), trans. Buddhajīva and Zhu Daosheng, Liu-Song (423–424): CBETA T22 No. 1421, fascicle 29. The eight *garudhammas* are placed in the "Section Five, Eight Rules for *Bhikṣuṇīs*" consolidated block. The Gotamī ordination narrative provides the frame; the eight non-transgressible rules sit as a continuous block.
 
 [^19]: As n. 2. The *Xingshichao* fascicle 1 upper, line 354, "six authentic recensions" enumeration: Saṃghika / Tánwúdé / Sarvāstivāda / Mīshāsai / Jiāyèyí / Pólúfúluó.
 
-[^20]: Yuanzhao, *Sifenlü xingshichao zichi ji* (《四分律行事鈔資持記》, T1805), a Song sub-commentary on Daoxuan's *Xingshichao*, *Taishō* T40 No. 1805. The "Mahīśāsaka and *Daśa-bhāṇavāra* general agreement" (五分十誦大同) passage at fascicle 1 lines 156–162; the *Mingliao lun* (《明了論》) on time-and-place categories of *Vinaya* at lines 991–1003; the "these two characters refer to the two schools" passage at lines 1007–1016. Note: *Taishō* 40 No. 1805 is by Yuanzhao (Song), NOT Daoxuan; Daoxuan's own *Hanzhu jieben shu* (戒疏) is *Manji Zokuzōkyō* X0714. These word-level collation passages are Yuanzhao's, glossing Daoxuan's *Xingshichao* and extending the cross-recension comparison Daoxuan opened.
+[^20]: Yuanzhao, *Sifenlü xingshichao zichi ji* (《四分律行事鈔資持記》, T1805), a Song sub-commentary on Daoxuan's *Xingshichao*, *Taishō* T40 No. 1805. The "Mahīśāsaka and *Daśa-bhāṇavāra* general agreement" (五分十誦大同) passage at fascicle 1 lines 156–162; the *Mingliao lun* (《明了論》) on time-and-place categories of *Vinaya* at lines 991–1003; the "these two characters refer to the two schools" passage at lines 1007–1016. Note: *Taishō* 40 No. 1805 is by Yuanzhao (Song), NOT Daoxuan; Daoxuan's own *Hanzhu jieben shu* (戒疏) is *Manji Zokuzōkyō* X39n0714–X40n0714. These word-level collation passages are Yuanzhao's, glossing Daoxuan's *Xingshichao* and extending the cross-recension comparison Daoxuan opened.
 
 [^21]: As n. 1. *Nanhai jigui* T54 p.0205b26–c04: geographical distribution of the four *Vinaya* recensions in Tang China — northern regions principally Dharmaguptaka, Jiangnan southern regions a mixture.
 
@@ -340,7 +363,7 @@ One open question is left for the reader and for subsequent papers: if the stabl
 
 ---
 
-*CBETA collation:* The three principal Chinese-translation *Vinaya* anchors of this paper are *Mahīśāsaka-vinaya* (T1421 Mahīśāsaka · trans. Buddhajīva and Zhu Daosheng · Liu-Song 423–424 · fascicle 29 consolidated *garudharma* block), *Mahāsāṅghika-vinaya* (T1425 Mahāsāṅghika · trans. Buddhabhadra and Faxian · Eastern Jin 416–418 · fascicle 30 *garudharma* + fascicle 32 nine-heading sequence with the ninth rubric *dharma-anudharma*), *Dharmaguptaka-vinaya* (T1428 Dharmaguptaka · trans. Buddhayaśas and Zhu Fonian · Later Qin Hongshi 410–413 · fascicles 48–49 *Bhikṣuṇī-khandhaka* consolidated *garudharma* block + fascicle 54 dual-council eight-category recitation), *Dharmaguptaka-bhikṣu-prātimokṣa* (T1429 Dharmaguptaka *Prātimokṣa* · Later Qin · the 半月半月說、戒經中來 framing-formula at nine occurrences), *Sarvāstivāda-vinaya* (T1435 Sarvāstivāda · trans. Puṇyatara with Kumārajīva · Later Qin 404–409 · fascicles 42–47 *Bhikṣuṇī-vinaya* doubled consolidation), *Mūlasarvāstivāda-bhikṣu-vinaya* (T1442 *Bhikṣu-vinaya* · trans. Yijing · Tang 700–712 · rule-form register), *Mūlasarvāstivāda-bhikṣuṇī-vinaya* (T1443 *Bhikṣuṇī-vinaya* · trans. Yijing · fascicle 19 *śikṣāpada* 126–129 dispersed-rule *pāyantika* numbering · dispersed-rule principal anchor), *Mūlasarvāstivāda-saṅghabhedavastu* (T1450 · trans. Yijing), and *Mūlasarvāstivāda-kṣudrakavastu* (T1451 · trans. Yijing · fascicles 29–30 *garudharma* narrative form · narrative-register principal anchor · corrected from fascicle 40). All citations have been collated against the CBETA Electronic Tripiṭaka Collection 2024. The Chinese-commentary anchors *Sifenlü Shanfan Buque Xingshichao* (T1804 · Daoxuan · seventh-century Tang · fascicle 1 pt1 "six authentic recensions" classification + "six kinds of *Vinaya*-holders in the world" typology), *Sifenlü xingshichao zichi ji* (T1805 · Yuanzhao · Song · sub-commentary on Daoxuan's *Xingshichao* · "Mahīśāsaka–*Daśa-bhāṇavāra* general agreement" + *Mingliao lun* time-and-place + "these two characters refer to the two schools" word-level cross-recension collation · extending Daoxuan's comparison · NB T40n1805 = Yuanzhao's *Zichiji*, not Daoxuan's *Hanzhu jieben shu* [the latter is X0714]), and *Nanhai jigui neifa zhuan* (T2125 · Yijing · Tang 691–712 · collated against the CBETA XML edition (T54n2125) · the three indigenous-awareness segments: geographical distribution of four *Vinaya* recensions in Tang China, Yijing's self-disclosed Mūlasarvāstivāda standpoint with the *Daśa-bhāṇavāra*-disambiguation, and the "tangled and disorderly" indigenous critique) have also been collated against CBETA. The Pāli principal anchors — *Cullavagga* XI's First Council eight-category *Pāṭimokkha* recitation and Mahākassapa's *apaññattaṁ nappaññapeyya paññattaṁ na samucchindeyya* transmission discipline; the *Suttavibhaṅga* *Pācittiya* 72 *Vilekhanasikkhāpada* recursive self-reference (P09 carry) — are cited by PTS reference, with the SuttaCentral Brahmali/Sujato edition of the Mahāsaṅgīti recension (CC0) as the reading edition. The *Cullavagga* X *Bhikkhunī-khandhaka* eight *garudhammas* Pāli baseline is a segment, supplied from SuttaCentral CC0 (UID `pli-tv-kd20` segments 1.4.1–1.4.21 · PTS Vin ii 253–258 · Brahmali CC0 English + Mahāsaṅgīti CC0 Pāli). The *Aṅguttara-nikāya* 4.245 *Sikkhānisaṃsa-sutta* and 11.1 *Kimatthiya-sutta* serve as cross-paper recurrence anchors (carried in SĪLA-P01 / P02 / P07 / P08 / P09). The *śāstra*-stratum *Abhidharmakośa* (T1558 fascicle 14), *Abhidharma-samuccaya* (T1605), and *Abhidharma-samuccaya-vyākhyā* (T1606) appear here as P09 carry only and are not expanded in the present paper.
+*CBETA collation:* The three principal Chinese-translation *Vinaya* anchors of this paper are *Mahīśāsaka-vinaya* (T1421 Mahīśāsaka · trans. Buddhajīva and Zhu Daosheng · Liu-Song 423–424 · fascicle 29 consolidated *garudharma* block), *Mahāsāṅghika-vinaya* (T1425 Mahāsāṅghika · trans. Buddhabhadra and Faxian · Eastern Jin 416–418 · fascicle 30 *garudharma* + fascicle 32 nine-heading sequence with the ninth rubric *dharma-anudharma*), *Dharmaguptaka-vinaya* (T1428 Dharmaguptaka · trans. Buddhayaśas and Zhu Fonian · Later Qin Hongshi 410–413 · fascicles 48–49 *Bhikṣuṇī-khandhaka* consolidated *garudharma* block + fascicle 54 dual-council eight-category recitation), *Dharmaguptaka-bhikṣu-prātimokṣa* (T1429 Dharmaguptaka *Prātimokṣa* · Later Qin · the 半月半月說、戒經中來 framing-formula at nine occurrences), *Sarvāstivāda-vinaya* (T1435 Sarvāstivāda · trans. Puṇyatara with Kumārajīva · Later Qin 404–409 · fascicles 42–47 *Bhikṣuṇī-vinaya* doubled consolidation), *Mūlasarvāstivāda-bhikṣu-vinaya* (T1442 *Bhikṣu-vinaya* · trans. Yijing · Tang 700–712 · rule-form register), *Mūlasarvāstivāda-bhikṣuṇī-vinaya* (T1443 *Bhikṣuṇī-vinaya* · trans. Yijing · fascicle 19 *śikṣāpada* 126–129 dispersed-rule *pāyantika* numbering · dispersed-rule principal anchor), *Mūlasarvāstivāda-saṅghabhedavastu* (T1450 · trans. Yijing), and *Mūlasarvāstivāda-kṣudrakavastu* (T1451 · trans. Yijing · fascicles 29–30 *garudharma* narrative form · narrative-register principal anchor · corrected from fascicle 40). All citations have been collated against the CBETA Electronic Tripiṭaka Collection 2024. The Chinese-commentary anchors *Sifenlü Shanfan Buque Xingshichao* (T1804 · Daoxuan · seventh-century Tang · fascicle 1 pt1 "six authentic recensions" classification + "six kinds of *Vinaya*-holders in the world" typology), *Sifenlü xingshichao zichi ji* (T1805 · Yuanzhao · Song · sub-commentary on Daoxuan's *Xingshichao* · "Mahīśāsaka–*Daśa-bhāṇavāra* general agreement" + *Mingliao lun* time-and-place + "these two characters refer to the two schools" word-level cross-recension collation · extending Daoxuan's comparison · NB T40n1805 = Yuanzhao's *Zichiji*, not Daoxuan's *Hanzhu jieben shu* [the latter is X39n0714–X40n0714]), and *Nanhai jigui neifa zhuan* (T2125 · Yijing · Tang 691–712 · collated against the CBETA XML edition (T54n2125) · the three indigenous-awareness segments: geographical distribution of four *Vinaya* recensions in Tang China, Yijing's self-disclosed Mūlasarvāstivāda standpoint with the *Daśa-bhāṇavāra*-disambiguation, and the "tangled and disorderly" indigenous critique) have also been collated against CBETA. The Pāli principal anchors — *Cullavagga* XI's First Council eight-category *Pāṭimokkha* recitation and Mahākassapa's *apaññattaṁ nappaññapeyya paññattaṁ na samucchindeyya* transmission discipline; the *Suttavibhaṅga* *Pācittiya* 72 *Vilekhanasikkhāpada* recursive self-reference (P09 carry) — are cited by PTS reference, with the SuttaCentral Brahmali/Sujato edition of the Mahāsaṅgīti recension (CC0) as the reading edition. The *Cullavagga* X *Bhikkhunī-khandhaka* eight *garudhammas* Pāli baseline is a segment, supplied from SuttaCentral CC0 (UID `pli-tv-kd20` segments 1.4.1–1.4.21 · PTS Vin ii 253–258 · Brahmali CC0 English + Mahāsaṅgīti CC0 Pāli). The *Aṅguttara-nikāya* 4.245 *Sikkhānisaṃsa-sutta* and 11.1 *Kimatthiya-sutta* serve as cross-paper recurrence anchors (carried in SĪLA-P01 / P02 / P07 / P08 / P09). The *śāstra*-stratum *Abhidharmakośa* (T1558 fascicle 14), *Abhidharma-samuccaya* (T1605), and *Abhidharma-samuccaya-vyākhyā* (T1606) appear here as P09 carry only and are not expanded in the present paper.
 
 *指月 Six Practice Gates · SĪLA Volume · Paper P10 · May 2026*
 
@@ -348,3 +371,5 @@ One open question is left for the reader and for subsequent papers: if the stabl
 **Project:** 指月 Point-to-the-moon · 六行門 Six Practice Gates
 **License:** CC BY-NC-SA 4.0
 **Repository:** github.com/pointing-at-the-moon/six-practice-gates
+
+*CBETA collation: see the detailed source-collation note above.*

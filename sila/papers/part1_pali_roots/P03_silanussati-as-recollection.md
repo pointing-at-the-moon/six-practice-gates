@@ -2,14 +2,23 @@
 title: "Sīlānussati: Sīla as an Object of Recollection"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 4 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part I · Pāli Roots"
-series_short: "SILA"
-volume: 3
+series_short: "SĪLA"
+volume: 4
 paper_id: "SILA-P03"
 paper_number: 3
 part: "Part I · Pāli Roots"
 part_number: 1
 date: "2026-05-17"
 version: "1.0"
+canonical_source:
+  - "T01n0001"
+  - "T02n0099"
+  - "T02n0125"
+  - "AN11.11"
+  - "AN11.12"
+  - "AN6.10"
+  - "SN55.21"
+  - "SN55.22"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -260,7 +269,7 @@ The closing line of Guṇabhadra's sūtra 931 — 念戒所熏，昇進涅槃 ("
 ### Within-Volume Continuity
 
 - **SILA P02** *Ariyakanta-sīla as the Fourth Sotāpattiyaṅga* — direct predecessor; the same eight-virtue formula read here as recollection-object rather than as stream-entry attribute. The sourcing-correction footnote [^3] of the present paper repairs the fascicle-33 / fascicle-30 lineage of citation registered in P02's §II.3 footnote.
-- **SILA P04** (forthcoming, on *ekaggatā* / single-pointedness) — direct successor; the single-homogeneous-object structure stands in contrast with the present paper's multi-object recollection structure, and supplies the object-side complement to the access-versus-absorption boundary argued in §V.
+- **SILA P04** (on *ekaggatā* / single-pointedness) — direct successor; the single-homogeneous-object structure stands in contrast with the present paper's multi-object recollection structure, and supplies the object-side complement to the access-versus-absorption boundary argued in §V.
 - **SILA P01** *What Sīla Actually Means* — three-axis foundation; §I.2 of the present paper contrasts the third axis (*vinaya*, the external institutional discipline) with the reflexive interiorised *sīla* that constitutes *sīlānussati*'s recollection-object.
 
 ### Cross-Volume Acknowledgment (architectural only; no §11 footnote activated)
@@ -270,8 +279,8 @@ The closing line of Guṇabhadra's sūtra 931 — 念戒所熏，昇進涅槃 ("
 
 ### Forward Boundary Interfaces
 
-- **SILA Parts IV–V** (forthcoming; precept-substance, the three pure precepts of the Mahāyāna) — the reflexive structure surfaced in the present paper functions as the Pāli-side precondition for the later Mahāyāna interiorisation of *sīla*.
-- **SILA Part VI** (forthcoming; the twelve great vows of Bhaiṣajyaguru) — the recollection-mechanism examined here is one of several historical strands feeding into later devotional architectures.
+- **SILA Parts IV–V** (precept-substance, the three pure precepts of the Mahāyāna) — the reflexive structure surfaced in the present paper functions as the Pāli-side precondition for the later Mahāyāna interiorisation of *sīla*.
+- **SILA Part VI** (the twelve great vows of Bhaiṣajyaguru) — the recollection-mechanism examined here is one of several historical strands feeding into later devotional architectures.
 - **SAMĀDHI volume** — the constitutive-ceiling argument of §V hands forward to the access-versus-absorption boundary as a *SAMĀDHI*-side concern. The full operational layer of *kammaṭṭhāna* ( *Visuddhimagga* Chapter VII §4 read as an operational manual rather than as a doctrinal closing) is reserved for that volume.
 
 ### Octalogy Relation (sister series)

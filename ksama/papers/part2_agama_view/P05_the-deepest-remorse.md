@@ -10,6 +10,16 @@ part: "Part II · The Āgama View"
 part_number: 2
 date: "2026-06"
 version: "1.0"
+canonical_source:
+  - "T01n0001"
+  - "T01n0022"
+  - "T01n0026"
+  - "T02n0099"
+  - "T02n0125"
+  - "T12n0374"
+  - "T22n1421"
+  - "T23n1435"
+  - "Vin_Cv_VII"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -220,7 +230,7 @@ Gathered into a single sentence: Ajātaśatru is the limit-specimen of phenomena
 
 [^8]: *Dīrgha-āgama*, *Sāmaññaphala-sutta* (DA27), fascicle 17, the limit line: "This King Ajātaśatru's offenses are lessened, the grave fault drawn out. Had King Ajātaśatru not killed his father, he would have attained the pure Dharma-eye on this very seat; yet now, repenting the fault himself, his guilt is lessened, the grave fault drawn out"; Taishō No. 1 (vol. 1). The text reads *lessened* / *the grave fault drawn out*, not *the sin extinguished* — it lessens, it does not remove.
 
-[^9]: Pāli *Sāmaññaphala-sutta* (DN 2): the Buddha calls the king *khata*, *upahata* (ruined, undone), with the same counterfactual — had he not deprived his righteous Dharma-king father of life, on this very seat the dust-free, stainless Dharma-eye would have arisen (*imasmiññeva āsane virajaṁ vītamalaṁ dhammacakkhuṁ uppajjissatha*), PTS DN i. 86. Read on a dual track with the DA27 limit line. (The Pāli here is a web-fallback, cited by PTS range.)
+[^9]: Pāli *Sāmaññaphala-sutta* (DN 2): the Buddha calls the king *khata*, *upahata* (ruined, undone), with the same counterfactual — had he not deprived his righteous Dharma-king father of life, on this very seat the dust-free, stainless Dharma-eye would have arisen (*imasmiññeva āsane virajaṁ vītamalaṁ dhammacakkhuṁ uppajjissatha*), PTS DN i. 86. Read on a dual track with the DA27 limit line. Only the PTS range is supplied here; this Pāli locus was not independently checked in a publication-safe digital edition.
 
 [^10]: *Ekottarika-āgama*, fascicle 40: the counterfactual and "rootless faith" in one passage — "When the king had gone but a little way, the Buddha said to the monks: 'Had this King Ajātaśatru not killed his father, he should this very day have won the first fruit of recluseship … Yet even so, he has now gained great good fortune: he has gained rootless faith. Therefore, monks, let a person of crime seek the means to accomplish rootless faith. Among my lay-followers, the one who has gained rootless faith — that is Ajātaśatru.'"; Taishō No. 125 (vol. 2).
 
@@ -262,7 +272,7 @@ Gathered into a single sentence: Ajātaśatru is the limit-specimen of phenomena
 | *Sarvāstivāda Vinaya* | 十誦律 | fasc. 54 | Taishō No. 1435 (vol. 23) | §IV.4 the ordination-bar (the repentance-face) |
 | Mahīśāsaka *Vinaya* | 彌沙塞部和醯五分律 | fasc. 3 | Taishō No. 1421 (vol. 22) | §II the Devadatta coup-chain · shared karma |
 | *Mahāparinirvāṇa-sūtra* | 大般涅槃經 | fasc. 20 | Taishō No. 374 (vol. 12) | §III Jīvaka on shame-and-scruple disclosure (Mahāyāna, light cross-ref) |
-| *Sāmaññaphala-sutta* | 長部·沙門果經 (DN 2) | DN i. 85–86 | PTS (web-fallback) | §III the verbatim confession + growth-clause · §IV.1 the *khata/upahata* limit line (dual track) |
+| *Sāmaññaphala-sutta* | 長部·沙門果經 (DN 2) | DN i. 85–86 | PTS range only; no independent publication-safe digital check | §III the verbatim confession + growth-clause · §IV.1 the *khata/upahata* limit line (dual track) |
 | *Cullavagga* VII | 銅鍱律·小品·破僧犍度 | PTS Vin ii. | PTS (verify-only) | §III corroboration of the disclosure-formula's universality |
 | *Sumaṅgalavilāsinī* | 長部義疏 (*Dīgha-aṭṭhakathā*) | — | aṭṭhakathā | §IV.3 Ajātaśatru's after-death fate (commentarial layer, not canon) |
 
@@ -271,6 +281,6 @@ Gathered into a single sentence: Ajātaśatru is the limit-specimen of phenomena
 *Paper:* KSAMA-P05 · *The Deepest Remorse* · **KṢAMĀ · Part II · The Āgama View · #2 · the psychological layer of phenomenal repentance (事懺心理層)**
 *Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates (六行門) · KṢAMĀ · Part II · #2
 *License:* CC BY-NC-SA 4.0
-*Textual verification:* CBETA Electronic Tripiṭaka (Chinese): *Dīrgha-āgama* No. 1 · *Jìzhìguǒ-jīng* No. 22 · *Madhyama-āgama* No. 26 (*Salt-Simile* / *Intention*) · *Ekottarika-āgama* No. 125 · *Saṃyukta-āgama* No. 99 · *Sarvāstivāda Vinaya* No. 1435 · Mahīśāsaka *Vinaya* No. 1421 · *Mahāparinirvāṇa-sūtra* No. 374. Pāli: PTS *Dīgha* i. (web-fallback); *Cullavagga* VII verify-only (not embedded); *Sumaṅgalavilāsinī* (aṭṭhakathā).
+*Textual verification:* CBETA Electronic Tripiṭaka (Chinese): *Dīrgha-āgama* No. 1 · *Jìzhìguǒ-jīng* No. 22 · *Madhyama-āgama* No. 26 (*Salt-Simile* / *Intention*) · *Ekottarika-āgama* No. 125 · *Saṃyukta-āgama* No. 99 · *Sarvāstivāda Vinaya* No. 1435 · Mahīśāsaka *Vinaya* No. 1421 · *Mahāparinirvāṇa-sūtra* No. 374. Pāli: PTS *Dīgha* i. (range only; no independent publication-safe digital check); *Cullavagga* VII verify-only (not embedded); *Sumaṅgalavilāsinī* (aṭṭhakathā).
 *Cross-reference:* P04 *The Double-Edged Remorse* (Part II opener) established the good edge — the self-terminating engine of phenomenal repentance; P05 drives that same blade to its breaking point on the gravest karma. The signpost planted at the floor's end points to → Part VII (principle-repentance, 理懺), where the ultimate purification of the root of the deed is treated separately; this paper does not step onto it.
 *Repository:* https://github.com/pointing-at-the-moon/six-practice-gates

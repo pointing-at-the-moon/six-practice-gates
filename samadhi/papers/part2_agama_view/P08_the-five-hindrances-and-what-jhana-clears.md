@@ -10,6 +10,16 @@ part: Part II · The Āgama View
 part_number: 2
 date: 2026-06-01
 version: "1.0"
+canonical_source:
+  - "T01n0001"
+  - "T01n0026"
+  - "T02n0099"
+  - "T26n1536"
+  - "T27n1545"
+  - "T29n1558"
+  - "T32n1648"
+  - "DN22"
+  - "MN10"
 license: CC BY-NC-SA 4.0
 ---
 
@@ -182,13 +192,9 @@ This seed the volume will harvest in its final chapter (the volume-closing paper
 
 ## VI. Modern Dialogue, the Two Redlines, and a Coordinate Revisited
 
-Set this chapter into the contemporary discussion of early Buddhist meditation, and three positions in the conversation are worth marking.
+Set this chapter into the contemporary discussion of early Buddhist meditation, and one doctrinal dispute is worth marking.
 
-First, Rupert Gethin has long argued that the five hindrances should be understood as a structured *set*, belonging — together with the seven awakening-factors and the rest of the thirty-seven factors of awakening — to one and the same developmental framework, rather than as a scatter of separate emotions.[^18] This reading the chapter accepts whole — it is precisely the best gloss on the anti-psychologization point: the five hindrances are a structured category, not a string of stray moods. On top of Gethin's "set," the chapter lays two further claims: first, that the set is *subtractive* — it is concentration's named complement (the things concentration does *not* contain); and second, that concentration's clearing of this set is suppression and not severance — severance-at-the-root belongs to wisdom and to the path of seeing, not to concentration. This is not opposition to Gethin; it is two further courses laid on the structure he has built.
-
-Second, Bhikkhu Anālayo, in his work on the establishments of mindfulness, has expounded with great clarity the face of the five hindrances *as an object of satipaṭṭhāna* — how their presence, absence, arising, and abandonment are known as they are within mindfulness.[^19] This face the chapter likewise accepts. The only thing to add is one sentence: that is the relation of the establishments of mindfulness, not the relation of jhāna. Mindfulness watches the hindrances; concentration is secluded from them — one set of hindrances, two relations. This is the scholarly version of the distinction drawn in Section III.
-
-Third, in the living field of contemporary jhāna instruction there is a dispute between "active antidote" and "natural subtraction": one side stresses the active technique of countering (noticing, naming, applying a targeted remedy), the other stresses a natural shedding (not countering at all, letting the hindrances retire of themselves in the stilling). This chapter takes no side, and names no living teacher or center — because what the chapter means to answer is a doctrinal question already written into the texts, not to pass judgment on anyone's teaching. And the chapter has in fact already furnished the tools to dissolve the dispute: the two models of Section IV tell us that "per-factor countering" was itself a map drawn by the treatise-masters (and a Southern one at that), not the definition of concentration; the "suppression ≠ severance" of Section V tells us that, whether by active countering or natural shedding, all concentration can do is *suppress*. "Seclusion" is the definitional fact of concentration; "countering" is one described route by which one arrives at it — the two are not on the same plane, and so they need not exclude one another.
+In the living field of contemporary jhāna instruction there is a dispute between "active antidote" and "natural subtraction": one side stresses the active technique of countering (noticing, naming, applying a targeted remedy), the other stresses a natural shedding (not countering at all, letting the hindrances retire of themselves in the stilling). This chapter takes no side, and names no living teacher or center — because what the chapter means to answer is a doctrinal question already written into the texts, not to pass judgment on anyone's teaching. And the chapter has in fact already furnished the tools to dissolve the dispute: the two models of Section IV tell us that "per-factor countering" was itself a map drawn by the treatise-masters (and a Southern one at that), not the definition of concentration; the "suppression ≠ severance" of Section V tells us that, whether by active countering or natural shedding, all concentration can do is *suppress*. "Seclusion" is the definitional fact of concentration; "countering" is one described route by which one arrives at it — the two are not on the same plane, and so they need not exclude one another.
 
 Having come this far, let the two redlines be drawn together.
 
@@ -238,10 +244,6 @@ What remains is left to the next part. If concentration is "the stilling of the 
 
 [^17]: *Abhidharma-mahāvibhāṣā-śāstra*, the mundane path of the sense-sphere "cannot even temporarily sever a hindrance and check an entanglement so that it does not arise again — how much less finally," Taishō vol. 27, No. T1545.
 
-[^18]: Gethin, Rupert. *The Buddhist Path to Awakening*. (The five hindrances as a structured set, belonging with the thirty-seven factors of awakening to one developmental framework; specific pages to be verified.)
-
-[^19]: Anālayo, Bhikkhu. *Satipaṭṭhāna: The Direct Path to Realization*. (The five hindrances as an object of satipaṭṭhāna: their presence, absence, arising, and abandonment known as they are; specific pages to be verified.)
-
 ---
 
 ## References
@@ -264,10 +266,6 @@ What remains is left to the next part. If concentration is "the stilling of the 
 
 ### Modern Scholarship
 
-> Publication details for the works below await final verification; the body takes only the gist of each position and quotes none of them verbatim.
-
-- Anālayo, Bhikkhu. *Satipaṭṭhāna: The Direct Path to Realization*. Windhorse, 2003. (The five hindrances as an object of satipaṭṭhāna; pages to be verified.)
-- Gethin, Rupert. *The Buddhist Path to Awakening*. Oneworld, 2001. (The hindrances as a structured set within the thirty-seven factors of awakening; pages and edition to be verified.)
 - Sharf, Robert H. "Is Mindfulness Buddhist? (and Why It Matters)." *Transcultural Psychiatry*, 2015. (The caution against psychologizing.)
 
 ---

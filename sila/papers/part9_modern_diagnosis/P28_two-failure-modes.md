@@ -3,12 +3,17 @@ title: "Two Failure Modes"
 subtitle: "Therapeutic Anxiety and Legalism"
 title_zh: 兩種失模
 subtitle_zh: 治療化的戒律恐懼症與律法主義
-volume: 戒門 SĪLA
-paper_id: SILA-P28
-paper_number: P28
+volume: 4
+paper_id: "SILA-P28"
+paper_number: 28
 language: en
+series_short: "SĪLA"
+part_number: 9
 date: 2026-06
-author: 釋慧鏡 Shi Huijing
+author: "釋慧鏡 (Shi Huijing)"
+canonical_source:
+  - "T01n0026"
+  - "T22n1421"
 license: CC BY-NC-SA 4.0
 series: Six Practice Gates
 series_zh: 六行門 · 卷四 戒
@@ -170,7 +175,7 @@ Two open directions are left at the last. First, the therapeutic dissolution of 
 
 [^11]: T. Griffith Foulk, "Myth, Ritual, and Monastic Practice in Sung Ch'an Buddhism," in *Religion and Society in T'ang and Sung China*, ed. Patricia Buckley Ebrey and Peter N. Gregory (Honolulu: University of Hawai'i Press, 1993). Cited at the level of the work as a whole; no page-level pinpoint is claimed.
 
-[^12]: Richard M. Jaffe, "Meiji Religious Policy, Sōtō Zen, and the Clerical Marriage Problem," *Japanese Journal of Religious Studies* 25, no. 1–2 (1998). (This JJRS 1998 article is the anchor for the precept-relaxation point; the monograph title is not to be substituted here.)
+[^12]: Richard M. Jaffe, “Meiji Religious Policy, Sōtō Zen, and the Clerical Marriage Problem,” *Japanese Journal of Religious Studies* 25, no. 1–2 (1998).
 
 [^13]: The sister volume's *Modern Diagnosis of Repentance* has diagnosed "the therapeuticization of *repentance*"—the maintenance and prolongation of a feeling; what this paper diagnoses is "the therapeutic dissolution of *the precept*"—the discarding of the binding modality of the undertaking and the precept-essence. Both the object (repentance / the precept) and the mechanism (prolonging a feeling / discarding a form) differ, and may not stand in for one another.
 

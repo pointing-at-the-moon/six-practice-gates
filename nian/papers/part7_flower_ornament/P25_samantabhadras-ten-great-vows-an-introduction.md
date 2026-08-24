@@ -10,6 +10,21 @@ part: "Part VII · The Flower Ornament Vision"
 part_number: 7
 date: "2026-05-02"
 version: "1.0"
+canonical_source:
+  - "T09n0278"
+  - "T10n0279"
+  - "T10n0293"
+  - "T35n1733"
+  - "T35n1735"
+  - "T37n1762"
+  - "T46n1941"
+  - "T47n1980"
+  - "T48n2015"
+  - "T48n2016"
+  - "T48n2017"
+  - "X05n0227"
+  - "X05n0229"
+  - "X22n0424"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -71,7 +86,7 @@ The third is the *forty-fascicle Avataṃsaka* (T0293), translated by Prajña (�
 
 The chronological gap among the three recensions is consequential: T0293 stands roughly one hundred years after T0279 and roughly three hundred eighty years after T0278. The formal enumeration of ten vows is, accordingly, an eighth-century late-Indic appendix — its Sanskrit title is *Bhadracarī-praṇidhāna*, "the noble-practice-vow" — and cannot be read backward into the earlier translations. The independent circulation of the *Practice-and-Vow Chapter* as a stand-alone scripture in later imperial and modern Pure Land transmissions further refines the citation: most such circulations include only the latter portion of fascicle forty's long-form prose plus the entire verse-section, and *do not include* the Sudhana-meets-Samantabhadra material in fascicles thirty-eight and thirty-nine. In what follows, *Practice-and-Vow Chapter* without further qualification refers to this stand-alone-circulation form; references to the full T0293 are explicitly marked.
 
-On the commentary side: Chengguan's *Great Commentary on the Avataṃsaka* (T1735) was completed between 784 and 787 CE — a decade before T0293 was translated. T1735 commentates on T0279, the eighty-fascicle recension, and never on T0293. Chengguan's later vow-by-vow commentary on Prajña's recension is the *Practice-and-Vow Chapter Commentary* (T1736), and Zongmi's sub-commentary is the *Practice-and-Vow Chapter Detailed Sub-Commentary* (X05n0229). The present paper draws on T1735 *only* for its structural passages — the architecture of the four dharma-realms, the pairing of *Samantabhadra as practice* and *Mañjuśrī as wisdom*, and the fifty-three-assembly structure — and reserves all vow-specific commentarial material for P26 through P29.
+On the commentary side: Chengguan's *Great Commentary on the Avataṃsaka* (T1735) was completed between 784 and 787 CE — a decade before T0293 was translated. T1735 commentates on T0279, the eighty-fascicle recension, and never on T0293. Chengguan's later vow-by-vow commentary on Prajña's recension is the *Practice-and-Vow Chapter Commentary* (X0227), and Zongmi's sub-commentary is the *Practice-and-Vow Chapter Detailed Sub-Commentary* (X05n0229). The present paper draws on T1735 *only* for its structural passages — the architecture of the four dharma-realms, the pairing of *Samantabhadra as practice* and *Mañjuśrī as wisdom*, and the fifty-three-assembly structure — and reserves all vow-specific commentarial material for P26 through P29.
 
 ---
 
@@ -430,7 +445,6 @@ Gregory, Peter N. *Tsung-mi and the Sinification of Buddhism*. Princeton: Prince
 
 > **Pointing at the Moon Research · Six Practice Gates, Volume One: *Mindful of the Buddha* · Part VII The Flower Ornament Vision · 7.1**
 > Shi Huijing (釋慧鏡)
-> First draft, May 2026
 > This work is licensed under CC BY-NC-SA 4.0
 
 ---

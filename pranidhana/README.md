@@ -8,9 +8,10 @@
 A companion to [*Mindful of the Buddha*](../nian/) (Volume 1), [*The Practice of Giving*](../dana/) (Volume 2), [*Repentance*](../ksama/) (Volume 3), [*From Pāli Vinaya to the Sign-less Precepts*](../sila/) (Volume 4), and [*From the Pāli Jhāna to Silent Illumination and the Huatou*](../samadhi/) (Volume 5). Where the bodhisattva's ultimate nirvana (SAMĀDHI) is the inward consummation, PRAṆIDHĀNA is the vow that turns it outward into the Buddhas' full awakening — the Heart Sūtra's 得阿耨多羅三藐三菩提, the END of the sequence. The vow is not a wish: it is the structural act of turning the whole of the will toward awakening, traced from the Pāli *paṇidhāna* (the bodhisattva's primal vow before Dīpaṃkara) through the four great vows, Amitābha's primal vows, and Samantabhadra's vows of conduct.
 
 - **Author**: 釋慧鏡 (Shi Huijing)
+- **Methodology**: [Waken scholarship methodology](https://waken.org/methodology/)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
 - **Book**: [成書層 book/](./book/) — ZH gold standard + English mirror
-- **Status**: 🟢 **Paper phase complete — Parts I–VIII 20/20 ✅.** This is the series' sealing volume. With the SAMĀDHI volume sealed, the gate on Part VIII was met and the two closing papers are now released: the three-times Buddhas' attainment of bodhi as the END of the sequence (P19), and the grand reveal — the six-gate ↔ Heart Sūtra mapping (觀／度／空／不／究竟／得菩提 = 念／施／懺／戒／定／願, five movements and one emptiness; repentance the one subtractive gate, the vow alone unsealing 得菩提) — as the series closer (P20). The loop of the whole six-gate sequence closes here, handed back to its sister series (on view and wisdom) and to the three trainings (śīla, samādhi, prajñā).
+- **Status**: Corpus inventory complete — 20/20 papers are present on disk across Parts I–VIII. P20's six-gate ↔ *Heart Sūtra* mapping is the author's house hermeneutic, not a mapping stated verbatim in the *Heart Sūtra*. This count does not claim teacher/translator ratification, quotation-by-quotation scholarly closure, or live-site publication.
 
 ### Structure
 

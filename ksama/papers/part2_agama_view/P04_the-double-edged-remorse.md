@@ -10,6 +10,12 @@ part: "Part II · The Āgama View"
 part_number: 2
 date: "2026-05"
 version: "1.0"
+canonical_source:
+  - "T01n0001"
+  - "T01n0026"
+  - "T02n0099"
+  - "T02n0100"
+  - "Vin_Cv_VII"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -166,7 +172,7 @@ This is taken only as one instance of "able to feel remorse, therefore benefits 
 
 ## Notes
 
-[^1]: *Madhyama-āgama*, fascicle 3, *Rāhulovāda* (《羅云經》), trans. Gautama Saṅghadeva (Eastern Jin), Taishō Tripiṭaka vol. 1, no. 26. Pāli parallel: *Ambalaṭṭhikā-rāhulovāda-sutta*, MN 61, PTS M i ≈ 414 (range, to be verified).
+[^1]: *Madhyama-āgama*, fascicle 3, *Rāhulovāda* (《羅云經》), trans. Gautama Saṅghadeva (Eastern Jin), Taishō Tripiṭaka vol. 1, no. 26. Pāli parallel: *Ambalaṭṭhikā-rāhulovāda-sutta*, MN 61.
 
 [^2]: *Madhyama-āgama*, fascicle 4, the deeds-correspondence chapter (*Gāmaṇi* / the headman Pāṭaliya), Taishō Tripiṭaka vol. 1, no. 26. "See the fault, disclose it, guard against recurrence, then grow the noble Dharma and suffer no loss" is the good edge's three-beat headline, chosen precisely because it falls outside precept vocabulary.
 
@@ -174,13 +180,13 @@ This is taken only as one instance of "able to feel remorse, therefore benefits 
 
 [^4]: *Saṃyukta-āgama*, fascicle 30, Taishō Tripiṭaka vol. 2, no. 99. Records the venerable Kāśyapa, who "at once gave rise to remorse in his mind" and asked that his repentance be received; the Buddha confirms, "one who feels remorse thus — his wholesome states grow and never decline." The remorse of "at once gave rise to remorse in his mind" is the bud of wholesome remorse, the same word as the restlessness-and-remorse of the fifth hindrance.
 
-[^5]: The growth-formula *Vuḍḍhi hesā, āvuso, ariyassa vinaye* (having seen a transgression as a transgression, making amends in accordance with the Dhamma, undertaking restraint for the future) appears in the *Cullavagga* VII of the Theravāda Vinaya (`pli-tv-kd17`), PTS Vin ii ≈ 180 (range, to be verified); and in the *Sāmaññaphala-sutta*, DN 2. The two episodes differ (the former is the assassin sent by Devadatta; the latter is King Ajātasattu) but the formula is the same, corresponding to the Chinese "see the fault, disclose it → grow the noble Dharma." Brahmali (CC0) English: "acknowledging a mistake, making proper amends, and undertaking restraint for the future."
+[^5]: The growth-formula *Vuḍḍhi hesā, āvuso, ariyassa vinaye* (having seen a transgression as a transgression, making amends in accordance with the Dhamma, undertaking restraint for the future) appears in *Cullavagga* VII of the Theravāda Vinaya (`pli-tv-kd17`) and in the *Sāmaññaphala-sutta*, DN 2. The two episodes differ (the former is the assassin sent by Devadatta; the latter is King Ajātasattu) but the formula is the same, corresponding to the Chinese "see the fault, disclose it → grow the noble Dharma." Brahmali (CC0) English: "acknowledging a mistake, making proper amends, and undertaking restraint for the future."
 
 [^6]: *Saṃyukta-āgama*, fascicle 27 (SĀ 713), Taishō Tripiṭaka vol. 2, no. 99. "There is agitation, there is remorse; that agitation, that remorse, is just the hindrance" is the Āgamas' own analytic restatement of the agitation/remorse pairing, evidence for the two fates of a single remorse.
 
 [^7]: *Saṃyukta-āgama*, fascicle 27 (SĀ 715), Taishō Tripiṭaka vol. 2, no. 99. The food of the hindrance of restlessness-and-remorse = the four thoughts of kin / company / gods / pleasures once enjoyed, plus the unwise attention of recalling them oneself or being made to recall them by another; the anti-food = attention that stills.
 
-[^8]: Pāli parallel: *Āhāra-sutta*, SN 46.51, PTS S v ≈ 103 (range, to be verified). The food of restlessness-and-remorse is "the un-stilling of the mind" (*cetaso avūpasamo*), the anti-food "the stilling of the mind" (*cetaso vūpasamo*). This discourse leans toward the awakening-factor (concentration) face; this paper takes only the mechanism "stilling is the cure."
+[^8]: Pāli parallel: *Āhāra-sutta*, SN 46.51. The food of restlessness-and-remorse is "the un-stilling of the mind" (*cetaso avūpasamo*), the anti-food "the stilling of the mind" (*cetaso vūpasamo*). This discourse leans toward the awakening-factor (concentration) face; this paper takes only the mechanism "stilling is the cure."
 
 [^9]: Alternate *Saṃyukta-āgama*, fascicle 8, Taishō Tripiṭaka vol. 2, no. 100. "Constantly produce an agitated, remorseful mind … cannot see the marks of things clearly … restlessness-and-remorse is a cause of scatter" is the Āgamas' most explicit statement of looping remorse, carrying all three points: loop, cognitive harm, cause of scatter.
 
@@ -188,7 +194,7 @@ This is taken only as one instance of "able to feel remorse, therefore benefits 
 
 [^11]: *Saṃyukta-āgama*, fascicle 27 (SĀ 714), Taishō Tripiṭaka vol. 2, no. 99. When an agitated mind arises one should not cultivate the awakening-factors that make the mind spring up — investigation, energy, joy (like "adding fuel to fire") — but should cultivate the side that lets the mind abide inwardly. This paper takes only the logic "when agitated, still — do not analyze further"; the fine workings of the awakening-factors are proper to the volume on concentration.
 
-[^12]: The stirred-water simile: *Saṅgārava-sutta*, SN 46.55, PTS S v ≈ 121 (range, to be verified): the agitated mind is like water stirred by wind, churning and breaking into waves, in which even a clear-eyed person cannot see their own reflection (*mukha-nimitta*). This discourse leans toward the awakening-factor face; this paper takes only the image.
+[^12]: The stirred-water simile: *Saṅgārava-sutta*, SN 46.55: the agitated mind is like water stirred by wind, churning and breaking into waves, in which even a clear-eyed person cannot see their own reflection (*mukha-nimitta*). This discourse leans toward the awakening-factor face; this paper takes only the image.
 
 [^13]: *Dīrgha-āgama*, fascicle 17, *Sāmaññaphala-sutta*, trans. Buddhayaśas and Zhu Fonian (Later Qin), Taishō Tripiṭaka vol. 1, no. 1. "One who is now able, within the noble Dharma, to repent the fault, thereby benefits himself"; "now repents the fault himself; his guilt is lessened, the grave fault drawn out." Pāli parallel: *Sāmaññaphala-sutta*, DN 2. The full narrative of Ajātasattu's repentance is reserved for P05; this paper touches it only lightly.
 
@@ -203,14 +209,14 @@ This is taken only as one instance of "able to feel remorse, therefore benefits 
 | Alternate *Saṃyukta-āgama* | 別譯雜阿含經 | fasc. 8 | T0100 (vol. 2) | §III "constantly producing an agitated, remorseful mind" · restlessness-and-remorse as a cause of scatter |
 | *Dīrgha-āgama* | 長阿含經·沙門果經 | fasc. 17 | T0001 (vol. 1) | §V Ajātasattu — able to feel remorse, therefore benefits himself (light reference; full narrative reserved P05) |
 | *Majjhima Nikāya* | 中部 | MN 61 *Ambalaṭṭhikā-rāhulovāda* | Mahāsaṅgīti edition (CC0) | §I Pāli parallel to the *Rāhulovāda* |
-| Theravāda *Vinaya, Cullavagga* | 銅鍱律·小品 | *Cullavagga* VII (`pli-tv-kd17`); PTS Vin ii ≈ 180 (range, to be verified) | Mahāsaṅgīti edition (CC0) | §II the growth-formula *Vuḍḍhi hesā… ariyassa vinaye* |
+| Theravāda *Vinaya, Cullavagga* | 銅鍱律·小品 | *Cullavagga* VII (`pli-tv-kd17`) | Mahāsaṅgīti edition (CC0) | §II the growth-formula *Vuḍḍhi hesā… ariyassa vinaye* |
 | *Dīgha Nikāya* | 長部 | DN 2 *Sāmaññaphala-sutta* | Mahāsaṅgīti edition (CC0) | §II the growth-formula · §V Pāli parallel for Ajātasattu |
-| *Saṃyutta Nikāya* | 相應部 | SN 46.51 (*Āhāra*) · SN 46.55 (*Saṅgārava*, stirred-water); PTS S v ≈ 103 / 121 (ranges, to be verified) | Mahāsaṅgīti edition (CC0) | §III the food / anti-food of restlessness-and-remorse · the agitated mind as wind-stirred water |
+| *Saṃyutta Nikāya* | 相應部 | SN 46.51 (*Āhāra*) · SN 46.55 (*Saṅgārava*, stirred-water) | Mahāsaṅgīti edition (CC0) | §III the food / anti-food of restlessness-and-remorse · the agitated mind as wind-stirred water |
 
 ---
 
 *Paper:* KSAMA-P04 · *The Double-Edged Remorse* · **KṢAMĀ · Part II · The Āgama View · #1 · the psychological layer of phenomenal repentance (事懺心理層)**
 *Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates (六行門) · KṢAMĀ · Part II · #1
 *License:* CC BY-NC-SA 4.0
-*CBETA collation:* Citations from the *Madhyama-āgama* (T0026 fasc. 3 *Rāhulovāda*, fasc. 4 *Gāmaṇi* / the fetters passage), the *Saṃyukta-āgama* (T0099 fasc. 27 SĀ 713–715, fasc. 30 Kāśyapa, fasc. 41 the two disputants), the alternate *Saṃyukta-āgama* (T0100 fasc. 8), and the *Dīrgha-āgama Sāmaññaphala-sutta* (T0001 fasc. 17) verified against the CBETA Electronic Tripiṭaka 2024 edition. Pāli follows the Mahāsaṅgīti Tipiṭaka (CC0) + Bhikkhu Brahmali / Bhikkhu Sujato (CC0): *Majjhima* 61 (*Ambalaṭṭhikā-rāhulovāda*), *Cullavagga* VII, *Dīgha* 2, SN 46.51 / 46.55, PTS Vin ii ≈ 180 · S v ≈ 103 / 121 · M i ≈ 414 (ranges, to be verified).
+*CBETA collation:* Citations from the *Madhyama-āgama* (T0026 fasc. 3 *Rāhulovāda*, fasc. 4 *Gāmaṇi* / the fetters passage), the *Saṃyukta-āgama* (T0099 fasc. 27 SĀ 713–715, fasc. 30 Kāśyapa, fasc. 41 the two disputants), the alternate *Saṃyukta-āgama* (T0100 fasc. 8), and the *Dīrgha-āgama Sāmaññaphala-sutta* (T0001 fasc. 17) verified against the CBETA Electronic Tripiṭaka 2024 edition. Pāli follows the Mahāsaṅgīti Tipiṭaka (CC0) + Bhikkhu Brahmali / Bhikkhu Sujato (CC0): *Majjhima* 61 (*Ambalaṭṭhikā-rāhulovāda*), *Cullavagga* VII, *Dīgha* 2, SN 46.51 / 46.55.
 *Repository:* https://github.com/pointing-at-the-moon/six-practice-gates

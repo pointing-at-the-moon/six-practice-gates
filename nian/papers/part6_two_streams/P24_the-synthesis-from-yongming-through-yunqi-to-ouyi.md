@@ -10,6 +10,22 @@ part: "Part VI · Two Streams"
 part_number: 6
 date: "2026-05-04"
 version: "1.0"
+canonical_source:
+  - "T37n1753"
+  - "T40n1819"
+  - "T46n1911"
+  - "T46n1941"
+  - "T47n1958"
+  - "T47n1962"
+  - "T48n2016"
+  - "T48n2017"
+  - "X05n0227"
+  - "X05n0229"
+  - "X22n0424"
+  - "X22n0430"
+  - "X73n1456"
+  - "X74n1464"
+  - "X74n1465"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -17,7 +33,7 @@ license: "CC BY-NC-SA 4.0"
 
 **From Yongming through Yunqi to Ouyi**
 
-**Six Hundred Years of Chan-Pure-Land Integration in Vocabulary, Doctrine, and Liturgy — Part VI's Fifth Paper on the Two Streams**
+*Six Hundred Years of Chan-Pure-Land Integration in Vocabulary, Doctrine, and Liturgy — Part VI's Fifth Paper on the Two Streams*
 
 *中文主題：永明—雲棲—蕅益之合流*
 
@@ -314,7 +330,6 @@ The open question of the present paper, in single-line form: *Yongming gave the 
 
 > **Pointing at the Moon Research · Six Practice Gates, Volume One: *Mindful of the Buddha* · Part VI Two Streams · 6.5**
 > Shi Huijing (釋慧鏡)
-> First draft, May 2026
 > This work is licensed under CC BY-NC-SA 4.0
 
 

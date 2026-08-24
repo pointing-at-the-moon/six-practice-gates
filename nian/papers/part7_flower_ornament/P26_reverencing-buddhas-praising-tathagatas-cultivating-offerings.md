@@ -10,6 +10,19 @@ part: "Part VII · The Flower Ornament Vision"
 part_number: 7
 date: "2026-05-02"
 version: "1.0"
+canonical_source:
+  - "T01n0001"
+  - "T02n0099"
+  - "T02n0125"
+  - "T09n0262"
+  - "T10n0293"
+  - "T37n1753"
+  - "T37n1762"
+  - "T46n1941"
+  - "T47n1980"
+  - "X05n0227"
+  - "X05n0229"
+  - "Vin_Mv_I_22"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -48,7 +61,7 @@ A standard formula recurs throughout the Chinese translations of the Āgama scri
 
 This thin reading collapses immediately on entry into T0293, *The Practice-and-Vow Chapter of Samantabhadra Entering the Inconceivable Liberation Realm of the Avataṃsaka-sūtra*, fascicle forty — the most explicit and most layered locus in the Chinese canon for what reverencing, praising, and offering actually involve. Among the ten great vows that Samantabhadra delivers in answer to Sudhana, the first ("reverencing all buddhas"), the second ("praising the tathāgatas"), and the third ("extensively making offerings") are not arbitrarily ordered first items in a list of ten meritorious acts. They are an isomorphic triplet packaged by the *sūtra* itself: **the body, speech, and mind halves of a three-karma set.**
 
-The previous paper (P25) set out a four-layered architecture for the introduction to Part VII: the *vow-king* (*praṇidhāna-rāja*) operator that totalises the ten as one; the inheritance from the *Entering the Dharmadhātu* (*Gaṇḍavyūha*) chapter; the dharma-realm buddha-recollection internal to the sūtra itself; and the textual seam from Part VI to Part VII. P25's closing section originally announced four subsequent papers, each treating one pair of vows.[^2] In the course of drafting the present paper, however, it became clear that holding vow three over to P27 would defer this paper's closure to a subsequent piece and would sever the textual triplet that the *sūtra* itself binds. The present paper accordingly treats vows one, two, and three together as a three-karma-set integral paper. Vows four through ten are redistributed across P27 (vows four and five, sharing the karma-transformation operator), P28 (vows six and seven, sharing the dharma-preservation theme), and P29 (vows eight, nine, and ten, the closing triad of upward-following, downward-conforming, and dedication).
+The previous paper (P25) set out a four-layered architecture for the introduction to Part VII: the *vow-king* (*praṇidhāna-rāja*) operator that totalises the ten as one; the inheritance from the *Entering the Dharmadhātu* (*Gaṇḍavyūha*) chapter; the dharma-realm buddha-recollection internal to the sūtra itself; and the textual seam from Part VI to Part VII. P25's closing section announced four subsequent papers, each treating one pair of vows.[^2] Holding vow three over to P27, however, would defer this paper's closure to a subsequent piece and would sever the textual triplet that the *sūtra* itself binds. The present paper accordingly treats vows one, two, and three together as a three-karma-set integral paper. Vows four through ten are redistributed across P27 (vows four and five, sharing the karma-transformation operator), P28 (vows six and seven, sharing the dharma-preservation theme), and P29 (vows eight, nine, and ten, the closing triad of upward-following, downward-conforming, and dedication).
 
 The thesis can be stated in a single sentence: **Samantabhadra's first three vows are not three parallel items at the head of a ten-item list of meritorious deeds but the body, speech, and mind halves of a three-karma set; vow one's "reverencing" must be read as the highest three rungs of the ten-form ladder of reverence — the great-compassion, total-encompassing, and inexhaustible forms — at the round-teaching plane, and not as mechanical prostration; vow two's "praising" must be read as the four unobstructed understandings combined with the seven branches of eloquence at the ninth bodhisattva ground, and not as lyrical encomium; vow three's "extensively making offerings" must be read as the seven kinds of dharma-offering as the bodhisattva's outward-facing work, and not as material charity.** The three vows form an isomorphic triplet at the textual level of T0293 itself — sharing the same cosmological-field opening clause, the same practice-vow-power engine, the same *"moment-by-moment continuous, without interruption, body and speech and mind never wearying"* closing coda, and the same four-exhaustion-four-inexhaustion closure formula. The Chinese patriarch Shandao (613–681), in his *Verses for the Six Times of Reverence-Praise*, has already codified the three-karma set directly: *"the gateway of body-karma prostration, the gateway of speech-karma praise, the gateway of mind-karma recollection-and-contemplation."* Zhiyi (538–597), in his *Lotus Samādhi Repentance Liturgy*, places *"three-karma offering / praising the Three Jewels / prostrating to the buddhas"* as three independent ritual segments within his ten-section liturgical schema.
 
@@ -463,8 +476,8 @@ Sharf, Robert H. "Ritual." In *Critical Terms for the Study of Buddhism*, edited
 ### IV. Cross-Reference to Series Papers
 
 - P25 *Samantabhadra's Ten Great Vows: An Introduction*: the vow-king (願王) structural operator and the four-exhaustion-four-inexhaustion closure formula.
-- P27 *Repenting Karmic Obstructions, Rejoicing in Merit*:愿4+5 following愿1-3; the业 of twin wings.
-- P28 *Requesting the Turning of the Dharma-wheel, Requesting the Buddhas to Abide*:愿6+7 as法之久住雙模.
+- P27 *Repenting Karmic Obstructions, Rejoicing in Merit*:vows 4–5 following vows 1–3; karma’s two wings.
+- P28 *Requesting the Turning of the Dharma-wheel, Requesting the Buddhas to Abide*:vows 6–7 as the dual modes by which the Dharma endures.
 - P29 *Constantly Following the Buddha, Accommodating Sentient Beings, Universal Dedication*:愿8-10 as the upward-downward + dedication triad.
 - P11 *Holding the Name*: six times of reverence-praise (六時禮讚) as practical framework.
 
@@ -487,7 +500,6 @@ Sharf, Robert H. "Ritual." In *Critical Terms for the Study of Buddhism*, edited
 
 > **Pointing at the Moon Research · Six Practice Gates, Volume One: *Mindful of the Buddha* · Part VII The Flower Ornament Vision · 7.2**
 > Shi Huijing (釋慧鏡)
-> First draft, May 2026
 > This work is licensed under CC BY-NC-SA 4.0
 
 ---

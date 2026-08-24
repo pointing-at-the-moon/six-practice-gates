@@ -10,6 +10,18 @@ part: "Part I · Foundations (Pāli)"
 part_number: 1
 date: "2026-04-14"
 version: "1.0"
+canonical_source:
+  - "T01n0026"
+  - "T02n0099"
+  - "T02n0125"
+  - "T25n1509"
+  - "T29n1558"
+  - "T30n1579"
+  - "AN11.11"
+  - "AN6.10"
+  - "AN6.25"
+  - "DN22"
+  - "MN10"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -308,11 +320,11 @@ In the Pāli canon, *Buddhānussati* — the first of the six, and the most deve
 
 **Pāli Canon**
 
-- *Majjhima Nikāya* (Mūlasarvāstivāda recension), MN 10 *Satipaṭṭhāna Sutta*. PTS edition I.55–63. **Main source** (sati baseline).
-- *Dīgha Nikāya* (Mūlasarvāstivāda recension), DN 22 *Mahāsatipaṭṭhāna Sutta*. PTS edition II.290–315. **Main source** (sati baseline).
-- *Aṅguttara Nikāya* (Dhammasaṅgīti recension), AN 6.10 *Mahānāma Sutta* (six *anussati*). PTS edition III.284–288. **Main source** (structure of six recollections).
-- *Aṅguttara Nikāya* (Dhammasaṅgīti recension), AN 11.11 *Mahānāma Sutta* (eleven *anussati*). PTS edition V.328–332.
-- *Aṅguttara Nikāya* (Dhammasaṅgīti recension), AN 6.25 *Anussati-ṭṭhāna Sutta* (six recollection bases). PTS edition III.312–314. **Main source** (attentional sequence).
+- *Majjhima Nikāya* (Theravāda Pāli recension), MN 10 *Satipaṭṭhāna Sutta*. PTS edition I.55–63. **Main source** (sati baseline).
+- *Dīgha Nikāya* (Theravāda Pāli recension), DN 22 *Mahāsatipaṭṭhāna Sutta*. PTS edition II.290–315. **Main source** (sati baseline).
+- *Aṅguttara Nikāya* (Theravāda Pāli recension), AN 6.10 *Mahānāma Sutta* (six *anussati*). PTS edition III.284–288. **Main source** (structure of six recollections).
+- *Aṅguttara Nikāya* (Theravāda Pāli recension), AN 11.11 *Mahānāma Sutta* (eleven *anussati*). PTS edition V.328–332.
+- *Aṅguttara Nikāya* (Theravāda Pāli recension), AN 6.25 *Anussati-ṭṭhāna Sutta* (six recollection bases). PTS edition III.312–314. **Main source** (attentional sequence).
 
 **Chinese Āgama**
 

@@ -1,16 +1,21 @@
 ---
 title: "The Four Great Vows: The Grammar of Universal Aspiration"
 title_en: "The Four Great Vows: The Grammar of Universal Aspiration"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 6 — PRAṆIDHĀNA: Aspiration and the Vow, from Pāli Roots to Samantabhadra · Part IV · The Four Great Vows"
-series_short: PRAṆIDHĀNA
+series_short: "PRAṆIDHĀNA"
 volume: 6
-paper_id: PRANIDHANA-P09
+paper_id: "PRANIDHANA-P09"
 paper_number: 9
 part: Part IV · The Four Great Vows
 part_number: 4
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T33n1698"
+  - "T46n1911"
+  - "T46n1931"
+  - "T48n2008"
 license: CC BY-NC-SA 4.0
 ---
 

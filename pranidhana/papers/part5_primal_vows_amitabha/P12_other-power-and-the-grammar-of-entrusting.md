@@ -1,16 +1,20 @@
 ---
 title: "Other-Power and the Grammar of Entrusting"
 title_en: "Other-Power and the Grammar of Entrusting"
-author: 釋慧鏡 (Shi Huijing)
+author: "釋慧鏡 (Shi Huijing)"
 series: "Six Practice Gates, Volume 6 — PRAṆIDHĀNA: Aspiration and the Vow, from Pāli Roots to Samantabhadra · Part V · The Primal Vows of Amitābha"
-series_short: PRAṆIDHĀNA
+series_short: "PRAṆIDHĀNA"
 volume: 6
-paper_id: PRANIDHANA-P12
+paper_id: "PRANIDHANA-P12"
 paper_number: 12
 part: Part V · The Primal Vows of Amitābha
 part_number: 5
 date: 2026-06
 version: "1.0"
+canonical_source:
+  - "T12n0360"
+  - "T26n1524"
+  - "T40n1819"
 license: CC BY-NC-SA 4.0
 ---
 
