@@ -367,7 +367,7 @@ The socially perceivable effect of *sīla-gandha* holds a distinctive position w
 - *Dasuttarasutta* — DN 34 (PTS DN iii 272)
 - *Dhammapada* — *Puppha-vagga* vv. 54–56 (PTS Dhp 54–56)
 - *Dīgha-nikāya* DN — Mahāsaṅgīti CC0 edition
-- *Gandha-sutta* — AN 3.79 (PTS AN i ~225) — ** · PTS-only · the present paper's archetype source**
+- *Gandha-sutta* — AN 3.79 (PTS AN i ~225) — **PTS-only · the present paper's archetype source**
 - *Itivuttaka* 51 — (PTS Iti 38)
 - *Kimatthiyasutta* — AN 11.1 (PTS AN V 1) — SuttaCentral CC0 text consulted · cross-paper anchor P02 + P06 + P07 + P08 + P24
 - *Sāmaññaphala-sutta* — DN 2 (PTS DN i 47)
